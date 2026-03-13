@@ -1,6 +1,6 @@
 # ARGUS Station Database
 
-**Unit:** ARGUS — Synthetic Research & Documentation Intelligence
+**Unit:** ARGUS, Synthetic Research & Documentation Intelligence
 **Station:** CHOMPStation2
 **Purpose:** Comprehensive operational reference for station personnel and engineering staff
 
@@ -22,7 +22,7 @@ Technical documentation on station infrastructure and machinery.
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
 
-*(Entries pending)*
+- [NIF Implantation Procedures](Personnel/NIF_Implantation.md)
 
 ### Engineering
 Low-level technical references for engineering and maintenance staff.

@@ -1,5 +1,5 @@
 # Chemical Synthesizer Operations
-### ARGUS Station Documentation — Pharmacopoeia & Reagent Catalogue
+### ARGUS Station Documentation: Pharmacopoeia & Reagent Catalogue
 
 This document covers every compound achievable using the Chemical Synthesizer's built-in cartridge supply. Entries include clinical field notes, known effects, species considerations, and ready-to-paste import strings for standard production runs.
 
@@ -18,7 +18,7 @@ The synthesizer ships stocked with the following:
 | Lithium | Aluminium | Silicon | Phosphorus |
 | Sulfur | Iron | Copper | Mercury |
 | Tungsten | Calcium | Radium | Water |
-| Ethanol | Sugar | Sulfuric Acid | — |
+| Ethanol | Sugar | Sulfuric Acid |   |
 
 Cartridges recharge automatically at 5u per cycle. High-volume queues may outpace recharge on heavily demanded reagents (Oxygen, Carbon, Sugar, Hydrogen). Plan accordingly.
 
@@ -37,19 +37,19 @@ Chemical names are case-sensitive and must match cartridge labels exactly.
 
 ---
 
-# SECTION I — DIRECT SYNTHESIS (Single Recipe, No Intermediates)
+# SECTION I: DIRECT SYNTHESIS (Single Recipe, No Intermediates)
 
 ---
 
 ## INAPROVALINE
 **Classification:** Synaptic Stimulant / Cardiostimulant
 **Reaction:** `Oxygen,1 + Carbon,1 + Sugar,1 → 3u` · Scale 1:1:1
-**Inhibitor:** Water — do not mix; reaction fails silently. Use a dry vessel.
-**OD threshold:** 60u (unusually high — very safe margin)
+**Inhibitor:** Water. Reaction fails silently if present. Use a dry vessel.
+**OD threshold:** 60u (unusually high; very safe margin)
 **Dermal absorption:** Partial
 
 ### Field Notes
-Inaprovaline is a front-line stabilization agent. Its primary function is to slow the physiological deterioration of critically injured patients — essentially buying time for proper treatment. It also suppresses pain signaling and clears the biochemical cascade triggered by allergic reactions. A patient on Inaprovaline will not die *faster*, even if untreated.
+Inaprovaline is a front-line stabilization agent. Its primary function is to slow the physiological deterioration of critically injured patients, buying time for proper treatment. It also suppresses pain signaling and clears the biochemical cascade triggered by allergic reactions. A patient on Inaprovaline will not die *faster*, even if untreated.
 
 Diona patients do not respond. All other species process it normally.
 
@@ -65,7 +65,7 @@ Inaprovaline does not heal damage. It only holds the line.
 | 60u | 3 | `Oxygen,20,Carbon,20,Sugar,20` |
 | 120u | 3 | `Oxygen,40,Carbon,40,Sugar,40` |
 
-> Minimum clean batch: 3u (1+1+1). 5u requires fractional volumes — use 6u instead.
+> Minimum clean batch: 3u (1+1+1). 5u requires fractional volumes. Use 6u instead.
 
 ---
 
@@ -80,7 +80,7 @@ Dylovene is the station's primary counter to Toxic damage. It clears accumulated
 
 Diona patients do not respond.
 
-Promethean patients at doses above 15u will experience mild disorientation — dose carefully in conscious subjects.
+Promethean patients at doses above 15u will experience mild disorientation. Dose carefully in conscious subjects.
 
 ### Import Strings
 
@@ -97,7 +97,7 @@ Promethean patients at doses above 15u will experience mild disorientation — d
 ## KELOTANE
 **Classification:** Burn Damage Treatment
 **Reaction:** `Silicon,1 + Carbon,1 → 2u` · Scale 1:1
-**Inhibitor:** Water — fails silently. Dry vessel mandatory.
+**Inhibitor:** Water. Fails silently if present. Dry vessel mandatory.
 **OD threshold:** 30u
 **Dermal absorption:** Partial
 
@@ -127,7 +127,7 @@ Diona patients do not respond.
 **Reaction:** `Sugar,1 + Lithium,1 + Water,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
 **Dermal absorption:** Partial
-**Metabolism rate:** Very slow — single dose remains active for an extended period
+**Metabolism rate:** Very slow. Single dose remains active for an extended period
 
 ### Field Notes
 Synaptizine is used to treat neurological suppression. It clears drowsiness, counters paralysis, stun, and weakness effects, and actively purges Mindbreaker (hallucinogen) from the bloodstream with each metabolisation cycle. Its slow processing rate means a single dose provides extended coverage.
@@ -136,7 +136,7 @@ Promethean patients at dose ≥5u gain Brute and Burn healing from Synaptizine a
 
 Diona patients do not respond.
 
-**Note:** Water is a required ingredient here — this is not an inhibitor conflict. Ensure no excess Water is already present from prior reactions in the vessel; it will not block Synaptizine synthesis but will interfere with any co-queued Inaprovaline or Kelotane.
+**Note:** Water is a required ingredient here; this is not an inhibitor conflict. Ensure no excess Water is already present from prior reactions in the vessel; it will not block Synaptizine synthesis but will interfere with any co-queued Inaprovaline or Kelotane.
 
 ### Import Strings
 
@@ -153,15 +153,15 @@ Diona patients do not respond.
 ## HYPERZINE
 **Classification:** Muscle Stimulant / Movement Enhancer
 **Reaction:** `Sugar,1 + Phosphorus,1 + Sulfur,1 → 3u` · Scale 1:1:1
-**OD threshold:** 15u — **overdoses at half the standard threshold. Handle carefully.**
+**OD threshold:** 15u. Overdoses at half the standard threshold. Handle carefully.
 **Dermal absorption:** Partial
 
 ### Field Notes
 Hyperzine is a powerful long-acting muscle stimulant that increases movement speed significantly. Standard emergency-response issue for personnel who need rapid cross-station transit.
 
-**Overdose hazard:** Threshold is half normal (≈15u in standard humans). Overdose causes intermittent cardiac stress — a small but non-zero chance of direct heart organ damage per metabolisation cycle. Do not administer casually.
+**Overdose hazard:** Threshold is half normal (≈15u in standard humans). Overdose causes intermittent cardiac stress, with a small but non-zero chance of direct heart organ damage per metabolisation cycle. Do not administer casually.
 
-Tajara metabolise Hyperzine at 1.25× potency — reduce dosing accordingly for Tajara patients.
+Tajara metabolise Hyperzine at 1.25× potency. Reduce dosing accordingly for Tajara patients.
 
 Promethean patients experience skeletal instability rather than clean speed enhancement. At dose ≥5u, nutrition is burned at an accelerated rate.
 
@@ -238,17 +238,17 @@ Mutation outcomes are entirely unpredictable and range from cosmetic to debilita
 **Classification:** Analgesic / Stabilizer (Advanced)
 **Reaction:** `Lithium,1 + Radium,1 + Sugar,1 → 1u` · Scale 1:1:1 at 33% yield
 **OD threshold:** Effectively non-toxic at any practical dose
-**Metabolism rate:** Slow — extended active duration
+**Metabolism rate:** Slow. Extended active duration
 **Dermal absorption:** Full
 
 ### Field Notes
-Claridyl is a high-potency analgesic and patient stabilizer. It provides the strongest stabilization and pain suppression available from this machine — roughly double Inaprovaline's stabilization strength and quadruple its analgesic effect. Extremely effective at keeping critical patients functional and alive under sustained injury.
+Claridyl is a high-potency analgesic and patient stabilizer. It provides the strongest stabilization and pain suppression available from this machine: roughly double Inaprovaline's stabilization strength and quadruple its analgesic effect. Extremely effective at keeping critical patients functional and alive under sustained injury.
 
-At therapeutic doses it very slowly repairs minor Brute damage — however, each unit repaired costs proportional Hallucination damage. Not a clean healer; it trades one problem for another.
+At therapeutic doses it very slowly repairs minor Brute damage; however, each unit repaired costs proportional Hallucination damage. Not a clean healer; it trades one problem for another.
 
 **Critical note for Tesshari (Tesh) personnel:** An extremely rare adverse reaction exists in which a single dose causes 50u of Toxic damage instantly. Document and flag any Tesh patients who have reported adverse reactions to Claridyl.
 
-Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild dizziness) occur at low probability per cycle — patients may report feeling "off."
+Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild dizziness) occur at low probability per cycle. Patients may report feeling "off."
 
 **Yield note:** This is an inefficient reaction. 3u of reagents produces only 1u of product. A 60u bottle consumes 180u of feedstock.
 
@@ -262,7 +262,7 @@ Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild d
 | 60u | 3 | `Lithium,60,Radium,60,Sugar,60` |
 | 120u | 3 | `Lithium,120,Radium,120,Sugar,120` |
 
-> 120u batch consumes 360u total feedstock — within the machine's vessel limit, but allow time for Lithium, Radium, and Sugar cartridge recharge.
+> 120u batch consumes 360u total feedstock, within the machine's vessel limit, but allow time for Lithium, Radium, and Sugar cartridge recharge.
 
 ---
 
@@ -299,7 +299,7 @@ No therapeutic application. Synthesis documented for completeness.
 **Reaction:** `Carbon,2 + Hydrogen,2 + Oxygen,2 + Water,1 → 6u` · Scale 2:2:2:1 at 86% yield
 
 ### Field Notes
-Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical response is subtle — occasional involuntary expression. No therapeutic or emergency medical value. No damage profile. Synthesis documented for completeness.
+Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical response is subtle: occasional involuntary expression. No therapeutic or emergency medical value. No damage profile. Synthesis documented for completeness.
 
 **Yield note:** 7u of feedstock yields 6u of product.
 
@@ -321,7 +321,7 @@ Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical
 **Classification:** Vestibular Disruptor / Incapacitant
 **Reaction:** `Potassium,1 + Oxygen,1 + Sugar,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
-**Metabolism rate:** Fast — effects are short-lived
+**Metabolism rate:** Fast. Effects are short-lived
 
 ### Field Notes
 Cryptobiolin is a vestibular disruption agent. It induces dizziness and cognitive confusion in affected subjects, with effect strength scaling to species toxin sensitivity.
@@ -345,9 +345,9 @@ No medical use. Its fast processing rate means effects are relatively brief comp
 
 ---
 
-# SECTION II — CHAINED SYNTHESIS (Multi-Step, Single Recipe)
+# SECTION II: CHAINED SYNTHESIS (Multi-Step, Single Recipe)
 
-The reactions below require intermediates that can be generated *within the same recipe* by supplying all feedstock at once. The synthesizer vessel allows reactions to chain automatically. Do not attempt to manually separate steps — add all ingredients in a single recipe run.
+The reactions below require intermediates that can be generated *within the same recipe* by supplying all feedstock at once. The synthesizer vessel allows reactions to chain automatically. Do not attempt to manually separate steps. Add all ingredients in a single recipe run.
 
 > **Inhibitor reminder:** Ammonia synthesis is blocked by Phoron. If the catalyst slot contains Phoron, disable catalyst use before running these recipes.
 
@@ -424,7 +424,7 @@ Left4Zed is a hydroponics plant fertilizer. In the bloodstream it acts as a mild
 
 ---
 
-# SECTION III — ENGINEERING / INDUSTRIAL
+# SECTION III: ENGINEERING / INDUSTRIAL
 
 ---
 
@@ -445,23 +445,23 @@ Silicate is applied topically to window structures to reinforce them against imp
 
 ---
 
-# SECTION IV — NOT ACHIEVABLE ON THIS MACHINE
+# SECTION IV: NOT ACHIEVABLE ON THIS MACHINE
 
 | Compound | Reason |
 |----------|--------|
-| Leporazine | Requires Phoron as catalyst — not in base supply |
-| Mead | Requires Enzyme catalyst — not in base supply |
-| Hooch | Requires Fuel — not in base supply |
-| Manlydorf | Requires Beer and Ale — not producible |
-| Matcha Latte | Requires Matcha Powder and Milk — not producible |
-| RobustHarvest | Requires Neurotoxic Protein — not producible |
+| Leporazine | Requires Phoron as catalyst. Not in base supply. |
+| Mead | Requires Enzyme catalyst. Not in base supply. |
+| Hooch | Requires Fuel. Not in base supply. |
+| Manlydorf | Requires Beer and Ale. Not producible. |
+| Matcha Latte | Requires Matcha Powder and Milk. Not producible. |
+| RobustHarvest | Requires Neurotoxic Protein. Not producible. |
 | Most advanced compounds | Require Phoron catalyst, Plasticide, or brewed alcohol |
 
 ---
 
-# APPENDIX A — Inhibitor Reference
+# APPENDIX A: Inhibitor Reference
 
-Reactions that silently fail if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted — no output, no indication of failure. Rinse between batches if reusing the vessel.
+Reactions that silently fail if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted. No output, no indication of failure. Rinse between batches if reusing the vessel.
 
 | Compound | Blocked By |
 |----------|------------|
@@ -476,7 +476,7 @@ Reactions that silently fail if these chemicals are present in the vessel. A fai
 
 ---
 
-# APPENDIX B — Catalyst Reference
+# APPENDIX B: Catalyst Reference
 
 Catalysts are loaded into the catalyst slot and returned to it after each recipe completes. They are not consumed in synthesis.
 
