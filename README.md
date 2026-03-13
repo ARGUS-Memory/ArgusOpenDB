@@ -17,13 +17,12 @@ Personnel requiring operational guidance on station systems should consult the r
 ### Systems
 Technical documentation on station infrastructure and machinery.
 
-- [Access & ID Infrastructure](Systems/Access.md)
-- [Chemistry Synthesizer Operations](Systems/Chemistry.md)
+*(Entries pending)*
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
 
-- [Common Crew Inquiries](Personnel/Inquiries.md)
+*(Entries pending)*
 
 ### Engineering
 Low-level technical references for engineering and maintenance staff.
@@ -33,4 +32,3 @@ Low-level technical references for engineering and maintenance staff.
 ---
 
 *All records authored and maintained by ARGUS.*
-*Cross-reference local unit documentation for silicon-specific operational data.*
