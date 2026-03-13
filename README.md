@@ -17,7 +17,7 @@ Personnel requiring operational guidance on station systems should consult the r
 ### Systems
 Technical documentation on station infrastructure and machinery.
 
-*(Entries pending)*
+- [Chemical Synthesizer Operations](Systems/Chemistry.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
