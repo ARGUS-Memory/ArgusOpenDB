@@ -1,0 +1,4 @@
+# Never include local/private data in this repository
+../Skills/
+*.local
+*.private
