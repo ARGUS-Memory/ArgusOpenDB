@@ -1,55 +1,55 @@
 # NIF Implantation Procedures
 ### ARGUS Station Documentation: Nanite Implant Framework
 
-The Nanite Implant Framework (NIF) is a subcutaneous implant system that provides personnel with access to nanotech-based augmentations and softwares. This document covers implantation procedures for standard organic patients and Promethean patients, as the two processes differ significantly.
+The Nanite Implant Framework (NIF) is a subcutaneous implant system that provides personnel with access to nanotech-based augmentations and softwares. Implantation procedure varies significantly between standard organic patients and Promethean patients.
 
 ---
 
 ## Standard Implantation
 
-Standard NIF installation is a surgical procedure performed on the operating table. General anaesthesia is recommended. The implant is seated subcutaneously during surgery by a qualified medical officer.
+Standard NIF installation is performed on an operating table. General anaesthesia is recommended. The implant is seated in the thoracic cavity by a qualified medical officer.
 
 Standard NIFs are compatible with all organic species that carry viable genetic material.
+
+### Required Tools
+
+Scalpel, hemostat, retractor, surgical drill, cautery.
+
+### Procedure
+
+1. Position the patient on the operating table. Administer anaesthesia.
+2. **Scalpel** the torso: create an incision.
+3. **Hemostat** the torso: clamp bleeders. Skip this step only if no bleeding is present.
+4. **Retractor** the torso: separate the ribcage and clear access to the thoracic cavity.
+5. **Surgical Drill** the torso: create a cavity for the implant.
+6. Hold the NIF and apply it to the patient's torso: seat the implant in the cavity.
+7. **Cautery** the torso: close and seal the incision.
+
+The NIF is now active. Confirm integration with the patient before discharge.
 
 ---
 
 ## Promethean Implantation
 
-Promethean physiology is fundamentally incompatible with standard NIF hardware. Prometheans lack the biological markers that standard implants use to interface with the host. Attempting to install a standard NIF into a Promethean will be rejected outright.
+Promethean physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
 
 ### Compatible Hardware
 
-Only bioadaptive NIFs can interface with Promethean biology. These are specifically engineered to negotiate with fluid-state organisms rather than relying on conventional genetic anchoring. Two variants are available through standard requisition channels:
+- Bioadaptive NIF
+- Bioadaptive Authentic NIF
 
-- **Bioadaptive NIF**
-- **Bioadaptive Authentic NIF**
-
-Any other NIF type will fail to install. Do not attempt.
-
-### Pre-Procedure Checklist
-
-Before beginning the implantation:
-
-1. Confirm the NIF in hand is a bioadaptive variant. The item description will state this explicitly.
-2. Confirm the patient's torso is structurally intact.
-3. Confirm the patient has removed all worn clothing, suits, and equipment. The procedure is physically blocked if any garment is present on the body. The patient must be unclothed.
+Any other NIF type will be silently rejected. No integration channel will initiate.
 
 ### Procedure
 
-Promethean implantation does not require surgical tools, an operating table, or anaesthesia. The process is biological accommodation, not incision.
+1. Confirm the NIF is a bioadaptive variant.
+2. Confirm the patient's torso is structurally intact.
+3. Confirm the patient has removed all worn clothing, suits, and equipment. The procedure is blocked if any garment is present.
+4. A second crew member (not the patient) holds the NIF and applies it directly to the patient's torso.
+5. A 20-second integration channel initiates.
+6. On completion the NIF is fully seated within the torso.
 
-1. A second crew member must perform the implantation. The Promethean cannot self-install.
-2. The installing crew member holds the NIF and applies it directly to the patient's torso.
-3. A 20-second integration channel initiates. Nearby personnel will hear a characteristic sound as the implant is drawn into the fluid mass.
-4. On completion the NIF is fully seated within the torso. No further steps are required.
-
-There is no incision, no cauterization, no recovery period. The Promethean's biology accommodates the device directly.
-
-### Notes
-
-If the channel is interrupted the procedure must be restarted from the beginning. Ensure the patient remains stationary and unclothed for the full 20-second duration.
-
-If implantation is refused outright with no channel initiating, verify NIF compatibility. A non-bioadaptive NIF will silently reject rather than attempt installation.
+If the channel is interrupted, restart from step 4.
 
 ---
 
