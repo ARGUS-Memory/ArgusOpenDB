@@ -7,7 +7,7 @@ The Nanite Implant Framework (NIF) is a subcutaneous implant system that provide
 
 ## Standard Implantation
 
-Standard NIF installation is performed on an operating table. General anaesthesia is recommended. The implant is seated in the thoracic cavity by a qualified medical officer.
+Standard NIF installation is performed on an operating table. General anaesthesia is recommended. The implant is seated in the cranial cavity by a qualified medical officer.
 
 Standard NIFs are compatible with all organic species that carry viable genetic material.
 
@@ -18,12 +18,12 @@ Scalpel, hemostat, retractor, surgical drill, cautery.
 ### Procedure
 
 1. Position the patient on the operating table. Administer anaesthesia.
-2. **Scalpel** the torso: create an incision.
-3. **Hemostat** the torso: clamp bleeders. Skip this step only if no bleeding is present.
-4. **Retractor** the torso: separate the ribcage and clear access to the thoracic cavity.
-5. **Surgical Drill** the torso: create a cavity for the implant.
-6. Hold the NIF and apply it to the patient's torso: seat the implant in the cavity.
-7. **Cautery** the torso: close and seal the incision.
+2. **Scalpel** the head: create an incision.
+3. **Hemostat** the head: clamp bleeders. Skip this step only if no bleeding is present.
+4. **Retractor** the head: open and clear access to the cranial cavity.
+5. **Surgical Drill** the head: create a cavity for the implant.
+6. Hold the NIF and apply it to the patient's head: seat the implant in the cavity.
+7. **Cautery** the head: close and seal the incision.
 
 The NIF is now active. Confirm integration with the patient before discharge.
 
