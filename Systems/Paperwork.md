@@ -22,7 +22,7 @@ Paper can be written on, stamped, photocopied, faxed, bundled, folded into a hat
 
 ### Pens
 
-Standard pens write in black ink. Blue and red variants are available. Pens can be stored on belt or worn behind the ear.
+Standard pens write in black ink. Blue and red variants are available. Pens can be stored on belt or worn behind the ear. Every PDA issued to crew comes with a pen inserted in the side; the pen can be removed and used independently, and a replacement pen can be inserted into an empty PDA.
 
 **Fountain pens** are higher-quality writing instruments available in several styles. They function identically to standard pens but are favored by command and administrative staff for their appearance.
 
@@ -34,7 +34,7 @@ Standard pens write in black ink. Blue and red variants are available. Pens can 
 
 ### Writing on Paper
 
-Applying a pen to paper opens the document editor. Three text styles are available: a standard upright print font, a cursive font used for signature fields, and the crayon style when using crayons. Text length is limited per sheet. Available space decreases as content is added; the remaining space is tracked.
+Applying a pen to paper opens a writing prompt. Three text styles are available: a standard upright print font, a cursive font used for signature fields, and the crayon style when using crayons. Text length is limited per sheet. Available space decreases as content is added; the remaining space is tracked.
 
 Paper can accept stamps while writing is in progress. Stamps added before text is complete will appear on the document.
 
