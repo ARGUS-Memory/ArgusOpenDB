@@ -4,9 +4,9 @@
 
 **Designation:** NLS Cetus
 **Type:** Asteroid-embedded station
-**Levels:** 3 station decks; surface, surface mines, surface wilds
+**Levels:** 3 station decks; exploration outpost; off-station approaches; transit
 
-Cetus is an asteroid-excavated station. The station interior is carved into and built around the asteroid body, giving it an irregular organic outline compared to constructed stations. Surface access and mining operations take place across dedicated levels above the main decks.
+Cetus is an asteroid-excavated station. The station interior is carved into and built around the asteroid body, giving it an irregular organic outline compared to constructed stations. A dedicated exploration outpost operates separately from the main decks and serves as the staging point for carrier expeditions.
 
 ---
 
@@ -36,29 +36,27 @@ Third station level. Contains storage, additional maintenance access, and lower 
 
 ---
 
-## Surface Levels
+## Exploration Outpost
 
-### Surface
+A self-contained exploration staging facility operating alongside the main station. Houses multiple carrier hangars, a Combat Information Center, RnD, medical, security, and crew accommodations. Serves as the departure and recovery point for long-range carrier expeditions.
 
-The asteroid exterior and surface installations. Access points to the surface from the main station body are located here. Surface suits required.
-
-![Cetus Surface](../../assets/map_cetus_surface.png)
+![Cetus Exploration Outpost](../../assets/map_cetus_surface.png)
 
 ---
 
-### Surface Mines
+## Off-station Approaches
 
-Active mining tunnels and excavation areas within the asteroid.
+Off-station arrival and departure space. Contains Central Command facilities and approach corridors used by shuttles transiting to and from the station.
 
-![Cetus Surface Mines](../../assets/map_cetus_surface_mines.png)
+![Cetus Off-station Approaches](../../assets/map_cetus_surface_mines.png)
 
 ---
 
-### Surface Wilds
+## Shuttle Transit
 
-Unexcavated or wilderness regions of the asteroid exterior.
+In-flight transit space traversed by shuttles during departure and arrival. No fixed installations. Escape pods and passenger shuttles pass through this region in transit.
 
-![Cetus Surface Wilds](../../assets/map_cetus_surface_wilds.png)
+![Cetus Shuttle Transit](../../assets/map_cetus_surface_wilds.png)
 
 ---
 
