@@ -14,7 +14,7 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 
 **Cards** are a variant of paper used for written greetings. They function identically to paper but cannot be folded.
 
-Paper can be written on, stamped, photocopied, faxed, bundled, folded into a hat, filed, and shredded. A blank sheet can be folded into a paper hat by placing it on the head slot. Written paper changes its icon to indicate content is present.
+Paper can be written on, stamped, photocopied, faxed, bundled, folded into a hat, filed, and shredded. A blank sheet can be folded into a paper hat and worn on the head. Paper with written content has a distinct appearance from blank paper.
 
 ---
 
@@ -26,7 +26,7 @@ Standard pens write in black ink. Blue and red variants are available. Pens can 
 
 **Fountain pens** are higher-quality writing instruments available in several styles. They function identically to standard pens but are favored by command and administrative staff for their appearance.
 
-**The multi-pen** cycles between black, blue, and red ink by clicking it while held. The icon updates to reflect the active color.
+**The multi-pen** cycles between black, blue, and red ink by activating it while held. The pen's appearance changes to reflect the active color.
 
 **Crayons** write in the crayon font and their specific color. Available in a wide range of colors. 30 uses per crayon. Markers function similarly with a chisel-tip style.
 
@@ -34,7 +34,7 @@ Standard pens write in black ink. Blue and red variants are available. Pens can 
 
 ### Writing on Paper
 
-Clicking a paper with a pen in hand opens the writing interface. Fonts available: standard (Verdana), signature (Times New Roman for signed fields), and crayon (Comic Sans). Text length is limited per sheet. Available space decreases as content is added; the remaining space is tracked.
+Applying a pen to paper opens the document editor. Three text styles are available: a standard upright print font, a cursive font used for signature fields, and the crayon style when using crayons. Text length is limited per sheet. Available space decreases as content is added; the remaining space is tracked.
 
 Paper can accept stamps while writing is in progress. Stamps added before text is complete will appear on the document.
 
@@ -42,7 +42,7 @@ Paper can accept stamps while writing is in progress. Stamps added before text i
 
 ## Stamps
 
-Stamps are applied by clicking a held stamp onto a paper or paper bundle. Each stamp leaves a visible impression on the document and records the stamp type.
+Stamps are applied by pressing a held stamp against a paper or paper bundle. Each stamp leaves a visible impression on the document and records the stamp type.
 
 The following stamps are available on station:
 
@@ -73,7 +73,7 @@ A **chameleon stamp** can be configured to mimic any known stamp type.
 
 Multiple sheets of paper and photographs can be clipped together into a **paper bundle**. To create a bundle, place a second sheet of paper onto an existing sheet while holding it.
 
-Bundles can be navigated page by page. Pages can be added, removed individually, or reordered. Holding a sheet of paper and clicking the "Next Page" or "Previous Page" navigation inserts the sheet at that position. Two bundles can be merged by placing one onto the other.
+Bundles can be navigated page by page. Pages can be added, removed individually, or reordered. Holding a sheet of paper while using the "Next Page" or "Previous Page" navigation inserts the sheet at that position. Two bundles can be merged by placing one onto the other.
 
 Bundles can be named/labeled using the "Rename bundle" action. Individual pages within a bundle can also be renamed.
 
@@ -85,7 +85,7 @@ Bundles can be photocopied, faxed, stored in folders, filed in cabinets, and shr
 
 ## Folders
 
-Folders hold papers, photographs, and paper bundles. They can be stored on the belt or holster slot.
+Folders hold papers, photographs, and paper bundles. They can be carried on the belt or worn in a holster.
 
 Available colors: standard (tan), blue, red, yellow, white. Department-specific variants with identifying markings exist for the Site Manager, Head of Personnel, Chief Medical Officer, Research Director, Chief Engineer, and Head of Security.
 
@@ -97,9 +97,9 @@ Opening a folder shows a list of its contents with options to read, view, rename
 
 ## Clipboards
 
-A clipboard holds paper and photographs and can store a pen clipped to its side. The topmost paper is displayed on the clipboard's icon.
+A clipboard holds paper and photographs and can store a pen clipped to its side. The topmost paper is visible on the clipboard face.
 
-Writing on clipped paper is done through the clipboard interface without removing the sheet. The clipboard can be worn on the belt.
+Writing on clipped paper can be done while the sheet remains in place. The clipboard can be worn on the belt.
 
 ---
 
@@ -107,7 +107,7 @@ Writing on clipped paper is done through the clipboard interface without removin
 
 Filing cabinets store papers, folders, photographs, and bundles. Three physical variants are available: a standard horizontal drawer cabinet, a taller standing cabinet, and a chest drawer.
 
-Opening a cabinet shows all stored items in a list interface, from which items can be removed one at a time. Items on the floor near a cabinet can be pushed inside without opening it first.
+Opening a cabinet displays all stored items, from which items can be removed one at a time. Items on the floor near a cabinet can be pushed inside without opening it first.
 
 **Security record cabinets** in the Security department are pre-configured to generate printed security records for all crew members on demand when first opened. Each record includes name, ID, fingerprint, physical and mental status, criminal status, and logged notes.
 
@@ -125,7 +125,7 @@ With plentiful toner, copies are rendered in dark ink close to the original. Whe
 
 Copies of stamped documents carry simplified gray stamp silhouettes at the original positions. The specific stamp type is not legible in the copy; only the impression shape is retained (circular for command/CentCom marks, square for Talon, X for DENIED, dotted for all others).
 
-The photocopier also functions as a fax machine base for the fax module.
+The photocopier hardware is shared with the fax machine; both are housed in the same unit.
 
 ---
 
@@ -170,7 +170,7 @@ The shredder is powered by the equipment power circuit and will not operate with
 
 ## Hand Labeler
 
-The hand labeler applies text labels to objects. Activate it and set the label text, then click objects to apply. The label is appended to the object's name in parentheses.
+The hand labeler applies text labels to objects. Activate it and set the label text, then press it against objects to apply. The label is appended to the object's name in parentheses.
 
 The labeler has 30 uses per device. It cannot label living crew members or silicons. Chemical containers are also excluded (label them with a pen instead).
 
@@ -194,7 +194,7 @@ The hand labeler can rename inactive synthetic platforms if the user has appropr
 | Paper bundle | Groups multiple sheets | Up to any size; navigable by page |
 | Folder | Holds papers, photos, bundles | Multiple colors; belt-storable |
 | Clipboard | Portable writing surface | Holds pen; belt-storable |
-| Filing cabinet | Stores documents in bulk | Security/medical variants auto-generate records |
+| Filing cabinet | Stores documents in bulk | Security/medical variants print records on first access |
 | Photocopier | Duplicates documents | Toner-dependent; 40 max toner |
 | Fax machine | Transmits documents to other departments or off-station | Auth required; 3-min cooldown for CentCom |
 | Paper shredder | Destroys documents | 10-unit capacity; excess sprays floor |
