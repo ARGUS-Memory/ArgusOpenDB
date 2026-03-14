@@ -19,6 +19,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Meson goggles required |
 | [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
 | [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
+| [Always-On Configuration](#advanced-always-on-configuration-cetus) | High-efficiency continuous-emitter setup (Cetus) | Cold loop recirculates through TEG; emitter never deactivated |
 | [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors must open before ejection; order is critical |
 
 ---
@@ -230,6 +231,23 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 9. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
 
 The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are wrenched to their connector ports.
+
+---
+
+### Advanced: Always-On Configuration (Cetus)
+
+*Notes contributed by Engineer#2.*
+
+This configuration applies to **Cetus only.** It replaces the standard "fire ~20 times, deactivate" emitter procedure with a continuously running emitter, and reconfigures the cold loop for higher throughput. The result is a more efficient and self-sustaining engine that does not require manual emitter management.
+
+**How it works:** In the standard setup the cold loop vents to space and returns, exchanging heat passively. In this configuration the cold loop output is piped back into the TEG input, recirculating the same gas continuously through the heat exchanger rather than replacing it each pass. Faster circulation increases the rate of thermal transfer between hot and cold loops, raising TEG efficiency and power output.
+
+**Changes from the standard procedure:**
+
+- After completing steps 1 through 7 of the standard procedure, configure the cold loop piping so that the loop output feeds back into the TEG input connector. All pumps on this recirculation loop must be set to maximum pressure.
+- Do not deactivate the emitter. Leave it running continuously.
+
+**Monitoring:** With the emitter running indefinitely, keep a closer eye on the integrity and temperature readouts than in a standard setup. The higher energy input is sustained by the improved cooling throughput; if the pipes are not configured correctly the temperature will climb faster than in a standard run.
 
 ---
 
