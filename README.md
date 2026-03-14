@@ -29,6 +29,7 @@ Technical documentation on station infrastructure and machinery.
 Field guides for crew unfamiliar with station procedures.
 
 - [NIF Implantation Procedures](Personnel/NIF_Implantation.md)
+- [Chain of Command](Personnel/ChainOfCommand.md)
 
 ### Engineering
 Low-level technical references for engineering and maintenance staff.
