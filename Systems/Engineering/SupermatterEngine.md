@@ -110,6 +110,12 @@ The supermatter crystal releases phoron as a byproduct of operation. Without fil
 
 If other byproduct gases accumulate over time, add filter ports for each gas type as needed. The omnifilter supports multiple simultaneous gas streams through separate ports.
 
+**Station-specific notes:**
+
+On **Cetus**, the omnifilters are pre-configured correctly for phoron filtration. Activating them at startup is sufficient; no reconfiguration is needed.
+
+On **Southern Cross**, the omnifilters default to filtering nitrogen rather than phoron. Before activating them, change the filter target on each unit to phoron. Turning them on with the nitrogen setting active will pull nitrogen from the coolant loop instead of clearing the phoron byproduct, degrading cooling performance over time.
+
 ---
 
 ## Radiation Safety
@@ -173,7 +179,7 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 5. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
 7. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
 
-The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are connected and open.
+The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are wrenched to their connector ports.
 
 ---
 
@@ -184,7 +190,7 @@ The SM monitoring console in the observation room displays the crystal's current
 | Readout | Safe range | Response if exceeded |
 |---|---|---|
 | Integrity | Above 75% | Increase cooling; verify pump pressure and coolant levels |
-| Temperature | Below 5000 K | Check pump flow; confirm canister valves are open |
+| Temperature | Below 5000 K | Check pump flow; confirm canisters are wrenched to connector ports |
 | EER | Below 1.0 MeV/cm³ | Check for gas accumulation; verify filters are active |
 | Power | 150 -- 250 | Normal operating range for phoron setup |
 
