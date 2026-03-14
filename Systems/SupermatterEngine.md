@@ -112,13 +112,41 @@ If other byproduct gases accumulate over time, add filter ports for each gas typ
 
 ## Radiation Safety
 
-The crystal emits radiation continuously. At low power levels, the ambient dose in the engine chamber is approximately 50 Sv/h. At higher output levels this increases significantly. All crew entering the engine chamber must wear meson goggles to suppress cognitive disruption. Physical radiation exposure requires lead-shielded equipment or minimized time in the chamber.
+The active crystal produces two distinct hazards that require separate protective measures. **Neither piece of protective equipment substitutes for the other.**
+
+### Cognitive Hazard
+
+<img src="../assets/rad_meson.png" width="48" align="right">
+
+The crystal induces progressive cognitive disruption in unprotected crew within approximately 7 tiles. The effect scales with the crystal's current power level and worsens with proximity. **Meson goggles** are the only protection against this hazard. Standard eyewear, tinted visors, and radiation shielding offer no protection.
+
+### Radiation Hazard
+
+<img src="../assets/rad_suit.png" width="48" align="right">
+<img src="../assets/rad_hood.png" width="48" align="right">
+
+The crystal emits continuous ionizing radiation. At minimum power the ambient dose is approximately 50 Sv/h; at sustained high output this rises substantially. Radiation exposure causes cumulative physical damage. The **radiation suit and radiation hood** together provide full-body shielding against this hazard. The suit must be worn over standard clothing; the hood must be worn on the head. Meson goggles offer no protection against radiation damage.
+
+**Standard engine room kit: radiation suit, radiation hood, and meson goggles worn simultaneously.**
+
+### Protective Equipment
+
+| | Equipment | Protects against |
+|:---:|---|---|
+| <img src="../assets/rad_meson.png" width="48"> | Meson goggles | Cognitive disruption from crystal proximity |
+| <img src="../assets/rad_suit.png" width="48"> | Radiation suit | Ionizing radiation damage |
+| <img src="../assets/rad_hood.png" width="48"> | Radiation hood | Ionizing radiation damage (head and face) |
+| <img src="../assets/rad_geiger.png" width="48"> | Geiger counter | Measures ambient radiation level; no protection |
+
+### Radiation Collectors
 
 <img src="../assets/sm_collector.png" width="64" align="right">
 
-**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels where radiation output is greatest. Connecting collectors to the radiation field is a standard part of engine room commissioning.
+**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels. Connecting collectors is a standard part of engine room commissioning.
 
-During delamination, a 40 Sv burst is applied across the entire station. Crew caught in the engine room at that point will receive a near-lethal dose regardless of protection worn.
+### Delamination Burst
+
+During delamination, a 40 Sv burst is applied across the entire station. Crew in the engine room at that point will receive a near-lethal dose regardless of protection worn. Evacuation on emergency alert is the only reliable mitigation.
 
 ---
 
@@ -129,7 +157,7 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 **Prerequisites:**
 
 - SMES banks charged
-- Meson goggles worn
+- Radiation suit, radiation hood, and meson goggles worn
 - Two phoron canisters available
 
 **Steps:**
