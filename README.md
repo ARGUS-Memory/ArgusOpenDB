@@ -25,6 +25,7 @@ Technical documentation on station infrastructure and machinery.
 - [Research & Development System](Systems/ResearchSystem.md)
 - [Mail System](Systems/MailSystem.md)
 - [Paperwork System](Systems/Paperwork.md)
+- [Surgery](Systems/Surgery.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
