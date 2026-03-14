@@ -84,7 +84,7 @@ The **emitter** is the high-energy projector that transfers energy into the supe
 2. Apply a welder to seal it in place.
 3. Present an ID card with engineering access to lock the controls.
 
-With the emitter locked and connected to the power grid, the power control on the unit toggles it on and off.
+Securing is optional. The emitter fires and functions normally without being bolted or locked. Securing it prevents unauthorized personnel from moving or operating it, which is relevant when station security is a concern. In a routine startup, skipping the wrench and welder steps is common practice.
 
 **Firing:** For a phoron coolant setup, the emitter should be fired approximately 20 times before being deactivated. The emitter fires in 3-shot bursts with a brief pause between each burst. Each discharge transfers energy into the crystal, raising its output level. Fewer shots suit nitrogen setups (~8) and CO₂ setups (~10); phoron's higher heat capacity supports the higher energy input.
 
@@ -166,8 +166,7 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 2. Connect one phoron canister to the cold loop connector port. Open the canister valve.
 3. Set all visible cooling loop pumps to maximum pressure. Activate each one.
 4. Configure the omnifilters: assign one port as input, one as output, and one or more as phoron filter outputs. Verify gas is circulating through the filter.
-5. Secure the emitter: apply a wrench, then a welder. Present an ID card to lock it.
-6. Activate the emitter and allow it to fire approximately 20 times. Deactivate it.
+5. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
 7. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
 
 The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are connected and open.
