@@ -64,7 +64,7 @@ The cooling system circulates gas through the engine chamber continuously, absor
 
 **Coolant: phoron.** Phoron has a specific heat of 200 J/mol·K, approximately ten times that of nitrogen or oxygen. This allows each mole of phoron to absorb far more thermal energy per degree of temperature rise, keeping the chamber below the 5000 K damage threshold even at sustained high output.
 
-**Two phoron canisters** are required at startup: one for the hot loop and one for the cold loop. Connect each canister to the corresponding loop connector port and open the valve to fill the pipes.
+**Two phoron canisters** are required at startup: one for the hot loop and one for the cold loop. Wrench each canister to the corresponding loop connector port to attach it to the pipe network. Do not open the canister valve — doing so releases phoron into the room atmosphere rather than into the pipes. The pumps draw gas from the canisters once they are running.
 
 **Pumps** must all be set to maximum pressure and activated. Idle or low-pressure pumps allow heat to accumulate in the chamber. Every pump in both loops should be running at full pressure before the emitter is activated.
 
@@ -144,7 +144,7 @@ The crystal emits continuous ionizing radiation. At minimum power the ambient do
 
 <img src="../../assets/sm_collector.png" width="64" align="right">
 
-**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels.
+**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Power output scales directly with the quantity of phoron remaining in the tank — a full tank produces significantly more power than a nearly depleted one. Keep tanks topped up for best results.
 
 Radiation collectors are not stocked in engineering storage on this station. They can be requisitioned through Cargo or located on the SIF.
 
@@ -166,8 +166,8 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 
 **Steps:**
 
-1. Connect one phoron canister to the hot loop connector port. Open the canister valve.
-2. Connect one phoron canister to the cold loop connector port. Open the canister valve.
+1. Wrench one phoron canister to the hot loop connector port.
+2. Wrench one phoron canister to the cold loop connector port.
 3. Set all visible cooling loop pumps to maximum pressure. Activate each one.
 4. Configure the omnifilters: assign one port as input, one as output, and one or more as phoron filter outputs. Verify gas is circulating through the filter.
 5. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
