@@ -22,6 +22,7 @@ Technical documentation on station infrastructure and machinery.
 
 - [Chemical Synthesizer Operations](Systems/Chemistry.md)
 - [Borg Sleeper Systems](Systems/BorgSleepers.md)
+- [Research & Development System](Systems/ResearchSystem.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
