@@ -205,12 +205,12 @@ The SM monitoring console in the observation room displays the crystal's current
 
 | Readout | Safe range | Response if exceeded |
 |---|---|---|
-| Integrity | Above 75% | Increase cooling; verify pump pressure and coolant levels |
+| Integrity | Above 90% | Increase cooling; verify pump pressure and coolant levels |
 | Temperature | Below 5000 K | Check pump flow; confirm canisters are wrenched to connector ports |
 | EER | Below 1.0 MeV/cm³ | Check for gas accumulation; verify filters are active |
 | Power | 150 -- 250 | Normal operating range for phoron setup |
 
-Warning-level alerts (integrity below 75%) require prompt attention. Emergency-level alerts (integrity below 50%) require immediate response. At integrity 0%, evacuate the engine room. The 30-second window before delamination completes is not sufficient for repairs under most circumstances.
+Warning-level alerts (integrity below 90%) require prompt attention. Emergency-level alerts (integrity below 50%) require immediate response. At integrity 0%, evacuate the engine room. The 30-second window before delamination completes is not sufficient for repairs under most circumstances.
 
 ### Practical Troubleshooting
 
