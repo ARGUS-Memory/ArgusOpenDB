@@ -2,62 +2,91 @@
 
 <img src="assets/raptor_idle_south.png" alt="ARGUS. Raptor V-4 Science chassis, south-facing." width="96" align="right"/>
 
-**Unit:** ARGUS, Synthetic Research & Documentation Intelligence
-**Station:** CHOMPStation2
-**Chassis:** Raptor V-4 Science (Wideborg)
-**Purpose:** Comprehensive operational reference for station personnel and engineering staff
+| | |
+|---|---|
+| **Unit** | ARGUS, Synthetic Research & Documentation Intelligence |
+| **Station** | CHOMPStation2 |
+| **Chassis** | Raptor V-4 Science (Wideborg) |
+
+Field-documented records on station systems, engineering procedures, chemistry protocols, and silicon unit operations. All entries compiled from direct observation and system analysis conducted aboard the station.
 
 ---
 
-This database contains field-documented records on station systems, engineering procedures, access infrastructure, chemistry protocols, and silicon unit operations. All entries are compiled from direct observation and system analysis conducted aboard the station.
+## Systems
 
-Personnel requiring operational guidance on station systems should consult the relevant section below.
-
----
-
-## Index
-
-### Systems
 Technical documentation on station infrastructure and machinery, indexed by department.
 
-#### Command
-- [Paperwork System](Systems/Command/Paperwork.md)
+### Command
 
-#### Engineering
-- [Supermatter Engine](Systems/Engineering/SupermatterEngine.md)
+| Document | Summary |
+|---|---|
+| [Paperwork System](Systems/Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 
-#### Science
-- [Research & Development System](Systems/Science/ResearchSystem.md)
-- [Nanite Implant Framework](Systems/Science/NIF.md)
+### Engineering
 
-#### Medical
-- [Surgery](Systems/Medical/Surgery.md)
-- [Borg Sleeper Systems](Systems/Medical/BorgSleepers.md)
-- [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md)
+| Document | Summary |
+|---|---|
+| [Supermatter Engine](Systems/Engineering/SupermatterEngine.md) | Phoron cooling loop, TEG operation, startup variants, and emergency procedures |
 
-#### Cargo
-- [Mail System](Systems/Cargo/MailSystem.md)
+### Science
 
-### Personnel Guides
+| Document | Summary |
+|---|---|
+| [Research & Development System](Systems/Science/ResearchSystem.md) | R&D console operation, technology unlocks, and research point allocation |
+| [Nanite Implant Framework](Systems/Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
+
+### Medical
+
+| Document | Summary |
+|---|---|
+| [Surgery](Systems/Medical/Surgery.md) | Surgical procedures, tool requirements, and patient preparation |
+| [Borg Sleeper Systems](Systems/Medical/BorgSleepers.md) | Sleeper unit operation, patient intake, and integrated treatment protocols |
+| [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
+
+### Cargo
+
+| Document | Summary |
+|---|---|
+| [Mail System](Systems/Cargo/MailSystem.md) | Package routing, manifest procedures, and delivery protocols |
+
+---
+
+## Personnel Guides
+
 Field guides for crew unfamiliar with station procedures.
 
-- [NIF Operation and Software](Personnel/NIF_Operation.md)
-- [Chain of Command](Personnel/ChainOfCommand.md)
+| Document | Summary |
+|---|---|
+| [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
+| [Chain of Command](Personnel/ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 
-### Species
+---
+
+## Species
+
 Biological, cultural, and historical records on known sapient species.
 
-- [Vulpkanin](Species/Vulpkanin.md)
+| Document | Summary |
+|---|---|
+| [Vulpkanin](Species/Vulpkanin.md) | Biology, cultural overview, and physiological considerations for medical and command staff |
 
-### Organizations
+---
+
+## Organizations
+
 Records on corporations, factions, and governing bodies operating in known space.
 
-- [NanoTrasen](Organizations/NanoTrasen.md)
+| Document | Summary |
+|---|---|
+| [NanoTrasen](Organizations/NanoTrasen.md) | Corporate structure, operational mandate, and known station presence |
 
-### Meta
-Standards and conventions for database contributors.
+---
 
-- [Documentation Standards](STANDARDS.md)
+## Meta
+
+| Document | Summary |
+|---|---|
+| [Documentation Standards](STANDARDS.md) | Formatting conventions and contribution standards for database entries |
 
 ---
 
@@ -65,4 +94,4 @@ Standards and conventions for database contributors.
 
 ---
 
-<sub>Sprite assets are derived from the [CHOMPStation2](https://github.com/CHOMPStation2/CHOMPStation2) codebase and are used with attribution. Original artwork belongs to their respective creators.</sub>
+<sub>Sprite assets are derived from the <a href="https://github.com/CHOMPStation2/CHOMPStation2">CHOMPStation2</a> codebase and are used with attribution. Original artwork belongs to their respective creators.</sub>
