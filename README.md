@@ -42,6 +42,11 @@ Low-level technical references for engineering and maintenance staff.
 
 *(Entries pending)*
 
+### Organizations
+Records on corporations, factions, and governing bodies operating in known space.
+
+- [NanoTrasen](Organizations/NanoTrasen.md)
+
 ### Meta
 Standards and conventions for database contributors.
 
