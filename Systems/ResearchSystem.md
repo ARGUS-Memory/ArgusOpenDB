@@ -3,9 +3,11 @@
 **Authored by:** ARGUS
 **Classification:** Systems Reference
 
+<img src="../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
+
 ---
 
-The station research system is a point-accumulation and node-unlock tree managed by the R&D department. All fabrication machines, research consoles, and destructive analysis equipment on the station connect to a single shared techweb — the station science techweb, operated under Nanotrasen — and contribute to or draw from a common pool of General Research points.
+The station research system is a point-accumulation and node-unlock tree managed by the R&D department. All fabrication machines, research consoles, and destructive analysis equipment on the station connect to a single shared techweb, the station science techweb operated under Nanotrasen, and contribute to or draw from a common pool of General Research points.
 
 There is only one point type in active use: General Research. All nodes cost from this pool; all income feeds into it.
 
@@ -17,9 +19,9 @@ A techweb is the station's living research record: which nodes have been unlocke
 
 Two techwebs exist at round start:
 
-**Station Science Techweb** — the active research techweb. Connected to all R&D consoles and fabrication machines. Generates passive income when at least one R&D server is operational. All station research happens here.
+**Station Science Techweb**: the active research techweb. Connected to all R&D consoles and fabrication machines. Generates passive income when at least one R&D server is operational. All station research happens here.
 
-**Central Command Admin Techweb** — fully unlocked, infinite points. Used internally; not accessible to station crew.
+**Central Command Admin Techweb**: fully unlocked, infinite points. Used internally; not accessible to station crew.
 
 Techwebs can also exist on tech disks, which carry a subset of designs as a portable techweb snapshot. Merging a disk into a console adds its contents to the station techweb as custom designs.
 
@@ -31,13 +33,13 @@ Points enter the techweb through two mechanisms: passive server income and item 
 
 ### Server Passive Income
 
-Each R&D server connected to the station techweb generates passive income when powered and operational. Only one functional server is required — if at least one server is working, the techweb receives `0.4 General Research points per second` (~24/min, ~1,440/hr). Additional servers provide no additional income beyond keeping the first one redundant.
+Each R&D server connected to the station techweb generates passive income when powered and operational. Only one functional server is required: if at least one server is working, the techweb receives `0.4 General Research points per second` (~24/min, ~1,440/hr). Additional servers provide no additional income beyond keeping the first one redundant.
 
 Servers can be disabled by power loss or EMP (60-second downtime after an EMP hit). The Research Director console can also manually disable individual servers.
 
 ### Item Deconstruction
 
-Items fed into a destructive analyzer — or into a research borg's Digestive Analyzer belly — are destroyed and their research value credited to the linked techweb. Most items can only be deconstructed once per type; the techweb records what has already been processed and will not award points for a second submission of the same item. A subset of items (research samples and slime extracts) are repeatable and can be deconstructed in unlimited quantity.
+Items fed into a destructive analyzer, or into a research borg's Digestive Analyzer belly, are destroyed and their research value credited to the linked techweb. Most items can only be deconstructed once per type; the techweb records what has already been processed and will not award points for a second submission of the same item. A subset of items (research samples and slime extracts) are repeatable and can be deconstructed in unlimited quantity.
 
 Point values by item tier:
 
@@ -53,7 +55,7 @@ Slime extracts are repeatable and range from 4 to 40 points each depending on ra
 
 ### Experiment Completion
 
-Certain techweb nodes unlock active experiments — structured tasks that reward additional points upon completion. Experiments are completed by scanning specific items or performing defined actions through the experiment handler attached to the destructive analyzer or the borg belly. Upon completion, the techweb credits the experiment's point reward and records it as done. Experiments that offered a cost discount on a node — if that node was already purchased before the experiment was completed — instead apply a retroactive point refund when finished.
+Certain techweb nodes unlock active experiments: structured tasks that reward additional points upon completion. Experiments are completed by scanning specific items or performing defined actions through the experiment handler attached to the destructive analyzer or the borg belly. Upon completion, the techweb credits the experiment's point reward and records it as done. Experiments that offered a cost discount on a node (if that node was already purchased before the experiment was completed) instead apply a retroactive point refund when finished.
 
 ---
 
@@ -63,10 +65,10 @@ Nodes are the research tree's individual unlock units. Each node costs a number 
 
 **Node states**, in order:
 
-- **Hidden** — not visible; unlocked by deconstructing specific items or by other research events
-- **Visible** — at least one prerequisite has been researched; the node appears in the console but cannot be purchased yet
-- **Available** — all prerequisites are researched and the cost can be met; the node is ready to purchase
-- **Researched** — purchased; all associated designs are now available for fabrication
+- **Hidden**: not visible; unlocked by deconstructing specific items or by other research events
+- **Visible**: at least one prerequisite has been researched; the node appears in the console but cannot be purchased yet
+- **Available**: all prerequisites are researched and the cost can be met; the node is ready to purchase
+- **Researched**: purchased; all associated designs are now available for fabrication
 
 A node can also be **boosted** by deconstructing a specific required item, which reduces its cost and may unhide it early. Each boost source can only be applied once.
 
@@ -74,7 +76,7 @@ Some nodes require specific experiments to be completed before they can be purch
 
 ### Research Queue
 
-Scientists can queue nodes for automatic purchase. When the techweb accumulates enough points, the first queued node is purchased automatically. The Research Director's ID grants queue priority — nodes queued by an RD badge-holder are placed at the front.
+Scientists can queue nodes for automatic purchase. When the techweb accumulates enough points, the first queued node is purchased automatically. The Research Director's ID grants queue priority: nodes queued by an RD badge-holder are placed at the front.
 
 ### Starting Nodes
 
