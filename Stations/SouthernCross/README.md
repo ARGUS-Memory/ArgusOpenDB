@@ -3,46 +3,34 @@
 <img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 **Designation:** NLS Southern Cross
-**Type:** Constructed space station
-**Levels:** 3 station decks; solar arrays; surface mines
+**Type:** Constructed space station with planetside installations
+**Levels:** Main station deck; planet surface; planetside mine
 
-Southern Cross is a compact purpose-built space station. Unlike the asteroid-embedded Cetus, Southern Cross is a freestanding constructed platform in open space. The station has a bilateral symmetry with solar arrays extending to either side of the central body.
-
----
-
-## Station Decks
-
-### Deck 1
-
-Primary station level. Contains the main inhabited areas, departmental offices, and primary access corridors. Solar arrays extend to port and starboard on this level.
-
-![Southern Cross Deck 1](../../assets/map_sc_deck1.png)
+Southern Cross is a purpose-built space station in orbit above a habitable planet. The station maintains a bilateral symmetry with solar arrays extending to port and starboard. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
 
 ---
 
-### Deck 3
+## Station Deck
 
-Third station level. Contains additional departmental and engineering infrastructure.
+Primary station level. Contains the Bridge, AI Core, command offices, and solar array access corridors. Solar arrays extend to port and starboard on this level.
 
-![Southern Cross Deck 3](../../assets/map_sc_deck3.png)
-
----
-
-## Exterior
-
-### Solar Arrays
-
-Solar array fields and open space surrounding the station exterior.
-
-![Southern Cross Solar Arrays](../../assets/map_sc_solars.png)
+![Southern Cross Station Deck](../../assets/map_sc_deck1.png)
 
 ---
 
-### Surface Mines
+## Planet Surface
 
-Mining and surface operations level.
+Planetside surface installations on the planet below. The environment includes open plains, mountains, river systems, and coastal areas. Built structures include the main outpost (housing, bar, gym, security, garage, gateway, and medical), a xenobiology and xenoflora research complex, and the North Mining Outpost with its refinery.
 
-![Southern Cross Surface Mines](../../assets/map_sc_surface_mines.png)
+![Southern Cross Planet Surface](../../assets/map_sc_deck3.png)
+
+---
+
+## Planetside Mine
+
+The cave and tunnel network beneath the planet surface. Comprises extensive explored and unexplored cave systems, the Xenoarcheology facility (with anomalous materials lab, sample analysis, and isolation chambers), and the underground extension of the North Mining Outpost.
+
+![Southern Cross Planetside Mine](../../assets/map_sc_mine.png)
 
 ---
 
