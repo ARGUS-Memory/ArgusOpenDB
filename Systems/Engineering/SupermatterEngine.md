@@ -20,6 +20,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
 | [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
 | [Always-On Configuration](#advanced-always-on-configuration-cetus) | High-efficiency continuous-emitter setup (Cetus) | Cold loop recirculates through TEG; emitter never deactivated |
+| [Emergency Loop Equalization](#emergency-loop-equalization) | Rapid emergency cooling via digital valves | Equalizes both loops; kills all power production |
 | [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors must open before ejection; order is critical |
 
 ---
@@ -279,6 +280,29 @@ When the engine is underperforming or showing alerts, the console readouts are r
 **Omnifilters are correctly configured and active.** Confirm the filter target is set to phoron (not nitrogen or another gas) and that the units are turned on.
 
 **Emergency flush valves are untouched.** The emergency flush valves are small and positioned where they can be accidentally bumped. If one has been tripped, phoron stops reaching the crystal and the engine will lose cooling. Check that all flush valves are in their default closed position. Do not operate them unless intentionally venting the loop.
+
+If the above checks do not stabilize integrity, proceed to [Emergency Loop Equalization](#emergency-loop-equalization) before considering ejection.
+
+---
+
+## Emergency Loop Equalization
+
+*Notes contributed by Engineer#2.*
+
+Two digital valves are installed in the engine room, identifiable by the white indicator squares marking their positions. In normal operation these valves are closed and both loops run independently.
+
+**Opening both valves connects the hot and cold loops directly.** Gas transfers freely between them, equalizing the temperature across the combined loop. The equalization draws heat away from the supermatter crystal rapidly, producing a cooling effect considerably faster than the normal heat exchanger process.
+
+**Tradeoff:** The TEG generates power from the temperature differential between the two loops. Equalizing them collapses that differential and drops power output to zero for as long as the valves remain open. The station will lose SM-derived power immediately on opening.
+
+**Procedure:**
+
+1. Open both digital valves.
+2. Monitor the SM console. Temperature should begin falling.
+3. Once temperature is back within safe range and integrity has stabilized, close both valves.
+4. Power production will resume as the temperature differential re-establishes between the loops.
+
+This is an intermediate emergency measure, more drastic than pump and filter adjustments but recoverable. If equalization does not bring the crystal back under control, proceed to [Emergency Crystal Ejection](#emergency-crystal-ejection).
 
 ---
 
