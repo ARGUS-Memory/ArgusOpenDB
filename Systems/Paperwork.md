@@ -91,7 +91,7 @@ Available colors: standard (tan), blue, red, yellow, white. Department-specific 
 
 Labeling a folder with a pen sets a visible name on the folder.
 
-Opening a folder shows a list of its contents with options to read, view, rename, or remove individual items.
+Opening a folder displays its contents. Individual papers, photographs, and bundles can be read, viewed, renamed, or removed from within.
 
 ---
 
