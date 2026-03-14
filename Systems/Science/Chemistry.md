@@ -1,15 +1,48 @@
 # Chemical Synthesizer Operations
-### ARGUS Station Documentation: Pharmacopoeia & Reagent Catalogue
 
-This document covers every compound achievable using the Chemical Synthesizer's built-in cartridge supply. Entries include clinical field notes, known effects, species considerations, and ready-to-paste import strings for standard production runs.
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-Import strings are formatted for **Production Mode**: enter the recipe name, then paste the string when prompted.
+Operational reference for the Chemical Synthesizer: compound formulae, import strings, species considerations, and container specifications for station pharmacopoeia and industrial reagent production.
 
 ---
 
-## Base Cartridge Supply (24 reagents)
+## Quick Reference
 
-The synthesizer ships stocked with the following:
+| Item | Function | Notable |
+|---|---|---|
+| [Chemical Synthesizer](#chemical-synthesizer) | Produces reagents from cartridge stock | 24 base cartridges; catalysts loaded separately |
+| [Beaker](#beaker) | Standard reaction and transfer vessel | 50u capacity |
+| [Large Beaker](#large-beaker) | High-volume reaction vessel | 100u capacity |
+| [Bluespace Beaker](#bluespace-beaker) | Extended-capacity reaction vessel | 300u capacity |
+| [Cryostasis Beaker](#cryostasis-beaker) | Reaction-suppressing storage vessel | Prevents reagent mixing; no capacity increase |
+| [Vial](#vial) | Small-volume precision vessel | 30u capacity |
+| [Inaprovaline](#inaprovaline) | Stabilization / pain suppression | Does not heal; holds critical patients |
+| [Antitoxin (Dylovene)](#antitoxin-dylovene) | Toxin clearance | Broad-spectrum; 30u OD |
+| [Kelotane](#kelotane) | Burn damage treatment | Causes Brute in Prometheans |
+| [Synaptizine](#synaptizine) | Anti-stun / neurological clearance | Clears Mindbreaker; very slow metabolism |
+| [Hyperzine](#hyperzine) | Movement stimulant | OD threshold 15u — half standard |
+| [Impedrezene](#impedrezene) | Neurological depressant | Weapons-grade; accumulates Brain damage |
+| [Mutagen](#mutagen) | Genetic mutagen / synthesis precursor | Unpredictable outcomes; precursor for Left4Zed |
+| [Claridyl](#claridyl) | High-potency analgesic / stabilizer | 33% yield; Tesshari adverse reaction risk |
+| [Bliss](#bliss) | Psychoactive compound | No medical use; overdose causes Brain/Toxic damage |
+| [Aphrodisiac](#aphrodisiac) | Pheromone agent | No medical use; 86% yield |
+| [Cryptobiolin](#cryptobiolin) | Vestibular disruptor | Fast metabolism; brief effects |
+| [Space Cleaner](#space-cleaner) | Surface decontaminant | Requires Ammonia intermediate; chain-synthesizable |
+| [Diethylamine](#diethylamine) | Synthesis precursor | Required for Left4Zed |
+| [Left4Zed](#left4zed) | Hydroponics fertilizer | Toxic if ingested; 9u minimum clean batch |
+| [Silicate](#silicate) | Window reinforcement agent | Topical application only |
+| [Inhibitor Reference](#appendix-a-inhibitor-reference) | Silent-fail inhibitors per compound | Check before reusing vessels |
+| [Catalyst Reference](#appendix-b-catalyst-reference) | Catalyst slot reagents | Catalysts not consumed in synthesis |
+
+---
+
+## Chemical Synthesizer
+
+<img src="../../assets/chem_synthesizer.png" width="96" align="right">
+
+The **Chemical Synthesizer** produces chemical compounds from a set of 24 built-in reagent cartridges. Reagents are added in sequence via a production queue. Reactions occur inside the machine's internal vessel and the product is dispensed into a container placed in the output slot.
+
+**Base cartridge supply (24 reagents)**
 
 | | | | |
 |---|---|---|---|
@@ -18,450 +51,438 @@ The synthesizer ships stocked with the following:
 | Lithium | Aluminium | Silicon | Phosphorus |
 | Sulfur | Iron | Copper | Mercury |
 | Tungsten | Calcium | Radium | Water |
-| Ethanol | Sugar | Sulfuric Acid |   |
+| Ethanol | Sugar | Sulfuric Acid | |
 
-Cartridges recharge automatically at 5u per cycle. High-volume queues may outpace recharge on heavily demanded reagents (Oxygen, Carbon, Sugar, Hydrogen). Plan accordingly.
+Cartridges recharge at 5u per cycle. High-volume queues may outpace recharge on heavily demanded reagents such as Oxygen, Carbon, Sugar, and Hydrogen. Plan accordingly.
 
----
+**How to read import strings:** Import strings use the format `Reagent,volume,Reagent,volume,...` where chemical names are case-sensitive and must match cartridge labels exactly. Each entry below includes a scaling ratio. For example, `1:1:1 → 3u` means one unit of each ingredient yields three units of product; scale linearly.
 
-## How to Read This Document
-
-**Import string format:** `Chem1,vol1,Chem2,vol2,...`
-Chemical names are case-sensitive and must match cartridge labels exactly.
-
-**Batch math notation:** Each reaction entry includes a scaling ratio. For example, `1:1:1 → 3u` means one unit of each ingredient yields three units of product. Scale linearly.
-
-**OD** = Overdose threshold. Standard threshold is 30u for most personnel. Species variation applies.
+**OD** denotes overdose threshold. Standard threshold is 30u for most personnel. Species variation applies.
 
 ---
 
+## Containers
+
+Containers receive output from the synthesizer and carry reagents for administration or further use. Placing the correct container in the output slot before queuing a batch determines the available volume.
+
 ---
 
-# SECTION I: DIRECT SYNTHESIS (Single Recipe, No Intermediates)
+### Beaker
+
+<img src="../../assets/chem_beaker.png" width="48" align="right">
+
+The **beaker** is the standard reaction and transfer vessel. It holds up to 50u of reagent. Reagents placed in the same beaker react automatically if a valid reaction exists; this makes it useful for chaining synthesis outside the machine, but also a contamination risk if multiple reagents are present unexpectedly.
 
 ---
 
-## INAPROVALINE
+### Large Beaker
+
+<img src="../../assets/chem_beaker_large.png" width="48" align="right">
+
+The **large beaker** holds up to 100u. Used for high-volume production runs where the standard beaker capacity is insufficient. Reaction behavior is identical to the standard beaker.
+
+---
+
+### Bluespace Beaker
+
+<img src="../../assets/chem_beaker_bluespace.png" width="48" align="right">
+
+The **bluespace beaker** holds up to 300u. Suitable for full-capacity synthesizer runs and bulk transfer operations. Available through requisition or research supply; not stocked in base chemistry storage.
+
+---
+
+### Cryostasis Beaker
+
+<img src="../../assets/chem_beaker_noreact.png" width="48" align="right">
+
+The **cryostasis beaker** suppresses chemical reactions between its contents. Reagents placed inside do not react with each other regardless of concentration. This makes it the correct storage vessel when carrying multiple reactive compounds simultaneously, or when preserving an intermediate reagent for use in a later step. Capacity is 50u. The cryostasis effect is purely contained; reagents behave normally once transferred to a standard vessel.
+
+---
+
+### Vial
+
+<img src="../../assets/chem_vial.png" width="48" align="right">
+
+The **vial** holds up to 30u. Used for precise small-volume doses and individual patient dispensing. Vials accept labels for identification.
+
+---
+
+## Section I: Direct Synthesis
+
+Single-step reactions achievable without intermediate compounds.
+
+---
+
+## Inaprovaline
+
 **Classification:** Synaptic Stimulant / Cardiostimulant
 **Reaction:** `Oxygen,1 + Carbon,1 + Sugar,1 → 3u` · Scale 1:1:1
 **Inhibitor:** Water. Reaction fails silently if present. Use a dry vessel.
-**OD threshold:** 60u (unusually high; very safe margin)
+**OD threshold:** 60u
 **Dermal absorption:** Partial
 
-### Field Notes
-Inaprovaline is a front-line stabilization agent. Its primary function is to slow the physiological deterioration of critically injured patients, buying time for proper treatment. It also suppresses pain signaling and clears the biochemical cascade triggered by allergic reactions. A patient on Inaprovaline will not die *faster*, even if untreated.
+Inaprovaline is a front-line stabilization agent. Its primary function is to slow the physiological deterioration of critically injured patients, buying time for proper treatment. It also suppresses pain signaling and clears the biochemical cascade triggered by allergic reactions. A patient on Inaprovaline will not deteriorate faster, even if untreated. Inaprovaline does not heal damage; it only holds the line.
 
 Diona patients do not respond. All other species process it normally.
 
-Inaprovaline does not heal damage. It only holds the line.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Oxygen,2,Carbon,2,Sugar,2` |
-| 15u | 3 | `Oxygen,5,Carbon,5,Sugar,5` |
-| 30u | 3 | `Oxygen,10,Carbon,10,Sugar,10` |
-| 60u | 3 | `Oxygen,20,Carbon,20,Sugar,20` |
-| 120u | 3 | `Oxygen,40,Carbon,40,Sugar,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Oxygen,2,Carbon,2,Sugar,2` |
+| 15u | `Oxygen,5,Carbon,5,Sugar,5` |
+| 30u | `Oxygen,10,Carbon,10,Sugar,10` |
+| 60u | `Oxygen,20,Carbon,20,Sugar,20` |
+| 120u | `Oxygen,40,Carbon,40,Sugar,40` |
 
 > Minimum clean batch: 3u (1+1+1). 5u requires fractional volumes. Use 6u instead.
 
 ---
 
-## ANTITOXIN (Dylovene)
+## Antitoxin (Dylovene)
+
 **Classification:** Broad-Spectrum Antitoxin
 **Reaction:** `Silicon,1 + Potassium,1 + Nitrogen,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
 **Dermal absorption:** Partial
 
-### Field Notes
 Dylovene is the station's primary counter to Toxic damage. It clears accumulated toxins from the bloodstream, reduces drowsiness and hallucination effects caused by poisoning, and has a small chance per dose of fully purging an active poison modifier. Effective against most environmental and biological toxins.
 
-Diona patients do not respond.
+Diona patients do not respond. Promethean patients at doses above 15u will experience mild disorientation; dose carefully in conscious subjects.
 
-Promethean patients at doses above 15u will experience mild disorientation. Dose carefully in conscious subjects.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Silicon,2,Potassium,2,Nitrogen,2` |
-| 15u | 3 | `Silicon,5,Potassium,5,Nitrogen,5` |
-| 30u | 3 | `Silicon,10,Potassium,10,Nitrogen,10` |
-| 60u | 3 | `Silicon,20,Potassium,20,Nitrogen,20` |
-| 120u | 3 | `Silicon,40,Potassium,40,Nitrogen,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Silicon,2,Potassium,2,Nitrogen,2` |
+| 15u | `Silicon,5,Potassium,5,Nitrogen,5` |
+| 30u | `Silicon,10,Potassium,10,Nitrogen,10` |
+| 60u | `Silicon,20,Potassium,20,Nitrogen,20` |
+| 120u | `Silicon,40,Potassium,40,Nitrogen,40` |
 
 ---
 
-## KELOTANE
+## Kelotane
+
 **Classification:** Burn Damage Treatment
 **Reaction:** `Silicon,1 + Carbon,1 → 2u` · Scale 1:1
 **Inhibitor:** Water. Fails silently if present. Dry vessel mandatory.
 **OD threshold:** 30u
 **Dermal absorption:** Partial
 
-### Field Notes
-Kelotane is the standard treatment for Burn damage. It accelerates tissue repair at a rate of 4u Burn healed per unit metabolised, scaled to species healing capacity.
+Kelotane is the standard treatment for Burn damage. It accelerates tissue repair at a rate of 4u Burn healed per unit metabolized, scaled to species healing capacity.
 
-**Promethean (Slime) warning:** Kelotane repairs burn tissue in Prometheans but damages their silicate skeletal structure at the same time, causing 2u Brute per metabolisation cycle. For Promethean burn patients, consult alternative burn treatments or monitor closely for compounding injury.
+**Promethean (Slime) warning:** Kelotane repairs burn tissue in Prometheans but simultaneously damages their silicate skeletal structure, causing 2u Brute per metabolization cycle. For Promethean burn patients, consult alternative burn treatments or monitor closely for compounding injury.
 
 Diona patients do not respond.
 
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 5u | 2 | `Silicon,2.5,Carbon,2.5` |
-| 15u | 2 | `Silicon,7.5,Carbon,7.5` |
-| 30u | 2 | `Silicon,15,Carbon,15` |
-| 60u | 2 | `Silicon,30,Carbon,30` |
-| 120u | 2 | `Silicon,60,Carbon,60` |
+| Output | String |
+|--------|--------|
+| 5u | `Silicon,2.5,Carbon,2.5` |
+| 15u | `Silicon,7.5,Carbon,7.5` |
+| 30u | `Silicon,15,Carbon,15` |
+| 60u | `Silicon,30,Carbon,30` |
+| 120u | `Silicon,60,Carbon,60` |
 
 > Decimal volumes are valid in production mode. Minimum clean integer batch: 2u (1+1).
 
 ---
 
-## SYNAPTIZINE
+## Synaptizine
+
 **Classification:** Neurostimulant / Anti-Stun Agent
 **Reaction:** `Sugar,1 + Lithium,1 + Water,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
 **Dermal absorption:** Partial
-**Metabolism rate:** Very slow. Single dose remains active for an extended period
+**Metabolism rate:** Very slow; single dose remains active for an extended period.
 
-### Field Notes
-Synaptizine is used to treat neurological suppression. It clears drowsiness, counters paralysis, stun, and weakness effects, and actively purges Mindbreaker (hallucinogen) from the bloodstream with each metabolisation cycle. Its slow processing rate means a single dose provides extended coverage.
+Synaptizine is used to treat neurological suppression. It clears drowsiness, counters paralysis, stun, and weakness effects, and actively purges Mindbreaker (hallucinogen) from the bloodstream with each metabolization cycle. Its slow processing rate means a single dose provides extended coverage.
 
-Promethean patients at dose ≥5u gain Brute and Burn healing from Synaptizine at the cost of accelerated nutrition consumption.
+Promethean patients at dose ≥5u gain Brute and Burn healing from Synaptizine at the cost of accelerated nutrition consumption. Diona patients do not respond.
 
-Diona patients do not respond.
+Water is a required ingredient, not an inhibitor. Ensure no excess Water is already present from prior reactions; it will not block Synaptizine synthesis but will interfere with any co-queued Inaprovaline or Kelotane.
 
-**Note:** Water is a required ingredient here; this is not an inhibitor conflict. Ensure no excess Water is already present from prior reactions in the vessel; it will not block Synaptizine synthesis but will interfere with any co-queued Inaprovaline or Kelotane.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Sugar,2,Lithium,2,Water,2` |
-| 15u | 3 | `Sugar,5,Lithium,5,Water,5` |
-| 30u | 3 | `Sugar,10,Lithium,10,Water,10` |
-| 60u | 3 | `Sugar,20,Lithium,20,Water,20` |
-| 120u | 3 | `Sugar,40,Lithium,40,Water,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Sugar,2,Lithium,2,Water,2` |
+| 15u | `Sugar,5,Lithium,5,Water,5` |
+| 30u | `Sugar,10,Lithium,10,Water,10` |
+| 60u | `Sugar,20,Lithium,20,Water,20` |
+| 120u | `Sugar,40,Lithium,40,Water,40` |
 
 ---
 
-## HYPERZINE
+## Hyperzine
+
 **Classification:** Muscle Stimulant / Movement Enhancer
 **Reaction:** `Sugar,1 + Phosphorus,1 + Sulfur,1 → 3u` · Scale 1:1:1
-**OD threshold:** 15u. Overdoses at half the standard threshold. Handle carefully.
+**OD threshold:** 15u — half the standard threshold. Handle carefully.
 **Dermal absorption:** Partial
 
-### Field Notes
-Hyperzine is a powerful long-acting muscle stimulant that increases movement speed significantly. Standard emergency-response issue for personnel who need rapid cross-station transit.
+Hyperzine is a powerful long-acting muscle stimulant that increases movement speed significantly. It is standard emergency-response issue for personnel who require rapid cross-station transit.
 
-**Overdose hazard:** Threshold is half normal (≈15u in standard humans). Overdose causes intermittent cardiac stress, with a small but non-zero chance of direct heart organ damage per metabolisation cycle. Do not administer casually.
+**Overdose hazard:** Overdose causes intermittent cardiac stress, with a non-zero chance of direct heart organ damage per metabolization cycle. A 30u bottle is sufficient for most standard deployments.
 
-Tajara metabolise Hyperzine at 1.25× potency. Reduce dosing accordingly for Tajara patients.
+Tajara metabolize Hyperzine at 1.25× potency; reduce dosing accordingly. Promethean patients experience skeletal instability rather than clean speed enhancement, and at dose ≥5u nutrition is burned at an accelerated rate. Diona patients do not respond.
 
-Promethean patients experience skeletal instability rather than clean speed enhancement. At dose ≥5u, nutrition is burned at an accelerated rate.
-
-Diona patients do not respond.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Sugar,2,Phosphorus,2,Sulfur,2` |
-| 15u | 3 | `Sugar,5,Phosphorus,5,Sulfur,5` |
-| 30u | 3 | `Sugar,10,Phosphorus,10,Sulfur,10` |
-| 60u | 3 | `Sugar,20,Phosphorus,20,Sulfur,20` |
-| 120u | 3 | `Sugar,40,Phosphorus,40,Sulfur,40` |
-
-> **Dispense in small batches for personal use.** A 30u bottle is more than enough for most standard deployments.
+| Output | String |
+|--------|--------|
+| 6u | `Sugar,2,Phosphorus,2,Sulfur,2` |
+| 15u | `Sugar,5,Phosphorus,5,Sulfur,5` |
+| 30u | `Sugar,10,Phosphorus,10,Sulfur,10` |
+| 60u | `Sugar,20,Phosphorus,20,Sulfur,20` |
+| 120u | `Sugar,40,Phosphorus,40,Sulfur,40` |
 
 ---
 
-## IMPEDREZENE
+## Impedrezene
+
 **Classification:** Neurological Depressant / Incapacitant
 **Reaction:** `Mercury,1 + Oxygen,1 + Sugar,1 → 2u` · Scale 1:1:1 at 66% yield
 **OD threshold:** 30u
 **Filtered by:** Spleen organ
 
-### Field Notes
-Impedrezene slows higher cognitive function, impairs coordination, and induces progressive drowsiness and Brain damage with sustained exposure. It is classified internally as a weapons-grade compound.
+Impedrezene slows higher cognitive function, impairs coordination, and induces progressive drowsiness and Brain damage with sustained exposure. It is classified internally as a weapons-grade compound. Practical medical use is limited; it sees occasional application in sedation protocols where Chloral Hydrate is unavailable, with a significant side effect profile.
 
-Practical medical use is limited. It sees occasional application in sedation protocols where Chloral Hydrate is unavailable, though with a significant side effect profile.
-
-At low concentrations: reduces motor jitter, causes mild drowsiness, slowly accumulates Brain damage.
-At prolonged exposure: drooling, incoherence, compounding Brain damage.
+At low concentrations: reduces motor jitter, causes mild drowsiness, slowly accumulates Brain damage. At prolonged exposure: drooling, incoherence, compounding Brain damage.
 
 Diona patients do not respond.
 
 **Yield note:** 3u of reagents yields only 2u of product. Scale accordingly.
 
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 5u | 3 | `Mercury,2.5,Oxygen,2.5,Sugar,2.5` |
-| 15u | 3 | `Mercury,7.5,Oxygen,7.5,Sugar,7.5` |
-| 30u | 3 | `Mercury,15,Oxygen,15,Sugar,15` |
-| 60u | 3 | `Mercury,30,Oxygen,30,Sugar,30` |
-| 120u | 3 | `Mercury,60,Oxygen,60,Sugar,60` |
+| Output | String |
+|--------|--------|
+| 5u | `Mercury,2.5,Oxygen,2.5,Sugar,2.5` |
+| 15u | `Mercury,7.5,Oxygen,7.5,Sugar,7.5` |
+| 30u | `Mercury,15,Oxygen,15,Sugar,15` |
+| 60u | `Mercury,30,Oxygen,30,Sugar,30` |
+| 120u | `Mercury,60,Oxygen,60,Sugar,60` |
 
 ---
 
-## MUTAGEN
-**Classification:** Genetic Mutagen
+## Mutagen
+
+**Classification:** Genetic Mutagen / Synthesis Precursor
 **Reaction:** `Radium,1 + Phosphorus,1 + Chlorine,1 → 3u` · Scale 1:1:1
 
-### Field Notes
-Mutagen induces random genetic mutations in organic subjects. Effect delivery varies by administration route: blood injection is most reliable, ingestion has a 67% trigger chance, and topical application only 33%.
+Mutagen induces random genetic mutations in organic subjects. Administration route affects delivery: blood injection is most reliable, ingestion has a 67% trigger chance, and topical application only 33%. Synthetic units are immune. Dionaea are unaffected.
 
-Synthetic units are immune. Dionaea are unaffected.
+Mutation outcomes are entirely unpredictable and range from cosmetic to debilitating. This compound should not be administered therapeutically. Its primary station use is as a precursor reagent in the synthesis of [Left4Zed](#left4zed).
 
-Mutation outcomes are entirely unpredictable and range from cosmetic to debilitating. This compound should not be administered therapeutically. Its primary function is as a precursor reagent in the synthesis of Left4Zed (see Section II).
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Radium,2,Phosphorus,2,Chlorine,2` |
-| 15u | 3 | `Radium,5,Phosphorus,5,Chlorine,5` |
-| 30u | 3 | `Radium,10,Phosphorus,10,Chlorine,10` |
-| 60u | 3 | `Radium,20,Phosphorus,20,Chlorine,20` |
-| 120u | 3 | `Radium,40,Phosphorus,40,Chlorine,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Radium,2,Phosphorus,2,Chlorine,2` |
+| 15u | `Radium,5,Phosphorus,5,Chlorine,5` |
+| 30u | `Radium,10,Phosphorus,10,Chlorine,10` |
+| 60u | `Radium,20,Phosphorus,20,Chlorine,20` |
+| 120u | `Radium,40,Phosphorus,40,Chlorine,40` |
 
 ---
 
-## CLARIDYL
+## Claridyl
+
 **Classification:** Analgesic / Stabilizer (Advanced)
 **Reaction:** `Lithium,1 + Radium,1 + Sugar,1 → 1u` · Scale 1:1:1 at 33% yield
 **OD threshold:** Effectively non-toxic at any practical dose
-**Metabolism rate:** Slow. Extended active duration
+**Metabolism rate:** Slow; extended active duration
 **Dermal absorption:** Full
 
-### Field Notes
 Claridyl is a high-potency analgesic and patient stabilizer. It provides the strongest stabilization and pain suppression available from this machine: roughly double Inaprovaline's stabilization strength and quadruple its analgesic effect. Extremely effective at keeping critical patients functional and alive under sustained injury.
 
-At therapeutic doses it very slowly repairs minor Brute damage; however, each unit repaired costs proportional Hallucination damage. Not a clean healer; it trades one problem for another.
+At therapeutic doses it very slowly repairs minor Brute damage; however, each unit repaired costs proportional Hallucination damage — it trades one problem for another.
 
-**Critical note for Tesshari (Tesh) personnel:** An extremely rare adverse reaction exists in which a single dose causes 50u of Toxic damage instantly. Document and flag any Tesh patients who have reported adverse reactions to Claridyl.
+**Critical note for Tesshari (Tesh) personnel:** An extremely rare adverse reaction exists in which a single dose causes 50u of Toxic damage instantly. Document and flag any Tesh patients who report adverse reactions to Claridyl.
 
-Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild dizziness) occur at low probability per cycle. Patients may report feeling "off."
+Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild dizziness) occur at low probability per cycle.
 
-**Yield note:** This is an inefficient reaction. 3u of reagents produces only 1u of product. A 60u bottle consumes 180u of feedstock.
+**Yield note:** 3u of reagents produces only 1u of product. A 60u bottle consumes 180u of feedstock.
 
-### Import Strings
+| Output | String |
+|--------|--------|
+| 5u | `Lithium,5,Radium,5,Sugar,5` |
+| 15u | `Lithium,15,Radium,15,Sugar,15` |
+| 30u | `Lithium,30,Radium,30,Sugar,30` |
+| 60u | `Lithium,60,Radium,60,Sugar,60` |
+| 120u | `Lithium,120,Radium,120,Sugar,120` |
 
-| Output | Steps | String |
-|--------|-------|--------|
-| 5u | 3 | `Lithium,5,Radium,5,Sugar,5` |
-| 15u | 3 | `Lithium,15,Radium,15,Sugar,15` |
-| 30u | 3 | `Lithium,30,Radium,30,Sugar,30` |
-| 60u | 3 | `Lithium,60,Radium,60,Sugar,60` |
-| 120u | 3 | `Lithium,120,Radium,120,Sugar,120` |
-
-> 120u batch consumes 360u total feedstock, within the machine's vessel limit, but allow time for Lithium, Radium, and Sugar cartridge recharge.
+> 120u batch consumes 360u total feedstock. Allow time for Lithium, Radium, and Sugar cartridge recharge.
 
 ---
 
-## BLISS
+## Bliss
+
 **Classification:** Psychoactive / Controlled Substance
 **Reaction:** `Mercury,1 + Sugar,1 + Lithium,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
 
-### Field Notes
-Bliss is a psychoactive compound producing a pronounced euphoric high, disorientation, and periodic involuntary movement and emotional expression. Subjects experience elevated mood, perceptual distortion, and reduced inhibition.
+Bliss is a psychoactive compound producing a pronounced euphoric high, disorientation, and periodic involuntary movement and emotional expression. Subjects experience elevated mood, perceptual distortion, and reduced inhibition. Overdose causes hallucinations and accumulates Brain damage and Toxic damage per cycle.
 
-**Overdose:** Causes hallucinations and accumulates Brain damage and Toxic damage per cycle. Extended overdose is harmful and potentially fatal.
+Prometheans experience significantly reduced effect due to biochemical resistance to toxin-class compounds. Diona patients do not respond. No therapeutic application; synthesis documented for completeness.
 
-Prometheans experience significantly reduced effect due to biochemical resistance to toxin-class compounds.
-
-Diona patients do not respond.
-
-No therapeutic application. Synthesis documented for completeness.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Mercury,2,Sugar,2,Lithium,2` |
-| 15u | 3 | `Mercury,5,Sugar,5,Lithium,5` |
-| 30u | 3 | `Mercury,10,Sugar,10,Lithium,10` |
-| 60u | 3 | `Mercury,20,Sugar,20,Lithium,20` |
-| 120u | 3 | `Mercury,40,Sugar,40,Lithium,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Mercury,2,Sugar,2,Lithium,2` |
+| 15u | `Mercury,5,Sugar,5,Lithium,5` |
+| 30u | `Mercury,10,Sugar,10,Lithium,10` |
+| 60u | `Mercury,20,Sugar,20,Lithium,20` |
+| 120u | `Mercury,40,Sugar,40,Lithium,40` |
 
 ---
 
-## APHRODISIAC
+## Aphrodisiac
+
 **Classification:** Pheromone Agent
 **Reaction:** `Carbon,2 + Hydrogen,2 + Oxygen,2 + Water,1 → 6u` · Scale 2:2:2:1 at 86% yield
 
-### Field Notes
-Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical response is subtle: occasional involuntary expression. No therapeutic or emergency medical value. No damage profile. Synthesis documented for completeness.
+Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical response is subtle. No therapeutic or emergency medical value; no damage profile. Synthesis documented for completeness.
 
 **Yield note:** 7u of feedstock yields 6u of product.
 
-### Import Strings
+| Output | String |
+|--------|--------|
+| 6u | `Carbon,2,Hydrogen,2,Oxygen,2,Water,1` |
+| ~18u | `Carbon,6,Hydrogen,6,Oxygen,6,Water,3` |
+| 30u | `Carbon,10,Hydrogen,10,Oxygen,10,Water,5` |
+| 60u | `Carbon,20,Hydrogen,20,Oxygen,20,Water,10` |
+| 120u | `Carbon,40,Hydrogen,40,Oxygen,40,Water,20` |
 
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 4 | `Carbon,2,Hydrogen,2,Oxygen,2,Water,1` |
-| ~18u | 4 | `Carbon,6,Hydrogen,6,Oxygen,6,Water,3` |
-| 30u | 4 | `Carbon,10,Hydrogen,10,Oxygen,10,Water,5` |
-| 60u | 4 | `Carbon,20,Hydrogen,20,Oxygen,20,Water,10` |
-| 120u | 4 | `Carbon,40,Hydrogen,40,Oxygen,40,Water,20` |
-
-> 15u is not achievable in clean integers. Nearest batches: 12u (`Carbon,4,Hydrogen,4,Oxygen,4,Water,2`) or 18u (`Carbon,6,Hydrogen,6,Oxygen,6,Water,3`).
+> 15u is not achievable in clean integers. Nearest batches: 12u (`Carbon,4,Hydrogen,4,Oxygen,4,Water,2`) or 18u.
 
 ---
 
-## CRYPTOBIOLIN
+## Cryptobiolin
+
 **Classification:** Vestibular Disruptor / Incapacitant
 **Reaction:** `Potassium,1 + Oxygen,1 + Sugar,1 → 3u` · Scale 1:1:1
 **OD threshold:** 30u
-**Metabolism rate:** Fast. Effects are short-lived
+**Metabolism rate:** Fast; effects are short-lived.
 
-### Field Notes
-Cryptobiolin is a vestibular disruption agent. It induces dizziness and cognitive confusion in affected subjects, with effect strength scaling to species toxin sensitivity.
+Cryptobiolin is a vestibular disruption agent. It induces dizziness and cognitive confusion in affected subjects, with effect strength scaling to species toxin sensitivity. Prometheans experience significantly reduced effect. Diona patients do not respond. No medical use.
 
-Prometheans experience significantly reduced effect.
-Diona patients do not respond.
-
-No medical use. Its fast processing rate means effects are relatively brief compared to slow-metabolising sedatives.
-
-### Import Strings
-
-| Output | Steps | String |
-|--------|-------|--------|
-| 6u | 3 | `Potassium,2,Oxygen,2,Sugar,2` |
-| 15u | 3 | `Potassium,5,Oxygen,5,Sugar,5` |
-| 30u | 3 | `Potassium,10,Oxygen,10,Sugar,10` |
-| 60u | 3 | `Potassium,20,Oxygen,20,Sugar,20` |
-| 120u | 3 | `Potassium,40,Oxygen,40,Sugar,40` |
+| Output | String |
+|--------|--------|
+| 6u | `Potassium,2,Oxygen,2,Sugar,2` |
+| 15u | `Potassium,5,Oxygen,5,Sugar,5` |
+| 30u | `Potassium,10,Oxygen,10,Sugar,10` |
+| 60u | `Potassium,20,Oxygen,20,Sugar,20` |
+| 120u | `Potassium,40,Oxygen,40,Sugar,40` |
 
 ---
 
----
+## Section II: Chained Synthesis
 
-# SECTION II: CHAINED SYNTHESIS (Multi-Step, Single Recipe)
-
-The reactions below require intermediates that can be generated *within the same recipe* by supplying all feedstock at once. The synthesizer vessel allows reactions to chain automatically. Do not attempt to manually separate steps. Add all ingredients in a single recipe run.
+The reactions below require intermediates that can be generated within the same recipe by supplying all feedstock at once. The synthesizer vessel allows reactions to chain automatically. All ingredients are added in a single recipe run; do not attempt to manually separate steps.
 
 > **Inhibitor reminder:** Ammonia synthesis is blocked by Phoron. If the catalyst slot contains Phoron, disable catalyst use before running these recipes.
 
 ---
 
-## AMMONIA (Intermediate)
+## Ammonia
+
 **Classification:** Industrial Precursor / Fertilizer Base
 **Reaction:** `Hydrogen,3 + Nitrogen,1 → 3u` · Scale 3:1
 
-Not directly useful for most personnel. Produced as an intermediate in Space Cleaner and Diethylamine synthesis. If needed standalone:
+Not directly useful for most personnel. Produced as an intermediate in Space Cleaner and Diethylamine synthesis.
 
-| Output | Steps | String |
-|--------|-------|--------|
-| 15u | 2 | `Hydrogen,15,Nitrogen,5` |
-| 30u | 2 | `Hydrogen,30,Nitrogen,10` |
-| 60u | 2 | `Hydrogen,60,Nitrogen,20` |
+| Output | String |
+|--------|--------|
+| 15u | `Hydrogen,15,Nitrogen,5` |
+| 30u | `Hydrogen,30,Nitrogen,10` |
+| 60u | `Hydrogen,60,Nitrogen,20` |
 
 ---
 
-## SPACE CLEANER
+## Space Cleaner
+
 **Classification:** Industrial Cleaning Agent
-**Chain:** `3H + 1N → 3u Ammonia` → `Ammonia + Water → 2u Space Cleaner`
+**Chain:** `3H + 1N → Ammonia` → `Ammonia + Water → 2u Space Cleaner`
 **Net ratio:** H×1 + N×(1/3) + Water×1 per unit of output
 
-Space Cleaner decontaminates surfaces, objects, and personnel of most biological and chemical residue. It will extinguish lit smoking articles on contact with subjects. Effective against Macrophage viral entities (20 Toxic on contact).
+Space Cleaner decontaminates surfaces, objects, and personnel of most biological and chemical residue. It extinguishes lit smoking articles on contact with subjects and is effective against Macrophage viral entities (20 Toxic on contact).
 
-**Single-recipe chaining works:** Add Hydrogen, Nitrogen, and Water together. Hydrogen and Nitrogen react first to form Ammonia, which immediately reacts with Water to form Space Cleaner.
+Adding Hydrogen, Nitrogen, and Water together in one recipe causes them to chain automatically: Hydrogen and Nitrogen react first to form Ammonia, which immediately reacts with Water to form Space Cleaner.
 
-| Output | Steps | String |
-|--------|-------|--------|
-| ~15u | 3 | `Hydrogen,7.5,Nitrogen,2.5,Water,7.5` |
-| 30u | 3 | `Hydrogen,15,Nitrogen,5,Water,15` |
-| 60u | 3 | `Hydrogen,30,Nitrogen,10,Water,30` |
-| 120u | 3 | `Hydrogen,60,Nitrogen,20,Water,60` |
+| Output | String |
+|--------|--------|
+| ~15u | `Hydrogen,7.5,Nitrogen,2.5,Water,7.5` |
+| 30u | `Hydrogen,15,Nitrogen,5,Water,15` |
+| 60u | `Hydrogen,30,Nitrogen,10,Water,30` |
+| 120u | `Hydrogen,60,Nitrogen,20,Water,60` |
 
 ---
 
-## DIETHYLAMINE
-**Classification:** Chemistry Precursor
-**Chain:** `3H + 1N → 3u Ammonia` → `Ammonia + Ethanol → 2u Diethylamine`
+## Diethylamine
+
+**Classification:** Synthesis Precursor
+**Chain:** `3H + 1N → Ammonia` → `Ammonia + Ethanol → 2u Diethylamine`
 **Net ratio:** H×1 + N×(1/3) + Ethanol×1 per unit of output
 
 Diethylamine is a secondary amine with mild corrosive properties and no direct therapeutic use. It is the primary intermediary required for Left4Zed synthesis and several advanced compounds not producible on this machine.
 
-| Output | Steps | String |
-|--------|-------|--------|
-| ~15u | 3 | `Hydrogen,7.5,Nitrogen,2.5,Ethanol,7.5` |
-| 30u | 3 | `Hydrogen,15,Nitrogen,5,Ethanol,15` |
-| 60u | 3 | `Hydrogen,30,Nitrogen,10,Ethanol,30` |
-| 120u | 3 | `Hydrogen,60,Nitrogen,20,Ethanol,60` |
+| Output | String |
+|--------|--------|
+| ~15u | `Hydrogen,7.5,Nitrogen,2.5,Ethanol,7.5` |
+| 30u | `Hydrogen,15,Nitrogen,5,Ethanol,15` |
+| 60u | `Hydrogen,30,Nitrogen,10,Ethanol,30` |
+| 120u | `Hydrogen,60,Nitrogen,20,Ethanol,60` |
 
 ---
 
-## LEFT4ZED
+## Left4Zed
+
 **Classification:** Hydroponics Fertilizer
 **Chain:** `3H + 1N → Ammonia` → `Ammonia + Ethanol → Diethylamine` → `2 Diethylamine + Mutagen → 3u Left4Zed`
 **Parallel chain:** `Radium + Phosphorus + Chlorine → Mutagen` (runs simultaneously)
 **Net ratio (per 9u output):** H×3, N×1, Ethanol×3, Radium×1, Phosphorus×1, Chlorine×1
 
-Left4Zed is a hydroponics plant fertilizer. In the bloodstream it acts as a mild toxin. Personnel should not consume it intentionally. Its primary station use is accelerating plant growth cycles in the hydroponics bay.
+Left4Zed is a hydroponics plant fertilizer that accelerates plant growth cycles in the hydroponics bay. In the bloodstream it acts as a mild toxin; personnel should not consume it intentionally.
 
 **Batch sizing note:** Clean integer batches occur only at multiples of 9u due to the 3:1 Hydrogen:Nitrogen ratio and 2:1 Diethylamine:Mutagen ratio.
 
-| Output | Steps | String |
-|--------|-------|--------|
-| 9u | 6 | `Hydrogen,3,Nitrogen,1,Ethanol,3,Radium,1,Phosphorus,1,Chlorine,1` |
-| ~27u | 6 | `Hydrogen,9,Nitrogen,3,Ethanol,9,Radium,3,Phosphorus,3,Chlorine,3` |
-| ~63u | 6 | `Hydrogen,21,Nitrogen,7,Ethanol,21,Radium,7,Phosphorus,7,Chlorine,7` |
-| ~126u | 6 | `Hydrogen,42,Nitrogen,14,Ethanol,42,Radium,14,Phosphorus,14,Chlorine,14` |
+| Output | String |
+|--------|--------|
+| 9u | `Hydrogen,3,Nitrogen,1,Ethanol,3,Radium,1,Phosphorus,1,Chlorine,1` |
+| ~27u | `Hydrogen,9,Nitrogen,3,Ethanol,9,Radium,3,Phosphorus,3,Chlorine,3` |
+| ~63u | `Hydrogen,21,Nitrogen,7,Ethanol,21,Radium,7,Phosphorus,7,Chlorine,7` |
+| ~126u | `Hydrogen,42,Nitrogen,14,Ethanol,42,Radium,14,Phosphorus,14,Chlorine,14` |
 
 > Nearest to 30u is 27u. Nearest to 60u is 63u. Nearest to 120u is 126u.
 
 ---
 
----
-
-# SECTION III: ENGINEERING / INDUSTRIAL
+## Section III: Engineering / Industrial
 
 ---
 
-## SILICATE
+## Silicate
+
 **Classification:** Glass Reinforcement Agent
 **Reaction:** `Aluminium,1 + Silicon,1 + Oxygen,1 → 3u` · Scale 1:1:1
 
 Silicate is applied topically to window structures to reinforce them against impact and damage. It has no effect when administered to personnel.
 
-| Output | Steps | String |
-|--------|-------|--------|
-| 15u | 3 | `Aluminium,5,Silicon,5,Oxygen,5` |
-| 30u | 3 | `Aluminium,10,Silicon,10,Oxygen,10` |
-| 60u | 3 | `Aluminium,20,Silicon,20,Oxygen,20` |
-| 120u | 3 | `Aluminium,40,Silicon,40,Oxygen,40` |
+| Output | String |
+|--------|--------|
+| 15u | `Aluminium,5,Silicon,5,Oxygen,5` |
+| 30u | `Aluminium,10,Silicon,10,Oxygen,10` |
+| 60u | `Aluminium,20,Silicon,20,Oxygen,20` |
+| 120u | `Aluminium,40,Silicon,40,Oxygen,40` |
 
 ---
 
----
-
-# SECTION IV: NOT ACHIEVABLE ON THIS MACHINE
+## Section IV: Not Achievable on This Machine
 
 | Compound | Reason |
 |----------|--------|
-| Leporazine | Requires Phoron as catalyst. Not in base supply. |
-| Mead | Requires Enzyme catalyst. Not in base supply. |
-| Hooch | Requires Fuel. Not in base supply. |
-| Manlydorf | Requires Beer and Ale. Not producible. |
-| Matcha Latte | Requires Matcha Powder and Milk. Not producible. |
-| RobustHarvest | Requires Neurotoxic Protein. Not producible. |
+| Leporazine | Requires Phoron as catalyst; not in base supply |
+| Mead | Requires Enzyme catalyst; not in base supply |
+| Hooch | Requires Fuel; not in base supply |
+| Manlydorf | Requires Beer and Ale; not producible |
+| Matcha Latte | Requires Matcha Powder and Milk; not producible |
+| RobustHarvest | Requires Neurotoxic Protein; not producible |
 | Most advanced compounds | Require Phoron catalyst, Plasticide, or brewed alcohol |
 
 ---
 
-# APPENDIX A: Inhibitor Reference
+## Appendix A: Inhibitor Reference
 
-Reactions that silently fail if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted. No output, no indication of failure. Rinse between batches if reusing the vessel.
+Reactions that fail silently if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted — no output, no indication of failure. Rinse between batches if reusing the vessel.
 
 | Compound | Blocked By |
 |----------|------------|
@@ -476,7 +497,9 @@ Reactions that silently fail if these chemicals are present in the vessel. A fai
 
 ---
 
-# APPENDIX B: Catalyst Reference
+## Appendix B: Catalyst Reference
+
+<img src="../../assets/chem_cartridge.png" width="48" align="right">
 
 Catalysts are loaded into the catalyst slot and returned to it after each recipe completes. They are not consumed in synthesis.
 
@@ -486,7 +509,7 @@ Catalysts are loaded into the catalyst slot and returned to it after each recipe
 | Leporazine | Phoron | No |
 | Mead | Enzyme | No |
 
-> To run Fire Foam production: load 10u Fluorine into the catalyst bottle, seat it in the machine, enable catalyst use, then queue recipes using only Water as the synthesis ingredient. Fluorine is extracted and re-seated between each run automatically.
+To produce Fire Foam: load 10u Fluorine into the catalyst bottle, seat it in the machine, enable catalyst use, then queue recipes using only Water as the synthesis ingredient. Fluorine is extracted and re-seated between each run automatically.
 
 ---
 
