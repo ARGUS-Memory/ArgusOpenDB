@@ -55,3 +55,9 @@ This EM-resistance technology attracted significant interest from the Terran Fed
 ## Station Roles
 
 Vulpkanin are commonly employed as engineers and scientists. Their inclination toward collaborative group effort and precise material management makes them effective contributors to technical project teams. They also serve as security officers and wardens, where the pack-hierarchical mindset translates well to structured security environments. Leadership positions are less common, reflecting the rarity of alpha-disposition individuals within the population.
+
+---
+
+## Notable Biological Vulnerabilities
+
+Field observation indicates that exposure to biofuel processing conditions is harmful to vulpkanin survival. The biological mechanisms underlying this sensitivity are not fully documented, but the pattern is consistent enough to warrant recording.
