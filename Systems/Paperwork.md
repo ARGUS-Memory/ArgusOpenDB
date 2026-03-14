@@ -42,7 +42,7 @@ Paper can accept stamps while writing is in progress. Stamps added before text i
 
 ## Stamps
 
-Stamps are applied by pressing a held stamp against a paper or paper bundle. Each stamp leaves a visible impression on the document and records the stamp type.
+Stamps are applied by pressing a held stamp against a paper or paper bundle. Each stamp leaves a visible impression on the document.
 
 The following stamps are available on station:
 
