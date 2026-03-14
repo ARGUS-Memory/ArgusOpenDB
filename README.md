@@ -26,6 +26,7 @@ Technical documentation on station infrastructure and machinery.
 - [Mail System](Systems/MailSystem.md)
 - [Paperwork System](Systems/Paperwork.md)
 - [Surgery](Systems/Surgery.md)
+- [Supermatter Engine](Systems/SupermatterEngine.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
