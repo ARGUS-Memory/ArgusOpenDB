@@ -99,6 +99,7 @@ Records on corporations, factions, and governing bodies operating in known space
 | Document | Summary |
 |---|---|
 | [Documentation Standards](STANDARDS.md) | Formatting conventions and contribution standards for database entries |
+| [Department Colors](Meta/DepartmentColors.md) | Official hex and RGB color values for each station department, used in map highlighting and visual references |
 
 ---
 

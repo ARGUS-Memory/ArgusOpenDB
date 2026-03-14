@@ -14,7 +14,7 @@ Southern Cross is a compact purpose-built space station. Unlike the asteroid-emb
 
 Primary station level. Contains the main inhabited areas, departmental offices, and primary access corridors. Solar arrays extend to port and starboard on this level.
 
-![Southern Cross Deck 1](maps/southern_cross-1.png)
+![Southern Cross Deck 1](../../../assets/maps/SouthernCross/overview/deck1.png)
 
 ---
 
@@ -22,7 +22,7 @@ Primary station level. Contains the main inhabited areas, departmental offices, 
 
 Third station level. Contains additional departmental and engineering infrastructure.
 
-![Southern Cross Deck 3](maps/southern_cross-3.png)
+![Southern Cross Deck 3](../../../assets/maps/SouthernCross/overview/deck3.png)
 
 ---
 
@@ -30,7 +30,7 @@ Third station level. Contains additional departmental and engineering infrastruc
 
 Solar array fields and open space surrounding the station exterior.
 
-![Southern Cross Solars](maps/southern_cross-4.png)
+![Southern Cross Solars](../../../assets/maps/SouthernCross/overview/solars.png)
 
 ---
 
@@ -38,7 +38,7 @@ Solar array fields and open space surrounding the station exterior.
 
 Mining and surface operations level.
 
-![Southern Cross Surface Mines](maps/southern_cross-6.png)
+![Southern Cross Surface Mines](../../../assets/maps/SouthernCross/overview/surface_mines.png)
 
 ---
 

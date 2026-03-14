@@ -14,7 +14,7 @@ Cetus is an asteroid-excavated station. The station interior is carved into and 
 
 Main inhabited level. Contains the primary departments: medical, science, command, security, and crew quarters. The asteroid exterior wraps the station body on this level; maintenance corridors follow the rock contour.
 
-![Cetus Deck 1](maps/cetus-1.png)
+![Cetus Deck 1](../../../assets/maps/Cetus/overview/deck1.png)
 
 ---
 
@@ -22,7 +22,7 @@ Main inhabited level. Contains the primary departments: medical, science, comman
 
 Secondary station level. Contains additional departmental areas, maintenance infrastructure, and engineering systems including the supermatter engine.
 
-![Cetus Deck 2](maps/cetus-2.png)
+![Cetus Deck 2](../../../assets/maps/Cetus/overview/deck2.png)
 
 ---
 
@@ -30,7 +30,7 @@ Secondary station level. Contains additional departmental areas, maintenance inf
 
 Third station level. Contains storage, additional maintenance access, and lower engineering infrastructure.
 
-![Cetus Deck 3](maps/cetus-3.png)
+![Cetus Deck 3](../../../assets/maps/Cetus/overview/deck3.png)
 
 ---
 
@@ -40,7 +40,7 @@ Third station level. Contains storage, additional maintenance access, and lower 
 
 The asteroid exterior and surface installations. Access points to the surface from the main station body are located here. Surface suits required.
 
-![Cetus Surface](maps/cetus-6.png)
+![Cetus Surface](../../../assets/maps/Cetus/overview/surface.png)
 
 ---
 
@@ -48,7 +48,7 @@ The asteroid exterior and surface installations. Access points to the surface fr
 
 Active mining tunnels and excavation areas within the asteroid.
 
-![Cetus Surface Mines](maps/cetus-7.png)
+![Cetus Surface Mines](../../../assets/maps/Cetus/overview/surface_mines.png)
 
 ---
 
@@ -56,7 +56,7 @@ Active mining tunnels and excavation areas within the asteroid.
 
 Unexcavated or wilderness regions of the asteroid exterior.
 
-![Cetus Surface Wilds](maps/cetus-8.png)
+![Cetus Surface Wilds](../../../assets/maps/Cetus/overview/surface_wilds.png)
 
 ---
 
