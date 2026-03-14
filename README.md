@@ -24,6 +24,7 @@ Technical documentation on station infrastructure and machinery.
 - [Borg Sleeper Systems](Systems/BorgSleepers.md)
 - [Research & Development System](Systems/ResearchSystem.md)
 - [Mail System](Systems/MailSystem.md)
+- [Paperwork System](Systems/Paperwork.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
