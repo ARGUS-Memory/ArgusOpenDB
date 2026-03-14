@@ -144,7 +144,9 @@ The crystal emits continuous ionizing radiation. At minimum power the ambient do
 
 <img src="../../assets/sm_collector.png" width="64" align="right">
 
-**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels. Connecting collectors is a standard part of engine room commissioning.
+**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels.
+
+Radiation collectors are not stocked in engineering storage on this station. They can be requisitioned through Cargo or located on the SIF.
 
 ### Delamination Burst
 
