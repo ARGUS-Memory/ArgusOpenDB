@@ -34,13 +34,14 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 |---|---|
 | [Research & Development System](Systems/Science/ResearchSystem.md) | R&D console operation, technology unlocks, and research point allocation |
 | [Nanite Implant Framework](Systems/Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
+| [Borg Sleeper Systems](Systems/Science/BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
 
 ### Medical
 
 | Document | Summary |
 |---|---|
 | [Surgery](Systems/Medical/Surgery.md) | Surgical procedures, tool requirements, and patient preparation |
-| [Borg Sleeper Systems](Systems/Medical/BorgSleepers.md) | Sleeper unit operation, patient intake, and integrated treatment protocols |
+| [Medical Sleeper Pod](Systems/Medical/Sleepers.md) | Stasis operation, chemical inventory, dialysis, and treatment procedures |
 | [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
 
 ### Cargo
