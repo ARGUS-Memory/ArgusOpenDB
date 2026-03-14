@@ -1,6 +1,6 @@
 # Surgery
 
-<img src="../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Medical procedures for treating internal injuries, repairing damaged tissue, managing organs and limbs, and servicing both organic and synthetic patients.
 
@@ -30,20 +30,20 @@ Surgical tools are stocked in the medical locker and surgical preparation area. 
 
 | | | | |
 |:---:|---|:---:|---|
-| <img src="../assets/tool_scalpel.png" width="48"> | **Scalpel** -- Creating incisions; detaching organs | <img src="../assets/tool_hemostat.png" width="48"> | **Hemostat** -- Clamping bleeders; extracting tissue |
-| <img src="../assets/tool_retractor.png" width="48"> | **Retractor** -- Retracting flesh to expose the interior | <img src="../assets/tool_cautery.png" width="48"> | **Cautery** -- Sealing incisions |
-| <img src="../assets/tool_saw.png" width="48"> | **Circular saw** -- Amputation; bone cutting | <img src="../assets/tool_bone_gel.png" width="48"> | **Bone gel** -- Bonding and finishing fracture repairs |
-| <img src="../assets/tool_bone_setter.png" width="48"> | **Bone setter** -- Setting displaced bones | <img src="../assets/tool_drill.png" width="48"> | **Surgical drill** -- Creating cavities; vertebral drilling |
-| <img src="../assets/tool_bone_clamp.png" width="48"> | **Bone clamp** -- Single-step fracture repair | <img src="../assets/tool_fixovein.png" width="48"> | **FixOVein** -- Repairing blood vessels and internal bleeding |
-| <img src="../assets/tool_bioregen.png" width="48"> | **Bioregen** -- Restoring tissue; detoxification | <img src="../assets/tool_nanopaste.png" width="48"> | **Nanopaste** -- Repairing robotic organs and components |
+| <img src="../../assets/tool_scalpel.png" width="48"> | **Scalpel** -- Creating incisions; detaching organs | <img src="../../assets/tool_hemostat.png" width="48"> | **Hemostat** -- Clamping bleeders; extracting tissue |
+| <img src="../../assets/tool_retractor.png" width="48"> | **Retractor** -- Retracting flesh to expose the interior | <img src="../../assets/tool_cautery.png" width="48"> | **Cautery** -- Sealing incisions |
+| <img src="../../assets/tool_saw.png" width="48"> | **Circular saw** -- Amputation; bone cutting | <img src="../../assets/tool_bone_gel.png" width="48"> | **Bone gel** -- Bonding and finishing fracture repairs |
+| <img src="../../assets/tool_bone_setter.png" width="48"> | **Bone setter** -- Setting displaced bones | <img src="../../assets/tool_drill.png" width="48"> | **Surgical drill** -- Creating cavities; vertebral drilling |
+| <img src="../../assets/tool_bone_clamp.png" width="48"> | **Bone clamp** -- Single-step fracture repair | <img src="../../assets/tool_fixovein.png" width="48"> | **FixOVein** -- Repairing blood vessels and internal bleeding |
+| <img src="../../assets/tool_bioregen.png" width="48"> | **Bioregen** -- Restoring tissue; detoxification | <img src="../../assets/tool_nanopaste.png" width="48"> | **Nanopaste** -- Repairing robotic organs and components |
 
 ### Scalpel Variants
 
 | | Scalpel | | Scalpel |
 |:---:|---|:---:|---|
-| <img src="../assets/tool_scalpel.png" width="48"> | Standard | <img src="../assets/tool_scalpel_laser1.png" width="48"> | Laser (tier 1) |
-| <img src="../assets/tool_scalpel_laser2.png" width="48"> | Laser (tier 2) | <img src="../assets/tool_scalpel_laser3.png" width="48"> | Laser (tier 3) |
-| <img src="../assets/tool_scalpel_manager.png" width="48"> | Incision manager | | |
+| <img src="../../assets/tool_scalpel.png" width="48"> | Standard | <img src="../../assets/tool_scalpel_laser1.png" width="48"> | Laser (tier 1) |
+| <img src="../../assets/tool_scalpel_laser2.png" width="48"> | Laser (tier 2) | <img src="../../assets/tool_scalpel_laser3.png" width="48"> | Laser (tier 3) |
+| <img src="../../assets/tool_scalpel_manager.png" width="48"> | Incision manager | | |
 
 Laser scalpels produce bloodless incisions and may reduce subsequent bleeding. The incision manager performs the incision and retraction in a single step.
 

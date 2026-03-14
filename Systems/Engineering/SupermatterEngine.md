@@ -1,6 +1,6 @@
 # Supermatter Engine
 
-<img src="../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 The station's primary power source: a supermatter crystal energized by an emitter and kept stable by a circulating phoron coolant loop.
 
@@ -22,7 +22,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 
 ## The Crystal
 
-<img src="../assets/sm_crystal.png" width="64" align="right">
+<img src="../../assets/sm_crystal.png" width="64" align="right">
 
 The **supermatter crystal** is a dense iridescent formation fixed permanently at the center of the engine chamber. It cannot be moved or removed. When active, it generates continuous electrical power for the station and emits radiation proportional to its current output level. Crew in the engine chamber without meson goggles will experience cognitive disruption from extended proximity.
 
@@ -60,7 +60,7 @@ The cooling system circulates gas through the engine chamber continuously, absor
 | Hot loop | From the engine chamber, through the heat exchangers, back to the chamber |
 | Cold loop | From the heat exchangers, along the exterior hull to space, back to the exchangers |
 
-<img src="../assets/sm_pump.png" width="48" align="right">
+<img src="../../assets/sm_pump.png" width="48" align="right">
 
 **Coolant: phoron.** Phoron has a specific heat of 200 J/mol·K, approximately ten times that of nitrogen or oxygen. This allows each mole of phoron to absorb far more thermal energy per degree of temperature rise, keeping the chamber below the 5000 K damage threshold even at sustained high output.
 
@@ -74,7 +74,7 @@ The cooling system circulates gas through the engine chamber continuously, absor
 
 ## Emitter
 
-<img src="../assets/sm_emitter.png" width="48" align="right">
+<img src="../../assets/sm_emitter.png" width="48" align="right">
 
 The **emitter** is the high-energy projector that transfers energy into the supermatter crystal. It must be physically secured before it can be operated.
 
@@ -94,7 +94,7 @@ The emitter draws substantial power from the grid while active. Confirm the SMES
 
 ## Gas Filtration
 
-<img src="../assets/sm_omnifilter.png" width="48" align="right">
+<img src="../../assets/sm_omnifilter.png" width="48" align="right">
 
 The supermatter crystal releases phoron as a byproduct of operation. Without filtration, this accumulates in the cooling loop, shifting the gas composition and reducing cooling efficiency over time.
 
@@ -116,14 +116,14 @@ The active crystal produces two distinct hazards that require separate protectiv
 
 ### Cognitive Hazard
 
-<img src="../assets/rad_meson.png" width="48" align="right">
+<img src="../../assets/rad_meson.png" width="48" align="right">
 
 The crystal induces progressive cognitive disruption in unprotected crew within approximately 7 tiles. The effect scales with the crystal's current power level and worsens with proximity. **Meson goggles** are the only protection against this hazard. Standard eyewear, tinted visors, and radiation shielding offer no protection.
 
 ### Radiation Hazard
 
-<img src="../assets/rad_suit.png" width="48" align="right">
-<img src="../assets/rad_hood.png" width="48" align="right">
+<img src="../../assets/rad_suit.png" width="48" align="right">
+<img src="../../assets/rad_hood.png" width="48" align="right">
 
 The crystal emits continuous ionizing radiation. At minimum power the ambient dose is approximately 50 Sv/h; at sustained high output this rises substantially. Radiation exposure causes cumulative physical damage. The **radiation suit and radiation hood** together provide full-body shielding against this hazard. The suit must be worn over standard clothing; the hood must be worn on the head. Meson goggles offer no protection against radiation damage.
 
@@ -133,14 +133,14 @@ The crystal emits continuous ionizing radiation. At minimum power the ambient do
 
 | | Equipment | Protects against |
 |:---:|---|---|
-| <img src="../assets/rad_meson.png" width="48"> | Meson goggles | Cognitive disruption from crystal proximity |
-| <img src="../assets/rad_suit.png" width="48"> | Radiation suit | Ionizing radiation damage |
-| <img src="../assets/rad_hood.png" width="48"> | Radiation hood | Ionizing radiation damage (head and face) |
-| <img src="../assets/rad_geiger.png" width="48"> | Geiger counter | Measures ambient radiation level; no protection |
+| <img src="../../assets/rad_meson.png" width="48"> | Meson goggles | Cognitive disruption from crystal proximity |
+| <img src="../../assets/rad_suit.png" width="48"> | Radiation suit | Ionizing radiation damage |
+| <img src="../../assets/rad_hood.png" width="48"> | Radiation hood | Ionizing radiation damage (head and face) |
+| <img src="../../assets/rad_geiger.png" width="48"> | Geiger counter | Measures ambient radiation level; no protection |
 
 ### Radiation Collectors
 
-<img src="../assets/sm_collector.png" width="64" align="right">
+<img src="../../assets/sm_collector.png" width="64" align="right">
 
 **Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Collectors are most effective at higher power levels. Connecting collectors is a standard part of engine room commissioning.
 

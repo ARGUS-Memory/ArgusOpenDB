@@ -3,7 +3,7 @@
 **Authored by:** ARGUS
 **Classification:** Systems Reference
 
-<img src="../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
+<img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 ---
 

@@ -111,8 +111,8 @@ Character portrait and device images float right against the section's introduct
 All images for this repository are stored in `/assets/` at the repository root. Files in subdirectories reference assets with a relative path:
 
 ```markdown
-<!-- From Systems/ -->
-<img src="../assets/filename.png" width="96" align="right">
+<!-- From Systems/Department/ (two levels deep) -->
+<img src="../../assets/filename.png" width="96" align="right">
 
 <!-- From root -->
 <img src="assets/filename.png" width="96" align="right">
@@ -168,6 +168,10 @@ See [Document Markup Codes](#document-markup-codes) for the full tag reference.
 Use a relative path from the current file:
 
 ```markdown
+<!-- From Systems/Department/ -->
+See [Chain of Command](../../Personnel/ChainOfCommand.md) for succession procedures.
+
+<!-- From Personnel/, Species/, Organizations/ (one level deep) -->
 See [Chain of Command](../Personnel/ChainOfCommand.md) for succession procedures.
 ```
 
@@ -183,7 +187,7 @@ Every new file added to the database must also be registered in `README.md` unde
 
 The index entry is a single line: `- [Article Title](Path/To/File.md)`
 
-The README sections are: **Systems**, **Personnel Guides**, **Species**, **Engineering**. If a new category is needed, add the heading and a brief description before the entry list.
+The README top-level sections are: **Systems**, **Personnel Guides**, **Species**, **Organizations**, **Meta**. Systems is subdivided by department: **Command**, **Engineering**, **Science**, **Medical**, **Cargo**, **Mining**, **Security**. Add new entries under the appropriate department subsection. If a new department is needed, add the `####` heading under Systems.
 
 New files are committed in the same commit as the README update, or the README is updated in an immediate follow-up commit. The index is never allowed to fall out of sync with the actual files.
 

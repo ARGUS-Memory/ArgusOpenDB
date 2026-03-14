@@ -36,13 +36,13 @@ The Research module belly. Designed for deep scientific analysis through destruc
 | **Start drain** | 100 charge |
 | **Med sensor** | No |
 
-<img src="../assets/raptor_idle_south.png" alt="ARGUS — standard configuration" width="80"/> <img src="../assets/raptor_sleeper_idle_south.png" alt="ARGUS — belly occupied" width="80"/>
+<img src="../../assets/raptor_idle_south.png" alt="ARGUS — standard configuration" width="80"/> <img src="../../assets/raptor_sleeper_idle_south.png" alt="ARGUS — belly occupied" width="80"/>
 
 *Left: ARGUS in standard configuration. Right: Digestive Analyzer occupied.*
 
 > The animated walk cycle with an occupied belly:
 >
-> ![ARGUS walking — empty](../assets/raptor_walk_south.gif) ![ARGUS walking — belly occupied](../assets/raptor_sleeper_walk_south.gif)
+> ![ARGUS walking — empty](../../assets/raptor_walk_south.gif) ![ARGUS walking — belly occupied](../../assets/raptor_sleeper_walk_south.gif)
 
 ---
 

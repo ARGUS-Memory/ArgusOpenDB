@@ -21,21 +21,21 @@ Personnel requiring operational guidance on station systems should consult the r
 Technical documentation on station infrastructure and machinery, indexed by department.
 
 #### Command
-- [Paperwork System](Systems/Paperwork.md)
+- [Paperwork System](Systems/Command/Paperwork.md)
 
 #### Engineering
-- [Supermatter Engine](Systems/SupermatterEngine.md)
+- [Supermatter Engine](Systems/Engineering/SupermatterEngine.md)
 
 #### Science
-- [Chemical Synthesizer Operations](Systems/Chemistry.md)
-- [Research & Development System](Systems/ResearchSystem.md)
+- [Chemical Synthesizer Operations](Systems/Science/Chemistry.md)
+- [Research & Development System](Systems/Science/ResearchSystem.md)
 
 #### Medical
-- [Surgery](Systems/Surgery.md)
-- [Borg Sleeper Systems](Systems/BorgSleepers.md)
+- [Surgery](Systems/Medical/Surgery.md)
+- [Borg Sleeper Systems](Systems/Medical/BorgSleepers.md)
 
 #### Cargo
-- [Mail System](Systems/MailSystem.md)
+- [Mail System](Systems/Cargo/MailSystem.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.

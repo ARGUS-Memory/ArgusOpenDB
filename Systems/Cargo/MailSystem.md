@@ -1,6 +1,6 @@
 # Mail System
 
-<img src="../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
+<img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 The station mail system handles the receipt, sorting, and delivery of personal parcels dispatched from Central Command. Mail arrives aboard the supply shuttle at regular intervals and must be manually sorted and hand-delivered to crew members by cargo personnel. Successful deliveries generate supply budget for the cargo department. This article covers how mail is generated, how it reaches crew, how to sort and deliver it, and how crew members can send their own packages.
 

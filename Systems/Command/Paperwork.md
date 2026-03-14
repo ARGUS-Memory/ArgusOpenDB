@@ -1,6 +1,6 @@
 # Paperwork System
 
-<img src="../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Station bureaucratic infrastructure: the full set of tools for producing, reproducing, distributing, organizing, and destroying physical documents.
 
@@ -78,21 +78,21 @@ The following stamps are available on station:
 
 | | Stamp | | Stamp |
 |:---:|---|:---:|---|
-| <img src="../assets/stamp_cap.png" width="48"> | Site Manager | <img src="../assets/stamp_hop.png" width="48"> | Head of Personnel |
-| <img src="../assets/stamp_hos.png" width="48"> | Head of Security | <img src="../assets/stamp_ward.png" width="48"> | Warden |
-| <img src="../assets/stamp_ce.png" width="48"> | Chief Engineer | <img src="../assets/stamp_rd.png" width="48"> | Research Director |
-| <img src="../assets/stamp_cmo.png" width="48"> | Chief Medical Officer | <img src="../assets/stamp_tal.png" width="48"> | Talon |
-| <img src="../assets/stamp_qm.png" width="48"> | Quartermaster | <img src="../assets/stamp_cargo.png" width="48"> | Cargo |
-| <img src="../assets/stamp_intaff.png" width="48"> | Internal Affairs | <img src="../assets/stamp_clown.png" width="48"> | Clown |
-| <img src="../assets/stamp_deny.png" width="48"> | DENIED | <img src="../assets/stamp_ok.png" width="48"> | ACCEPTED |
+| <img src="../../assets/stamp_cap.png" width="48"> | Site Manager | <img src="../../assets/stamp_hop.png" width="48"> | Head of Personnel |
+| <img src="../../assets/stamp_hos.png" width="48"> | Head of Security | <img src="../../assets/stamp_ward.png" width="48"> | Warden |
+| <img src="../../assets/stamp_ce.png" width="48"> | Chief Engineer | <img src="../../assets/stamp_rd.png" width="48"> | Research Director |
+| <img src="../../assets/stamp_cmo.png" width="48"> | Chief Medical Officer | <img src="../../assets/stamp_tal.png" width="48"> | Talon |
+| <img src="../../assets/stamp_qm.png" width="48"> | Quartermaster | <img src="../../assets/stamp_cargo.png" width="48"> | Cargo |
+| <img src="../../assets/stamp_intaff.png" width="48"> | Internal Affairs | <img src="../../assets/stamp_clown.png" width="48"> | Clown |
+| <img src="../../assets/stamp_deny.png" width="48"> | DENIED | <img src="../../assets/stamp_ok.png" width="48"> | ACCEPTED |
 
 External organization stamps occasionally found on incoming documents:
 
 | | Stamp | | Stamp |
 |:---:|---|:---:|---|
-| <img src="../assets/stamp_cent.png" width="48"> | Central Command | <img src="../assets/stamp_sg.png" width="48"> | Sol Government |
-| <img src="../assets/stamp_sol.png" width="48"> | Sol Government (logo) | <img src="../assets/stamp_einstein.png" width="48"> | Einstein Engines |
-| <img src="../assets/stamp_heph.png" width="48"> | Hephaestus Industries | <img src="../assets/stamp_zenghu.png" width="48"> | Zeng-Hu Pharmaceuticals |
+| <img src="../../assets/stamp_cent.png" width="48"> | Central Command | <img src="../../assets/stamp_sg.png" width="48"> | Sol Government |
+| <img src="../../assets/stamp_sol.png" width="48"> | Sol Government (logo) | <img src="../../assets/stamp_einstein.png" width="48"> | Einstein Engines |
+| <img src="../../assets/stamp_heph.png" width="48"> | Hephaestus Industries | <img src="../../assets/stamp_zenghu.png" width="48"> | Zeng-Hu Pharmaceuticals |
 
 A **chameleon stamp** can be configured to mimic any known stamp type.
 
@@ -211,8 +211,8 @@ The hand labeler can rename inactive synthetic platforms if the user has appropr
 
 ## NanoWord
 
-<img src="../assets/device_laptop.png" width="96" align="right">
-<img src="../assets/device_tablet.png" width="96" align="right">
+<img src="../../assets/device_laptop.png" width="96" align="right">
+<img src="../../assets/device_tablet.png" width="96" align="right">
 
 **NanoWord** is the standard word processing program found on laptop computers, tablet computers, and consoles throughout the station. It is available under the Office category in the program launcher and does not require a NTNet connection to operate.
 
@@ -275,16 +275,16 @@ The following formatting codes are recognized by NanoWord and by the station's p
 
 | Tag | Logo | Organization |
 |---|:---:|---|
-| `[logo]` | <img src="../assets/logo_nt.png" width="48"> | NanoTrasen |
-| `[redlogo]` | <img src="../assets/logo_nt_red.png" width="48"> | NanoTrasen (red variant) |
-| `[talogo]` | <img src="../assets/logo_talon.png" width="48"> | Talon |
-| `[sglogo]` | <img src="../assets/logo_sg.png" width="48"> | Solar Central Government |
+| `[logo]` | <img src="../../assets/logo_nt.png" width="48"> | NanoTrasen |
+| `[redlogo]` | <img src="../../assets/logo_nt_red.png" width="48"> | NanoTrasen (red variant) |
+| `[talogo]` | <img src="../../assets/logo_talon.png" width="48"> | Talon |
+| `[sglogo]` | <img src="../../assets/logo_sg.png" width="48"> | Solar Central Government |
 
 ---
 
 ## PDA Notekeeper
 
-<img src="../assets/device_pda.png" width="96" align="right">
+<img src="../../assets/device_pda.png" width="96" align="right">
 
 Every crew PDA includes the **Notekeeper** application. It provides 12 independent note slots, labeled A through L, each with its own title and body text.
 
