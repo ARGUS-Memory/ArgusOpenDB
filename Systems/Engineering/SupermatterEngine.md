@@ -8,20 +8,32 @@ The station's primary power source: a supermatter crystal energized by an emitte
 
 ## Quick Reference
 
+### Systems
+
 | Component | Purpose | Notable |
 |---|---|---|
-| [The Crystal](#the-crystal) | Generates station power | Delamination at 0% integrity |
+| [The Crystal](#the-crystal) | Primary power source | Delamination at 0% integrity |
 | [Crystal Handling](#crystal-handling) | Moving or installing the crystal | Pull only; no diagonal movement; container cannot be resealed |
-| [Cooling Loop](#cooling-loop) | Removes heat from the engine chamber | Two phoron canisters, one per loop |
-| [Emitter](#emitter) | Energizes the crystal | Wrench, weld, then fire ~20 times |
-| [Gas Filtration](#gas-filtration) | Maintains coolant composition | Omnifilter removes phoron byproduct |
-| [Waste Gas Handling](#waste-gas-handling) | Routes waste heat out of the engine | Regulator requires initialization cycle before use |
-| [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Meson goggles required |
-| [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
-| [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
-| [Always-On Configuration](#advanced-always-on-configuration-cetus) | High-efficiency continuous-emitter setup (Cetus) | Cold loop recirculates through TEG; emitter never deactivated |
-| [Emergency Loop Equalization](#emergency-loop-equalization) | Rapid emergency cooling via digital valves | Equalizes both loops; kills all power production |
-| [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors must open before ejection; order is critical |
+| [Cooling Loop](#cooling-loop) | Removes heat from the engine chamber | Canister counts vary by map |
+| [Emitter](#emitter) | Energizes the crystal | 3-shot bursts; discharge count depends on setup variant |
+| [Gas Filtration](#gas-filtration) | Maintains coolant composition | Southern Cross: reconfigure filter to phoron before activating |
+| [Waste Gas Handling](#waste-gas-handling) | Routes waste heat out of the engine | Regulator requires one-time initialization cycle |
+| [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Radiation suit, hood, and meson goggles all required |
+
+### Procedures
+
+| Procedure | Maps | Notes |
+|---|---|---|
+| [Standard Cold Startup](#setup-procedure) | All | Phoron setup; emitter fires ~20 times then deactivates |
+| [Always-On Configuration](#advanced-always-on-configuration-cetus) | Cetus only | Cold loop recirculates through TEG; emitter runs continuously |
+| [Monitoring](#monitoring) | All | Console readouts: integrity, temperature, EER |
+
+### Emergency Procedures
+
+| Procedure | Effect | Recovery |
+|---|---|---|
+| [Emergency Loop Equalization](#emergency-loop-equalization) | Equalizes both loops; kills all power production | Recoverable: close valves to restore power |
+| [Emergency Crystal Ejection](#emergency-crystal-ejection) | Removes crystal from station interior | Last resort; doors must open before ejection |
 
 ---
 
