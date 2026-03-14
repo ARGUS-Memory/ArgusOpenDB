@@ -177,7 +177,7 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 3. Set all visible cooling loop pumps to maximum pressure. Activate each one.
 4. Configure the omnifilters: assign one port as input, one as output, and one or more as phoron filter outputs. Verify gas is circulating through the filter.
 5. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
-7. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
+6. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
 
 The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are wrenched to their connector ports.
 
@@ -195,3 +195,17 @@ The SM monitoring console in the observation room displays the crystal's current
 | Power | 150 -- 250 | Normal operating range for phoron setup |
 
 Warning-level alerts (integrity below 75%) require prompt attention. Emergency-level alerts (integrity below 50%) require immediate response. At integrity 0%, evacuate the engine room. The 30-second window before delamination completes is not sufficient for repairs under most circumstances.
+
+### Practical Troubleshooting
+
+When the engine is underperforming or showing alerts, the console readouts are rarely the first thing to check. The following checks resolve the majority of engine problems:
+
+**Engine room has power.** The engine room requires power to run pumps and filtration equipment. If it has gone dark or machinery is unresponsive, restore power before investigating anything else. Keep a power cell on hand or know the nearest spare location.
+
+**Pumps are running.** Confirm all cooling loop pumps are active and set to maximum pressure. A pump that was accidentally turned off or left at low pressure will allow heat to accumulate rapidly.
+
+**Exterior cooling pipes are intact.** The cold loop runs along the exterior hull through space. Damaged pipes appear noticeably brighter or dimmer than normal. If the exterior pipes look wrong, someone needs to perform an EVA to repair them before cooling can be restored.
+
+**Omnifilters are correctly configured and active.** Confirm the filter target is set to phoron (not nitrogen or another gas) and that the units are turned on.
+
+**Emergency flush valves are untouched.** The emergency flush valves are small and positioned where they can be triggered accidentally. If one has been tripped, phoron stops reaching the crystal and the engine will lose cooling. Check that all flush valves are in their default closed position. Do not operate them unless intentionally venting the loop.
