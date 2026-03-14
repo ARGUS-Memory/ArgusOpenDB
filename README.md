@@ -18,15 +18,24 @@ Personnel requiring operational guidance on station systems should consult the r
 ## Index
 
 ### Systems
-Technical documentation on station infrastructure and machinery.
+Technical documentation on station infrastructure and machinery, indexed by department.
 
-- [Chemical Synthesizer Operations](Systems/Chemistry.md)
-- [Borg Sleeper Systems](Systems/BorgSleepers.md)
-- [Research & Development System](Systems/ResearchSystem.md)
-- [Mail System](Systems/MailSystem.md)
+#### Command
 - [Paperwork System](Systems/Paperwork.md)
-- [Surgery](Systems/Surgery.md)
+
+#### Engineering
 - [Supermatter Engine](Systems/SupermatterEngine.md)
+
+#### Science
+- [Chemical Synthesizer Operations](Systems/Chemistry.md)
+- [Research & Development System](Systems/ResearchSystem.md)
+
+#### Medical
+- [Surgery](Systems/Surgery.md)
+- [Borg Sleeper Systems](Systems/BorgSleepers.md)
+
+#### Cargo
+- [Mail System](Systems/MailSystem.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
@@ -38,11 +47,6 @@ Field guides for crew unfamiliar with station procedures.
 Biological, cultural, and historical records on known sapient species.
 
 - [Vulpkanin](Species/Vulpkanin.md)
-
-### Engineering
-Low-level technical references for engineering and maintenance staff.
-
-*(Entries pending)*
 
 ### Organizations
 Records on corporations, factions, and governing bodies operating in known space.
