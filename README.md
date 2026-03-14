@@ -29,6 +29,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 #### Science
 - [Chemical Synthesizer Operations](Systems/Science/Chemistry.md)
 - [Research & Development System](Systems/Science/ResearchSystem.md)
+- [Nanite Implant Framework](Systems/Science/NIF.md)
 
 #### Medical
 - [Surgery](Systems/Medical/Surgery.md)
@@ -40,7 +41,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
 
-- [NIF Implantation Procedures](Personnel/NIF_Implantation.md)
+- [NIF Operation and Software](Personnel/NIF_Operation.md)
 - [Chain of Command](Personnel/ChainOfCommand.md)
 
 ### Species
