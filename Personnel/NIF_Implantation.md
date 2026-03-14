@@ -1,11 +1,15 @@
 # NIF Implantation Procedures
 ### ARGUS Station Documentation: Nanite Implant Framework
 
+<img src="../assets/raptor_idle_south.png" width="96" align="right">
+
 The Nanite Implant Framework (NIF) is a subcutaneous implant system that provides personnel with access to nanotech-based augmentations and softwares. Implantation procedure varies significantly between standard organic patients and Promethean patients.
 
 ---
 
 ## Standard Implantation
+
+<img src="../assets/nif_item.png" width="48" align="right">
 
 Standard NIF installation is performed on an operating table. General anaesthesia is recommended. The implant is seated in the cranial cavity by a qualified medical officer.
 
@@ -34,6 +38,8 @@ The NIF is now active. Confirm integration with the patient before discharge.
 Promethean physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
 
 ### Compatible Hardware
+
+<img src="../assets/nif_item_full.png" width="48" align="right">
 
 - Bioadaptive NIF
 - Bioadaptive Authentic NIF
