@@ -4,17 +4,17 @@
 
 **Designation:** NLS Southern Cross
 **Type:** Constructed space station with planetside installations
-**Levels:** Main station deck; planet surface; planetside mine
+**Levels:** Third Deck; planet surface; planetside mine
 
-Southern Cross is a purpose-built space station in orbit above a habitable planet. The station maintains a bilateral symmetry with solar arrays extending to port and starboard. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
+Southern Cross is a purpose-built space station in orbit above a habitable planet. The station body is a compact cross-shaped platform designated the Third Deck, with solar array wings extending along all four cardinal axes. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
 
 ---
 
-## Station Deck
+## Third Deck
 
-Primary station level. Contains the Bridge, AI Core, command offices, and solar array access corridors. Solar arrays extend to port and starboard on this level.
+The single operational level of the station. A central habitation and command block houses the Bridge, AI Core, command offices, head-of-staff quarters, and primary maintenance corridors. Four solar array wings extend from the central block along the cardinal axes. The surrounding exterior hull is reinforced airless plating forming the station's outer skin.
 
-![Southern Cross Station Deck](../../assets/map_sc_deck1.png)
+![Southern Cross Third Deck](../../assets/map_sc_thirddeck.png)
 
 ---
 
