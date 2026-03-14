@@ -27,13 +27,13 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 - [Supermatter Engine](Systems/Engineering/SupermatterEngine.md)
 
 #### Science
-- [Chemical Synthesizer Operations](Systems/Science/Chemistry.md)
 - [Research & Development System](Systems/Science/ResearchSystem.md)
 - [Nanite Implant Framework](Systems/Science/NIF.md)
 
 #### Medical
 - [Surgery](Systems/Medical/Surgery.md)
 - [Borg Sleeper Systems](Systems/Medical/BorgSleepers.md)
+- [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md)
 
 #### Cargo
 - [Mail System](Systems/Cargo/MailSystem.md)

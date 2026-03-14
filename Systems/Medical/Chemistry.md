@@ -8,31 +8,53 @@ Operational reference for the Chemical Synthesizer: compound formulae, import st
 
 ## Quick Reference
 
-| Item | Function | Notable |
+### Equipment
+
+| Item | Capacity | Notable |
 |---|---|---|
-| [Chemical Synthesizer](#chemical-synthesizer) | Produces reagents from cartridge stock | 24 base cartridges; catalysts loaded separately |
-| [Beaker](#beaker) | Standard reaction and transfer vessel | 50u capacity |
-| [Large Beaker](#large-beaker) | High-volume reaction vessel | 100u capacity |
-| [Bluespace Beaker](#bluespace-beaker) | Extended-capacity reaction vessel | 300u capacity |
-| [Cryostasis Beaker](#cryostasis-beaker) | Reaction-suppressing storage vessel | Prevents reagent mixing; no capacity increase |
-| [Vial](#vial) | Small-volume precision vessel | 30u capacity |
-| [Inaprovaline](#inaprovaline) | Stabilization / pain suppression | Does not heal; holds critical patients |
-| [Antitoxin (Dylovene)](#antitoxin-dylovene) | Toxin clearance | Broad-spectrum; 30u OD |
-| [Kelotane](#kelotane) | Burn damage treatment | Causes Brute in Prometheans |
-| [Synaptizine](#synaptizine) | Anti-stun / neurological clearance | Clears Mindbreaker; very slow metabolism |
-| [Hyperzine](#hyperzine) | Movement stimulant | OD threshold 15u (half standard) |
-| [Impedrezene](#impedrezene) | Neurological depressant | Weapons-grade; accumulates Brain damage |
-| [Mutagen](#mutagen) | Genetic mutagen / synthesis precursor | Unpredictable outcomes; precursor for Left4Zed |
-| [Claridyl](#claridyl) | High-potency analgesic / stabilizer | 33% yield; Tesshari adverse reaction risk |
-| [Bliss](#bliss) | Psychoactive compound | No medical use; overdose causes Brain/Toxic damage |
+| [Chemical Synthesizer](#chemical-synthesizer) | 24 base cartridges | Catalysts loaded separately; 5u recharge per cycle |
+| [Beaker](#beaker) | 50u | Standard vessel; reagents react on contact |
+| [Large Beaker](#large-beaker) | 100u | High-volume runs |
+| [Bluespace Beaker](#bluespace-beaker) | 300u | Full-capacity runs; not in base storage |
+| [Cryostasis Beaker](#cryostasis-beaker) | 50u | Suppresses reactions; no capacity increase |
+| [Vial](#vial) | 30u | Precision dosing; accepts labels |
+
+### Medical Compounds
+
+| Compound | Primary Use | Notable |
+|---|---|---|
+| [Inaprovaline](#inaprovaline) | Stabilization; pain suppression | Holds critical patients; does not heal; OD 60u |
+| [Antitoxin (Dylovene)](#antitoxin-dylovene) | Toxin clearance | Broad-spectrum; OD 30u |
+| [Kelotane](#kelotane) | Burn damage treatment | Causes Brute in Prometheans; OD 30u |
+| [Synaptizine](#synaptizine) | Anti-stun; neurological clearance | Clears Mindbreaker; very slow metabolism; OD 30u |
+| [Hyperzine](#hyperzine) | Movement stimulant | OD 15u; cardiac damage risk on overdose |
+| [Claridyl](#claridyl) | High-potency analgesic; stabilizer | 33% yield; Tesshari adverse reaction risk |
+
+### Other Compounds
+
+| Compound | Classification | Notable |
+|---|---|---|
+| [Bliss](#bliss) | Psychoactive | No medical use; OD causes Brain and Toxic damage |
 | [Aphrodisiac](#aphrodisiac) | Pheromone agent | No medical use; 86% yield |
 | [Cryptobiolin](#cryptobiolin) | Vestibular disruptor | Fast metabolism; brief effects |
-| [Space Cleaner](#space-cleaner) | Surface decontaminant | Requires Ammonia intermediate; chain-synthesizable |
+| [Impedrezene](#impedrezene) | Neurological depressant | Weapons-grade; accumulates Brain damage |
+| [Mutagen](#mutagen) | Genetic mutagen | Unpredictable outcomes; precursor for Left4Zed |
+
+### Chained and Industrial Synthesis
+
+| Compound | Type | Notable |
+|---|---|---|
+| [Space Cleaner](#space-cleaner) | Industrial decontaminant | Chains from Hydrogen, Nitrogen, Water; kills Macrophage |
 | [Diethylamine](#diethylamine) | Synthesis precursor | Required for Left4Zed |
 | [Left4Zed](#left4zed) | Hydroponics fertilizer | Toxic if ingested; 9u minimum clean batch |
 | [Silicate](#silicate) | Window reinforcement agent | Topical application only |
-| [Inhibitor Reference](#appendix-a-inhibitor-reference) | Silent-fail inhibitors per compound | Check before reusing vessels |
-| [Catalyst Reference](#appendix-b-catalyst-reference) | Catalyst slot reagents | Catalysts not consumed in synthesis |
+
+### Reference Tables
+
+| Table | Purpose |
+|---|---|
+| [Inhibitor Reference](#appendix-a-inhibitor-reference) | Silent-fail inhibitors per compound; check before reusing vessels |
+| [Catalyst Reference](#appendix-b-catalyst-reference) | Catalyst slot reagents; catalysts not consumed in synthesis |
 
 ---
 
