@@ -12,6 +12,17 @@ Field-documented records on station systems, engineering procedures, chemistry p
 
 ---
 
+## Stations
+
+Rendered maps and layout documentation for CHOMPStation2 rotation maps.
+
+| Station | Type | Decks |
+|---|---|---|
+| [Cetus](Stations/Cetus/README.md) | Asteroid-embedded station | 3 station decks + surface, mines, wilds |
+| [Southern Cross](Stations/SouthernCross/README.md) | Constructed space station | 3 station decks + surface mines |
+
+---
+
 ## Systems
 
 Technical documentation on station infrastructure and machinery, indexed by department.
