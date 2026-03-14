@@ -31,6 +31,11 @@ Field guides for crew unfamiliar with station procedures.
 - [NIF Implantation Procedures](Personnel/NIF_Implantation.md)
 - [Chain of Command](Personnel/ChainOfCommand.md)
 
+### Species
+Biological, cultural, and historical records on known sapient species.
+
+- [Vulpkanin](Species/Vulpkanin.md)
+
 ### Engineering
 Low-level technical references for engineering and maintenance staff.
 
