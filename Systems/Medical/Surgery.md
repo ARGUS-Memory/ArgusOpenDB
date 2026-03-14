@@ -21,6 +21,8 @@ Medical procedures for treating internal injuries, repairing damaged tissue, man
 | [Robotic Repair](#robotic-repair) | Service mechanical limbs and organs | Hatch access replaces incision |
 | [External Treatment](#external-treatment) | Treat surface burns and brute damage | No incision required |
 | [Hardsuit Removal](#hardsuit-removal) | Free a stuck hardsuit or RIG | Plasma cutter or welder |
+| [NIF Implantation (Standard)](#nif-implantation-standard) | Install NIF in cranial cavity | Head cavity surgery; organic species only |
+| [NIF Implantation (Promethean)](#nif-implantation-promethean) | Install bioadaptive NIF in Promethean patient | No surgical tools; bioadaptive variant required |
 
 ---
 
@@ -259,3 +261,44 @@ Apply an advanced bruise pack or standard bruise pack directly to the injured ar
 A hardsuit or RIG suit that cannot be removed through normal means can be freed surgically. No incision is required.
 
 Apply a plasma cutter to the torso. A welder may substitute; weld fuel is required. This disables the suit's retention mechanism and allows normal removal.
+
+---
+
+## NIF Implantation (Standard)
+
+<img src="../../assets/nif_item.png" width="48" align="right">
+
+Standard NIF implantation seats the device in the cranial cavity. General anaesthesia is recommended. Compatible with all organic species carrying viable genetic material; Promethean patients require the separate procedure below.
+
+**Required tools:** Scalpel, hemostat, retractor, surgical drill, cautery.
+
+1. Position the patient on the operating table. Administer anaesthesia.
+2. **Scalpel** the head: create an incision.
+3. **Hemostat** the head: clamp bleeders. Skip if no bleeding is present.
+4. **Retractor** the head: open and clear access to the cranial cavity.
+5. **Surgical drill** the head: create a cavity for the implant.
+6. Hold the NIF and apply it to the patient's head: seat the implant in the cavity.
+7. **Cautery** the head: close and seal the incision.
+
+The NIF is now active. Confirm integration with the patient before discharge.
+
+---
+
+## NIF Implantation (Promethean)
+
+<img src="../../assets/nif_item_full.png" width="48" align="right">
+
+Promethean physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
+
+**Compatible hardware:** Bioadaptive NIF, Bioadaptive Authentic NIF. Any other NIF type will be silently rejected without initiating an integration channel.
+
+1. Confirm the NIF is a bioadaptive variant.
+2. Confirm the patient's torso is structurally intact.
+3. Confirm the patient has removed all worn clothing and suits. The procedure is blocked if any garment is present.
+4. A second crew member (not the patient) holds the NIF and applies it directly to the patient's torso.
+5. A 20-second integration channel initiates.
+6. On completion the NIF is fully seated within the torso.
+
+If the channel is interrupted, restart from step 4.
+
+For NIF hardware specifications and variant details see [Nanite Implant Framework](../Science/NIF.md).
