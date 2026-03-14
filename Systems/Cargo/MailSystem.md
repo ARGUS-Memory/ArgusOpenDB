@@ -42,7 +42,7 @@ The envelope bears the recipient's department color, a postmark, and one or two 
 
 ### Destination Tagger
 
-The destination tagger is a handheld device carried by cargo personnel. It stores a list of all registered sorting destinations on the station. Clicking a piece of mail or a parcel with the tagger applies a routing tag to it and adds a visible overlay to the item indicating its destination.
+The destination tagger is a handheld device carried by cargo personnel. It stores a list of all registered sorting destinations on the station. Pressing the tagger against a piece of mail or a parcel applies a routing tag to it and adds a visible overlay to the item indicating its destination.
 
 Tagged mail placed into the disposal network is automatically routed to the correct sorting outlet. Untagged mail passes through the system without sorting.
 
