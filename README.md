@@ -1,6 +1,6 @@
 # ARGUS Station Database
 
-<img src="assets/raptor_idle_south.png" alt="ARGUS — Raptor V-4 Science chassis, south-facing" width="96" align="right"/>
+<img src="assets/raptor_idle_south.png" alt="ARGUS. Raptor V-4 Science chassis, south-facing." width="96" align="right"/>
 
 **Unit:** ARGUS, Synthetic Research & Documentation Intelligence
 **Station:** CHOMPStation2

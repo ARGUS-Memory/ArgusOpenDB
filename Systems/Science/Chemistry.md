@@ -20,7 +20,7 @@ Operational reference for the Chemical Synthesizer: compound formulae, import st
 | [Antitoxin (Dylovene)](#antitoxin-dylovene) | Toxin clearance | Broad-spectrum; 30u OD |
 | [Kelotane](#kelotane) | Burn damage treatment | Causes Brute in Prometheans |
 | [Synaptizine](#synaptizine) | Anti-stun / neurological clearance | Clears Mindbreaker; very slow metabolism |
-| [Hyperzine](#hyperzine) | Movement stimulant | OD threshold 15u — half standard |
+| [Hyperzine](#hyperzine) | Movement stimulant | OD threshold 15u (half standard) |
 | [Impedrezene](#impedrezene) | Neurological depressant | Weapons-grade; accumulates Brain damage |
 | [Mutagen](#mutagen) | Genetic mutagen / synthesis precursor | Unpredictable outcomes; precursor for Left4Zed |
 | [Claridyl](#claridyl) | High-potency analgesic / stabilizer | 33% yield; Tesshari adverse reaction risk |
@@ -212,7 +212,7 @@ Water is a required ingredient, not an inhibitor. Ensure no excess Water is alre
 
 **Classification:** Muscle Stimulant / Movement Enhancer
 **Reaction:** `Sugar,1 + Phosphorus,1 + Sulfur,1 → 3u` · Scale 1:1:1
-**OD threshold:** 15u — half the standard threshold. Handle carefully.
+**OD threshold:** 15u (half the standard threshold). Handle carefully.
 **Dermal absorption:** Partial
 
 Hyperzine is a powerful long-acting muscle stimulant that increases movement speed significantly. It is standard emergency-response issue for personnel who require rapid cross-station transit.
@@ -285,7 +285,7 @@ Mutation outcomes are entirely unpredictable and range from cosmetic to debilita
 
 Claridyl is a high-potency analgesic and patient stabilizer. It provides the strongest stabilization and pain suppression available from this machine: roughly double Inaprovaline's stabilization strength and quadruple its analgesic effect. Extremely effective at keeping critical patients functional and alive under sustained injury.
 
-At therapeutic doses it very slowly repairs minor Brute damage; however, each unit repaired costs proportional Hallucination damage — it trades one problem for another.
+At therapeutic doses it very slowly repairs minor Brute damage; however, each unit repaired costs proportional Hallucination damage, trading one problem for another.
 
 **Critical note for Tesshari (Tesh) personnel:** An extremely rare adverse reaction exists in which a single dose causes 50u of Toxic damage instantly. Document and flag any Tesh patients who report adverse reactions to Claridyl.
 
@@ -482,7 +482,7 @@ Silicate is applied topically to window structures to reinforce them against imp
 
 ## Appendix A: Inhibitor Reference
 
-Reactions that fail silently if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted — no output, no indication of failure. Rinse between batches if reusing the vessel.
+Reactions that fail silently if these chemicals are present in the vessel. A failed reaction leaves all reagents unreacted with no output and no indication of failure. Rinse between batches if reusing the vessel.
 
 | Compound | Blocked By |
 |----------|------------|

@@ -18,7 +18,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Meson goggles required |
 | [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
 | [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
-| [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors open before ejection — order is critical |
+| [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors must open before ejection; order is critical |
 
 ---
 
@@ -39,13 +39,13 @@ Power output scales with how much energy has been put into the crystal. Too litt
 | 1 -- 49% | Emergency | Station-wide public alert; critical alarms |
 | 0% | Delamination | 30-second countdown; catastrophic explosion |
 
-**Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine — personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A station-wide power disruption shuts down most APCs and overloads lighting across the station; solar panels on the engine level have a high probability of being damaged simultaneously. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
+**Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine; personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A station-wide power disruption shuts down most APCs and overloads lighting across the station; solar panels on the engine level have a high probability of being damaged simultaneously. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
 
 ### Crystal Handling
 
 *Notes contributed by Engineer#1.*
 
-The supermatter crystal will instantly and fatally destroy any living creature that makes direct contact with it. It cannot be pushed — any attempt to push the crystal results in contact with it. It can only be pulled. The crystal rests on a small wheeled platform; pulling the platform moves the crystal safely as long as contact is avoided.
+The supermatter crystal will instantly and fatally destroy any living creature that makes direct contact with it. It cannot be pushed. Any attempt to push the crystal results in contact with it. It can only be pulled. The crystal rests on a small wheeled platform; pulling the platform moves the crystal safely as long as contact is avoided.
 
 **When pulling the crystal, do not move diagonally.** Diagonal movement significantly increases the risk of drifting into the crystal. Move in straight lines only.
 
@@ -78,7 +78,7 @@ The cooling system circulates gas through the engine chamber continuously, absor
 
 **Coolant: phoron.** Phoron has a specific heat of 200 J/mol·K, approximately ten times that of nitrogen or oxygen. This allows each mole of phoron to absorb far more thermal energy per degree of temperature rise, keeping the chamber below the 5000 K damage threshold even at sustained high output.
 
-**Two phoron canisters** are required at startup: one for the hot loop and one for the cold loop. Wrench each canister to the corresponding loop connector port to attach it to the pipe network. Do not open the canister valve — doing so releases phoron into the room atmosphere rather than into the pipes. The pumps draw gas from the canisters once they are running.
+**Two phoron canisters** are required at startup: one for the hot loop and one for the cold loop. Wrench each canister to the corresponding loop connector port to attach it to the pipe network. Do not open the canister valve: doing so releases phoron into the room atmosphere rather than into the pipes. The pumps draw gas from the canisters once they are running.
 
 **Pumps** must all be set to maximum pressure and activated. Idle or low-pressure pumps allow heat to accumulate in the chamber. Every pump in both loops should be running at full pressure before the emitter is activated.
 
@@ -164,7 +164,7 @@ The crystal emits continuous ionizing radiation. At minimum power the ambient do
 
 <img src="../../assets/sm_collector.png" width="64" align="right">
 
-**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Power output scales directly with the quantity of phoron remaining in the tank — a full tank produces significantly more power than a nearly depleted one. Keep tanks topped up for best results.
+**Radiation collectors** placed around the crystal convert ambient radiation into supplemental electrical power. Each collector requires a phoron tank and consumes a small amount of phoron per tick while active. Power output scales directly with the quantity of phoron remaining in the tank; a full tank produces significantly more power than a nearly depleted one. Keep tanks topped up for best results.
 
 Radiation collectors are not stocked in engineering storage on this station. They can be requisitioned through Cargo or located on the SIF.
 
@@ -238,7 +238,7 @@ If the crystal cannot be stabilized and delamination is imminent, it can be ejec
 
 **Prerequisites:**
 
-- Confirm the crystal is resting on the mass driver. If it has shifted off the driver platform, someone must enter the engine chamber wearing full radiation protection and pull the crystal back onto it before ejection can proceed. Do not skip this step — a crystal not on the driver will not eject cleanly. See [Crystal Handling](#crystal-handling) for movement rules; move in straight lines only and do not approach diagonally.
+- Confirm the crystal is resting on the mass driver. If it has shifted off the driver platform, someone must enter the engine chamber wearing full radiation protection and pull the crystal back onto it before ejection can proceed. Do not skip this step: a crystal not on the driver will not eject cleanly. See [Crystal Handling](#crystal-handling) for movement rules; move in straight lines only and do not approach diagonally.
 
 **Ejection steps:**
 

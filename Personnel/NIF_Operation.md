@@ -21,13 +21,15 @@ The NIF consumes a small and continuous amount of power. Power draw increases wi
 
 ## Pre-Installed Software
 
+<img src="../assets/nif_item.png" width="48" align="right">
+
 All NIFs ship with the following three modules active.
 
-**Commlink** — An internal communicator. Functions as a personal communication device linked to the station's communication network. The commlink is the primary channel for private and department communication for NIF users.
-
-**Soulcatcher** — A mind storage and processing system capable of housing one or more sapient minds in a contained virtual space. The host can configure whether the soulcatcher accepts new arrivals. Minds stored in the soulcatcher persist until released or the NIF is destroyed.
-
-**AR Overlay (Civ)** — A general-purpose augmented reality overlay providing identification and basic health status readouts on visible personnel.
+| Module | Description |
+|---|---|
+| **Commlink** | An internal communicator linked to the station's communication network. The primary channel for private and department communication for NIF users. |
+| **Soulcatcher** | A mind storage and processing system capable of housing one or more sapient minds in a contained virtual space. The host configures whether new arrivals are accepted; stored minds persist until released or the NIF is destroyed. |
+| **AR Overlay (Civ)** | A general-purpose augmented reality overlay providing identification and basic health status readouts on visible personnel. |
 
 ---
 
@@ -35,15 +37,15 @@ All NIFs ship with the following three modules active.
 
 Department software packages are provided at no cost to qualifying personnel. Each package installs a set of modules suited to the role. Packages are delivered via NIFSoft uploader disk.
 
-| Department | Package Contents |
-|---|---|
-| Security | AR Overlay (Sec), Responsive Filter |
-| Engineering | AR Overlay (Eng), Alarm Monitor, Nictating Membrane |
-| Medical | AR Overlay (Med), Crew Monitor |
-| Mining (organic) | Material Scanner, Respirocytes |
-| Mining (synthetic) | Material Scanner, Pressure Seals, Heat Sinks |
-| Pilot (organic) | Respirocytes |
-| Pilot (synthetic) | Pressure Seals, Heat Sinks |
+| | Department | Package Contents |
+|:---:|---|---|
+| <img src="../assets/nifsoft_disk_security.png" width="32"> | Security | AR Overlay (Sec), Responsive Filter |
+| <img src="../assets/nifsoft_disk_engineering.png" width="32"> | Engineering | AR Overlay (Eng), Alarm Monitor, Nictating Membrane |
+| <img src="../assets/nifsoft_disk_medical.png" width="32"> | Medical | AR Overlay (Med), Crew Monitor |
+| <img src="../assets/nifsoft_disk_mining.png" width="32"> | Mining (organic) | Material Scanner, Respirocytes |
+| <img src="../assets/nifsoft_disk_mining.png" width="32"> | Mining (synthetic) | Material Scanner, Pressure Seals, Heat Sinks |
+| <img src="../assets/nifsoft_disk_pilot.png" width="32"> | Pilot (organic) | Respirocytes |
+| <img src="../assets/nifsoft_disk_pilot.png" width="32"> | Pilot (synthetic) | Pressure Seals, Heat Sinks |
 
 ---
 
@@ -53,67 +55,59 @@ Additional modules can be purchased or obtained through research. Each module is
 
 ### Vision and Perception
 
-**AR Overlay (Med)** — Civilian overlay extended with medical records access and pathogen database lookup. Issued with Medical package.
-
-**AR Overlay (Sec)** — Civilian overlay extended with arrest status and security records access. Issued with Security package.
-
-**AR Overlay (Omni)** — Combined overlay incorporating the features of both medical and security variants.
-
-**Corrective AR** — Compensates for common visual impairments including cataracts and retinal misalignment by adjusting the AR display layer.
-
-**Meson Scanner** — Displays structural terrain and base geometry through walls. Equivalent to worn meson scanner goggles.
-
-**Material Scanner** — Displays objects through walls. Equivalent to worn material scanner goggles. Issued with Mining package.
-
-**Thermal Scanner** — Displays heat-emitting organisms through walls. Equivalent to worn thermal goggles.
-
-**Low-Light Amp** — Amplifies available light to enable vision in complete darkness. Equivalent to worn night vision goggles.
-
-**Nictating Membrane** — A synthetic third eyelid protecting the eyes from UV radiation and hostile atmospheric conditions. Does not provide protection against photonic stun weapons. Issued with Engineering package.
-
-**Responsive Filter** — High-speed filter that activates on detection of intense light events such as flash weapons, blocking the effect. Issued with Security package.
+| Module | Description |
+|---|---|
+| **AR Overlay (Med)** | Civilian overlay extended with medical records access and pathogen database lookup. Issued with Medical package. |
+| **AR Overlay (Sec)** | Civilian overlay extended with arrest status and security records access. Issued with Security package. |
+| **AR Overlay (Omni)** | Combined overlay incorporating the features of both the medical and security variants. |
+| **Corrective AR** | Compensates for common visual impairments including cataracts and retinal misalignment by adjusting the AR display layer. |
+| **Meson Scanner** | Displays structural terrain and base geometry through walls. Equivalent to worn meson scanner goggles. |
+| **Material Scanner** | Displays objects through walls. Equivalent to worn material scanner goggles. Issued with Mining package. |
+| **Thermal Scanner** | Displays heat-emitting organisms through walls. Equivalent to worn thermal goggles. |
+| **Low-Light Amp** | Amplifies available light to enable vision in complete darkness. Equivalent to worn night vision goggles. |
+| **Nictating Membrane** | A synthetic third eyelid protecting the eyes from UV radiation and hostile atmospheric conditions. Does not protect against photonic stun weapons. Issued with Engineering package. |
+| **Responsive Filter** | High-speed filter that activates on detection of intense light events such as flash weapons, blocking the effect. Issued with Security package. |
 
 ### Health and Endurance
 
-**Medichines (organic)** — An internal nanite swarm supporting tissue repair and physiological stability. Promotes healing under normal conditions and provides stabilization under critical injury.
-
-**Medichines (synthetic)** — A swarm of mechanical repair nanites providing continuous minor repair to synthetic body components. Significant structural damage still requires manual intervention.
-
-**Respirocytes** — Nanites that replicate red blood cell function, cycling and recycling available oxygen to temporarily sustain the host in atmosphere-deprived environments. Supplies oxygen only; does not filter other gases. Issued with Mining and Pilot organic packages.
-
-**Mind Backup** — Stores a one-time snapshot of the host's current mindstate on activation. The backup persists until overwritten by a new activation.
+| Module | Description |
+|---|---|
+| **Medichines (organic)** | An internal nanite swarm supporting tissue repair and physiological stability. Promotes healing under normal conditions and provides stabilization under critical injury. |
+| **Medichines (synthetic)** | A swarm of mechanical repair nanites providing continuous minor repair to synthetic body components. Significant structural damage still requires manual intervention. |
+| **Respirocytes** | Nanites that replicate red blood cell function, recycling available oxygen to temporarily sustain the host in atmosphere-deprived environments. Supplies oxygen only. Issued with Mining and Pilot organic packages. |
+| **Mind Backup** | Stores a one-time snapshot of the host's current mindstate on activation. The backup persists until overwritten by a new activation. |
 
 ### Monitoring
 
-**Crew Monitor** — Provides a direct link to station crew sensor data. Allows tracking of personnel status across the station. Issued with Medical package.
-
-**Alarm Monitor** — Provides a direct link to station alarm systems. Useful for remote situational awareness. Issued with Engineering package.
+| Module | Description |
+|---|---|
+| **Crew Monitor** | A direct link to station crew sensor data, allowing tracking of personnel status across the station. Issued with Medical package. |
+| **Alarm Monitor** | A direct link to station alarm systems for remote situational awareness. Issued with Engineering package. |
 
 ### Protection and Combat
 
-**Bullhide Mod** — Reinforces the dermis and skeletal structure at the nanoscale, improving resistance to physical trauma.
-
-**Dragon's Skin** — A sub-dermal thermal dispersal layer reducing damage from laser weapons and fire exposure. Provides no protection against sustained environmental heat.
-
-**Nova Shock** — Continuous high-grade painkiller delivery system suppressing pain response entirely. High risk of dependency and overdose with prolonged use.
-
-**Bloodletters** — Generates monofilament wires from the fingertips capable of penetrating most armour. Wires consume power and require periodic replacement.
-
-**Dazzle** — Fabricates a concealed two-shot holdout laser internally. Single fabrication only; materials are not replenished after use.
+| Module | Description |
+|---|---|
+| **Bullhide Mod** | Reinforces the dermis and skeletal structure at the nanoscale, improving resistance to physical trauma. |
+| **Dragon's Skin** | A sub-dermal thermal dispersal layer reducing damage from laser weapons and fire exposure. Provides no protection against sustained environmental heat. |
+| **Nova Shock** | Continuous high-grade painkiller delivery system suppressing pain response entirely. High risk of dependency and overdose with prolonged use. |
+| **Bloodletters** | Generates monofilament wires from the fingertips capable of penetrating most armour. Wires consume power and require periodic replacement. |
+| **Dazzle** | Fabricates a concealed two-shot holdout laser internally. Single fabrication only; materials are not replenished after use. |
 
 ### Utility
 
-**APC Connector** — Allows synthetic hosts to recharge internal power systems directly from APC units.
-
-**Pressure Seals** — Creates pressure isolation around critical synthetic components, protecting them against vacuum exposure. Minimally effective for organic hosts. Issued with Mining and Pilot synthetic packages.
-
-**Heat Sinks** — Advanced internal heat storage system for synthetic hosts, holding excess heat until a safe environment for venting is available. Issued with Mining and Pilot synthetic packages.
-
-**Mass Alteration** — Enables significant alteration of the host's physical mass and size through internal rearrangement. Causes accelerated device wear during and after use.
+| Module | Description |
+|---|---|
+| **APC Connector** | Allows synthetic hosts to recharge internal power systems directly from APC units. |
+| **Pressure Seals** | Creates pressure isolation around critical synthetic components, protecting them against vacuum exposure. Minimally effective for organic hosts. Issued with Mining and Pilot synthetic packages. |
+| **Heat Sinks** | Advanced internal heat storage for synthetic hosts, holding excess heat until a safe environment for venting is available. Issued with Mining and Pilot synthetic packages. |
+| **Mass Alteration** | Enables significant alteration of the host's physical mass and size through internal rearrangement. Causes accelerated device wear during and after use. |
 
 ### Restricted
 
-**Compliance Module** — A law-application system capable of imposing behavioural directives on sapient beings. Possession and use are prohibited under station regulations and applicable law.
+| Module | Description |
+|---|---|
+| **Compliance Module** | A law-application system capable of imposing behavioural directives on sapient beings. Possession and use are prohibited under station regulations and applicable law. |
 
 ---
 
