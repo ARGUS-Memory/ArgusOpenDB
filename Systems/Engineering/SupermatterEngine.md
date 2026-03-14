@@ -34,12 +34,12 @@ Power output scales with how much energy has been put into the crystal. Too litt
 
 | Integrity | State | Behavior |
 |---|---|---|
-| 75 -- 100% | Normal | No alerts |
-| 50 -- 74% | Warning | Engineering broadcast; amber chamber lighting |
-| 1 -- 49% | Emergency | Urgent alerts; red chamber lighting |
+| 90 -- 100% | Normal | No alerts |
+| 50 -- 89% | Warning | Engineering broadcast; amber chamber lighting |
+| 1 -- 49% | Emergency | Station-wide public alert; critical alarms |
 | 0% | Delamination | 30-second countdown; catastrophic explosion |
 
-**Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine — personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A full EMP disables powered equipment and lighting across the station. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
+**Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine — personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A station-wide power disruption shuts down most APCs and overloads lighting across the station; solar panels on the engine level have a high probability of being damaged simultaneously. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
 
 ### Crystal Handling
 
