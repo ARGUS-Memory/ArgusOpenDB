@@ -17,6 +17,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Meson goggles required |
 | [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
 | [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
+| [Emergency Crystal Ejection](#emergency-crystal-ejection) | Last-resort removal of failing crystal | Doors open before ejection — order is critical |
 
 ---
 
@@ -162,6 +163,8 @@ When the crystal delaminates, it releases a 40 Sv radiation burst that propagate
 
 ## Setup Procedure
 
+*Procedure contributed by Engineer#1.*
+
 The following procedure covers a cold startup using phoron coolant, which is standard for maximum power output.
 
 **Prerequisites:**
@@ -198,6 +201,8 @@ Warning-level alerts (integrity below 75%) require prompt attention. Emergency-l
 
 ### Practical Troubleshooting
 
+*Checklist contributed by Engineer#1.*
+
 When the engine is underperforming or showing alerts, the console readouts are rarely the first thing to check. The following checks resolve the majority of engine problems:
 
 **Engine room has power.** The engine room requires power to run pumps and filtration equipment. If it has gone dark or machinery is unresponsive, restore power before investigating anything else. Keep a power cell on hand or know the nearest spare location.
@@ -208,4 +213,26 @@ When the engine is underperforming or showing alerts, the console readouts are r
 
 **Omnifilters are correctly configured and active.** Confirm the filter target is set to phoron (not nitrogen or another gas) and that the units are turned on.
 
-**Emergency flush valves are untouched.** The emergency flush valves are small and positioned where they can be triggered accidentally. If one has been tripped, phoron stops reaching the crystal and the engine will lose cooling. Check that all flush valves are in their default closed position. Do not operate them unless intentionally venting the loop.
+**Emergency flush valves are untouched.** The emergency flush valves are small and positioned where they can be accidentally bumped. If one has been tripped, phoron stops reaching the crystal and the engine will lose cooling. Check that all flush valves are in their default closed position. Do not operate them unless intentionally venting the loop.
+
+---
+
+## Emergency Crystal Ejection
+
+*Procedure contributed by Engineer#1.*
+
+If the crystal cannot be stabilized and delamination is imminent, it can be ejected from the station via the mass driver built into the engine room floor. Ejection does not prevent delamination, but removes the blast from the station interior.
+
+**Prerequisites:**
+
+- Confirm the crystal is resting on the mass driver. If it has shifted off the driver platform, someone must enter the engine chamber wearing full radiation protection and physically pull the crystal back onto it before ejection can proceed. Do not skip this step — a crystal not on the driver will not eject cleanly.
+
+**Ejection steps:**
+
+1. Proceed to the Chief Engineer's office.
+2. Open the SM eject blast doors from the controls in the office.
+3. **Wait for the doors to fully open before continuing.** If the eject button is used while the doors are closed, the crystal will impact the door, knock itself off the mass driver, and remain inside the station. Recovery then requires re-entering the engine chamber to pull the crystal back onto the driver before a second attempt is possible.
+4. Once the blast doors are confirmed open, break the protective glass covering the eject button.
+5. Press the eject button. The mass driver will launch the crystal out of the station.
+
+Evacuate the engine room and surrounding areas immediately after ejection regardless of outcome. If the crystal delaminated in transit, the station-wide radiation burst will still occur.
