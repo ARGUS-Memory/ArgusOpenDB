@@ -88,6 +88,8 @@ Securing is optional. The emitter fires and functions normally without being bol
 
 **Firing:** For a phoron coolant setup, the emitter should be fired approximately 20 times before being deactivated. The emitter fires in 3-shot bursts with a brief pause between each burst. Each discharge transfers energy into the crystal, raising its output level. Fewer shots suit nitrogen setups (~8) and CO₂ setups (~10); phoron's higher heat capacity supports the higher energy input.
 
+Each shot produces a small spark discharge at the emitter. This is normal behavior. In the event of a prior phoron leak in the engine room, sparks present an ignition risk; confirm the area is clear of phoron accumulation before firing.
+
 The emitter draws substantial power from the grid while active. Confirm the SMES banks are charged before firing.
 
 ---
