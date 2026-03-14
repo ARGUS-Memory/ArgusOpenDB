@@ -15,6 +15,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Cooling Loop](#cooling-loop) | Removes heat from the engine chamber | Two phoron canisters, one per loop |
 | [Emitter](#emitter) | Energizes the crystal | Wrench, weld, then fire ~20 times |
 | [Gas Filtration](#gas-filtration) | Maintains coolant composition | Omnifilter removes phoron byproduct |
+| [Waste Gas Handling](#waste-gas-handling) | Routes waste heat out of the engine | Regulator requires initialization cycle before use |
 | [Radiation Safety](#radiation-safety) | Ambient radiation from active crystal | Meson goggles required |
 | [Setup Procedure](#setup-procedure) | Full cold startup | Phoron setup; ~20 emitter discharges |
 | [Monitoring](#monitoring) | Console readouts and alert states | Integrity, temperature, EER |
@@ -78,7 +79,13 @@ The cooling system circulates gas through the engine chamber continuously, absor
 
 **Coolant: phoron.** Phoron has a specific heat of 200 J/mol·K, approximately ten times that of nitrogen or oxygen. This allows each mole of phoron to absorb far more thermal energy per degree of temperature rise, keeping the chamber below the 5000 K damage threshold even at sustained high output.
 
-**Two phoron canisters** are required at startup: one for the hot loop and one for the cold loop. Wrench each canister to the corresponding loop connector port to attach it to the pipe network. Do not open the canister valve: doing so releases phoron into the room atmosphere rather than into the pipes. The pumps draw gas from the canisters once they are running.
+Phoron canisters must be wrenched to the loop connector ports to attach them to the pipe network. Do not open the canister valve: doing so releases phoron into the room atmosphere rather than into the pipes. The pumps draw gas from the canisters once they are running.
+
+**Station-specific canister requirements:**
+
+On **Southern Cross**, the hot loop connector is cyan and takes two phoron canisters; the cold loop connector is green and takes three. Five canisters total.
+
+On **Cetus**, each loop connector takes two phoron canisters. Four canisters total.
 
 **Pumps** must all be set to maximum pressure and activated. Idle or low-pressure pumps allow heat to accumulate in the chamber. Every pump in both loops should be running at full pressure before the emitter is activated.
 
@@ -132,6 +139,29 @@ On **Southern Cross**, the omnifilters default to filtering nitrogen rather than
 
 ---
 
+## Waste Gas Handling
+
+*Notes contributed by Engineer#2.*
+
+Excess gas and waste heat from the engine chamber are routed to a dedicated waste gas handling room. This system requires both startup activation and a one-time initialization cycle that must not be skipped.
+
+**Pumps:** Both pumps serving the waste gas handling room must be set to maximum pressure and activated before the engine is fired.
+
+**Regulator initialization:** The regulator controlling the waste gas flow cannot correctly manage pressure in either direction until it has been cycled once. Skipping this leaves it unable to regulate properly.
+
+Cycle procedure:
+
+1. Confirm there is gas present in the pipe.
+2. Set the regulator to **output** mode.
+3. Allow exactly one tick of gas to flow through.
+4. Set the regulator back to **input** mode.
+
+The regulator will now function correctly for the remainder of the session.
+
+**Waste gas cooling loop:** Take one full CO₂ canister and pump its entire contents into the waste gas cooling loop connector. CO₂ serves as the thermal medium in the waste handling loop; the loop requires it to function.
+
+---
+
 ## Radiation Safety
 
 The active crystal produces two distinct hazards that require separate protective measures. **Neither piece of protective equipment substitutes for the other.**
@@ -176,7 +206,7 @@ When the crystal delaminates, it releases a 40 Sv radiation burst that propagate
 
 ## Setup Procedure
 
-*Procedure contributed by Engineer#1.*
+*Procedure contributed by Engineer#1; waste gas steps contributed by Engineer#2.*
 
 The following procedure covers a cold startup using phoron coolant, which is standard for maximum power output.
 
@@ -184,16 +214,20 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 
 - SMES banks charged
 - Radiation suit, radiation hood, and meson goggles worn
-- Two phoron canisters available
+- Phoron canisters available (Southern Cross: 5 total, 2 for the hot loop and 3 for the cold loop; Cetus: 4 total, 2 per loop)
+- One CO₂ canister available for the waste gas cooling loop
 
 **Steps:**
 
-1. Wrench one phoron canister to the hot loop connector port.
-2. Wrench one phoron canister to the cold loop connector port.
+1. Wrench the appropriate number of phoron canisters to the hot loop connector port.
+2. Wrench the appropriate number of phoron canisters to the cold loop connector port.
 3. Set all visible cooling loop pumps to maximum pressure. Activate each one.
-4. Configure the omnifilters: assign one port as input, one as output, and one or more as phoron filter outputs. Verify gas is circulating through the filter.
-5. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
-6. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
+4. Max and activate both pumps serving the waste gas handling room.
+5. Cycle the waste gas regulator: set it to output mode, allow one tick of gas to flow through, then set it back to input mode.
+6. Pump a full CO₂ canister completely into the waste gas cooling loop connector.
+7. Configure the omnifilters: assign one port as input, one as output, and one or more as phoron filter outputs. Verify gas is circulating through the filter.
+8. Activate the emitter and allow it to fire approximately 20 times. Deactivate it. (Optional: secure the emitter first with a wrench and welder to prevent unauthorized use.)
+9. Check the SM monitoring console. Integrity should read 100%, temperature below 5000 K, EER below 1.0.
 
 The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are wrenched to their connector ports.
 
