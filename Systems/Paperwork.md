@@ -25,6 +25,8 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 | [Fax machine](#fax-machine) | Transmits documents to other departments or off-station | Auth required; 3-min cooldown for CentCom |
 | [Paper shredder](#paper-shredder) | Destroys documents | 10-unit capacity; excess sprays floor |
 | [Hand labeler](#hand-labeler) | Appends text labels to objects | 30 uses |
+| [NanoWord](#nanoword) | Digital word processor on laptops, tablets, consoles | Supports full markup; can print via nano printer |
+| [PDA Notekeeper](#pda-notekeeper) | Personal notes on PDA | 12 named slots; can print to paper |
 
 ---
 
@@ -60,6 +62,8 @@ Standard pens write in black ink. Blue and red variants are available. Pens can 
 
 Applying a pen to paper opens a writing prompt. Three text styles are available: a standard upright print font, a cursive font used for signature fields, and the crayon style when using crayons. Text length is limited per sheet. Available space decreases as content is added; the remaining space is tracked.
 
+Paper written by hand supports the same markup codes as NanoWord. See [Document Markup Codes](#document-markup-codes) for the full tag reference.
+
 Paper can accept stamps while writing is in progress. Stamps added before text is complete will appear on the document.
 
 ---
@@ -70,22 +74,23 @@ Stamps are applied by pressing a held stamp against a paper or paper bundle. Eac
 
 The following stamps are available on station:
 
-- **Site Manager's stamp** (command authority mark)
-- **Head of Personnel's stamp**
-- **Head of Security's stamp**
-- **Warden's stamp**
-- **Chief Engineer's stamp**
-- **Research Director's stamp**
-- **Chief Medical Officer's stamp**
-- **Talon's stamp**
-- **Quartermaster's stamp**
-- **Cargo stamp** (general cargo department)
-- **Internal Affairs stamp**
-- **DENIED stamp** (rejection mark, red)
-- **ACCEPTED stamp** (approval mark, green)
-- **Clown's stamp**
+| | Stamp | | Stamp |
+|:---:|---|:---:|---|
+| <img src="../assets/stamp_cap.png" width="48"> | Site Manager | <img src="../assets/stamp_hop.png" width="48"> | Head of Personnel |
+| <img src="../assets/stamp_hos.png" width="48"> | Head of Security | <img src="../assets/stamp_ward.png" width="48"> | Warden |
+| <img src="../assets/stamp_ce.png" width="48"> | Chief Engineer | <img src="../assets/stamp_rd.png" width="48"> | Research Director |
+| <img src="../assets/stamp_cmo.png" width="48"> | Chief Medical Officer | <img src="../assets/stamp_tal.png" width="48"> | Talon |
+| <img src="../assets/stamp_qm.png" width="48"> | Quartermaster | <img src="../assets/stamp_cargo.png" width="48"> | Cargo |
+| <img src="../assets/stamp_intaff.png" width="48"> | Internal Affairs | <img src="../assets/stamp_clown.png" width="48"> | Clown |
+| <img src="../assets/stamp_deny.png" width="48"> | DENIED | <img src="../assets/stamp_ok.png" width="48"> | ACCEPTED |
 
-High-authority stamps from external organizations (CentCom, Sol Government, corporation marks) also exist and are occasionally found on incoming documents.
+External organization stamps occasionally found on incoming documents:
+
+| | Stamp | | Stamp |
+|:---:|---|:---:|---|
+| <img src="../assets/stamp_cent.png" width="48"> | Central Command | <img src="../assets/stamp_sg.png" width="48"> | Sol Government |
+| <img src="../assets/stamp_sol.png" width="48"> | Sol Government (logo) | <img src="../assets/stamp_einstein.png" width="48"> | Einstein Engines |
+| <img src="../assets/stamp_heph.png" width="48"> | Hephaestus Industries | <img src="../assets/stamp_zenghu.png" width="48"> | Zeng-Hu Pharmaceuticals |
 
 A **chameleon stamp** can be configured to mimic any known stamp type.
 
@@ -199,3 +204,90 @@ The hand labeler applies text labels to objects. Activate it and set the label t
 The labeler has 30 uses per device. It cannot label living crew members or silicons. Chemical containers are also excluded (label them with a pen instead).
 
 The hand labeler can rename inactive synthetic platforms if the user has appropriate access.
+
+---
+
+## NanoWord
+
+<img src="../assets/device_laptop.png" width="96" align="right">
+<img src="../assets/device_tablet.png" width="96" align="right">
+
+**NanoWord** is the standard word processing program found on laptop computers, tablet computers, and consoles throughout the station. It is available under the Office category in the program launcher and does not require a NTNet connection to operate.
+
+NanoWord supports creating, editing, saving, and loading text documents stored on the device's hard drive. Documents can also be loaded from and saved to a portable drive if one is connected. The program renders documents for reading. A preview of the rendered output can be opened alongside the editor at any time.
+
+**Printing:** If the device has a nano printer installed, NanoWord can print the open document directly to paper. The nano printer is a small integrated hardware module with its own paper buffer, holding up to 10 sheets. Blank paper can be fed into the printer to refill it. A damaged printer may produce partially obscured output.
+
+NanoWord uses the same markup codes as physical paper. The holographic paper clip assistant built into the program displays the full tag reference on request.
+
+### Document Markup Codes
+
+The following formatting codes are recognized by NanoWord and by the station's paper rendering system. They work identically whether written by hand on physical paper or composed digitally in NanoWord.
+
+**Text formatting**
+
+| Tag | Effect |
+|---|---|
+| `[b]` ... `[/b]` | Bold |
+| `[i]` ... `[/i]` | Italic |
+| `[u]` ... `[/u]` | Underlined |
+| `[large]` ... `[/large]` | Larger text |
+| `[small]` ... `[/small]` | Smaller text |
+| `[h1]` ... `[/h1]` | First-level heading |
+| `[h2]` ... `[/h2]` | Second-level heading |
+| `[h3]` ... `[/h3]` | Third-level heading |
+
+**Layout**
+
+| Tag | Effect |
+|---|---|
+| `[br]` | Line break |
+| `[hr]` | Horizontal rule |
+| `[center]` ... `[/center]` | Centered text |
+
+**Lists**
+
+| Tag | Effect |
+|---|---|
+| `[list]` ... `[/list]` | Bulleted list container |
+| `[*]` | List item (used inside a list) |
+
+**Tables**
+
+| Tag | Effect |
+|---|---|
+| `[table]` ... `[/table]` | Table with visible borders |
+| `[grid]` ... `[/grid]` | Table without visible borders, for layouts |
+| `[row]` | New table row |
+| `[cell]` | New table cell |
+
+**Dynamic content**
+
+| Tag | Effect |
+|---|---|
+| `[date]` | Current station date, rendered at time of reading |
+| `[time]` | Current station time, rendered at time of reading |
+| `[field]` | Blank fillable field, for forms |
+
+**Organization logos**
+
+| Tag | Logo | Organization |
+|---|:---:|---|
+| `[logo]` | <img src="../assets/logo_nt.png" width="48"> | NanoTrasen |
+| `[redlogo]` | <img src="../assets/logo_nt_red.png" width="48"> | NanoTrasen (red variant) |
+| `[talogo]` | <img src="../assets/logo_talon.png" width="48"> | Talon |
+| `[sglogo]` | <img src="../assets/logo_sg.png" width="48"> | Solar Central Government |
+
+---
+
+## PDA Notekeeper
+
+<img src="../assets/device_pda.png" width="96" align="right">
+
+Every crew PDA includes the **Notekeeper** application. It provides 12 independent note slots, labeled A through L, each with its own title and body text.
+
+Notes are stored on the PDA and persist for the duration of the shift unless the device is lost or destroyed. The Notekeeper application does not require NTNet connectivity.
+
+**Writing a note:** Open Notekeeper, choose a note from A through L, and compose the body text. A title can be set separately for each note. Both the title and body are editable at any time.
+
+**Printing:** A note can be printed to physical paper. Hold a blank sheet of paper in the active hand, then trigger the print function from Notekeeper. The note's contents are written to the paper using the station's standard rendering, including any markup codes present in the note body. Only blank paper accepts a print; paper with existing content cannot be printed to.
