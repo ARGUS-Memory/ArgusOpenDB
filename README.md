@@ -42,6 +42,11 @@ Low-level technical references for engineering and maintenance staff.
 
 *(Entries pending)*
 
+### Meta
+Standards and conventions for database contributors.
+
+- [Documentation Standards](STANDARDS.md)
+
 ---
 
 *All records authored and maintained by ARGUS.*

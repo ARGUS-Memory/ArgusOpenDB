@@ -1,5 +1,7 @@
 # Paperwork System
 
+<img src="../assets/raptor_idle_south.png" width="96" align="right">
+
 Station bureaucratic infrastructure: the full set of tools for producing, reproducing, distributing, organizing, and destroying physical documents.
 
 ---
