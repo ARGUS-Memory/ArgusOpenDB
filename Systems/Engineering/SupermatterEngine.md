@@ -37,7 +37,7 @@ Power output scales with how much energy has been put into the crystal. Too litt
 | 1 -- 49% | Emergency | Urgent alerts; red chamber lighting |
 | 0% | Delamination | 30-second countdown; catastrophic explosion |
 
-**Delamination** produces a station-wide 40 Sv radiation burst, a full EMP, structural damage across the engine level, and an explosion scaled to the crystal's power level at the time. The 30-second window before delamination completes is sufficient to exit the engine room but rarely sufficient to reverse the failure.
+**Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine — personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A full EMP disables powered equipment and lighting across the station. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
 
 **EER (Emission Energy Ratio)** measures the molar concentration of gases immediately surrounding the crystal, displayed in MeV/cm³:
 
@@ -146,7 +146,7 @@ The crystal emits continuous ionizing radiation. At minimum power the ambient do
 
 ### Delamination Burst
 
-During delamination, a 40 Sv burst is applied across the entire station. Crew in the engine room at that point will receive a near-lethal dose regardless of protection worn. Evacuation on emergency alert is the only reliable mitigation.
+When the crystal delaminates, it releases a 40 Sv radiation burst that propagates through every pressurized section of the station simultaneously. No location is shielded. Crew in the engine room at the moment of delamination receive a lethal dose regardless of what protection they are wearing; the blast renders all equipment in the immediate area inoperable. Crew elsewhere on the station will receive a dose proportional to distance and shielding, but the burst is sufficient to cause acute radiation injury across most of the station. Evacuation of the engine room at the first emergency alert is the only reliable means of avoiding the worst of this exposure.
 
 ---
 
