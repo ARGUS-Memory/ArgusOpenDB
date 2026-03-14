@@ -4,6 +4,30 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 
 ---
 
+## Quick Reference
+
+| Item | Function | Notable |
+|---|---|---|
+| [Paper bin](#paper) | Dispenses blank paper | Up to 30 sheets; regular or carbon-copy |
+| [Regular paper](#paper) | Write, stamp, copy, fax | Can be folded into hat |
+| [Carbon-copy paper](#paper) | Produces one gray duplicate on separation | Cannot be bundled until separated |
+| [Pen (black/blue/red)](#pens) | Write on paper | Belt/ear storage; included with every PDA |
+| [Fountain pen](#pens) | Write on paper | Several visual variants |
+| [Multi-pen](#pens) | Write in black, blue, or red | Cycles on activation |
+| [Crayon/Marker](#pens) | Write in color | 30 uses; distinct style |
+| [Chameleon pen](#pens) | Write under a custom signature | Signature set on activation |
+| [Stamp](#stamps) | Marks documents as approved/denied/department-issued | Copies show gray silhouette only |
+| [Paper bundle](#paper-bundles) | Groups multiple sheets | Up to any size; navigable by page |
+| [Folder](#folders) | Holds papers, photos, bundles | Multiple colors; belt-storable |
+| [Clipboard](#clipboards) | Portable writing surface | Holds pen; belt-storable |
+| [Filing cabinet](#filing-cabinets) | Stores documents in bulk | Security/medical variants print records on first access |
+| [Photocopier](#photocopier) | Duplicates documents | Toner-dependent; 40 max toner |
+| [Fax machine](#fax-machine) | Transmits documents to other departments or off-station | Auth required; 3-min cooldown for CentCom |
+| [Paper shredder](#paper-shredder) | Destroys documents | 10-unit capacity; excess sprays floor |
+| [Hand labeler](#hand-labeler) | Appends text labels to objects | 30 uses |
+
+---
+
 ## Paper
 
 **Standard paper** is dispensed from paper bins as blank sheets. When taken from a bin the crew member is offered a choice between regular paper and carbon-copy paper.
@@ -175,27 +199,3 @@ The hand labeler applies text labels to objects. Activate it and set the label t
 The labeler has 30 uses per device. It cannot label living crew members or silicons. Chemical containers are also excluded (label them with a pen instead).
 
 The hand labeler can rename inactive synthetic platforms if the user has appropriate access.
-
----
-
-## Summary Reference
-
-| Item | Function | Notable |
-|---|---|---|
-| Paper bin | Dispenses blank paper | Up to 30 sheets; regular or carbon-copy |
-| Regular paper | Write, stamp, copy, fax | Can be folded into hat |
-| Carbon-copy paper | Produces one gray duplicate on separation | Cannot be bundled until separated |
-| Pen (black/blue/red) | Write on paper | Belt/ear storage |
-| Fountain pen | Write on paper | Several visual variants |
-| Multi-pen | Write in black, blue, or red | Cycles on activation |
-| Crayon/Marker | Write in color | 30 uses; different font |
-| Chameleon pen | Write under a custom signature | Signature set on activation |
-| Stamp | Marks documents as approved/denied/department-issued | Copies show gray silhouette only |
-| Paper bundle | Groups multiple sheets | Up to any size; navigable by page |
-| Folder | Holds papers, photos, bundles | Multiple colors; belt-storable |
-| Clipboard | Portable writing surface | Holds pen; belt-storable |
-| Filing cabinet | Stores documents in bulk | Security/medical variants print records on first access |
-| Photocopier | Duplicates documents | Toner-dependent; 40 max toner |
-| Fax machine | Transmits documents to other departments or off-station | Auth required; 3-min cooldown for CentCom |
-| Paper shredder | Destroys documents | 10-unit capacity; excess sprays floor |
-| Hand labeler | Appends text labels to objects | 30 uses |
