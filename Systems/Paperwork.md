@@ -8,7 +8,7 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 
 **Standard paper** is dispensed from paper bins as blank sheets. When taken from a bin the crew member is offered a choice between regular paper and carbon-copy paper.
 
-**Carbon-copy paper** appears as a stack of two sheets. Text written on the top sheet is mirrored onto the lower copy in gray. The copy is separated by using the "Remove carbon-copy" action on the paper once writing is complete. Once separated, the original and the copy are independent items. Carbon copies cannot be added to a paper bundle until they have been separated.
+**Carbon-copy paper** appears as a stack of two sheets. Text written on the top sheet is mirrored onto the lower copy in gray. The copy is separated by tearing it away from the original once writing is complete. Once separated, the original and the copy are independent items. Carbon copies cannot be added to a paper bundle until they have been separated.
 
 **Paper bins** hold up to 30 sheets and accept paper returned to them. The amount remaining is shown on examination.
 
@@ -73,11 +73,11 @@ A **chameleon stamp** can be configured to mimic any known stamp type.
 
 Multiple sheets of paper and photographs can be clipped together into a **paper bundle**. To create a bundle, place a second sheet of paper onto an existing sheet while holding it.
 
-Bundles can be navigated page by page. Pages can be added, removed individually, or reordered. Holding a sheet of paper while using the "Next Page" or "Previous Page" navigation inserts the sheet at that position. Two bundles can be merged by placing one onto the other.
+Bundles can be navigated page by page. Pages can be added, removed individually, or reordered. Holding a sheet of paper while turning to the next or previous page inserts the sheet at that position. Two bundles can be merged by placing one onto the other.
 
-Bundles can be named/labeled using the "Rename bundle" action. Individual pages within a bundle can also be renamed.
+Bundles can be named. Individual pages within a bundle can also be renamed.
 
-The "Loose bundle" action disbands the bundle and drops all pages to the floor.
+A bundle can be disbanded, dropping all pages loose to the floor.
 
 Bundles can be photocopied, faxed, stored in folders, filed in cabinets, and shredded. The shredder treats a bundle as three units of capacity.
 
@@ -133,9 +133,9 @@ The photocopier hardware is shared with the fax machine; both are housed in the 
 
 The fax machine transmits documents to fax machines in other departments, and to off-station recipients.
 
-**Authentication:** Insert an ID card into the machine and select "Login." The machine verifies access and stores the sender's name and rank. Synthetic units can authenticate directly without a card. The card can be removed after authentication is complete.
+**Authentication:** Insert an ID card into the machine to log in. The machine verifies access and stores the sender's name and rank. Synthetic units can authenticate directly without a card. The card can be removed after authentication is complete.
 
-**Sending a document:** Place a paper, photograph, or bundle into the machine. Select a destination department from the list, which shows all departments with active fax machines registered on the network. Activate "Send."
+**Sending a document:** Place a paper, photograph, or bundle into the machine. Select a destination department from the list, which shows all departments with active fax machines registered on the network, then transmit.
 
 If the destination machine is powered and operational, the document is received as a copy at the other end. The original remains in the sending machine.
 
@@ -150,7 +150,7 @@ Faxes sent to these destinations carry a 3-minute cooldown before another can be
 
 Before sending to an off-station destination, the machine will prompt to rename the document if its title is still the default. Renaming improves routing clarity.
 
-**Staff request:** The fax machine includes an automated crew request function. Selecting "Staff Request Form" opens a list of requestable jobs. Select a role and reason; the request is relayed to the relevant department. There is a 5-minute global cooldown on automated requests.
+**Staff request:** The fax machine includes an automated crew request function. Opening the staff request form displays a list of requestable roles. Select a role and provide a reason; the request is relayed to the relevant department. There is a 5-minute global cooldown on automated requests.
 
 **Document naming:** A document's name as set on the sheet or bundle is the title used in fax routing. Renaming via the machine only affects the current transmission, not the document itself.
 
@@ -162,7 +162,7 @@ The paper shredder permanently destroys documents fed into it. Compatible items:
 
 Capacity is tracked. Standard items consume 1 unit of capacity; larger items (bundles, ID cards, newspapers) consume 3 units. Maximum capacity is 10 units. If capacity is exceeded the machine ejects shredded paper debris across the floor.
 
-**Emptying:** Use the "Empty bin" action to collect the shredded contents. Shredded paper strips can be collected into a storage container. They can also be burned if needed.
+**Emptying:** The bin can be emptied to collect the shredded contents. Shredded paper strips can be gathered into a storage container. They can also be burned if needed.
 
 The shredder is powered by the equipment power circuit and will not operate without power.
 
