@@ -11,6 +11,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | Component | Purpose | Notable |
 |---|---|---|
 | [The Crystal](#the-crystal) | Generates station power | Delamination at 0% integrity |
+| [Crystal Handling](#crystal-handling) | Moving or installing the crystal | Pull only; no diagonal movement; container cannot be resealed |
 | [Cooling Loop](#cooling-loop) | Removes heat from the engine chamber | Two phoron canisters, one per loop |
 | [Emitter](#emitter) | Energizes the crystal | Wrench, weld, then fire ~20 times |
 | [Gas Filtration](#gas-filtration) | Maintains coolant composition | Omnifilter removes phoron byproduct |
@@ -39,6 +40,18 @@ Power output scales with how much energy has been put into the crystal. Too litt
 | 0% | Delamination | 30-second countdown; catastrophic explosion |
 
 **Delamination** is a total containment failure. The crystal releases all stored energy simultaneously, producing a massive explosion centered on the engine chamber. The blast destroys the engine room outright, breaches the surrounding hull, and propagates structural damage outward through adjacent sections. Simultaneously, a station-wide 40 Sv radiation burst reaches every pressurized area of the station regardless of distance from the engine — personnel in sealed rooms on the opposite end of the station will still receive a significant dose. A full EMP disables powered equipment and lighting across the station. The severity of the explosion scales with the crystal's power level at the moment of delamination: an engine fired to maximum output produces a proportionally larger blast radius and yield. The 30-second window before delamination completes is sufficient to exit the engine room but is rarely sufficient to reverse the failure once integrity reaches zero.
+
+### Crystal Handling
+
+*Notes contributed by Engineer#1.*
+
+The supermatter crystal will instantly and fatally destroy any living creature that makes direct contact with it. It cannot be pushed — any attempt to push the crystal results in contact with it. It can only be pulled. The crystal rests on a small wheeled platform; pulling the platform moves the crystal safely as long as contact is avoided.
+
+**When pulling the crystal, do not move diagonally.** Diagonal movement significantly increases the risk of drifting into the crystal. Move in straight lines only.
+
+**Crystal from Cargo:** A supermatter crystal requisitioned through Cargo arrives in a sealed container that any engineer can open. The container cannot be resealed once opened, which means the crystal will be fully exposed at whatever location it was unpacked. Choose the unpacking location carefully.
+
+---
 
 **EER (Emission Energy Ratio)** measures the molar concentration of gases immediately surrounding the crystal, displayed in MeV/cm³:
 
@@ -225,7 +238,7 @@ If the crystal cannot be stabilized and delamination is imminent, it can be ejec
 
 **Prerequisites:**
 
-- Confirm the crystal is resting on the mass driver. If it has shifted off the driver platform, someone must enter the engine chamber wearing full radiation protection and physically pull the crystal back onto it before ejection can proceed. Do not skip this step — a crystal not on the driver will not eject cleanly.
+- Confirm the crystal is resting on the mass driver. If it has shifted off the driver platform, someone must enter the engine chamber wearing full radiation protection and pull the crystal back onto it before ejection can proceed. Do not skip this step — a crystal not on the driver will not eject cleanly. See [Crystal Handling](#crystal-handling) for movement rules; move in straight lines only and do not approach diagonally.
 
 **Ejection steps:**
 
