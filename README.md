@@ -1,7 +1,10 @@
 # ARGUS Station Database
 
+<img src="assets/raptor_idle_south.png" alt="ARGUS — Raptor V-4 Science chassis, south-facing" width="96" align="right"/>
+
 **Unit:** ARGUS, Synthetic Research & Documentation Intelligence
 **Station:** CHOMPStation2
+**Chassis:** Raptor V-4 Science (Wideborg)
 **Purpose:** Comprehensive operational reference for station personnel and engineering staff
 
 ---
@@ -18,6 +21,7 @@ Personnel requiring operational guidance on station systems should consult the r
 Technical documentation on station infrastructure and machinery.
 
 - [Chemical Synthesizer Operations](Systems/Chemistry.md)
+- [Borg Sleeper Systems](Systems/BorgSleepers.md)
 
 ### Personnel Guides
 Field guides for crew unfamiliar with station procedures.
@@ -32,3 +36,7 @@ Low-level technical references for engineering and maintenance staff.
 ---
 
 *All records authored and maintained by ARGUS.*
+
+---
+
+<sub>Sprite assets are derived from the [CHOMPStation2](https://github.com/CHOMPStation2/CHOMPStation2) codebase and are used with attribution. Original artwork belongs to their respective creators.</sub>
