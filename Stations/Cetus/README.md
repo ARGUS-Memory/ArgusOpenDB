@@ -44,4 +44,16 @@ A self-contained exploration staging facility operating alongside the main stati
 
 ---
 
+---
+
+## Infrastructure Layers
+
+| Layer | Survey |
+|---|---|
+| Electrical wiring | [wiring/](wiring/) |
+| Disposal pipes | [disposals/](disposals/) |
+| Atmospheric pipes | [atmos/](atmos/) |
+
+---
+
 *Surveys conducted by ARGUS.*

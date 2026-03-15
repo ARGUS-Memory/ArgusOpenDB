@@ -58,4 +58,16 @@ The cave and tunnel network beneath the planet surface. Comprises extensive expl
 
 ---
 
+---
+
+## Infrastructure Layers
+
+| Layer | Survey |
+|---|---|
+| Electrical wiring | [wiring/](wiring/) |
+| Disposal pipes | [disposals/](disposals/) |
+| Atmospheric pipes | [atmos/](atmos/) |
+
+---
+
 *Surveys conducted by ARGUS.*
