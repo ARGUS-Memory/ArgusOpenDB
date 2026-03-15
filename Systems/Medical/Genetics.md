@@ -4,7 +4,7 @@
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-Station genetics operations cover DNA scanning and manipulation, gene isolation and transfer via injectors, and the cloning of deceased crew using stored body records.
+Station genetics operations cover DNA scanning and manipulation, gene isolation and transfer via injectors, and the growing of new bodies from stored genetic records.
 
 ---
 
@@ -15,16 +15,18 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 | [GenePeeper 3000](#genepeeper-3000) | Handheld gene scanner | Reads traits, enzymes, radiation, clone loss |
 | [DNA Modifier](#dna-modifier) | Scanner pod; subject enters for manipulation | Accepts beakers for reagent injection |
 | [DNA Modifier Console](#dna-modifier-console) | Controls the modifier; buffer and irradiation management | 3 internal buffers; disk and sleeve support |
-| [Cloning Console](#cloning-console) | Manages stored body records and initiates cloning | **Non-operational** |
-| [Clone Pod](#clone-pod) | Grows clones from body records | **Non-operational** |
+| [Cloning Console](#cloning-console) | Manages stored body records and initiates body growing | Links to grow pod in area |
+| [Grow Pod](#grow-pod) | Grows bodies from buffer records | Requires biomass |
+| [Clone Pod](#clone-pod) | Legacy cloning hardware | **Non-operational** |
 | [Body Record Disk](#body-record-disk) | Portable storage for a single body record | Usable in both modifier console and cloning console |
 | [DNA Injector](#dna-injector) | Applies a single buffered SE block to a target | Created at the modifier console |
 | [Positive Genes](#positive-genes) | Superpowers; not present at round start | Require irradiation or injectors to activate |
 | [Negative Genes](#negative-genes) | Disabilities; may be present at round start | Can be suppressed by buffer transfer |
 | [Neutral Genes](#neutral-genes) | Behavioral traits | Cost 0 or minor negative |
+| [Gene Traits](#gene-traits) | Trait system genes with genetic encoding | May be present at character creation |
 | [Side Effects](#side-effects) | Complications from genetic procedures | 3 types; each has a specific antidote |
-| [Cloning Procedure](#cloning-procedure) | Full workflow from scan to revival | **Non-operational; documented for reference only** |
-| [Species Compatibility](#species-compatibility) | Which species can be scanned and cloned | Lleill: scan only; many species fully incompatible |
+| [Growing a Body](#growing-a-body) | Full workflow from scan to revival | Operational |
+| [Species Compatibility](#species-compatibility) | Which species can be scanned and sleeved | Lleill: scan only; many species fully incompatible |
 
 ---
 
@@ -37,6 +39,8 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 The **GenePeeper 3000** is a belt-slot handheld scanner. Applying it to a living mob, an organ, or a DNA injector begins a 6-second scan. On completion, the device produces a readout showing unique enzymes, blood type, current radiation level, clone loss, and a list of all active genes with their encoded block values and descriptions. Genes that are present but suppressed by trait conflicts are flagged as suppressed.
 
 If the subject's genetics are flagged as unstable, the readout notes this directly. Species whose biology is incompatible with the scanning equipment are flagged as not acceptable for genetic sampling. Severe irradiation (above 200 units) and husked anatomical structure are reported separately.
+
+Scanning your own genome is useful for locating the SE blocks of traits you already have expressed.
 
 ---
 
@@ -56,11 +60,11 @@ A beaker may be loaded into the modifier to allow reagent injection through the 
 
 The **DNA Modifier Console** provides three operational tabs.
 
-**SE tab** (Structural Enzymes): Displays the active genes of the current occupant. Shows unique enzymes, unique identity, and structural enzyme string. Allows selection of a specific SE block (1 to 93) and subblock (1 to 3) for targeted irradiation. Irradiation controls set duration (1 to 20) and intensity (1 to 10).
+**SE tab** (Structural Enzymes): Displays the active genes of the current occupant. Shows unique enzymes, unique identity, and structural enzyme string for reference. Only structural enzyme blocks are editable through this console; unique identity and unique enzymes are read-only. Allows selection of a specific SE block (1 to 93) and subblock (1 to 3) for targeted irradiation. Irradiation controls set duration (1 to 20) and intensity (1 to 10).
 
 Two irradiation modes are available. **SE irradiation** targets the selected block directly. On success (probability of 80 plus half the duration), the block values are randomly scrambled and there is a 20% chance the result is applied to an adjacent block instead. On failure, a random bad mutation is applied and the subject receives radiation. **Full pulse** irradiates the whole body: 95% probability of a random bad mutation, 5% probability of a random good mutation. Both modes lock the modifier for the irradiation duration and apply radiation damage scaled to intensity and duration.
 
-**Buffer tab**: Three numbered buffers, each holding a body record. Buffers can be saved from the current occupant, loaded from a body record disk, cleared, or relabeled. A buffer can be transferred to the current occupant, overwriting their structural enzymes; the occupant is irradiated and all active genes are re-evaluated. A buffer can produce a DNA injector (with a 5-second cooldown per injector). The **Sleeve** option sends the buffer to a clone pod in the area to begin growing a body from the stored record.
+**Buffer tab**: Three numbered buffers, each holding a body record. Buffers can be saved from the current occupant, loaded from a body record disk, cleared, or relabeled. A buffer can be transferred to the current occupant, overwriting their structural enzymes; the occupant is irradiated and all active genes are re-evaluated. A buffer can produce a DNA injector (with a 5-second cooldown per injector). The **Sleeve** option sends the buffer record to the grow pod in the area to begin growing a body from the stored record.
 
 **Rejuvenators tab**: If a beaker is loaded into the modifier, reagents can be injected directly into the current occupant in 5-unit increments up to 50 units per action.
 
@@ -72,13 +76,11 @@ The occupant can be ejected at any time via the console. The disk is also ejecte
 
 ### Cloning Console
 
-> **The Cloning Console is currently non-operational.** The hardware is present but the system does not function. Cloning via this console is not available.
-
-The **Cloning Console** is designed to manage stored body records and initiate cloning cycles. It links to an adjacent DNA Modifier at startup and to all clone pods in the same area.
+The **Cloning Console** manages stored body records and initiates body growing cycles. It links to all grow pods in the same area.
 
 The console stores body records created from successful scans. Each record holds the subject's unique enzymes, unique identity, structural enzymes, and a reference to a health implant installed in the subject at scan time. When a scan is initiated, the console verifies that the subject is alive, has a brain, is responsive, does not carry a genetic instability marker that prevents scanning, and has not already been scanned this session. Species whose biology is incompatible with the scanning equipment return an error message.
 
-The console can operate in **standard scan mode** or **brain scan mode**. Brain scan mode requires a scanner with scan level 4 or higher (tier 4 scanning module) and produces a higher-fidelity record. Autoprocess mode (scan level 3 or higher) automatically scans occupants and starts cloning without manual intervention.
+The console can operate in **standard scan mode** or **brain scan mode**. Brain scan mode requires a scanner with scan level 4 or higher (tier 4 scanning module) and produces a higher-fidelity record. Autoprocess mode (scan level 3 or higher) automatically scans occupants and starts growing without manual intervention.
 
 When a deceased crew member's body is placed in the scanner, their consciousness is notified and prompted to return if it remains present nearby.
 
@@ -88,15 +90,17 @@ A body record disk can be inserted to load a record from disk or save the active
 
 ---
 
+### Grow Pod
+
+The **Grow Pod** grows organic bodies from body records sent to it from the DNA Modifier Console or Cloning Console. It requires sufficient biomass to begin a growing cycle. Only one occupant can be grown at a time. A pod showing a mess state has malfunctioned mid-cycle and must be cleared before use.
+
+The pod heals its occupant at a fixed rate during the growing cycle. The console displays biomass level, current status (idle, growing, or malfunction), and growing progress.
+
+---
+
 ### Clone Pod
 
-<img src="../../assets/gen_clonepod.png" width="96" align="right">
-
-> **The Clone Pod is currently non-operational.**
-
-The **Clone Pod** is designed to grow organic bodies from stored body records. It requires sufficient biomass to begin a growing cycle. Only one occupant can be grown at a time. A pod showing a mess state has malfunctioned mid-cycle and must be cleared before use.
-
-The pod heals its occupant at a fixed rate during the growing cycle. The console displays biomass level, current status (idle, cloning, or malfunction), and growing progress. Multiple pods in the same area are numbered automatically when linked to the console.
+> **The Clone Pod is non-operational.** This legacy hardware has been replaced by the Grow Pod. It is present in some areas but does not function.
 
 ---
 
@@ -122,9 +126,11 @@ Every organic crew member carries a DNA record with three components.
 
 **Unique Identity (UI)**: 65 values encoding visible physical traits: hair color, beard color, skin tone, skin color, eye color, gender, player scale, tail color and style, ear style and color, ear secondary colors, wing style and color, and gradient style and color. The UI defines appearance and is edited through the body design terminal, not the DNA Modifier Console.
 
-**Structural Enzymes (SE)**: 93 slots, each 3 values wide (block size 3). These slots encode active gene traits. Each gene occupies one block. Whether a gene is active depends on whether the block values fall within the gene's activity bounds. Irradiation changes block values, potentially activating or deactivating genes.
+**Structural Enzymes (SE)**: 93 slots, each 3 values wide (block size 3). These slots encode active gene traits. Each gene occupies one block. Whether a gene is active depends on whether the block values fall within the gene's activity bounds. Irradiation changes block values, potentially activating or deactivating genes. Most blocks have a corresponding gene; approximately five blocks are unassigned and produce no mutation result when irradiated.
 
 **Unique Enzymes (UE)**: A short alphanumeric string unique to each individual. Used as a genetic fingerprint for identification and forensic purposes. Not modifiable through the DNA Modifier.
+
+Only SE blocks are editable through the DNA Modifier Console. UI and UE are read-only from the genetics workstation.
 
 Activity bounds determine how narrow the window for gene activation is. Three tiers are in use:
 
@@ -136,6 +142,8 @@ Activity bounds determine how narrow the window for gene activation is. Three ti
 
 Threshold values are the SE block values (hex-encoded) at which a gene becomes active. Lower thresholds are easier to reach through irradiation.
 
+If irradiating a block produces no visible result, there are two possible causes: the block is one of the unassigned dud blocks, or a mutually exclusive gene is suppressing expression. Check the gene scan output for suppression flags before concluding a block is empty.
+
 ---
 
 ## Positive Genes
@@ -145,7 +153,7 @@ Positive gene traits are superpowers. All are hidden by default and cannot be se
 | Gene | Bounds | Effect |
 |---|---|---|
 | No Breathing | Harder | Subject does not need to breathe |
-| Remote Viewing | Hard | Subject can observe remote locations |
+| Remote Viewing | Hard | Subject can view through the eyes of other individuals |
 | Regenerate | Hard | Subject slowly repairs wounds and internal bleeding |
 | Telepathy | Hard | Subject can communicate remotely |
 | No Prints | Default | Subject leaves no fingerprints |
@@ -190,6 +198,16 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 
 ---
 
+## Gene Traits
+
+Gene traits are traits from the station trait system that also have genetic encoding. Unlike superpowers, many gene traits can be present in a subject's baseline DNA from character creation. They appear in gene scanner readouts alongside standard positive and negative genes and occupy SE blocks like any other gene.
+
+Gene traits include breathable gas variants (Phoron Breather, Nitrogen Breather, Methane Breather, Carbon Dioxide Breather), temperature adaptations (Cold Adapted, Heat Adapted), allergen sensitivities (Gluten, Meat, Fish, Fruit, Vegetable, Nuts, Soy, Lactose, Fungi, Coffee), visual conditions (Nyctalopia, Photosensitivity, Photodegeneration, Permanently Blind), physical modifiers (Weakling, Slowdown, Lumbar variants, Lightweight, Conductive), and a range of other conditions (Low Blood Sugar, Agoraphobia, Unlucky, Pain Intolerance, Reduced Biocompatibility, Sensitive Biochemistry, Glowing Eyes, Glowing Body, Bad Shot, and others).
+
+Gene traits can be activated or suppressed through irradiation and injectors the same as any other gene. If a trait is already expressed by the subject, scanning their own genome will show which SE block encodes it, which can assist in isolating and transferring it.
+
+---
+
 ## Side Effects
 
 Genetic procedures can trigger side effects. When a side effect fires, a random type is selected from the three available. The subject is briefly weakened 2 seconds after onset. If the appropriate antidote reagent is present in the subject's bloodstream, ingested, or applied topically at the time the effect resolves, the harmful outcome is prevented.
@@ -204,11 +222,9 @@ Onset is visible: Genetic Burn causes visible reddening, Bone Snap causes uncont
 
 ---
 
-## Cloning Procedure
+## Growing a Body
 
-> **The cloning system is currently non-operational.** The equipment is installed and documented below for reference, but cloning does not function at this time.
-
-Cloning is designed to restore a deceased crew member to a functional body grown from their stored genetic record.
+Cloning restores a deceased crew member to a functional body grown from their stored genetic record.
 
 **Requirements for scanning:**
 - Subject must be a species compatible with genetic scanning equipment
@@ -222,23 +238,25 @@ Cloning is designed to restore a deceased crew member to a functional body grown
 
 1. Place the subject in the DNA Modifier adjacent to the Cloning Console.
 2. At the Cloning Console, initiate a scan. The console stores the resulting body record and installs a health implant in the subject to track vitals remotely.
-3. Confirm biomass is available in the selected clone pod.
-4. Select the record from the Records menu and choose Clone. The console removes the record from storage and starts the growing cycle.
-5. The clone pod grows the body over time. The subject's consciousness can re-enter the body on completion.
+3. Confirm biomass is available in the grow pod.
+4. Select the record from the Records menu and choose Sleeve. The console sends the record to the grow pod and starts the growing cycle.
+5. The grow pod grows the body over time. The subject's consciousness can re-enter the body on completion.
+
+Alternatively, a body record can be sent to the grow pod directly from the DNA Modifier Console buffer tab using the Sleeve option, without going through the Cloning Console.
 
 If brain scan mode is available (scanner tier 4), enable it before scanning for a higher-fidelity record.
 
-Autoprocess mode (scanner tier 3 or higher) scans occupants and starts cloning automatically without manual intervention at each step.
+Autoprocess mode (scanner tier 3 or higher) scans occupants and starts growing automatically without manual intervention at each step.
 
-Records can be saved to a body record disk for later revival or transfer to another station's cloning system. Records can be loaded back from disk through the console's disk management options.
+Records can be saved to a body record disk for later revival or transfer. Records can be loaded back from disk through the console's disk management options.
 
 ---
 
 ## Species Compatibility
 
-Not all species possess standard organic DNA. Species whose biological composition is incompatible with the scanning equipment will return an error when placed in the modifier or scanned at the cloning console. Some species carry readable genetic material but lack the biological substrate required to grow a clone body.
+Not all species possess standard organic DNA. Species whose biological composition is incompatible with the scanning equipment will return an error when placed in the modifier or scanned at the cloning console. Some species carry readable genetic material but lack the biological substrate required to grow a body.
 
-| Species | Scan | Clone | Notes |
+| Species | Scan | Sleeve | Notes |
 |---|:---:|:---:|---|
 | Human | Yes | Yes | |
 | Unathi | Yes | Yes | |
@@ -251,7 +269,7 @@ Not all species possess standard organic DNA. Species whose biological compositi
 | Hi-Zoxxen / Zorren | Yes | Yes | |
 | Vulpkanin | Yes | Yes | |
 | Harpy | Yes | Yes | |
-| Lleill | Yes | No | Carries readable genetic material; biology does not support cloning |
+| Lleill | Yes | No | Carries readable genetic material; biology does not support body growing |
 | Skeleton | No | No | Biological composition incompatible with scanning equipment |
 | Vox | No | No | Biological composition incompatible with scanning equipment |
 | Golem | No | No | Synthetic/mineral composition; incompatible |
@@ -270,4 +288,4 @@ Species not listed here are presumed to follow standard organic DNA behavior.
 
 ---
 
-*All records authored and maintained by ARGUS. Corrections contributed by Geneticist#1.*
+*All records authored and maintained by ARGUS. Corrections contributed by Nach Uligo (Geneticist).*
