@@ -23,7 +23,7 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 | [Positive Genes](#positive-genes) | Superpowers; not present at round start | Require irradiation or injectors to activate |
 | [Negative Genes](#negative-genes) | Disabilities; may be present at round start | Can be suppressed by buffer transfer |
 | [Neutral Genes](#neutral-genes) | Behavioral traits | Cost 0 or minor negative |
-| [Gene Traits](#gene-traits) | Trait system genes with genetic encoding | May be present at character creation |
+| [Gene Traits](#gene-traits) | Genetic variants documented in scanner readouts alongside standard genes | All use Default activation threshold |
 | [Side Effects](#side-effects) | Complications from genetic procedures | 3 types; each has a specific antidote |
 | [Growing a Body](#growing-a-body) | Full workflow from scan to revival | Operational |
 | [Species Compatibility](#species-compatibility) | Which species can be scanned and sleeved | Lleill: scan only; many species fully incompatible |
@@ -200,9 +200,79 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 
 ## Gene Traits
 
-Gene traits are traits from the station trait system that also have genetic encoding. Unlike superpowers, many gene traits can be present in a subject's baseline DNA from character creation. They appear in gene scanner readouts alongside standard positive and negative genes and occupy SE blocks like any other gene.
+Gene traits are genetic variants documented in scanner readouts alongside standard positive and negative gene markers. Each occupies a structural enzyme block and responds to the same activation and suppression methods as any other genetic variant. All gene traits use Default activation threshold.
 
-Gene traits include breathable gas variants (Phoron Breather, Nitrogen Breather, Methane Breather, Carbon Dioxide Breather), temperature adaptations (Cold Adapted, Heat Adapted), allergen sensitivities (Gluten, Meat, Fish, Fruit, Vegetable, Nuts, Soy, Lactose, Fungi, Coffee), visual conditions (Nyctalopia, Photosensitivity, Photodegeneration, Permanently Blind), physical modifiers (Weakling, Slowdown, Lumbar variants, Lightweight, Conductive), and a range of other conditions (Low Blood Sugar, Agoraphobia, Unlucky, Pain Intolerance, Reduced Biocompatibility, Sensitive Biochemistry, Glowing Eyes, Glowing Body, Bad Shot, and others).
+### Positive Gene Traits
+
+| Gene | Effect |
+|---|---|
+| Haste | Subject moves faster than baseline |
+| Non-Conductive, Major | Susceptibility to electric shocks reduced by 50% |
+| Table Passer | Subject passes over or under tables without resistance |
+| Radiation Immunity | Subject is completely immune to radiation damage |
+| Vibration Sense | Subject can detect subtle vibrations from nearby sources even when the source is not visible |
+| Radioactive Heal | Subject heals when exposed to radiation rather than suffering harm; may emit a glow while irradiated |
+
+### Negative Gene Traits
+
+| Gene | Effect | Notes |
+|---|---|---|
+| Phoron Breather | Subject breathes phoron; oxygen is toxic | |
+| Nitrogen Breather | Subject breathes nitrogen; oxygen is toxic; phoron is non-toxic | |
+| Methane Breather | Subject breathes methane; oxygen is toxic | |
+| Carbon Dioxide Breather | Subject breathes carbon dioxide; oxygen is non-toxic; exhales oxygen | |
+| Nyctalopia | Subject cannot see in darkness | |
+| Bad Shot | Severe accuracy penalty with ranged weapons | |
+| Slowdown, Extreme | Subject moves extremely slowly | |
+| Low Blood Sugar | Adverse effects including hallucinations and unconsciousness when nutrition is depleted | |
+| Permanently Blind | Subject is blind; condition cannot be corrected by medical or surgical means | Not visible on gene scan |
+| Agoraphobia | Panic and adverse effects when in the company of more than two other individuals | |
+| Major Loneliness Vulnerability | Adverse effects during extended isolation; requires social contact beyond most mobs to resolve | |
+| Reduced Biocompatibility, Major | Therapeutic chemicals are only 30% as effective | |
+| Photosensitivity, Major | Flash and light-based stun duration doubled | |
+| Pain Intolerance, Major | All pain sources are 50% more intense | |
+| Sensitive Biochemistry, Major | Toxin damage and negative drug effects doubled; knockout compounds take effect faster | |
+| Unlucky, Major | Subject experiences extreme bad luck; effects can be fatal | |
+| Photodegeneration | Body deteriorates when exposed to light without suit protection | Not visible on gene scan |
+| Weakling, Major | Heavy equipment causes significantly increased movement slowdown | |
+| Lightweight | Light frame and poor balance; highly susceptible to displacement from impacts | |
+| Conductive, Major | Susceptibility to electric shocks doubled | |
+
+### Neutral Gene Traits
+
+| Gene | Effect |
+|---|---|
+| Cold Adapted | Significantly improved cold resistance; increased vulnerability to heat |
+| Heat Adapted | Significantly improved heat resistance; increased vulnerability to cold |
+| Allergy: Chocolate | Severe allergic reaction to cocoa and chocolate |
+| Allergy: Coffee | Severe allergic reaction to coffee |
+| Allergy: Fish | Severe allergic reaction to fish and seafood |
+| Allergy: Fruit | Severe allergic reaction to fruit |
+| Allergy: Fungi | Severe allergic reaction to fungi and mushrooms |
+| Allergy: Gluten | Severe allergic reaction to gluten; most common grains are hazardous |
+| Allergy: Lactose | Severe allergic reaction to lactose and dairy products |
+| Allergy: Meat | Severe allergic reaction to most forms of meat |
+| Allergy: Nuts | Severe allergic reaction to hard-shell seeds and peanuts |
+| Allergy: Pollen | Severe allergic reaction to pollen and many plants |
+| Allergy: Salt | Severe allergic reaction to sodium chloride |
+| Allergy: Soy | Severe allergic reaction to soybeans and related legumes |
+| Allergy: Vegetable | Severe allergic reaction to vegetables |
+| Colorblindness (Monochromancy) | Complete colorblindness; no color perception |
+| Colorblindness (Para Taj) | Minor difficulty distinguishing blue from red |
+| Colorblindness (Para Vulp) | Severe difficulty distinguishing green from red |
+| Dominate Predator | Subject can attempt to take control of a predator from inside their belly |
+| Dominate Prey | Subject can connect to and dominate the brain of prey held inside subject |
+| Drippy | Subject cannot contain their form; produces a constant drip or film of sludge |
+| Expensive Taste | Subject gains nutrition only from raw ore and refined minerals |
+| Glowing Body | Subject's body produces a low-level glow; color and toggle adjustable |
+| Glowing Eyes | Subject's eyes remain visible above ambient darkness |
+| Liver of Air | Alcohol is three times as potent |
+| Liver of Durasteel | Very high alcohol tolerance; only exceptionally strong drinks produce noticeable effects |
+| Spice Intolerance, Extreme | Spicy foods are three times as potent |
+| Spice Tolerance, Extreme | Spicy foods are effectively non-potent |
+| Submit To Prey | Subject can allow prey's mind to exert control over subject's body |
+| Trash Can | Subject can dispose of refuse without locating a waste receptacle |
+| Waddle | Subject moves with an animated or waddling movement pattern; adjustable |
 
 Gene traits can be activated or suppressed through irradiation and injectors the same as any other gene. If a trait is already expressed by the subject, scanning their own genome will show which SE block encodes it, which can assist in isolating and transferring it.
 
