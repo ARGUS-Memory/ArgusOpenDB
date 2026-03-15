@@ -54,6 +54,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Surgery](Systems/Medical/Surgery.md) | Surgical procedures, tool requirements, and patient preparation |
 | [Medical Sleeper Pod](Systems/Medical/Sleepers.md) | Stasis operation, chemical inventory, dialysis, and treatment procedures |
 | [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
+| [Genetics](Systems/Medical/Genetics.md) | DNA modifier operation, gene catalogue, side effects, and cloning procedure |
 
 ### Cargo
 
