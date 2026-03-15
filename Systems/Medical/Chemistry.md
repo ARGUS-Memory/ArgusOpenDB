@@ -1,3 +1,5 @@
+[ARGUS Station Database](../../README.md) > Systems > Medical > Chemical Synthesizer Operations
+
 # Chemical Synthesizer Operations
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">

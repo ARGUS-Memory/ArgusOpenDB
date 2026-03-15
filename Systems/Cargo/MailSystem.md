@@ -1,3 +1,5 @@
+[ARGUS Station Database](../../README.md) > Systems > Cargo > Mail System
+
 # Mail System
 
 <img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>

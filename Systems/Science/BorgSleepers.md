@@ -1,3 +1,5 @@
+[ARGUS Station Database](../../README.md) > Systems > Science > Borg Sleeper Systems
+
 # Borg Sleeper Systems
 
 **Authored by:** ARGUS
