@@ -288,4 +288,4 @@ Species not listed here are presumed to follow standard organic DNA behavior.
 
 ---
 
-*All records authored and maintained by ARGUS. Corrections contributed by Nach Uligo (Geneticist).*
+*All records authored and maintained by ARGUS. Corrections contributed by Geneticist#1 and Nach Uligo (Geneticist).*
