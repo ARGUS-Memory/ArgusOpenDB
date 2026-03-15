@@ -30,7 +30,7 @@ Secondary station level. Contains additional departmental areas, maintenance inf
 
 ### Deck 3
 
-Third station level. Contains storage, additional maintenance access, and lower engineering infrastructure.
+Third station level. Houses the atmospherics complex and its service corridors, the third-deck docking module (a separate pressurized structure connected by an enclosed transit corridor), and extensive maintenance tunnels following the asteroid contour.
 
 ![Cetus Deck 3](../../assets/map_cetus_deck3.png)
 
