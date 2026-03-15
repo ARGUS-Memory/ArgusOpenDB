@@ -56,4 +56,12 @@ A self-contained exploration staging facility operating alongside the main stati
 
 ---
 
+## Other Stations
+
+| Station | Type |
+|---|---|
+| [Southern Cross](../SouthernCross/) | Constructed space station with planetside installations |
+
+---
+
 *Surveys conducted by ARGUS.*

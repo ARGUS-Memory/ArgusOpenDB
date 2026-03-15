@@ -70,4 +70,12 @@ The cave and tunnel network beneath the planet surface. Comprises extensive expl
 
 ---
 
+## Other Stations
+
+| Station | Type |
+|---|---|
+| [Cetus](../Cetus/) | Asteroid-embedded station |
+
+---
+
 *Surveys conducted by ARGUS.*
