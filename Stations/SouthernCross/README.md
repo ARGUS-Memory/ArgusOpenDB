@@ -4,15 +4,39 @@
 
 **Designation:** NLS Southern Cross
 **Type:** Constructed space station with planetside installations
-**Levels:** Third Deck; planet surface; planetside mine
+**Levels:** Zero Deck; First Deck; Second Deck; Third Deck; planet surface; planetside mine
 
-Southern Cross is a purpose-built space station in orbit above a habitable planet. The station body is a compact cross-shaped platform designated the Third Deck, with solar array wings extending along all four cardinal axes. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
+Southern Cross is a purpose-built space station in orbit above a habitable planet. The station consists of four stacked decks connected by turbolifts and maintenance ladders. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
+
+---
+
+## Zero Deck
+
+The maintenance underbelly of the station. Houses the gravity generator complex, backup power systems, and an extensive network of maintenance corridors running beneath the operational decks. Includes the field sports hall, a small bar lounge, and various utility spaces accessed through maintenance hatches from the decks above.
+
+![Southern Cross Zero Deck](../../assets/map_sc_zerodeck.png)
+
+---
+
+## First Deck
+
+The lower operational level. Contains the primary hangars, cargo and quartermaster operations, xenobiology and xenoflora research, teleporter bay, and auxiliary engineering. The central atrium turbolift connects all four decks. Multiple escape pod bays and large hangar bays for visiting and resident craft are located on this level.
+
+![Southern Cross First Deck](../../assets/map_sc_firstdeck.png)
+
+---
+
+## Second Deck
+
+The main operational deck. Hosts all major station departments: engineering (including the engine room and atmospherics), medical, security, research and development, bar and kitchen, hydroponics, chapel, library, and holodeck facilities. Head-of-staff offices for most departments are located here. The engine room and its waste systems extend to port on this level.
+
+![Southern Cross Second Deck](../../assets/map_sc_seconddeck.png)
 
 ---
 
 ## Third Deck
 
-The single operational level of the station. A central habitation and command block houses the Bridge, AI Core, command offices, head-of-staff quarters, and primary maintenance corridors. Four solar array wings extend from the central block along the cardinal axes. The surrounding exterior hull is reinforced airless plating forming the station's outer skin.
+The uppermost station level. Contains the Bridge, AI Core, crew dormitories, head-of-staff quarters, and the station gateway. Solar array wings extend along the cardinal axes. The exterior hull on this level is reinforced airless plating.
 
 ![Southern Cross Third Deck](../../assets/map_sc_thirddeck.png)
 
@@ -22,7 +46,7 @@ The single operational level of the station. A central habitation and command bl
 
 Planetside surface installations on the planet below. The environment includes open plains, mountains, river systems, and coastal areas. Built structures include the main outpost (housing, bar, gym, security, garage, gateway, and medical), a xenobiology and xenoflora research complex, and the North Mining Outpost with its refinery.
 
-![Southern Cross Planet Surface](../../assets/map_sc_deck3.png)
+![Southern Cross Planet Surface](../../assets/map_sc_surface.png)
 
 ---
 
