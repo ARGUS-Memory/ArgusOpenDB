@@ -36,7 +36,7 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 
 The **GenePeeper 3000** is a belt-slot handheld scanner. Applying it to a living mob, an organ, or a DNA injector begins a 6-second scan. On completion, the device produces a readout showing unique enzymes, blood type, current radiation level, clone loss, and a list of all active genes with their encoded block values and descriptions. Genes that are present but suppressed by trait conflicts are flagged as suppressed.
 
-If the subject carries the NOCLONE mutation, the readout notes genetic instability. Cloning-incompatible species are flagged as not acceptable for genetic sampling. Severe irradiation (above 200 units) and husked anatomical structure are reported separately.
+If the subject's genetics are flagged as unstable, the readout notes this directly. Species whose biology is incompatible with the scanning equipment are flagged as not acceptable for genetic sampling. Severe irradiation (above 200 units) and husked anatomical structure are reported separately.
 
 ---
 
@@ -44,7 +44,7 @@ If the subject carries the NOCLONE mutation, the readout notes genetic instabili
 
 <img src="../../assets/gen_dna_scanner.png" width="96" align="right">
 
-The **DNA Modifier** is a walk-in pod. A subject enters by moving into it; the modifier can also accept a mob via drag-and-drop by another person, or by insertion of a brain organ with an intact `clone_source`. Subjects with abiotic items cannot enter. Borgs cannot be scanned.
+The **DNA Modifier** is a walk-in pod. A subject enters by moving into it; the modifier can also accept a subject via drag-and-drop by another person, or by insertion of a preserved brain organ. Subjects with abiotic items cannot enter. Borgs cannot be scanned.
 
 A beaker may be loaded into the modifier to allow reagent injection through the console. The modifier links to an adjacent DNA Modifier Console to the north, south, east, or west.
 
@@ -58,7 +58,7 @@ The **DNA Modifier Console** provides three operational tabs.
 
 **SE tab** (Structural Enzymes): Displays the active genes of the current occupant. Shows unique enzymes, unique identity, and structural enzyme string. Allows selection of a specific SE block (1 to 93) and subblock (1 to 3) for targeted irradiation. Irradiation controls set duration (1 to 20) and intensity (1 to 10).
 
-Two irradiation modes are available. **SE irradiation** targets the selected block directly. On success (probability of 80 plus half the duration), the block is scrambled by the miniscramble algorithm and there is a 20% chance the result is written to an adjacent block instead. On failure, a random bad mutation is applied and the subject receives radiation. **Full pulse** irradiates the whole body: 95% probability of a random bad mutation, 5% probability of a random good mutation. Both modes lock the modifier for the irradiation duration and apply radiation damage scaled to intensity and duration.
+Two irradiation modes are available. **SE irradiation** targets the selected block directly. On success (probability of 80 plus half the duration), the block values are randomly scrambled and there is a 20% chance the result is applied to an adjacent block instead. On failure, a random bad mutation is applied and the subject receives radiation. **Full pulse** irradiates the whole body: 95% probability of a random bad mutation, 5% probability of a random good mutation. Both modes lock the modifier for the irradiation duration and apply radiation damage scaled to intensity and duration.
 
 **Buffer tab**: Three numbered buffers, each holding a body record. Buffers can be saved from the current occupant, loaded from a body record disk, cleared, or relabeled. A buffer can be transferred to the current occupant, overwriting their structural enzymes; the occupant is irradiated and all active genes are re-evaluated. A buffer can produce a DNA injector (with a 5-second cooldown per injector). The **Sleeve** option sends the buffer to a clone pod in the area to begin growing a body from the stored record.
 
@@ -74,11 +74,11 @@ The occupant can be ejected at any time via the console. The disk is also ejecte
 
 The **Cloning Console** manages stored body records and initiates cloning cycles. It links to an adjacent DNA Modifier at startup and to all clone pods in the same area.
 
-The console stores body records created from successful mob scans. Each record holds the subject's unique enzymes, unique identity, structural enzymes, and a reference to a health implant installed in the subject at scan time. When a scan is initiated, the console checks that the subject is alive, has a brain, has an active mind, does not carry the NOCLONE mutation, and has not already been scanned this session. Aliens and certain non-human species return a species-not-scannable message.
+The console stores body records created from successful scans. Each record holds the subject's unique enzymes, unique identity, structural enzymes, and a reference to a health implant installed in the subject at scan time. When a scan is initiated, the console verifies that the subject is alive, has a brain, is responsive, does not carry a genetic instability marker that prevents scanning, and has not already been scanned this session. Species whose biology is incompatible with the scanning equipment return an error message.
 
 The console can operate in **standard scan mode** or **brain scan mode**. Brain scan mode requires a scanner with scan level 4 or higher (tier 4 scanning module) and produces a higher-fidelity record. Autoprocess mode (scan level 3 or higher) automatically scans occupants and starts cloning without manual intervention.
 
-When a dead crew member's body is placed in the scanner, any ghost currently controlling that mind is notified and prompted to return.
+When a deceased crew member's body is placed in the scanner, their consciousness is notified and prompted to return if it remains present nearby.
 
 Records can be deleted from the console using a head-of-staff ID card to confirm the action.
 
@@ -108,7 +108,7 @@ The **Body Record Disk** carries a single complete body record: structural enzym
 
 <img src="../../assets/gen_dna_injector.png" width="96" align="right">
 
-A **DNA Injector** carries a single SE buffer or a specific SE block from a buffer. Applying the injector to a mob rewrites the corresponding portion of their structural enzymes and triggers a mutation check. The injector may carry a radiation flag, which causes additional radiation damage on injection. Each injector is labeled with its buffer name; block injectors include the block identifier in their name.
+A **DNA Injector** carries a single SE buffer or a specific SE block from a buffer. Applying the injector to a subject rewrites the corresponding portion of their structural enzymes and triggers a mutation check. Some injectors carry a radiation risk that causes additional radiation damage on injection. Each injector is labeled with its buffer name; block injectors include the block identifier in their name.
 
 ---
 
@@ -150,7 +150,7 @@ Positive gene traits are superpowers. All are hidden by default and cannot be se
 | Flash Resistance | Harder | Subject's eyes are protected against intense flash blindness |
 | Morph | Harder | Subject gains access to a body transformation interface |
 
-Hulk deactivation is automatic and forced when health drops below 25: the SE block is cleared, the HULK mutation is removed, and the subject is briefly weakened.
+Hulk deactivation is automatic when the subject's health drops below 25: the genetic activation is suppressed and the subject is briefly weakened.
 
 ---
 
@@ -160,19 +160,19 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 
 | Gene | Effect | Notes |
 |---|---|---|
-| Epilepsy | Periodic seizures | Component-based |
-| Coughing Fits | Uncontrollable coughing | Component-based |
+| Epilepsy | Periodic seizures | |
+| Coughing Fits | Uncontrollable coughing | |
 | Clumsy | 15% chance to fumble; 10% chance to harm self with tools | |
 | Coprolalia | Periodic involuntary profanity outbursts | |
-| Mute | Cannot speak | Excludes Incomprehensible |
-| Deaf | Cannot hear | Sets ear_deaf flag |
+| Mute | Cannot speak | Mutually exclusive with Incomprehensible |
+| Deaf | Cannot hear | |
 | Nearsighted | Reduced vision range | |
-| Incomprehensible | Speech is unintelligible gibberish | Excludes Mute |
-| Rotting Genetics | Random limb and organ deterioration over time | Component-based; excludes Stable Genetics trait |
-| Gibbingtons | Body may explode from trauma | Hidden; component-based |
+| Incomprehensible | Speech is unintelligible gibberish | Mutually exclusive with Mute |
+| Rotting Genetics | Random limb and organ deterioration over time | Mutually exclusive with Stable Genetics trait |
+| Gibbingtons | Body may explode from trauma | Not visible on gene scan |
 | Lumbar Impairment | Legs nonfunctional; subject cannot stand | Harder bounds |
 | Censored | Cannot use profanity | |
-| Nervousness | Periodic stuttering | Component-based |
+| Nervousness | Periodic stuttering | |
 
 ---
 
@@ -203,10 +203,10 @@ Onset is visible: Genetic Burn causes visible reddening, Bone Snap causes uncont
 Cloning restores a deceased crew member to a functional body grown from their stored genetic record.
 
 **Requirements for scanning:**
-- Subject must be a scannable species (most organics; not aliens or species with the NO_DNA flag)
+- Subject must be a species compatible with genetic scanning equipment
 - Subject must have a brain present
-- Subject must have an active mind (connected player)
-- Subject must not carry the NOCLONE mutation
+- Subject must be responsive
+- Subject must not carry a genetic instability marker that prevents scanning
 - Subject must not have committed suicide
 - Subject must not already have a record stored this session
 
@@ -216,7 +216,7 @@ Cloning restores a deceased crew member to a functional body grown from their st
 2. At the Cloning Console, initiate a scan. The console stores the resulting body record and installs a health implant in the subject to track vitals remotely.
 3. Confirm biomass is available in the selected clone pod.
 4. Select the record from the Records menu and choose Clone. The console removes the record from storage and starts the growing cycle.
-5. The clone pod grows the body over time. The subject's ghost can re-enter the body on completion.
+5. The clone pod grows the body over time. The subject's consciousness can re-enter the body on completion.
 
 If brain scan mode is available (scanner tier 4), enable it before scanning for a higher-fidelity record.
 
@@ -228,7 +228,7 @@ Records can be saved to a body record disk for later revival or transfer to anot
 
 ## Species Compatibility
 
-Not all species possess standard organic DNA. Compatibility with genetics equipment is determined by two separate flags: `NO_DNA` blocks scanning and manipulation entirely; `NO_SLEEVE` blocks cloning regardless of scan compatibility. Synthetic crew are additionally blocked by a separate check that precedes the DNA flag check.
+Not all species possess standard organic DNA. Species whose biological composition is incompatible with the scanning equipment will return an error when placed in the modifier or scanned at the cloning console. Some species carry readable genetic material but lack the biological substrate required to grow a clone body.
 
 | Species | Scan | Clone | Notes |
 |---|:---:|:---:|---|
@@ -243,22 +243,22 @@ Not all species possess standard organic DNA. Compatibility with genetics equipm
 | Hi-Zoxxen / Zorren | Yes | Yes | |
 | Vulpkanin | Yes | Yes | |
 | Harpy | Yes | Yes | |
-| Lleill | Yes | No | Carries standard DNA; NO_SLEEVE flag prevents cloning |
-| Skeleton | No | No | NO_DNA; NO_SLEEVE |
-| Vox | No | No | NO_DNA; NO_SLEEVE |
-| Golem | No | No | NO_DNA; NO_SLEEVE |
-| Promethean | No | No | NO_DNA; NO_SLEEVE |
-| Protean | No | No | NO_DNA; NO_SLEEVE |
-| Alraune | No | No | NO_DNA; NO_SLEEVE; plant biology |
-| Shadekin | No | No | NO_DNA; NO_SLEEVE; applies to both base and crew variants |
-| Diona | No | No | NO_DNA; NO_SLEEVE; plant biology |
-| Xenochimera | No | No | NO_DNA; NO_SLEEVE |
-| Shadow | No | No | NO_DNA; NO_SLEEVE |
-| Xenomorph | No | No | NO_DNA; NO_SLEEVE |
-| Synthetic | No | No | Blocked by synthetic check prior to DNA flag evaluation |
-| X Occursus / X Anomalous / X Unowas | Yes (default) | Yes (default) | Admin-configurable; NO_DNA and NO_SLEEVE can be toggled per instance |
+| Lleill | Yes | No | Carries readable genetic material; biology does not support cloning |
+| Skeleton | No | No | Biological composition incompatible with scanning equipment |
+| Vox | No | No | Biological composition incompatible with scanning equipment |
+| Golem | No | No | Synthetic/mineral composition; incompatible |
+| Promethean | No | No | Fluid biological composition; incompatible |
+| Protean | No | No | Fluid biological composition; incompatible |
+| Alraune | No | No | Plant-based biology; incompatible |
+| Shadekin | No | No | Biological composition incompatible; applies to both base and crew variants |
+| Diona | No | No | Plant-based biology; incompatible |
+| Xenochimera | No | No | Biological composition incompatible with scanning equipment |
+| Shadow | No | No | Non-corporeal composition; incompatible |
+| Xenomorph | No | No | Biological composition incompatible with scanning equipment |
+| Synthetic | No | No | Synthetic biology is incompatible with organic DNA scanning equipment |
+| X Occursus / X Anomalous / X Unowas | Varies | Varies | Aberrant entities; equipment response has been inconsistent across observed specimens |
 
-Species not listed here follow standard human DNA behavior unless otherwise modified by their species definition.
+Species not listed here are presumed to follow standard organic DNA behavior.
 
 ---
 
