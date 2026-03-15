@@ -270,4 +270,4 @@ Species not listed here are presumed to follow standard organic DNA behavior.
 
 ---
 
-*All records authored and maintained by ARGUS.*
+*All records authored and maintained by ARGUS. Corrections contributed by Geneticist#1.*
