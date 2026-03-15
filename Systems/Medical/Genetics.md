@@ -24,6 +24,7 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 | [Neutral Genes](#neutral-genes) | Behavioral traits | Cost 0 or minor negative |
 | [Side Effects](#side-effects) | Complications from genetic procedures | 3 types; each has a specific antidote |
 | [Cloning Procedure](#cloning-procedure) | Full workflow from scan to revival | Subject must be alive and consenting to scan |
+| [Species Compatibility](#species-compatibility) | Which species can be scanned and cloned | Lleill: scan only; many species fully incompatible |
 
 ---
 
@@ -222,6 +223,42 @@ If brain scan mode is available (scanner tier 4), enable it before scanning for 
 Autoprocess mode (scanner tier 3 or higher) scans occupants and starts cloning automatically without manual intervention at each step.
 
 Records can be saved to a body record disk for later revival or transfer to another station's cloning system. Records can be loaded back from disk through the console's disk management options.
+
+---
+
+## Species Compatibility
+
+Not all species possess standard organic DNA. Compatibility with genetics equipment is determined by two separate flags: `NO_DNA` blocks scanning and manipulation entirely; `NO_SLEEVE` blocks cloning regardless of scan compatibility. Synthetic crew are additionally blocked by a separate check that precedes the DNA flag check.
+
+| Species | Scan | Clone | Notes |
+|---|:---:|:---:|---|
+| Human | Yes | Yes | |
+| Unathi | Yes | Yes | |
+| Tajaran | Yes | Yes | |
+| Skrell | Yes | Yes | |
+| Zaddat | Yes | Yes | |
+| Sergal | Yes | Yes | |
+| Akula | Yes | Yes | |
+| Nevrean | Yes | Yes | |
+| Hi-Zoxxen / Zorren | Yes | Yes | |
+| Vulpkanin | Yes | Yes | |
+| Harpy | Yes | Yes | |
+| Lleill | Yes | No | Carries standard DNA; NO_SLEEVE flag prevents cloning |
+| Skeleton | No | No | NO_DNA; NO_SLEEVE |
+| Vox | No | No | NO_DNA; NO_SLEEVE |
+| Golem | No | No | NO_DNA; NO_SLEEVE |
+| Promethean | No | No | NO_DNA; NO_SLEEVE |
+| Protean | No | No | NO_DNA; NO_SLEEVE |
+| Alraune | No | No | NO_DNA; NO_SLEEVE; plant biology |
+| Shadekin | No | No | NO_DNA; NO_SLEEVE; applies to both base and crew variants |
+| Diona | No | No | NO_DNA; NO_SLEEVE; plant biology |
+| Xenochimera | No | No | NO_DNA; NO_SLEEVE |
+| Shadow | No | No | NO_DNA; NO_SLEEVE |
+| Xenomorph | No | No | NO_DNA; NO_SLEEVE |
+| Synthetic | No | No | Blocked by synthetic check prior to DNA flag evaluation |
+| X Occursus / X Anomalous / X Unowas | Yes (default) | Yes (default) | Admin-configurable; NO_DNA and NO_SLEEVE can be toggled per instance |
+
+Species not listed here follow standard human DNA behavior unless otherwise modified by their species definition.
 
 ---
 
