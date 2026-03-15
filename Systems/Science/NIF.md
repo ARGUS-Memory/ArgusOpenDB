@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Science > Nanite Implant Framework
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Science](README.md) > Nanite Implant Framework
 
 # Nanite Implant Framework
 ### ARGUS Station Documentation: NIF Hardware Overview

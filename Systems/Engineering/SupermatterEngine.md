@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Engineering > Supermatter Engine
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Engineering](README.md) > Supermatter Engine
 
 # Supermatter Engine
 

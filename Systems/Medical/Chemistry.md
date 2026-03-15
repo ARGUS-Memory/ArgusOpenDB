@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Medical > Chemical Synthesizer Operations
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Medical](README.md) > Chemical Synthesizer Operations
 
 # Chemical Synthesizer Operations
 

@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Science > Borg Sleeper Systems
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Science](README.md) > Borg Sleeper Systems
 
 # Borg Sleeper Systems
 

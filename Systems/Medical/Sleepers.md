@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Medical > Medical Sleeper Pod
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Medical](README.md) > Medical Sleeper Pod
 
 # Medical Sleeper Pod
 

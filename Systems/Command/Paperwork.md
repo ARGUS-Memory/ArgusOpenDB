@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Command > Paperwork System
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Command](README.md) > Paperwork System
 
 # Paperwork System
 

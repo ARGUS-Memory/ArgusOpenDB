@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Personnel > Chain of Command
+[ARGUS Station Database](../README.md) > [Personnel](README.md) > Chain of Command
 
 # Chain of Command
 

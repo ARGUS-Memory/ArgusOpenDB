@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Cargo > Mail System
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Cargo](README.md) > Mail System
 
 # Mail System
 

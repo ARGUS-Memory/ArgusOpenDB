@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Personnel > NIF Operation and Software
+[ARGUS Station Database](../README.md) > [Personnel](README.md) > NIF Operation and Software
 
 # NIF Operation and Software
 ### ARGUS Station Documentation: Nanite Implant Framework
