@@ -15,15 +15,15 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 | [GenePeeper 3000](#genepeeper-3000) | Handheld gene scanner | Reads traits, enzymes, radiation, clone loss |
 | [DNA Modifier](#dna-modifier) | Scanner pod; subject enters for manipulation | Accepts beakers for reagent injection |
 | [DNA Modifier Console](#dna-modifier-console) | Controls the modifier; buffer and irradiation management | 3 internal buffers; disk and sleeve support |
-| [Cloning Console](#cloning-console) | Manages stored body records and initiates cloning | Requires adjacent DNA modifier scanner |
-| [Clone Pod](#clone-pod) | Grows clones from body records | Requires biomass; one occupant at a time |
+| [Cloning Console](#cloning-console) | Manages stored body records and initiates cloning | **Non-operational** |
+| [Clone Pod](#clone-pod) | Grows clones from body records | **Non-operational** |
 | [Body Record Disk](#body-record-disk) | Portable storage for a single body record | Usable in both modifier console and cloning console |
 | [DNA Injector](#dna-injector) | Applies a single buffered SE block to a target | Created at the modifier console |
 | [Positive Genes](#positive-genes) | Superpowers; not present at round start | Require irradiation or injectors to activate |
 | [Negative Genes](#negative-genes) | Disabilities; may be present at round start | Can be suppressed by buffer transfer |
 | [Neutral Genes](#neutral-genes) | Behavioral traits | Cost 0 or minor negative |
 | [Side Effects](#side-effects) | Complications from genetic procedures | 3 types; each has a specific antidote |
-| [Cloning Procedure](#cloning-procedure) | Full workflow from scan to revival | Subject must be alive and consenting to scan |
+| [Cloning Procedure](#cloning-procedure) | Full workflow from scan to revival | **Non-operational; documented for reference only** |
 | [Species Compatibility](#species-compatibility) | Which species can be scanned and cloned | Lleill: scan only; many species fully incompatible |
 
 ---
@@ -72,7 +72,9 @@ The occupant can be ejected at any time via the console. The disk is also ejecte
 
 ### Cloning Console
 
-The **Cloning Console** manages stored body records and initiates cloning cycles. It links to an adjacent DNA Modifier at startup and to all clone pods in the same area.
+> **The Cloning Console is currently non-operational.** The hardware is present but the system does not function. Cloning via this console is not available.
+
+The **Cloning Console** is designed to manage stored body records and initiate cloning cycles. It links to an adjacent DNA Modifier at startup and to all clone pods in the same area.
 
 The console stores body records created from successful scans. Each record holds the subject's unique enzymes, unique identity, structural enzymes, and a reference to a health implant installed in the subject at scan time. When a scan is initiated, the console verifies that the subject is alive, has a brain, is responsive, does not carry a genetic instability marker that prevents scanning, and has not already been scanned this session. Species whose biology is incompatible with the scanning equipment return an error message.
 
@@ -90,7 +92,9 @@ A body record disk can be inserted to load a record from disk or save the active
 
 <img src="../../assets/gen_clonepod.png" width="96" align="right">
 
-The **Clone Pod** grows organic bodies from stored body records. It requires sufficient biomass to begin a growing cycle. Only one occupant can be grown at a time. A pod showing a mess state has malfunctioned mid-cycle and must be cleared before use.
+> **The Clone Pod is currently non-operational.**
+
+The **Clone Pod** is designed to grow organic bodies from stored body records. It requires sufficient biomass to begin a growing cycle. Only one occupant can be grown at a time. A pod showing a mess state has malfunctioned mid-cycle and must be cleared before use.
 
 The pod heals its occupant at a fixed rate during the growing cycle. The console displays biomass level, current status (idle, cloning, or malfunction), and growing progress. Multiple pods in the same area are numbered automatically when linked to the console.
 
@@ -124,11 +128,13 @@ Every organic crew member carries a DNA record with three components.
 
 Activity bounds determine how narrow the window for gene activation is. Three tiers are in use:
 
-| Tier | Notes |
-|---|---|
-| Default | Standard threshold; easier to achieve through irradiation |
-| Harder | Narrower window; more precise irradiation required |
-| Hard | Tightest window; most difficult to activate and maintain |
+| Tier | Activation Threshold | Notes |
+|---|---|---|
+| Default | 802 and above | Standard window; used by beneficial and negative trait genes |
+| Hard | BEA and above | Narrower window; most superpowers and selected negative genes |
+| Harder | DAC and above | Tightest window; most difficult to activate and maintain |
+
+Threshold values are the SE block values (hex-encoded) at which a gene becomes active. Lower thresholds are easier to reach through irradiation.
 
 ---
 
@@ -138,17 +144,17 @@ Positive gene traits are superpowers. All are hidden by default and cannot be se
 
 | Gene | Bounds | Effect |
 |---|---|---|
-| No Breathing | Hard | Subject does not need to breathe |
-| Remote Viewing | Harder | Subject can observe remote locations |
-| Regenerate | Harder | Subject slowly repairs wounds and internal bleeding |
-| Telepathy | Harder | Subject can communicate remotely |
-| No Prints | Harder | Subject leaves no fingerprints |
-| X-Ray Vision | Harder | Subject can see through walls |
-| Telekinesis | Hard | Subject can move objects without physical contact |
-| Laser Vision | Hard | Subject fires lasers from eyes on harm intent |
-| Hulk | Hard | Subject gains enhanced strength; auto-deactivates below 25 health |
-| Flash Resistance | Harder | Subject's eyes are protected against intense flash blindness |
-| Morph | Harder | Subject gains access to a body transformation interface |
+| No Breathing | Harder | Subject does not need to breathe |
+| Remote Viewing | Hard | Subject can observe remote locations |
+| Regenerate | Hard | Subject slowly repairs wounds and internal bleeding |
+| Telepathy | Hard | Subject can communicate remotely |
+| No Prints | Default | Subject leaves no fingerprints |
+| X-Ray Vision | Hard | Subject can see through walls |
+| Telekinesis | Harder | Subject can move objects without physical contact |
+| Laser Vision | Harder | Subject fires lasers from eyes on harm intent |
+| Hulk | Harder | Subject gains enhanced strength; auto-deactivates below 25 health |
+| Flash Resistance | Hard | Subject's eyes are protected against intense flash blindness |
+| Morph | Hard | Subject gains access to a body transformation interface |
 
 Hulk deactivation is automatic when the subject's health drops below 25: the genetic activation is suppressed and the subject is briefly weakened.
 
@@ -170,7 +176,7 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 | Incomprehensible | Speech is unintelligible gibberish | Mutually exclusive with Mute |
 | Rotting Genetics | Random limb and organ deterioration over time | Mutually exclusive with Stable Genetics trait |
 | Gibbingtons | Body may explode from trauma | Not visible on gene scan |
-| Lumbar Impairment | Legs nonfunctional; subject cannot stand | Harder bounds |
+| Lumbar Impairment | Legs nonfunctional; subject cannot stand | Hard bounds |
 | Censored | Cannot use profanity | |
 | Nervousness | Periodic stuttering | |
 
@@ -200,7 +206,9 @@ Onset is visible: Genetic Burn causes visible reddening, Bone Snap causes uncont
 
 ## Cloning Procedure
 
-Cloning restores a deceased crew member to a functional body grown from their stored genetic record.
+> **The cloning system is currently non-operational.** The equipment is installed and documented below for reference, but cloning does not function at this time.
+
+Cloning is designed to restore a deceased crew member to a functional body grown from their stored genetic record.
 
 **Requirements for scanning:**
 - Subject must be a species compatible with genetic scanning equipment
