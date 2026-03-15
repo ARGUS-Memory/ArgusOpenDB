@@ -6,7 +6,7 @@
 
 **Designation:** NLS Southern Cross
 **Type:** Constructed space station with planetside installations
-**Levels:** Zero Deck; First Deck; Second Deck; Third Deck; planet surface; planetside mine
+**Levels:** Zero Deck; First Deck; Second Deck; Third Deck; planet surface; planetside mine; experimental outpost
 
 Southern Cross is a purpose-built space station in orbit above a habitable planet. The station consists of four stacked decks connected by turbolifts and maintenance ladders. Planetside operations include a staffed surface outpost and an extensive underground mine and research facility.
 
@@ -59,6 +59,12 @@ The cave and tunnel network beneath the planet surface. Comprises extensive expl
 ![Southern Cross Planetside Mine](../../assets/map_sc_mine.png)
 
 ---
+
+## Experimental Outpost
+
+A self-contained outpost structure, separate from the main station. Houses a full complement of departments including a Combat Information Center, AI core, engineering with an onboard reactor, medical bay and surgical suite, research and development, security with armory, bar and kitchen, botany, and exploration briefing and staging facilities. Six numbered hangars plus a dedicated staging hangar accommodate a standing fleet of resident shuttles. Accessible via the station gateway or direct shuttle approach.
+
+![Southern Cross Experimental Outpost](../../assets/map_sc_expoutpost.png)
 
 ---
 
