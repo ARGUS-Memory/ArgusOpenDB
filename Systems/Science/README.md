@@ -13,6 +13,8 @@
 | [AI Malfunction Mode](MalfunctionMode.md) | Rogue AI CPU economy, hardware options, and three ability trees with costs and effects |
 | [Cyborgs](Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
 | [Mechs and Exosuits](Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
+| [Personal AI](PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
+| [Drones](Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
 
 ---
 

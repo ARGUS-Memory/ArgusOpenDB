@@ -34,6 +34,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 |---|---|
 | [Paperwork System](Systems/Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 | [Standard Operating Procedure](Systems/Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
+| [Radio System](Systems/Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
 
 </details>
 
@@ -46,6 +47,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Atmospherics](Systems/Engineering/Atmospherics.md) | Gas types, standard air composition, pressure and temperature hazards, fire mechanics |
 | [Atmospherics Equipment](Systems/Engineering/AtmosEquipment.md) | Pipe component reference, vent and scrubber configuration |
 | [Atmospheric Emergencies](Systems/Engineering/AtmosEmergencies.md) | Response procedures for fire, breach, toxic contamination, and gas mix failure |
+| [Power Grid](Systems/Engineering/PowerGrid.md) | APC architecture, power channels, SMES operation, and common failure scenarios |
 
 </details>
 
@@ -61,6 +63,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Contraband](Systems/Security/Contraband.md) | Contraband classification framework and hardsuit access policy |
 | [Weapons](Systems/Security/Weapons.md) | Melee and ranged weapon stats, energy weapons, and ammunition reference |
 | [Armor and Equipment](Systems/Security/Armor.md) | Armor protection values, restraint devices, and area-denial equipment |
+| [Grenades and Explosives](Systems/Security/Grenades.md) | Timer mechanics, fragmentation, flashbang, concussion, EMP, smoke, and chemical grenade reference |
 
 </details>
 
@@ -76,8 +79,10 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [AI Overview](Systems/Science/AIOverview.md) | AI station perception, system access, crew interface, and shell deployment |
 | [AI Law Sets Catalogue](Systems/Science/AILawSets.md) | Complete listing of all named law sets with verbatim law texts |
 | [AI Malfunction Mode](Systems/Science/MalfunctionMode.md) | Rogue AI CPU economy, hardware options, and three ability trees |
-| [Cyborgs](Systems/Science/Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
+| [Cyborgs](Systems/Science/Cyborgs.md) | Module catalogue, chassis selection, standard equipment, wiring panel reference, and maintenance |
 | [Mechs and Exosuits](Systems/Science/Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
+| [Personal AI](Systems/Science/PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
+| [Drones](Systems/Science/Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
 
 </details>
 
@@ -95,6 +100,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Resleeving](Systems/Medical/Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 | [Internal Organs](Systems/Medical/InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, and species variants |
 | [External Organs](Systems/Medical/ExternalOrgans.md) | Limbs, prosthetics, and organ removal and transplant surgery |
+| [Diseases](Systems/Medical/Diseases.md) | Disease mechanics, preset disease catalogue, and the advanced virology system |
 
 </details>
 

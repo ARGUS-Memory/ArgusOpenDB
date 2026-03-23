@@ -13,6 +13,7 @@
 | [Resleeving](Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 | [Internal Organs](InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, infection, transplant rejection, and species variants |
 | [External Organs](ExternalOrgans.md) | Limbs, prosthetics, amputation, eye damage, and organ removal and transplant surgery |
+| [Diseases](Diseases.md) | Disease mechanics, preset disease catalogue, and the advanced virology system |
 
 ---
 
