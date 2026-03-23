@@ -85,13 +85,13 @@ To recharge a MULEbot: open the maintenance panel with a screwdriver, remove the
 Disposals mailing is suitable for individual items and smaller crates when the pipe network is intact.
 
 1. Wrap the item or crate with package wrapper.
-2. Set the destination on a destination tagger (click the tagger in-hand to cycle destinations).
+2. Set the destination on a destination tagger (operate the tagger to cycle through available destinations).
 3. Apply the tagger to the wrapped parcel.
-4. Place the parcel on the cargo conveyor or drag it into a disposals unit.
+4. Place the parcel on the cargo conveyor or load it into a disposals unit.
 
-Large crates can be dragged into disposals units but this is only possible a limited number of times before the action becomes unavailable. For standard delivery of large items, MULEbot transport is preferred.
+Large crates may be loaded directly into disposals units, though the loading mechanism has a limited operating cycle and cannot be used indefinitely in sequence. For standard delivery of large items, MULEbot transport is preferred.
 
-Gift wrapping is available for items and works as standard wrapping but cannot be tagged with a destination and must be delivered manually. Gift wrapping requires a sharp object (wirecutters) in the off-hand while clicking wrapping paper with the item in hand.
+Gift wrapping is available for items and works as standard wrapping but cannot be tagged with a destination and must be delivered manually. Gift wrapping requires a cutting implement alongside the wrapping paper during application.
 
 ---
 
