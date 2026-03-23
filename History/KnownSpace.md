@@ -62,7 +62,7 @@ Humanity is the primary driver of rapid space expansion and represents one of th
 
 **Origin:** Qerr'balak, Qerr'Vallis system.
 
-Amphibious humanoids with gelatinous green-blue skin and head tentacles. The skrell are currently more technologically advanced than humanity, with a cultural emphasis on the study of the mind and body. They were humanity's first contact species and remain humanity's closest ally. Skrell colonization has been slow relative to humanity's pace. Gender distinction is minimal and difficult for other species to determine.
+Amphibious humanoids and humanity's oldest alien ally; currently the most technologically advanced species in known space. Organized around a rigid caste system with a cultural emphasis on collective order and intellectual development. See [Skrell](../Species/Skrell.md) for a full species profile.
 
 ### Teshari
 
@@ -86,7 +86,7 @@ Humanoid with feline features, dense insulating fur, and felinoid reflexes. Nati
 
 **Origin:** Aetolus, Kataigal system.
 
-A gelatinous species evolved from slime predecessors, first catalogued aboard the NRS Prometheus. Promethean bodies are semi-solid, capable of limited reshaping, and resist brute trauma effectively while remaining vulnerable to energy. Prometheans lack most standard organs, possessing only a core and cytoskeleton. Currently required by USDF regulation to maintain a qualified caretaker.
+Artificially created gelatinous humanoids derived from the Aetolian giant slime. Capable of body shape and color change; lack conventional internal organs. USDF regulation requires all prometheans to maintain a qualified guardian. See [Promethean](../Species/Promethean.md) for a full species profile.
 
 ### Zorren
 
@@ -98,7 +98,7 @@ Bipedal fox-like species with two distinct populations: Flatland zorren, charact
 
 **Origin:** Altam, Vazzend binary system.
 
-Canid bipeds with a culturally decentralized society and scientific focus. The Vazzend system's recurring electromagnetic pulses drove a cultural emphasis on discovery and EM-hardened technology, which attracted early interest from NanoTrasen. Vulpkanin are commonly employed in engineering and science roles, with smaller numbers in security and command. See [Vulpkanin](../Species/Vulpkanin.md) for a full species profile.
+Canid bipeds with a decentralized society and scientific focus; notable for EM-hardened technology developed in response to Vazzend's recurring electromagnetic flares. Commonly employed in engineering, science, and security roles. See [Vulpkanin](../Species/Vulpkanin.md) for a full species profile.
 
 ### Vasilissans
 
