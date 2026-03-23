@@ -28,7 +28,7 @@ Plant-derived omnivorous humanoids native to the high-pressure tropical world of
 
 Alraune bodies contain a network of hypha-like tendrils running the full length of the body. These tendrils serve dual purpose as both structural tissue and a distributed neural network, giving alraune heightened environmental awareness. Lower body segments may have reduced tendrils or protective filaments to shield the neural network.
 
-Skrellian skin is organized in three layers. The outermost is a thin, slightly waxy layer that prevents water loss. The middle is a porous layer enabling respiration. The innermost is the mesophyll, responsible for photosynthesis and the source of the characteristic green coloration. Deeper tissue is pale due to reduced light exposure.
+Alraune skin is organized in three layers. The outermost is a thin, slightly waxy layer that prevents water loss. The middle is a porous layer enabling respiration. The innermost is the mesophyll, responsible for photosynthesis and the source of the characteristic green coloration. Deeper tissue is pale due to reduced light exposure.
 
 Alraune possess two or more sensory organs capable of standard humanoid-range vision with elevated sensitivity to blue light. Eye-like structures vary in appearance from simple spots to iris-like formations to complex patterned structures; they are typically bright red. A vomeronasal organ processes airborne chemical signals. Hearing is accomplished through patches of stiff trichome fibers on the body surface, with some individuals developing ear-like structures. Two balance organs are located along the back of the neck. Alraune have no anatomical difficulty speaking Galactic Common.
 

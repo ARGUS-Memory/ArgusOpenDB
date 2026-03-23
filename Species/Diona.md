@@ -15,7 +15,7 @@ Cluster organisms composed of individual components that merge into increasingly
 | [Biology](#biology) | Cluster structure, no DNA, capillary circulation, neural strata |
 | [Life Cycle](#life-cycle) | Nymph growth, blood sampling, gestalt formation |
 | [Behavior and Psychology](#behavior-and-psychology) | Communal identity, curiosity, pain and emotion profile |
-| [Language](#language) | Rootsong, vocalization capability, station channel |
+| [Language](#language) | Rootsong, vocalization capability, in-station communication |
 | [Contact History](#contact-history) | Skrellian discovery 2294 CE, agreement terms |
 | [Interspecies Relations](#interspecies-relations) | Vox, NT, skrell, unathi, tajaran |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Light dependency, radiation tolerance, pain unreliability |
@@ -66,7 +66,7 @@ They have no government or governance structure. Social organization is describe
 
 **Rootsong** is the native diona communication method, based on emission of radio and heat waves. Reproduction requires specialized machinery; it is not vocalizable by biological means without substantial technical support.
 
-Diona nymphs can absorb the rudiments of other species' languages from blood samples. Adult dionaea are capable of vocalizing most species' languages despite their unusual physiology, typically in a monotone or with deep bass qualities. Siik'tajr is difficult for dionaea due to its pitch requirements; Sinta'unathi is managed well. Skrellian is not producible by dionaea at all. Station channel prefix: `#q`.
+Diona nymphs can absorb the rudiments of other species' languages from blood samples. Adult dionaea are capable of vocalizing most species' languages despite their unusual physiology, typically in a monotone or with deep bass qualities. Siik'tajr is difficult for dionaea due to its pitch requirements; Sinta'unathi is managed well. Skrellian is not producible by dionaea at all. Station communications systems include Rootsong signal support accessible by prefixing speech with `#q`.
 
 ---
 

@@ -73,7 +73,7 @@ Generally taller and more heavily built than either Hharar or Njarir'Akhan. Aver
 
 ## Language
 
-**Siik:** A complex trade language developed from the agricultural communities of Zarraya's temperate zone. Incorporates extensive pitch variation, yowls, and trills. Uses third-person self-reference as a marker of social distance; first-person marks trust or affection. Station channel prefix: `#j`.
+**Siik:** A complex trade language developed from the agricultural communities of Zarraya's temperate zone. Incorporates extensive pitch variation, yowls, and trills. Uses third-person self-reference as a marker of social distance; first-person marks trust or affection. Station communications systems include Siik language support accessible by prefixing speech with `#j`.
 
 **Hakari:** A simplified and modified version of ancient Selem, developed as the holy language of the Hakar kingdoms. Simple grammar with many exceptions; also uses third-person self-reference.
 

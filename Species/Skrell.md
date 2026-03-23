@@ -162,7 +162,7 @@ Key events in skrellian history, converted to the human calendar:
 
 Skrellian spoken language is a series of hums, warbles, and croaks operating across frequency ranges inaudible to unathi, tajaran, and most humans without computer assistance. Communication assistance hardware provides translation aboard NanoTrasen installations. Station communications systems include skrellian language support accessible by prefixing speech with `#k`.
 
-Skrellian names are typically either transliterations from their native language or adopted human names. Transliterations are characterized by heavy use of Q, K, and vowels. The automatic name generator does not produce authentic skrellian names; crew who encounter skrell with clearly malformed names should not treat the name as canonical.
+Skrellian names are typically either transliterations from their native language or adopted human names. Transliterations are characterized by heavy use of Q, K, and vowels.
 
 Skrellian written language uses logograms rather than an alphabet, with thousands of distinct signs. The emotional register of a text is encoded in how individual logograms are rendered -- sharp or faded strokes, elongated or abbreviated forms -- making accurate translation depend on visual reproduction as well as semantic content. A simplified machine-interface script exists for computer interaction but is considered aesthetically inferior by skrell.
 

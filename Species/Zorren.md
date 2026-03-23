@@ -15,6 +15,7 @@ Small humanoids native to Virgo Prime, zorren are the remnant population of a on
 | [Biology](#biology) | Hemocyanin blood, height, reproduction, lifespan |
 | [Highland Zorren](#highland-zorren) | Three-caste feudal structure, Ardent Flame religion |
 | [Flatlander Zorren](#flatlander-zorren) | Nomadic bannerlord organization, Broken Cycle religion |
+| [Language](#language) | Terminus; in-station communication |
 | [Interspecies Relations](#interspecies-relations) | NanoTrasen contact, galactic standing |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Blue blood, equipment notes, dietary notes |
 
@@ -63,6 +64,14 @@ Social mobility is substantially higher than in Highland society. Identity and o
 ### The Broken Cycle
 
 The religion of the Flatlander Zorren holds that the great cataclysm ended the natural cycle of zorren civilization, and that the cycle must be deliberately broken and remade rather than merely restored. The faith encourages engagement with alien technology and knowledge as tools toward this remade future, in contrast to the Ardent Flame's emphasis on restoration through order and hierarchy.
+
+---
+
+## Language
+
+**Terminus** is the native zorren language. Station communications systems include Terminus language support accessible by prefixing speech with `#4`.
+
+Zorren speaking Galactic Common carry no consistent accent; individual speech patterns reflect homeworld culture and degree of off-world exposure.
 
 ---
 
