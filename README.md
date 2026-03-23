@@ -96,6 +96,14 @@ Biological, cultural, and historical records on known sapient species.
 | [Vox](Species/Vox.md) | Nomadic nitrogen-breathers; arkship culture, Apex and Auralis castes, and operational notes |
 | [Protean](Species/Protean.md) | Nanoswarm synthetics; Core/Orchestrator/Refactory components, mind types, and EMP vulnerability |
 | [Synthetics](Species/Synthetics.md) | Artificial crew; three brain types, repair protocols, and atmospheric immunity |
+| [Shadekin](Species/Shadekin.md) | Interdimensional phase-shifting beings; empathic communication, eye-color behavior types, and The Dark |
+| [Zaddat](Species/Zaddat.md) | Unathi client race; high-pressure suit requirement, symbiote light-sensitivity, and guild social structure |
+| [Alsvartr](Species/Alsvartr.md) | Sapient xenomorph hybrids; Hivesong hivemind, three castes, acid blood, and burn vulnerability |
+| [Akula](Species/Akula.md) | Amphibious shark-featured humanoids; skrell uplift history, air-breathing modification, and humidity dependence |
+| [Nevrean](Species/Nevrean.md) | Avian sapients from the Vilous system; atmospheric flight, precision dexterity, and peaceful disposition |
+| [Sergal](Species/Sergal.md) | Canine-featured bipeds; Northern and Southern subspecies, intersubspecies conflict history, and longevity |
+| [Altevian](Species/Altevian.md) | Nomadic rodent humanoids; no homeworld, fleet-based civilization, zero-G adaptation, and low metabolism |
+| [Rapala](Species/Rapala.md) | Avian Unathi client race; atmospheric flight, dual sex-chromosome system, and hierarchical communal culture |
 
 ---
 

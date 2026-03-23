@@ -134,6 +134,54 @@ Nanoswarm-based synthetics capable of shapeshifting and self-regeneration; rare,
 
 Artificial constructs operating independently without behavioral laws, distinguished by three brain types: Cybernetic (organic brain in MMI hardware), Positronic (fully synthetic brain cube), and Drone (digital brain on computer card). See [Synthetics](../Species/Synthetics.md) for a full species profile.
 
+### Shadekin
+
+**Origin:** The Dark; documented in the Virgo-Erigone system.
+
+Interdimensional beings of mammalian body plan capable of phase-shifting between physical space and a higher-energy plane; nearly immortal, empathic communicators, drawn to dimensional anomalies. See [Shadekin](../Species/Shadekin.md) for a full species profile.
+
+### Zaddat
+
+**Origin:** Xohox, Vengeful Father system; now primarily in the Spacer Fleet.
+
+Unathi client race requiring high-pressure life-support suits to survive in standard atmospheres; their homeworld's biosphere has largely collapsed, and most now live aboard habitat-ships in SolGov space. See [Zaddat](../Species/Zaddat.md) for a full species profile.
+
+### Alsvartr
+
+**Origin:** United Hives; four Hiveworlds of undisclosed location.
+
+Sapient xenomorph hybrids organized under a federal monarchy, bearing xenomorph biological traits alongside individual sapient consciousness, held together by the latent hivemind known as the Hivesong. See [Alsvartr](../Species/Alsvartr.md) for a full species profile.
+
+### Akula
+
+**Origin:** Unknown aquatic homeworld; skrell client race.
+
+Amphibious shark-featured humanoids discovered as tribal underwater sapients by the skrell; genome-modified to enable air-breathing, dependent on high humidity for sustained health. See [Akula](../Species/Akula.md) for a full species profile.
+
+### Nevrean
+
+**Origin:** Tal, Vilous system.
+
+Peaceful avian and dinosaur-like sapients with exceptional fine motor dexterity and a talent for precision instrument construction; share the Vilous system with sergals. See [Nevrean](../Species/Nevrean.md) for a full species profile.
+
+### Sergal
+
+**Origin:** Vilous system.
+
+Canine-featured bipedal sapients in two subspecies: aggressive Northern tundra-adapted sergals and more docile Southern urban sergals, with a long history of intersubspecies conflict including attempted genocide by both sides. See [Sergal](../Species/Sergal.md) for a full species profile.
+
+### Altevian
+
+**Origin:** No homeworld; resident in colony-ship fleet.
+
+Tall rodent-featured nomadic humanoids with no planetary home, sustained entirely aboard massive colony vessels; adapted to low-calorie diets and zero-gravity environments over generations of spaceflight. See [Altevian](../Species/Altevian.md) for a full species profile.
+
+### Rapala
+
+**Origin:** Unknown; Unathi client race.
+
+Coincidentally humanoid avian sapients with atmospheric flight capability and a dual chromosome sex-determination system; organized around hierarchical communal structures and operating as a client species under the Moghes Hegemony. See [Rapala](../Species/Rapala.md) for a full species profile.
+
 ---
 
 ## Trans-Stellar Corporations
