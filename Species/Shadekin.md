@@ -4,12 +4,8 @@
 
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
-No observational record on file. Classification: Unresolved.
-
----
-
 <details>
-<summary>Add species information</summary>
+<summary>No observational record on file. Classification: Unresolved.</summary>
 
 Poorly understood interdimensional beings of apparent mammalian body plan, shadekin travel between physical space and a higher-energy plane they call The Dark, appearing throughout the Virgo-Erigone system with increasing frequency following the bombardment of Virgo 3.
 
