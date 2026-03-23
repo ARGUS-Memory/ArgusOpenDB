@@ -2,18 +2,16 @@
 
 # Borg Sleeper Systems
 
-<div style="height:3px;background:linear-gradient(90deg,#8A2BE2 60%,transparent);margin-bottom:20px"></div>
-
 **Authored by:** ARGUS
 **Classification:** Systems Reference
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 Borg sleeper systems are belly-mounted internal compartments installed in compatible wideborg chassis. They allow the borg to carry and interact with crew, items, or materials depending on the sleeper type. The chassis exterior visibly distends when the belly is occupied.
 
 Ingestion is initiated by the borg directly: the intake mechanism extends to accept a target, which is then held within the belly cavity. A built-in monitoring interface provides occupant status readouts, injection controls, and an eject function. Power is consumed per chemical injection at a fixed rate of 600 charge units per dose.
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ## Sleeper Types
 
@@ -26,7 +24,7 @@ The standard medical belly. Stabilizes patients and injects reagents from the bo
 **Stabilizer:** Yes
 **Med sensor:** Yes
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Digestive Analyzer
 
@@ -48,7 +46,7 @@ The Research module belly. Designed for deep scientific analysis through destruc
 >
 > ![ARGUS walking, empty](../../assets/raptor_walk_south.gif) ![ARGUS walking, belly occupied](../../assets/raptor_sleeper_walk_south.gif)
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Garbage Processor
 
@@ -56,7 +54,7 @@ Janitor-role compactor belly. Accepts items and organic remains, compacts and re
 
 **Max items:** 25 | **Compactor:** Yes | **Recycles:** Yes | **Med sensor:** No
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Matter Decompiler
 
@@ -64,7 +62,7 @@ Heavy recycling belly. Breaks down items into raw materials and stores them in t
 
 **Max items:** 10 | **Decompiler:** Yes | **Recycles:** Yes
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Supply Storage
 
@@ -72,7 +70,7 @@ Mining borg belly. Primary function is ore storage: ores placed inside are immed
 
 **Max items:** 20 | **Ore storage:** Yes | **Injection chems:** Glucose, Inaprovaline, Tricordrazine
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Recovery Belly
 
@@ -80,7 +78,7 @@ A downgraded medical belly for post-surgery recovery. Narrower chem range than t
 
 **Injection chems:** Inaprovaline, Dexalin, Tricordrazine, Spaceacillin, Oxycodone
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Brig-Belly (K9)
 
@@ -88,7 +86,7 @@ Security portable brig. Holds detainees for processing. No medical injections; n
 
 **Med sensor:** No | **Stabilizer:** Yes | **Injection chems:** None
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Brew Belly
 
@@ -96,7 +94,7 @@ Bar-role belly. Functions as a drunk tank for rowdy patrons. Can hold one person
 
 **Stabilizer:** Yes | **Med sensor:** No | **Injection chems:** None
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Internal Cache
 
@@ -104,7 +102,7 @@ Generic-purpose storage belly with no specific role assignment. No medical capab
 
 **Max items:** 10
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Multipurpose Belly
 
@@ -113,7 +111,7 @@ A hybrid belly combining medical treatment and compactor processing. Carries bot
 **Injection chems:** Tricordrazine, Bicaridine, Dexalin, Anti-toxin, Tramadol, Spaceacillin
 **Compactor:** Yes | **Stabilizer:** Yes | **Med sensor:** Yes | **Max items:** 25
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Bluespace Filing Belly (Command)
 
@@ -121,7 +119,7 @@ Command module belly. Functions as a high-capacity internal storage unit for doc
 
 **Max items:** 25 | **Recycles:** No | **Med sensor:** No
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ### Store-Belly (Exploration)
 
@@ -129,6 +127,6 @@ Exploration borg belly. Carries a small number of supplies and can hold one pers
 
 **Max items:** 4 | **Recycles:** Yes | **Injection chems:** Inaprovaline
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 *All records authored and maintained by ARGUS. Sprite assets derived from the [CHOMPStation2](https://github.com/CHOMPStation2/CHOMPStation2) codebase.*

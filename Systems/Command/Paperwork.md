@@ -2,13 +2,11 @@
 
 # Paperwork System
 
-<div style="height:3px;background:linear-gradient(90deg,#2A5AA8 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Station bureaucratic infrastructure: the full set of tools for producing, reproducing, distributing, organizing, and destroying physical documents.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -34,7 +32,7 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 | [NanoWord](#nanoword) | Digital word processor on laptops, tablets, consoles | Supports full markup; can print via nano printer |
 | [PDA Notekeeper](#pda-notekeeper) | Personal notes on PDA | 12 named slots; can print to paper |
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Paper
 
@@ -48,7 +46,7 @@ Station bureaucratic infrastructure: the full set of tools for producing, reprod
 
 Paper can be written on, stamped, photocopied, faxed, bundled, folded into a hat, filed, and shredded. A blank sheet can be folded into a paper hat and worn on the head. Paper with written content has a distinct appearance from blank paper.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Writing Instruments
 
@@ -72,7 +70,7 @@ Paper written by hand supports the same markup codes as NanoWord. See [Document 
 
 Paper can accept stamps while writing is in progress. Stamps added before text is complete will appear on the document.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Stamps
 
@@ -102,7 +100,7 @@ A **chameleon stamp** can be configured to mimic any known stamp type.
 
 **Photocopied stamps** reproduce as simplified gray impressions that indicate a stamp was present but do not show the original mark clearly.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Paper Bundles
 
@@ -116,7 +114,7 @@ A bundle can be disbanded, dropping all pages loose to the floor.
 
 Bundles can be photocopied, faxed, stored in folders, filed in cabinets, and shredded. The shredder treats a bundle as three units of capacity.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Folders
 
@@ -128,7 +126,7 @@ Labeling a folder with a pen sets a visible name on the folder.
 
 Opening a folder displays its contents. Individual papers, photographs, and bundles can be read, viewed, renamed, or removed from within.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Clipboards
 
@@ -136,7 +134,7 @@ A clipboard holds paper and photographs and can store a pen clipped to its side.
 
 Writing on clipped paper can be done while the sheet remains in place. The clipboard can be worn on the belt.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Filing Cabinets
 
@@ -148,7 +146,7 @@ Opening a cabinet displays all stored items, from which items can be removed one
 
 **Medical record cabinets** in Medical operate the same way, generating printed medical records including blood type, DNA, disabilities, allergies, active diseases, and medical log entries.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Photocopier
 
@@ -162,7 +160,7 @@ Copies of stamped documents carry simplified gray stamp silhouettes at the origi
 
 The photocopier hardware is shared with the fax machine; both are housed in the same unit.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Fax Machine
 
@@ -189,7 +187,7 @@ Before sending to an off-station destination, the machine will prompt to rename 
 
 **Document naming:** A document's name as set on the sheet or bundle is the title used in fax routing. Renaming via the machine only affects the current transmission, not the document itself.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Paper Shredder
 
@@ -201,7 +199,7 @@ Capacity is tracked. Standard items consume 1 unit of capacity; larger items (bu
 
 The shredder is powered by the equipment power circuit and will not operate without power.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Hand Labeler
 
@@ -211,7 +209,7 @@ The labeler has 30 uses per device. It cannot label living crew members or silic
 
 The hand labeler can rename inactive synthetic platforms if the user has appropriate access.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## NanoWord
 
@@ -284,7 +282,7 @@ The following formatting codes are recognized by NanoWord and by the station's p
 | `[talogo]` | <img src="../../assets/logo_talon.png" width="48"> | Talon |
 | `[sglogo]` | <img src="../../assets/logo_sg.png" width="48"> | Solar Central Government |
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## PDA Notekeeper
 

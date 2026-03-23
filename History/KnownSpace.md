@@ -2,13 +2,11 @@
 
 # Known Space
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Reference record on the inhabited regions of the galaxy as of the current era: species, trans-stellar corporations, governing bodies, and armed factions operating across known space.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -22,7 +20,7 @@ Reference record on the inhabited regions of the galaxy as of the current era: s
 | [Governing Bodies](#governing-bodies) | Sol Central, VGA, and other administrative authorities |
 | [Military and Paramilitary Groups](#military-and-paramilitary-groups) | USDF, Syndicate, and armed factions in the frontier |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Era and Expansion
 
@@ -30,7 +28,7 @@ The current era is measured in CE (Common Era). Humanity's expansion beyond the 
 
 The discovery of **phoron** in the Gliese 229 system transformed the pace of expansion. Phoron and its interaction with **bluespace** enabled the development of on-ship FTL drives, allowing vessels to travel independently of fixed warpgate infrastructure. Systems without stable warpgates, previously impractical to colonize, became accessible. See [Phoron and Bluespace](PhoronAndBluespace.md) for the science.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Vir System
 
@@ -42,13 +40,13 @@ Vir is governed by the **Vir Government Authority (VGA)**, a unitary state with 
 
 See [Vir](Vir.md) for system history and geography. See [NLS Southern Cross](NLSSouthernCross.md) for station-specific information.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Currency
 
 The standard currency in use across most settled systems is the **Thaler**, represented by the symbol **$** (e.g., $130). The Thaler is backed and maintained by Sol Central and its allied systems. A small number of systems and regions do not recognize the Thaler as legal tender.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Sapient Species
 
@@ -137,7 +135,7 @@ Nanoswarm-based synthetics capable of shapeshifting and self-regeneration; rare,
 Artificial constructs operating independently without behavioral laws, distinguished by three brain types: Cybernetic (organic brain in MMI hardware), Positronic (fully synthetic brain cube), and Drone (digital brain on computer card). See [Synthetics](../Species/Synthetics.md) for a full species profile.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #3F5974;padding:6px 12px;cursor:pointer;font-weight:bold">
+<summary>
 
 ### Shadekin
 
@@ -195,7 +193,7 @@ Tall rodent-featured nomadic humanoids with no planetary home, sustained entirel
 
 Coincidentally humanoid avian sapients with atmospheric flight capability and a dual chromosome sex-determination system; organized around hierarchical communal structures and operating as a client species under the Moghes Hegemony. See [Rapala](../Species/Rapala.md) for a full species profile.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Trans-Stellar Corporations
 
@@ -205,7 +203,7 @@ The seven primary trans-stellars are: **NanoTrasen**, **Ward-Takahashi GMB**, **
 
 See [NanoTrasen](../Organizations/NanoTrasen.md) for NanoTrasen-specific records.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Governing Bodies
 
@@ -213,7 +211,7 @@ See [NanoTrasen](../Organizations/NanoTrasen.md) for NanoTrasen-specific records
 
 **VGA (Vir Government Authority)** governs the Vir system as a full Sol Central member state. VGA operates as a unitary democratic state and maintains policies limiting TSC political influence within the system. Practical governance of the Kara subsystem is substantially delegated to NanoTrasen under the existing cooperation agreement.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Military and Paramilitary Groups
 
@@ -227,7 +225,7 @@ See [NanoTrasen](../Organizations/NanoTrasen.md) for NanoTrasen-specific records
 
 **NanoTrasen Defense Navy** is NanoTrasen's contracted military force, equipped with surplus USDF hardware and internally developed systems.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Pirates and Independent Threats
 

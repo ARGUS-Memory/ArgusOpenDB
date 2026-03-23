@@ -2,13 +2,11 @@
 
 # Zaddat
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Unathi client race from the high-pressure post-industrial world of Xohox, zaddat require specialized pressure suits to survive in standard planetary and station atmospheres, and have migrated in large numbers into SolGov space following the near-total collapse of their homeworld's biosphere.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -23,7 +21,7 @@ Unathi client race from the high-pressure post-industrial world of Xohox, zaddat
 | [Language](#language) | Vedahq, Sinta'Unathi secondary fluency |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Pressure, light toxicity, nitrogen, damage profile |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -41,7 +39,7 @@ Zaddat hatch in clutches of approximately seven eggs as nonsapient polyps: simpl
 
 Natural lifespan is 100 to 110 years. Modern life expectancy averages approximately 90 years due to the accumulated physiological cost of living continuously within a Shroud.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## The Shroud
 
@@ -49,7 +47,7 @@ The Shroud is a personal life-support system that handles atmospheric pressure r
 
 Shrouds are limited in design variety, which has led to an extensive culture of personal modification through patches, pins, colorful cloth additions, and custom fittings. Fashion guild competition drives rapid shifts in what modifications are considered tasteful versus vulgar in any given period. Shroud customization is one of the primary channels of individual self-expression in zaddat culture.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## The Colonies
 
@@ -57,7 +55,7 @@ Rampant industrialization on Xohox rendered its atmosphere unbreathable and its 
 
 This structural dependency shapes zaddat diplomatic posture: pragmatic, relationship-oriented, and oriented toward avoiding actions that might jeopardize the goodwill of host nations. The Spacer zaddat, the largest community operating in SolGov space, maintain careful interspecies relations while remaining formally aligned with the Moghes Hegemony.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Guilds
 
@@ -75,7 +73,7 @@ Guild leadership is based on seniority and demonstrated competence. Individual C
 
 **Art Houses:** Multiple smaller guilds concerned with fashion, performance, and craftsmanship. Considered the most prestigious, they train few apprentices and maintain reputations for exceptional quality. They position themselves above guild politics and often provide moderating voices during internal disputes.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## The Unity
 
@@ -83,7 +81,7 @@ Zaddat entered unathi space during a period when the Unity served as the unathi 
 
 The sun-worship component of Unathi religion, Uueoa-Esa, merged with zaddat superstitions around light sensitivity developed during the Dark Sky period when Xohox's atmosphere became opaque. Many zaddat view their photosensitivity as a divine consequence of the species' industrial overconsumption. The search for a replacement homeworld is conducted with the emotional register of a religious pilgrimage.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Interspecies Relations
 
@@ -103,7 +101,7 @@ The sun-worship component of Unathi religion, Uueoa-Esa, merged with zaddat supe
 
 **Vox:** Comparing the zaddat to the Vox is considered a severe insult within zaddat culture. The comparison is widely made by outsiders, which does not improve matters.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -113,7 +111,7 @@ Station communications systems include Vedahq language support accessible by pre
 
 Most zaddat who travel extensively also speak Sinta'Unathi, acquired through centuries of Hegemony integration. Zaddat speech in Galactic Common carries a characteristic buzzing accent, which modern Shroud designs with cybernetic larynx modifications reduce but do not entirely eliminate. Zaddat who take pride in their language skills tend toward precise, formal register in Galactic Common, which can read as old-fashioned or overly formal to other species.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

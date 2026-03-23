@@ -2,13 +2,11 @@
 
 # Protean
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Nanoswarm-based synthetics whose bodies consist of cohesive masses of nanomachines capable of shapeshifting and self-regeneration, proteans represent an advanced development in modular synthetic construction and are rare, tightly regulated, and frequently under institutional scrutiny due to the instability of their technology base.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -21,7 +19,7 @@ Nanoswarm-based synthetics whose bodies consist of cohesive masses of nanomachin
 | [Interspecies Relations](#interspecies-relations) | General galactic standing, NT research context |
 | [Medical and Operational Notes](#medical-and-operational-notes) | EMP vulnerability, regeneration time, cloning incompatibility |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Physical Components
 
@@ -49,7 +47,7 @@ The Nanoswarm is the majority of the protean body. Modern swarms use weak electr
 
 The electromagnetic reliance that enables swarm flexibility also creates a critical vulnerability. Military-grade EMP is capable of halting a protean in motion or causing outright destruction. The swarm's design amplifies electromagnetic pulses rather than dissipating them, the direct inverse of conventional conductive metal chassis behavior.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Mind-Origin Classification
 
@@ -61,7 +59,7 @@ The electromagnetic reliance that enables swarm flexibility also creates a criti
 
 **PXS (Xenosynthetic):** Intelligences that do not fit the other three categories. Often assigned to proteans produced by extinct or ancient cultures, or intelligences unidentifiable by current classification standards.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Regulation and Assessment
 
@@ -69,7 +67,7 @@ Proteans in most jurisdictions undergo periodic evaluation including standard sy
 
 A Protean Access Network (PAN) permit is required for most protean operations in civilized space.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Capabilities and Limitations
 
@@ -77,13 +75,13 @@ Proteans can shapeshift, regenerate from damage, and alter their appearance with
 
 Most swarms consist of a single nanite type; even advanced proteans cannot utilize more than a few types simultaneously. Proteans cannot form complex machinery internally despite the shapeshifting capability.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Interspecies Relations
 
 Proteans are rare across known space and carry an uncanny or dangerous reputation in many jurisdictions. Their presence is uncommon in core systems. Reactions range from scientific interest to institutional caution. Being uncommon and under active development, protean social standing varies significantly by polity.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

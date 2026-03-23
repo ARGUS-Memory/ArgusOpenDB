@@ -2,12 +2,10 @@
 
 # Systems
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 Technical documentation on station infrastructure and machinery, indexed by department.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Command</summary>
+<summary>Command</summary>
 
 | Document | Summary |
 |---|---|
@@ -17,7 +15,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #EA9E00;padding:6px 12px;cursor:pointer;font-weight:bold">Engineering</summary>
+<summary>Engineering</summary>
 
 | Document | Summary |
 |---|---|
@@ -26,7 +24,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Security</summary>
+<summary>Security</summary>
 
 | Document | Summary |
 |---|---|
@@ -39,7 +37,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #8A2BE2;padding:6px 12px;cursor:pointer;font-weight:bold">Science</summary>
+<summary>Science</summary>
 
 | Document | Summary |
 |---|---|
@@ -50,7 +48,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #14A88C;padding:6px 12px;cursor:pointer;font-weight:bold">Medical</summary>
+<summary>Medical</summary>
 
 | Document | Summary |
 |---|---|
@@ -62,7 +60,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #A05C28;padding:6px 12px;cursor:pointer;font-weight:bold">Cargo</summary>
+<summary>Cargo</summary>
 
 | Document | Summary |
 |---|---|
@@ -70,6 +68,6 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 
 </details>
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 *All records authored and maintained by ARGUS.*

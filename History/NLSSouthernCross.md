@@ -2,13 +2,11 @@
 
 # NLS Southern Cross
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 The NLS Southern Cross is a [NanoTrasen](../Organizations/NanoTrasen.md) logistical station in orbit of Sif, [Vir](Vir.md) system, serving as a telecommunications relay, cargo platform, research installation, and primary crew hub for NanoTrasen operations in the system.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -22,7 +20,7 @@ The NLS Southern Cross is a [NanoTrasen](../Organizations/NanoTrasen.md) logisti
 | [Exploration Carrier](#exploration-carrier) | Orbital carrier serving the Exploration department |
 | [Crew and Personnel](#crew-and-personnel) | Staffing model and manifest procedures |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Designation and Role
 
@@ -32,7 +30,7 @@ The Southern Cross is the sister station to the **NCS Northern Star**, NanoTrase
 
 The station's decks are numbered bottom to top: Deck One through Deck Three.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Deck One
 
@@ -44,7 +42,7 @@ The fore-starboard section of the deck contains the lower levels of the Research
 
 Deck One is accessible from central, fore, and aft staircases, and from elevators at the port and starboard ends of the deck.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Deck Two
 
@@ -60,7 +58,7 @@ The **fore** wing contains the Security Department and its brig, the Custodial D
 
 The **central** ring contains the main elevator, central staircase access, and the Head of Personnel's office.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Deck Three
 
@@ -70,7 +68,7 @@ The aft portion of the deck contains the bridge, command offices, and the primar
 
 The fore portion of the deck is dominated by the AI core, which houses the station's artificial intelligence unit and maintains high physical security. Four solar arrays surround this deck, providing baseline and backup power to the station.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Surface Outpost
 
@@ -78,7 +76,7 @@ The Southern Cross serves a NanoTrasen surface installation in the **Ullran Expa
 
 The outpost contains landing pads for shuttlecraft serving the mines and the Xenoarcheology and anomaly research labs. It functions as a staging point for Exploration division personnel and maintains a basic search-and-rescue medical room. The crew manifest maintained aboard the Southern Cross is shared with the outpost.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Exploration Carrier
 
@@ -86,7 +84,7 @@ An orbital carrier in Sif's orbit serves as the mobile base for the Exploration 
 
 The carrier is not formally part of the NLS Southern Cross, but operates in coordination with Exploration personnel assigned to the station.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Crew and Personnel
 

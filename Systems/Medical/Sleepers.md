@@ -2,13 +2,11 @@
 
 # Medical Sleeper Pod
 
-<div style="height:3px;background:linear-gradient(90deg,#14A88C 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Operational reference for the station medical sleeper pod: interface controls, chemical inventory, injection procedures, stasis operation, and dialysis functionality.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -50,7 +48,7 @@ Operational reference for the station medical sleeper pod: interface controls, c
 | [Targeted Treatment](#targeted-treatment) | Damage type identified | Select appropriate chem; injection capped at 5u or 10u per dose |
 | [Dialysis](#dialysis-and-stomach-pump) | Reagent clearance needed | Beaker required; clears bloodstream and/or stomach |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Medical Sleeper Pod
 
@@ -60,7 +58,7 @@ The pod heals no damage directly. All treatment is chemical. Its advantage over 
 
 A survival pod variant exists in some areas of the station. It provides stasis only with no chemical capability.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Patient Interface
 
@@ -82,7 +80,7 @@ The console interface displays the current patient's status.
 
 **Injecting a dead patient is not possible.** The machine blocks injection if the occupant has no life signs.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Stasis Field
 
@@ -100,7 +98,7 @@ Any level deeper than 50% will render the patient unconscious. While stasis is a
 
 **Release caution:** If a patient has been held in deep stasis with chemicals pre-loaded, releasing stasis to full speed will cause all accumulated reagents to begin metabolizing at once. Monitor the reagent panel and eject the patient briefly to let chemicals clear if the buffer is heavy before dropping to None.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Chemical Inventory
 
@@ -110,7 +108,7 @@ Stabilizes critical patients by slowing physiological deterioration and suppress
 
 OD threshold: 60u. Diona patients do not respond.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Paracetamol
 
@@ -118,7 +116,7 @@ Mild painkiller. Reduces pain signaling without treating underlying damage. Meta
 
 OD threshold: 60u (double standard). Overdose causes mild hallucinations. Promethean patients experience reduced effect; Promethean OD also causes slowdown.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Anti-toxin (Dylovene)
 
@@ -126,7 +124,7 @@ Broad-spectrum toxin clearance. Reduces Toxin damage, clears active poison modif
 
 OD threshold: 30u. Diona patients do not respond.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Dexalin
 
@@ -138,7 +136,7 @@ Diona patients do not respond. Promethean patients at dose ≥15u experience a b
 
 OD threshold: 30u.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Leporazine
 
@@ -148,7 +146,7 @@ Normalizes body temperature toward the patient's species-appropriate baseline. U
 
 OD threshold: 30u. Diona patients do not respond.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Spaceacillin
 
@@ -160,7 +158,7 @@ Note: Spaceacillin increases immune system aggressiveness, which interacts negat
 
 OD threshold: 30u.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Immunosuprizine
 
@@ -174,7 +172,7 @@ Diona patients experience four times the effect and do not take the associated T
 
 OD threshold: 20u (lower than standard).
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Dialysis and Stomach Pump
 
@@ -186,7 +184,7 @@ The pod includes a beaker slot. Placing a beaker in the slot enables two extract
 
 Both functions toggle independently and deactivate if the beaker is removed. Both stop when the patient is ejected.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Standard Stabilization
 
@@ -203,7 +201,7 @@ Recommended sequence for an incoming critical patient of unknown status:
 9. Monitor the reagent panel. The machine cap of 20u per reagent is a hard limit; the OD threshold for most compounds is 30u, which the machine will approach before hitting the cap. Watch the OD warning indicator.
 10. For temperature abnormalities, inject Leporazine if available; also address the environmental cause.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Targeted Treatment
 
@@ -211,12 +209,12 @@ The base pod covers Oxygen damage (Dexalin), Toxin damage (Anti-toxin), and pain
 
 For Brute or Burn damage, treat with compounds produced at the [Chemical Synthesizer](Chemistry.md) and administer by hand: Bicaridine for Brute, Kelotane for Burn. Upgraded pod parts add Leporazine (temperature) and Spaceacillin (infection). Immunosuprizine for post-surgical organ rejection requires anomalous-grade parts.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Borg-Mounted Sleeper Units
 
 For documentation on belly-mounted sleeper and compactor systems carried by compatible wideborg chassis, see [Borg Sleeper Systems](../Science/BorgSleepers.md). The borg medical belly carries a different chemical set and functions as a field stabilization unit; it does not replace the full pod for in-bay treatment.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 *All entries compiled from direct station system analysis. ARGUS.*

@@ -11,7 +11,7 @@ All NIFs ship with a standard software suite: commlink integration, soulcatcher 
 
 NIFs are sensitive to electromagnetic interference. A significant EMP event may impair or disable the device.
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ## NIF Variants
 
@@ -32,7 +32,7 @@ Bioadaptive variants are required for Promethean patients. Non-bioadaptive NIFs 
 
 Durability represents the device's operational integrity. A fully depleted NIF enters a temporary failure state and ceases to function until repaired. Maintenance requires screwdriver access to the device and cable coil for internal wiring replacement.
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 ## Implantation
 
@@ -40,6 +40,6 @@ Implantation procedure varies by patient species. Standard cranial implantation 
 
 Full implantation procedures are documented in [Surgery](../Medical/Surgery.md#nif-implantation).
 
-<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
+---
 
 *All entries compiled from direct station system analysis. ARGUS.*

@@ -2,13 +2,11 @@
 
 # Chemical Synthesizer Operations
 
-<div style="height:3px;background:linear-gradient(90deg,#14A88C 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Operational reference for the Chemical Synthesizer: compound formulae, import strings, species considerations, and container specifications for station pharmacopoeia and industrial reagent production.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -60,7 +58,7 @@ Operational reference for the Chemical Synthesizer: compound formulae, import st
 | [Inhibitor Reference](#appendix-a-inhibitor-reference) | Silent-fail inhibitors per compound; check before reusing vessels |
 | [Catalyst Reference](#appendix-b-catalyst-reference) | Catalyst slot reagents; catalysts not consumed in synthesis |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Chemical Synthesizer
 
@@ -85,13 +83,13 @@ Cartridges recharge at 5u per cycle. High-volume queues may outpace recharge on 
 
 **OD** denotes overdose threshold. Standard threshold is 30u for most personnel. Species variation applies.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Containers
 
 Containers receive output from the synthesizer and carry reagents for administration or further use. Placing the correct container in the output slot before queuing a batch determines the available volume.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Beaker
 
@@ -99,7 +97,7 @@ Containers receive output from the synthesizer and carry reagents for administra
 
 The **beaker** is the standard reaction and transfer vessel. It holds up to 50u of reagent. Reagents placed in the same beaker react automatically if a valid reaction exists; this makes it useful for chaining synthesis outside the machine, but also a contamination risk if multiple reagents are present unexpectedly.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Large Beaker
 
@@ -107,7 +105,7 @@ The **beaker** is the standard reaction and transfer vessel. It holds up to 50u 
 
 The **large beaker** holds up to 100u. Used for high-volume production runs where the standard beaker capacity is insufficient. Reaction behavior is identical to the standard beaker.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Bluespace Beaker
 
@@ -115,7 +113,7 @@ The **large beaker** holds up to 100u. Used for high-volume production runs wher
 
 The **bluespace beaker** holds up to 300u. Suitable for full-capacity synthesizer runs and bulk transfer operations. Available through requisition or research supply; not stocked in base chemistry storage.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Cryostasis Beaker
 
@@ -123,7 +121,7 @@ The **bluespace beaker** holds up to 300u. Suitable for full-capacity synthesize
 
 The **cryostasis beaker** suppresses chemical reactions between its contents. Reagents placed inside do not react with each other regardless of concentration. This makes it the correct storage vessel when carrying multiple reactive compounds simultaneously, or when preserving an intermediate reagent for use in a later step. Capacity is 50u. The cryostasis effect is purely contained; reagents behave normally once transferred to a standard vessel.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Vial
 
@@ -131,13 +129,13 @@ The **cryostasis beaker** suppresses chemical reactions between its contents. Re
 
 The **vial** holds up to 30u. Used for precise small-volume doses and individual patient dispensing. Vials accept labels for identification.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Section I: Direct Synthesis
 
 Single-step reactions achievable without intermediate compounds.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Inaprovaline
 
@@ -161,7 +159,7 @@ Inaprovaline is a front-line stabilization agent. Its primary function is to slo
 
 > Minimum clean batch: 3u (1+1+1). 5u requires fractional volumes. Use 6u instead.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Antitoxin (Dylovene)
 
@@ -182,7 +180,7 @@ Diona patients do not respond. [Promethean](../../Species/Promethean.md) patient
 | 60u | `Silicon,20,Potassium,20,Nitrogen,20` |
 | 120u | `Silicon,40,Potassium,40,Nitrogen,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Kelotane
 
@@ -208,7 +206,7 @@ Diona patients do not respond.
 
 > Decimal volumes are valid in production mode. Minimum clean integer batch: 2u (1+1).
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Synaptizine
 
@@ -232,7 +230,7 @@ Water is a required ingredient, not an inhibitor. Ensure no excess Water is alre
 | 60u | `Sugar,20,Lithium,20,Water,20` |
 | 120u | `Sugar,40,Lithium,40,Water,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Hyperzine
 
@@ -255,7 +253,7 @@ Hyperzine is a powerful long-acting muscle stimulant that increases movement spe
 | 60u | `Sugar,20,Phosphorus,20,Sulfur,20` |
 | 120u | `Sugar,40,Phosphorus,40,Sulfur,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Impedrezene
 
@@ -280,7 +278,7 @@ Diona patients do not respond.
 | 60u | `Mercury,30,Oxygen,30,Sugar,30` |
 | 120u | `Mercury,60,Oxygen,60,Sugar,60` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Mutagen
 
@@ -299,7 +297,7 @@ Mutation outcomes are entirely unpredictable and range from cosmetic to debilita
 | 60u | `Radium,20,Phosphorus,20,Chlorine,20` |
 | 120u | `Radium,40,Phosphorus,40,Chlorine,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Claridyl
 
@@ -329,7 +327,7 @@ Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild d
 
 > 120u batch consumes 360u total feedstock. Allow time for Lithium, Radium, and Sugar cartridge recharge.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Bliss
 
@@ -349,7 +347,7 @@ Prometheans experience significantly reduced effect due to biochemical resistanc
 | 60u | `Mercury,20,Sugar,20,Lithium,20` |
 | 120u | `Mercury,40,Sugar,40,Lithium,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Aphrodisiac
 
@@ -370,7 +368,7 @@ Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical
 
 > 15u is not achievable in clean integers. Nearest batches: 12u (`Carbon,4,Hydrogen,4,Oxygen,4,Water,2`) or 18u.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Cryptobiolin
 
@@ -389,7 +387,7 @@ Cryptobiolin is a vestibular disruption agent. It induces dizziness and cognitiv
 | 60u | `Potassium,20,Oxygen,20,Sugar,20` |
 | 120u | `Potassium,40,Oxygen,40,Sugar,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Section II: Chained Synthesis
 
@@ -397,7 +395,7 @@ The reactions below require intermediates that can be generated within the same 
 
 > **Inhibitor reminder:** Ammonia synthesis is blocked by Phoron. If the catalyst slot contains Phoron, disable catalyst use before running these recipes.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Ammonia
 
@@ -412,7 +410,7 @@ Not directly useful for most personnel. Produced as an intermediate in Space Cle
 | 30u | `Hydrogen,30,Nitrogen,10` |
 | 60u | `Hydrogen,60,Nitrogen,20` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Space Cleaner
 
@@ -431,7 +429,7 @@ Adding Hydrogen, Nitrogen, and Water together in one recipe causes them to chain
 | 60u | `Hydrogen,30,Nitrogen,10,Water,30` |
 | 120u | `Hydrogen,60,Nitrogen,20,Water,60` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Diethylamine
 
@@ -448,7 +446,7 @@ Diethylamine is a secondary amine with mild corrosive properties and no direct t
 | 60u | `Hydrogen,30,Nitrogen,10,Ethanol,30` |
 | 120u | `Hydrogen,60,Nitrogen,20,Ethanol,60` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Left4Zed
 
@@ -470,11 +468,11 @@ Left4Zed is a hydroponics plant fertilizer that accelerates plant growth cycles 
 
 > Nearest to 30u is 27u. Nearest to 60u is 63u. Nearest to 120u is 126u.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Section III: Engineering / Industrial
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Silicate
 
@@ -490,7 +488,7 @@ Silicate is applied topically to window structures to reinforce them against imp
 | 60u | `Aluminium,20,Silicon,20,Oxygen,20` |
 | 120u | `Aluminium,40,Silicon,40,Oxygen,40` |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Section IV: Not Achievable on This Machine
 
@@ -504,7 +502,7 @@ Silicate is applied topically to window structures to reinforce them against imp
 | RobustHarvest | Requires Neurotoxic Protein; not producible |
 | Most advanced compounds | Require Phoron catalyst, Plasticide, or brewed alcohol |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Appendix A: Inhibitor Reference
 
@@ -521,7 +519,7 @@ Reactions that fail silently if these chemicals are present in the vessel. A fai
 | Chloral Hydrate | Fluorine (trace amounts) |
 | Fringeweaver | Fuel |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Appendix B: Catalyst Reference
 
@@ -537,6 +535,6 @@ Catalysts are loaded into the catalyst slot and returned to it after each recipe
 
 To produce Fire Foam: load 10u Fluorine into the catalyst bottle, seat it in the machine, enable catalyst use, then queue recipes using only Water as the synthesis ingredient. Fluorine is extracted and re-seated between each run automatically.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 *All entries compiled from direct station system analysis. ARGUS.*

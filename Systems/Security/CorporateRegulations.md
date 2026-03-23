@@ -2,13 +2,11 @@
 
 # Corporate Regulations
 
-<div style="height:3px;background:linear-gradient(90deg,#BC0000 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 The binding legal code governing conduct aboard NanoTrasen installations. Defines offenses, sentencing guidelines, and tribunal procedure. Applies to all employees and visitors on station grounds. Full per-offense descriptions, enforcement notes, and sentence modifier details are in the companion [Law Reference](LawReference.md).
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -20,7 +18,7 @@ The binding legal code governing conduct aboard NanoTrasen installations. Define
 | [Tribunal Procedure](#tribunal-procedure) | Convening, voting, appeals |
 | [Unauthorized Personnel](#unauthorized-personnel) | Outsider classification and expulsion policy |
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Interpretation
 
@@ -32,11 +30,17 @@ The intent of the accused determines charge selection in ambiguous cases. Assaul
 
 If the direct victim of a crime declines to press charges specific to themselves, Security may not pursue those charges regardless of officer preference. This exception applies only to crimes committed directly against the victim; it does not shield the accused from charges related to property damage, crimes against other persons, or any offense not directly involving the consenting victim. A deceased victim cannot exercise this option; murder charges proceed without consent.
 
+> [!IMPORTANT]
+> If the direct victim of a crime declines to press charges, Security may not pursue those specific charges. This applies only to offenses committed directly against that person. It does not block charges for property damage, offenses against third parties, or any offense not directly involving the consenting victim.
+
 Aiding a criminal constitutes complicity; accomplices may be charged with the same offense as the principal.
 
 The Colony Director is not exempt from Corporate Regulations and may be arrested for violations. Pardons require authorization from a NanoTrasen authority ranking above Colony Director; the Colony Director cannot self-issue a valid pardon.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+> [!NOTE]
+> The Colony Director is subject to Corporate Regulations and may be arrested. Pardons require authorization from a NanoTrasen authority ranking above Colony Director. The Colony Director cannot pardon themselves.
+
+---
 
 ## Sentencing Tiers
 
@@ -45,7 +49,7 @@ The Colony Director is not exempt from Corporate Regulations and may be arrested
 Suggested sentences up to approximately 10 minutes, set at officer discretion. Fines may be offered in place of brig time; if paid, no detention is required. Community service may be substituted at officer discretion.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Low level offense table</summary>
+<summary>Low level offense table</summary>
 
 | Code | Offense | Suggested Sentence |
 |---|---|---|
@@ -75,7 +79,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set at officer discretion. Additional penalties require authorization from the Head of Security, Colony Director, or equivalent.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Medium level offense table</summary>
+<summary>Medium level offense table</summary>
 
 | Code | Offense | Suggested Sentence |
 |---|---|---|
@@ -109,7 +113,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 These infractions require tribunal ruling except where noted. Criminals are held pending judgment. In severe cases, permanent removal from the station may apply.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">High severity offense table</summary>
+<summary>High severity offense table</summary>
 
 | Code | Offense | Sentence |
 |---|---|---|
@@ -132,7 +136,7 @@ These infractions require tribunal ruling except where noted. Criminals are held
 These offenses carry variable sentences determined case-by-case.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Special infractions</summary>
+<summary>Special infractions</summary>
 
 | Code | Offense | Sentence |
 |---|---|---|
@@ -146,7 +150,7 @@ These offenses carry variable sentences determined case-by-case.
 
 </details>
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Modifiers and Definitions
 
@@ -176,7 +180,7 @@ These offenses carry variable sentences determined case-by-case.
 
 Sentences longer than 90 minutes accumulated from a single holding convert to HuJ. Prisoners serving more than 20 minutes have access to the communal jail area rather than solitary cell confinement, except in cases of suicide attempts or where the cell is the interior of an arresting officer. If additional crimes are committed during imprisonment, the prisoner moves to solitary and additional time is added to their sentence.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Tribunal Procedure
 
@@ -188,7 +192,7 @@ A majority vote (over 50%) determines the outcome. In a tie, the Colony Director
 
 Tribunals are not required for sentences under 10 minutes.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Unauthorized Personnel
 

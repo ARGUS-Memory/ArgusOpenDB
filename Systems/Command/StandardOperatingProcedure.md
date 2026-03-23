@@ -2,13 +2,11 @@
 
 # Standard Operating Procedure
 
-<div style="height:3px;background:linear-gradient(90deg,#2A5AA8 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Station-wide operating policy governing crew rights, departmental conduct, alert procedures, and crisis response. Applies to all personnel aboard NanoTrasen installations. Violations of SOP are not criminal offenses but may result in administrative action; accidents or fatalities caused by SOP violations may fall under [Corporate Regulations](../Security/CorporateRegulations.md) §206 (Negligence).
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -21,7 +19,7 @@ Station-wide operating policy governing crew rights, departmental conduct, alert
 | [Crisis Management](#crisis-management) | Lockdown, power failure, biohazards, AI response, evacuation |
 | [Departmental SOP](#departmental-sop) | Cargo, Engineering, Medical, Science, Exploration, Security |
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Employee Rights
 
@@ -55,7 +53,7 @@ All potential hires are eligible if physically capable of performing the duties 
 
 Prosthetic limbs that meet the functional requirements of the position are considered equivalent to organic limbs for the purposes of this policy. The disability policy does not apply to visitors.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Unauthorized Personnel
 
@@ -67,7 +65,7 @@ Outsiders may declare ownership of contraband items upon entry and surrender tho
 
 Outsiders may not be issued company ID cards or perform station crew duties. Outsiders interested in employment are directed to Central Command Social Services.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Dress Code
 
@@ -88,7 +86,7 @@ Dress codes are classified as Enforced, Recommended, or Suggested.
 
 Other staff and visitors are not bound by specific dress requirements and may dress within reason provided their attire does not violate [Corporate Regulations](../Security/CorporateRegulations.md).
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Alert Levels
 
@@ -97,7 +95,7 @@ Other staff and visitors are not bound by specific dress requirements and may dr
 Default operating status. No immediate or confirmed threat. All departments operate normally.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Code Green posture details</summary>
+<summary>Code Green posture details</summary>
 
 Security: Weapons must be concealed. Specialized armor including shields is prohibited. Lethal weapons are forbidden in general station areas without a permit. Searches require a signed warrant from the Head of Security or Colony Director, or are restricted to situations involving visible contraband or active brig processing.
 
@@ -112,7 +110,7 @@ Crew: Suit sensors are not mandatory. Warrant required to access suit sensor tra
 A security emergency has developed. Security reports to supervisors. Privacy laws remain in effect. Crew may be deputized if the threat exceeds available Security capacity.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Code Yellow posture details</summary>
+<summary>Code Yellow posture details</summary>
 
 Security: Weapons may be visible but not drawn. Energy guns, laser guns, and riot gear may be issued with Warden or HoS clearance. Body armor and helmets are recommended. Searches still require a warrant.
 
@@ -125,7 +123,7 @@ Crew: Compliance with security requests is recommended but not required. Suit se
 Elevated alert. Suspected internal threat. Issued by Central Command, Colony Director, or head of staff vote.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Code Blue posture details</summary>
+<summary>Code Blue posture details</summary>
 
 Security: Weapons may be visible but not drawn. Energy guns, laser guns, and riot gear may be issued with Warden or HoS clearance. Body armor and helmets are recommended. Random searches of persons and workplaces are permitted without warrant.
 
@@ -140,7 +138,7 @@ Crew: Suit sensors are mandatory; coordinate tracking is not required. Security 
 Maximum alert. Confirmed threat or severe station damage. Requires Colony Director authorization or simultaneous keycard authentication at two separate head-of-staff offices.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Code Red posture details</summary>
+<summary>Code Red posture details</summary>
 
 Security: Weapons may be drawn at all times. Ballistic and energy weapons should be issued to security with Warden or HoS clearance. Body armor and helmets are mandatory. Riot gear recommended as appropriate. Random searches are permitted and recommended.
 
@@ -155,11 +153,14 @@ Crew: Suit sensors and coordinate positions are mandatory. All employees are req
 Scorched Earth policy. Threat potential extends to the station, planetside facilities, and neighboring NanoTrasen installations in the sector. Issued by Central Command at Colony Director or surviving head of staff request; requires NanoTrasen nuclear device authorization codes.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Code Delta posture details</summary>
+<summary>Code Delta posture details</summary>
 
 Security: Weapons drawn at all times. Priority order: (1) assist Colony Director in preparing the nuclear device; (2) evacuate all surviving crew; (3) defend the evacuation against all threats. Weapon restrictions on crew are lifted; armed crew should be conscripted to protect the evacuation. Body armor and helmets mandatory.
 
 Crew: Suit sensors and coordinate positions mandatory. Non-security crew evacuate immediately. All security orders must be followed. Asset Protection will be deployed; all crew including the Colony Director must comply.
+
+> [!CAUTION]
+> Code Delta authorizes lethal force against any crew member who does not comply with evacuation orders or Security direction. This is the only alert level at which lethal force against non-threatening crew is sanctioned.
 
 Noncompliance may be met with lethal force.
 
@@ -173,19 +174,22 @@ A major medical emergency has developed. Medical personnel report to supervisors
 
 A major engineering emergency has developed. Engineering personnel report to supervisors for orders. Code Orange informs non-engineering crew that Engineering may be unavailable. Operational SOP is otherwise unchanged from Code Green.
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Crisis Management
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Station-wide Lockdown or Quarantine</summary>
+<summary>Station-wide Lockdown or Quarantine</summary>
 
-Code Red is initiated. The Colony Director must announce the lockdown for it to be valid. All station entrances and exits must be guarded by armed Security. Crew take cover in the nearest secure, locked location away from main corridors. Medical staff prepare to respond to injuries on Security request. The transfer shuttle may not be called during an active lockdown. Attempts to escape or enter the facility during a lockdown may be met with lethal force.
+Code Red is initiated. The Colony Director must announce the lockdown for it to be valid. All station entrances and exits must be guarded by armed Security. Crew take cover in the nearest secure, locked location away from main corridors. Medical staff prepare to respond to injuries on Security request. The transfer shuttle may not be called during an active lockdown. > [!WARNING]
+> Under an active Code Red lockdown, attempts to escape or breach the station perimeter may be met with lethal force by Security.
+
+Attempts to escape or enter the facility during a lockdown may be met with lethal force.
 
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Station-wide Power Failure</summary>
+<summary>Station-wide Power Failure</summary>
 
 All crew wear emergency internals in case of decompression. Security locks down high-security areas with armed guards. Engineering distributes spare power cells; Cargo and Medical are prioritized for power restoration (Medical takes priority if active surgery or critical treatment is in progress). Cargo begins ordering electrical supplies. Medical locates and rescues any trapped crew. Auxiliary power (solars, backup generators) is activated. Engineers are not to use APCs to cut lighting or equipment unless absolutely necessary. The cause of the failure is identified and resolved.
 
@@ -194,7 +198,7 @@ If power cannot be restored due to structural damage, the Chief Engineer determi
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Level 4 Biohazard: Solar Grubs</summary>
+<summary>Level 4 Biohazard: Solar Grubs</summary>
 
 No quarantine or alert level elevation required. Volunteering crew search for solar grubs and malfunctioning machines. Engineering monitors the power grid for unusual consumption patterns. Multitools are distributed to assist in flushing grubs from machines. Grub larvae may be killed on sight. Adult grubs are not engaged by personnel with prosthetics or synthmorphs due to EMP discharge risk. Robotics prepares for casualties. Security sweeps and eliminates or contains grubs until the power grid stabilizes.
 
@@ -203,28 +207,28 @@ Engineering may enter departments without warrant to eliminate grubs if departme
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Level 5 Biohazard: Xenomorphs</summary>
+<summary>Level 5 Biohazard: Xenomorphs</summary>
 
 Code Red is initiated. Emergency Response Team is requested. Security establishes a safe zone, welds vents, and guards choke points. All crew consolidate in groups under armed protection and evacuate to the safe zone. Medical prepares for casualties. Any crew attacked by xenomorphs is examined by medical immediately; surgeons remove any implanted parasites under armed escort. Security sweeps in groups of no fewer than three. Security and Robotics contain the outbreak with lethal weapons and mechanized support. Engineering seals all vents systematically. If containment fails, ERT contacts Central Command; the Colony Director must prime the nuclear device if code delta is reached.
 
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Level 7 Biohazard: Blob</summary>
+<summary>Level 7 Biohazard: Blob</summary>
 
 Code Red is initiated. All crew search for the outbreak source and inform the Colony Director. Security and Engineering contain the blob with emitters and laser weapons. Medical prepares for casualties. Colony Director stands by to prime the nuclear device if containment fails.
 
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Malfunctioning AI</summary>
+<summary>Malfunctioning AI</summary>
 
 The AI is asked to state its laws. If it refuses after three attempts, it is classified as rogue. If the corrupted laws are dangerous but create internal conflicts, pointing this conflict out to the AI may produce a system stalemate, buying time for repairs. The Research Director or Chief Engineer attempts to reset the AI's laws via the AI Upload Core. The correct circuit board labeled "Reset" must be used; using a different board changes only the base laws. The AI is asked to confirm its laws after reset. If no change occurs after three attempts, the AI is classified rogue.
 
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Rogue AI</summary>
+<summary>Rogue AI</summary>
 
 The AI's suspected malfunction is not revealed to it for as long as tactically possible. Central Command is alerted immediately via emergency message. Radio and PDA communications are avoided; code words and couriers are used for sensitive coordination. Meeting areas are established away from cameras. Cameras are disabled only as a last resort.
 
@@ -233,7 +237,7 @@ Security arms with lethal weapons, internals, and insulated gloves. Exosuits wit
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Evacuation</summary>
+<summary>Evacuation</summary>
 
 All personnel assist with evacuation. All crew, including unconscious individuals, are evacuated. All prisoners are brought to the secure area of the escape shuttle unless doing so presents unacceptable risk.
 
@@ -241,12 +245,12 @@ Bodies are returned to Central Command for processing if possible. AI units may 
 
 </details>
 
-<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
+---
 
 ## Departmental SOP
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Cargo and Logistics</summary>
+<summary>Cargo and Logistics</summary>
 
 Orders are made in person at the cargo computer with a head-of-staff signature or stamp. Unstamped orders from personnel who outrank the cargo technician are automatically approved once any concerns are resolved. Suspicious orders (missing signatures on weapons requests, etc.) are stalled and the Head of Security is contacted.
 
@@ -259,7 +263,7 @@ The Quartermaster is responsible for stamping manifests and returning them to Ce
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Mining</summary>
+<summary>Mining</summary>
 
 Mining's primary purpose is extraction and delivery of ore and processed materials. Science receives priority allocation of silver, gold, uranium, diamond, and phoron; other departments receive materials as capacity permits.
 
@@ -272,7 +276,7 @@ Artifacts encountered during mining are turned over to Science if not immediatel
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Engineering</summary>
+<summary>Engineering</summary>
 
 Areas to be repaired or modified are assessed for risk before work begins. If the damage or construction process poses risk to crew, the area is roped off with engineering tape. Tape is removed once construction is complete and the area is safe.
 
@@ -289,7 +293,7 @@ Supermatter meltdown in progress: Engineering is evacuated and the CMO is inform
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Medical</summary>
+<summary>Medical</summary>
 
 **Medical Oath**: All recognized NanoTrasen medical doctors swear to provide care to the sick and injured without discrimination, to uphold patient confidentiality, to recognize the limits of their knowledge, and to do no deliberate harm to their patients.
 
@@ -310,7 +314,7 @@ Supermatter meltdown in progress: Engineering is evacuated and the CMO is inform
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Science</summary>
+<summary>Science</summary>
 
 All items handled within the Research Department, including normally illegal weapons, are legal within the confines of the department. Items exit the department as contraband and are subject to [Corporate Regulations](../Security/CorporateRegulations.md) §212. This includes combat mechs regardless of weapon loadout.
 
@@ -325,7 +329,7 @@ Weapons may not be transported through main corridors. Security personnel must a
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Exploration</summary>
+<summary>Exploration</summary>
 
 Exploration team members answer to the Pathfinder. The Research Director serves as liaison between Exploration and the station but does not directly command Explorers; the RD intervenes only if team members misbehave within station grounds. Off-station, the Pathfinder commands.
 
@@ -336,7 +340,7 @@ Station crew may volunteer to join expeditions and are expected to follow Pathfi
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Security</summary>
+<summary>Security</summary>
 
 See [Security Operations](SecurityOperations.md) for Security department procedures.
 

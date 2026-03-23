@@ -2,16 +2,14 @@
 
 # Shadekin
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #3F5974;padding:6px 12px;cursor:pointer;font-weight:bold">No observational record on file. Classification: Unresolved.</summary>
+<summary>No observational record on file. Classification: Unresolved.</summary>
 
 Poorly understood interdimensional beings of apparent mammalian body plan, shadekin travel between physical space and a higher-energy plane they call The Dark, appearing throughout the Virgo-Erigone system with increasing frequency following the bombardment of Virgo 3.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -26,7 +24,7 @@ Poorly understood interdimensional beings of apparent mammalian body plan, shade
 | [Station Protocol](#station-protocol) | Visitor status, restricted access, research directives |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Damage profile, temperature immunity, biological abnormalities |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -36,7 +34,7 @@ Physical form is not fixed. Shadekin adapt physically over time in response to s
 
 Shadekin do not appear to age to death in the conventional sense. Lifespan is sustained for as long as the individual's environment can support their metabolic needs. Individuals with insufficient access to resources do eventually decline, but no upper age limit tied to biological degeneration has been confirmed. Diet is broadly omnivorous; shadekin accept a wide variety of foods from crew without adverse response.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## The Dark
 
@@ -46,7 +44,7 @@ Shadekin move between The Dark and physical space through a process they call ph
 
 A critical survival mechanism is activated when a shadekin is fatally injured outside The Dark: the individual is involuntarily pulled into The Dark, where extensive healing can occur before re-emergence into physical space. This retreat requires approximately fifteen minutes and cannot be repeated within twenty minutes. The mechanism does not function inside confined spaces such as the interior of a vore belly.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Origins
 
@@ -54,7 +52,7 @@ Shadekin descend from a spacefaring civilization destroyed in an ancient war of 
 
 Over time, shadekin succeeded in establishing a persistent central hub within The Dark: a stable location maintained by the collective expectations of the community. This hub provides a point of return and social continuity. Individual shadekin regularly leave the hub to explore physical space in search of skills, materials, or knowledge, returning with discoveries that contribute to their standing in the community.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Society and Naming
 
@@ -64,7 +62,7 @@ Shadekin who return to the hub with significant discoveries, rare skills, or mea
 
 Shadekin do not strongly identify as a collective group. Each individual is primarily an individual. When asked what they are, a shadekin unfamiliar with galactic conventions will offer their name rather than a species designation, as no formal species name is recognized within their own society. The name "shadekin" originates from external observers.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Eye Color and Disposition
 
@@ -80,7 +78,7 @@ Mixed eye colors represent individuals who distribute their time across multiple
 
 Health capacity varies by eye color as a direct result of lifestyle and adaptive development.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -90,7 +88,7 @@ The audible register of their communication consists primarily of varying intona
 
 Shadekin are capable of learning and speaking Galactic Common and other languages. Many encountered aboard NanoTrasen installations have partial or full fluency in Galactic Common. Their native empathic communication is not interpretable by standard translation hardware.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Station Protocol
 
@@ -100,7 +98,7 @@ Standard regulations regarding vandalism, damage to station property, and interf
 
 Research division directives for shadekin contact include establishing communication in Galactic Common, assessing their capacity to manipulate physical objects, documenting the range and mechanics of their phase-shifting ability, and determining the nature of their empathic communication channel.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

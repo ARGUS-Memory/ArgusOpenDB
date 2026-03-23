@@ -2,13 +2,11 @@
 
 # Nevrean
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Avian and dinosaur-like sapients from the Vilous system, nevreans are known for high intelligence, precise manual dexterity, and a strongly peaceful cultural disposition, sharing their home star system with the more aggressive sergals.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -20,7 +18,7 @@ Avian and dinosaur-like sapients from the Vilous system, nevreans are known for 
 | [Language](#language) | Birdsong; station communications |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Flight capability, soft landing, standard damage profile |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -30,7 +28,7 @@ Both sexes possess voices with a natural resonant echo quality. Tonal range osci
 
 Manual dexterity in nevrean hands is unusually high for a sapient species. Nevreans excel at fine motor tasks: precision instrument construction, surgery, watchmaking, and detailed mechanical assembly are fields where nevreans show a consistent advantage. A noted limitation is that this dexterity degrades with repeated identical motions. Nevreans tire faster than other species at copying or repeating the same task multiple times and struggle to maintain quality in mass-production contexts.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Culture
 
@@ -40,13 +38,13 @@ Precision craftsmanship is a core cultural value. Nevreans who produce high-qual
 
 Nevreans operate effectively in mixed-species environments and have no consistent pattern of hostility toward any other galactic race, including sergals. Nevrean-sergal relations within the Vilous system have a complicated history, but individual nevreans aboard mixed installations generally maintain professional composure regardless of crew composition.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Vilous System
 
 Nevreans evolved on Tal, one of several inhabited bodies in the Vilous system, which is also home to the sergal homeworld. The Eltus group of races, including both nevreans and sergals, share a common origin in the Vilous system and have coexisted under varying conditions. The history of this coexistence includes extended periods of conflict as well as periods of relative stability, with present conditions reflecting an ongoing negotiated arrangement.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -54,7 +52,7 @@ Nevreans evolved on Tal, one of several inhabited bodies in the Vilous system, w
 
 Nevrean accents in Galactic Common are highly variable, reflecting the tonal nature of their native language. Pronunciation of human consonants is typically accurate, though tonal coloring from Birdsong sometimes carries over.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

@@ -2,13 +2,11 @@
 
 # Surgery
 
-<div style="height:3px;background:linear-gradient(90deg,#14A88C 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Medical procedures for treating internal injuries, repairing damaged tissue, managing organs and limbs, and servicing both organic and synthetic patients.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -28,7 +26,7 @@ Medical procedures for treating internal injuries, repairing damaged tissue, man
 | [NIF Implantation (Standard)](#nif-implantation-standard) | Install NIF in cranial cavity | Head cavity surgery; organic species only |
 | [NIF Implantation (Promethean)](#nif-implantation-promethean) | Install bioadaptive NIF in Promethean patient | No surgical tools; bioadaptive variant required |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Tools
 
@@ -53,7 +51,7 @@ Surgical tools are stocked in the medical locker and surgical preparation area. 
 
 Laser scalpels produce bloodless incisions and may reduce subsequent bleeding. The incision manager performs the incision and retraction in a single step.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Standard Procedure
 
@@ -69,7 +67,7 @@ All internal surgeries require an opening sequence before internal work can begi
 
 Apply cautery to seal the incision. This closes the wound and sterilizes the site.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Bone Repair
 
@@ -85,7 +83,7 @@ Fractured bones require the flesh over the affected area to be retracted before 
 
 A bone clamp applied to the site performs the full repair without the intermediate stages.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Organ Surgery
 
@@ -120,7 +118,7 @@ Bioregen applied to the torso with flesh retracted reduces accumulated toxin, ox
 
 Use a FixOVein tool on the affected area with flesh retracted to close all internal bleeding wounds. Cable coil may substitute.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Limb Surgery
 
@@ -137,7 +135,7 @@ Place the robotic replacement against the missing limb position. Robotic limb in
 
 A circular saw severs a limb. No prior incision is required. Confirmation is required before the procedure proceeds.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Cavity Surgery
 
@@ -159,7 +157,7 @@ Use a hemostat to extract the stored item from the open cavity.
 
 Apply cautery to seal the cavity.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Facial Reconstruction
 
@@ -172,7 +170,7 @@ Facial reconstruction uses a separate procedure sequence specific to the face an
 
 Completing all three preparatory steps before cauterizing removes disfigurement. Cauterizing at an earlier stage closes the wound without restoring appearance.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Spinal Repair
 
@@ -185,7 +183,7 @@ Spinal repair addresses spinal injury and brainstem damage. The standard opening
 5. **Mend vertebrae** -- Bone gel. Completing this step re-enables cardiac resuscitation on the patient.
 6. **Realign tissue** -- Hemostat. This final step heals brain damage and resolves brain death.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Necrotic Treatment
 
@@ -201,7 +199,7 @@ Use a scalpel to debride the necrotic area.
 
 *Bioregen treatment:* Apply bioregen, then use a hemostat to rearrange the tissue, then apply bioregen a second time. This three-step path is used when peridaxon is unavailable.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Robotic Repair
 
@@ -240,7 +238,7 @@ Use a screwdriver to secure a replacement robotic organ in the open cavity.
 
 With the hatch open on a robotic skull containing no brain, an MMI device seats directly into the mount.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## External Treatment
 
@@ -258,7 +256,7 @@ Apply advanced ointment or standard ointment directly to the burned area.
 
 Apply an advanced bruise pack or standard bruise pack directly to the injured area.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Hardsuit Removal
 
@@ -266,7 +264,7 @@ A hardsuit or RIG suit that cannot be removed through normal means can be freed 
 
 Apply a plasma cutter to the torso. A welder may substitute; weld fuel is required. This disables the suit's retention mechanism and allows normal removal.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## NIF Implantation (Standard)
 
@@ -286,7 +284,7 @@ Standard NIF implantation seats the device in the cranial cavity. General anaest
 
 The NIF is now active. Confirm integration with the patient before discharge.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## NIF Implantation (Promethean)
 
@@ -294,7 +292,10 @@ The NIF is now active. Confirm integration with the patient before discharge.
 
 [Promethean](../../Species/Promethean.md) physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
 
-**Compatible hardware:** Bioadaptive NIF, Bioadaptive Authentic NIF. Any other NIF type will be silently rejected without initiating an integration channel.
+**Compatible hardware:** Bioadaptive NIF, Bioadaptive Authentic NIF. > [!IMPORTANT]
+> Standard NIFs are incompatible with Promethean physiology and will be silently rejected. Only bioadaptive variants (Bioadaptive NIF, Bioadaptive Authentic NIF) can be implanted in Promethean patients. No surgical tools or operating table are required for the Promethean procedure.
+
+Any other NIF type will be silently rejected without initiating an integration channel.
 
 1. Confirm the NIF is a bioadaptive variant.
 2. Confirm the patient's torso is structurally intact.

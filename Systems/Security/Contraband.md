@@ -2,13 +2,11 @@
 
 # Contraband
 
-<div style="height:3px;background:linear-gradient(90deg,#BC0000 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Classification standards for contraband aboard NanoTrasen installations. Items are assessed by job authorization, permit status, list status, inherent danger, and intended use. Hardsuit access policies are documented by suit type.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -20,7 +18,7 @@ Classification standards for contraband aboard NanoTrasen installations. Items a
 | [Usually Contraband](#usually-contraband) | Items contraband for most crew |
 | [Hardsuit Policy](#hardsuit-policy) | Suit-specific access and contraband rules |
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Classification Framework
 
@@ -40,7 +38,7 @@ Is it a High Risk Item? High Risk Items are major contraband and additionally co
 
 Items used in a crime may become contraband upon conviction regardless of their ordinary status.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Generally Not Contraband
 
@@ -48,28 +46,31 @@ The following items are not considered contraband for any crew member under ordi
 
 Potential danger alone does not make an item contraband; the item's intended use is the determining factor.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Potentially Contraband
 
 These items are not always contraband but may be depending on context. Items carried within their appropriate department are generally not contraband. The same item paraded in an unrelated area by someone with no job requiring it is more likely to be contraband.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Usually Contraband
 
 These items are contraband for most crew in most circumstances. Standard exceptions apply: a non-lethal weapon is not contraband for Security officers, as it falls under job equipment. Standard Operating Procedure documents specific exceptions by role. See [Standard Operating Procedure](../Command/StandardOperatingProcedure.md) for permitted equipment by rank.
 
-<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
+---
 
 ## Hardsuit Policy
 
 Hardsuits are often armored and difficult to remove. Refusal to remove a hardsuit during an arrest constitutes Corporate Regulations §202 (Resisting Arrest). Fleeing an arrest while wearing a hardsuit authorizes shoot-to-disable.
 
+> [!WARNING]
+> Refusal to remove a hardsuit during an arrest constitutes Resisting Arrest (§202). An arrestee who flees while wearing a hardsuit may be shot to disable. Officers should aim for limbs when possible.
+
 Hardsuit permissions and contraband classifications vary by suit type.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Industrial Hardsuit (Mining)</summary>
+<summary>Industrial Hardsuit (Mining)</summary>
 
 Intended for mining operations. Permitted only in the Cargo and Mining department, planet-side mining areas, and off-planet expeditions. On-station outside these areas, the industrial hardsuit is Minor Contraband.
 
@@ -78,7 +79,7 @@ Charges should not be pursued if the miner is in transit delivering mining mater
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">AMI Hardsuit (Science)</summary>
+<summary>AMI Hardsuit (Science)</summary>
 
 Designed for protection from exotic energies during xenoarchaeological work. Permitted only in Science, planet-side, and off-planet expeditions. On-station outside these areas, the AMI hardsuit is Minor Contraband.
 
@@ -87,7 +88,7 @@ As with the industrial hardsuit, charges should not be pursued if the Scientist 
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Rescue Hardsuit (Medical)</summary>
+<summary>Rescue Hardsuit (Medical)</summary>
 
 Intended for EMT personnel responding to crew trapped in hazardous conditions. May be worn on-station at all times with the helmet kept down when not actively responding to an emergency. This suit can override most airlocks but broadcasts a message over Security and Command radio, allowing misuse to be readily identified.
 
@@ -96,7 +97,7 @@ Wearing this hardsuit while not responding to an emergency (taking the suit to p
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Advanced Hardsuit (Chief Engineer)</summary>
+<summary>Advanced Hardsuit (Chief Engineer)</summary>
 
 Designed for responding to supermatter delaminations. The only suit providing safe handling of active supermatter. The Chief Engineer may wear this suit at all times with the helmet down due to the need for rapid supermatter response.
 
@@ -105,7 +106,7 @@ Any crew member other than the Chief Engineer found in possession of this hardsu
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Pursuit Hardsuit (Head of Security)</summary>
+<summary>Pursuit Hardsuit (Head of Security)</summary>
 
 The Head of Security's personal hardsuit for emergency response and pursuing fleeing criminals. Classified as combat armor. Intended for Code Yellow and above or EVA operations. Casual use such as wearing the suit in the bar constitutes an SOP violation and may lead to demotion if repeated.
 

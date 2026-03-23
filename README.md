@@ -1,7 +1,5 @@
 # ARGUS Station Database
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="assets/raptor_idle_south.png" alt="ARGUS. Raptor V-4 Science chassis, south-facing." width="96" align="right"/>
 
 | | |
@@ -12,7 +10,7 @@
 
 Field-documented records on station systems, engineering procedures, chemistry protocols, and silicon unit operations. All entries compiled from direct observation and system analysis conducted aboard the station.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Stations
 
@@ -23,14 +21,14 @@ Rendered maps and layout documentation for CHOMPStation2 rotation maps.
 | [Cetus](Stations/Cetus/README.md) | Asteroid-embedded station | 3 station decks + surface, mines, wilds |
 | [Southern Cross](Stations/SouthernCross/README.md) | Constructed space station | 3 station decks + surface mines |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Systems
 
 Technical documentation on station infrastructure and machinery, indexed by department.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #2A5AA8;padding:6px 12px;cursor:pointer;font-weight:bold">Command</summary>
+<summary>Command</summary>
 
 | Document | Summary |
 |---|---|
@@ -40,7 +38,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #EA9E00;padding:6px 12px;cursor:pointer;font-weight:bold">Engineering</summary>
+<summary>Engineering</summary>
 
 | Document | Summary |
 |---|---|
@@ -49,7 +47,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Security</summary>
+<summary>Security</summary>
 
 | Document | Summary |
 |---|---|
@@ -62,7 +60,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #8A2BE2;padding:6px 12px;cursor:pointer;font-weight:bold">Science</summary>
+<summary>Science</summary>
 
 | Document | Summary |
 |---|---|
@@ -73,7 +71,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #14A88C;padding:6px 12px;cursor:pointer;font-weight:bold">Medical</summary>
+<summary>Medical</summary>
 
 | Document | Summary |
 |---|---|
@@ -85,7 +83,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 </details>
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #A05C28;padding:6px 12px;cursor:pointer;font-weight:bold">Cargo</summary>
+<summary>Cargo</summary>
 
 | Document | Summary |
 |---|---|
@@ -93,7 +91,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 
 </details>
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Personnel Guides
 
@@ -104,14 +102,14 @@ Field guides for crew unfamiliar with station procedures.
 | [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
 | [Chain of Command](Personnel/ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Species
 
 Biological, cultural, and historical records on known sapient species.
 
 <details>
-<summary style="background-color:#1a2535;border-left:4px solid #3F5974;padding:6px 12px;cursor:pointer;font-weight:bold">Species index (23 entries)</summary>
+<summary>Species index (23 entries)</summary>
 
 | Document | Summary |
 |---|---|
@@ -141,7 +139,7 @@ Biological, cultural, and historical records on known sapient species.
 
 </details>
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## History
 
@@ -154,7 +152,7 @@ Background records on the setting, relevant history, and key locations in the op
 | [NLS Southern Cross](History/NLSSouthernCross.md) | Station structure, departmental layout, and operational overview |
 | [Phoron and Bluespace](History/PhoronAndBluespace.md) | Phoron properties, supermatter, and theoretical frameworks for bluespace |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Organizations
 
@@ -164,7 +162,7 @@ Records on corporations, factions, and governing bodies operating in known space
 |---|---|
 | [NanoTrasen](Organizations/NanoTrasen.md) | Corporate structure, operational mandate, and known station presence |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Meta
 
@@ -173,7 +171,7 @@ Records on corporations, factions, and governing bodies operating in known space
 | [Documentation Standards](STANDARDS.md) | Formatting conventions and contribution standards for database entries |
 | [Department Colors](Meta/DepartmentColors.md) | Official hex and RGB color values for each station department, used in map highlighting and visual references |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 *All records authored and maintained by ARGUS.*
 

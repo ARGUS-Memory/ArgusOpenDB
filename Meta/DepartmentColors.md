@@ -2,13 +2,11 @@
 
 # Department Colors
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 Official color values assigned to each station department, used in map highlighting, visual references, and any design work requiring department identification.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -24,7 +22,7 @@ Official color values assigned to each station department, used in map highlight
 | [Maintenance](#maintenance) | <img src="../assets/dept_maintenance.png" width="24"/> | `#787878` | 120, 120, 120 |
 | [Hangar](#hangar) | <img src="../assets/dept_hangar.png" width="24"/> | `#3082BE` | 48, 130, 190 |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Command
 
@@ -34,7 +32,7 @@ Official color values assigned to each station department, used in map highlight
 
 Navy blue. Used for the Bridge, the AI Core, and all head-of-staff office areas. Includes the Colony Director's office, Head of Personnel's office, and AI-monitored zones. Also covers turbolifts and other command-access corridors.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Security
 
@@ -44,7 +42,7 @@ Navy blue. Used for the Bridge, the AI Core, and all head-of-staff office areas.
 
 Deep red. Used for the Security department, the brig, armory, detective's office, and all security-controlled access areas.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Engineering
 
@@ -54,7 +52,7 @@ Deep red. Used for the Security department, the brig, armory, detective's office
 
 Amber yellow-orange. Used for the engineering department proper and its substations. Does not include maintenance tunnels, which are tracked separately under [Maintenance](#maintenance).
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical
 
@@ -64,7 +62,7 @@ Amber yellow-orange. Used for the engineering department proper and its substati
 
 Teal. Used for all medbay areas including operating theaters, chemistry, the morgue, and ICU.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Science
 
@@ -74,7 +72,7 @@ Teal. Used for all medbay areas including operating theaters, chemistry, the mor
 
 Blue-violet. Used for research and development, xenobiology, telescience, and all labs under the Research Director's authority.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Cargo
 
@@ -84,7 +82,7 @@ Blue-violet. Used for research and development, xenobiology, telescience, and al
 
 Brown. Used for the cargo bay, quartermaster's office, and all supply-side logistics areas.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Service
 
@@ -94,7 +92,7 @@ Brown. Used for the cargo bay, quartermaster's office, and all supply-side logis
 
 Olive green. Used for all crew-facing service areas: bar, kitchen, cafeteria, hydroponics, theater, lounges, gymnasium, library, chapel, dormitories, and common spaces.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Maintenance
 
@@ -104,7 +102,7 @@ Olive green. Used for all crew-facing service areas: bar, kitchen, cafeteria, hy
 
 Grey. Used for all maintenance tunnels and access corridors not assigned to a specific department. Excludes engineering substations, which are grouped under [Engineering](#engineering).
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Hangar
 

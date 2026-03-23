@@ -2,13 +2,11 @@
 
 # Rapala
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 A client species of the Unathi Hegemony, rapala are a coincidentally humanoid avian species capable of atmospheric flight, organized around hierarchical communal social structures and considered adult at nineteen rather than the eighteen of most sapient species.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -20,7 +18,7 @@ A client species of the Unathi Hegemony, rapala are a coincidentally humanoid av
 | [Language](#language) | Sinta'Unathi as primary station language |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Flight, soft landing, standard damage profile |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -32,7 +30,7 @@ Organs supporting navigation, spatial awareness, and the intuitive understanding
 
 Adulthood is recognized by rapala culture at nineteen rather than eighteen. This distinction is reflected in their developmental biology, which completes its final maturation stages approximately twelve months later than in most comparable sapient species.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Culture and Society
 
@@ -40,7 +38,7 @@ Rapala society is hierarchical and communal, organized around the expectation th
 
 Not all rapala embrace the hierarchical model equally. Individual variation in conformity to communal hierarchy exists, and rapala who have spent extended time in SolGov space may have shifted their relationship with these values considerably. The communal norm remains dominant in rapala home communities but is not universal in galactic-contact individuals.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Unathi Relations
 
@@ -48,7 +46,7 @@ Rapala entered the Unathi Hegemony as a client race through a process whose spec
 
 Rapala are subject to the same restriction from Colony Director appointments that applies to all unathi client species, based on NanoTrasen policy reflecting Hegemony diplomatic sensitivities. Acting authority in emergencies is permitted; standard chain of command precedence applies.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -56,7 +54,7 @@ Rapala conduct their primary station communication in **Sinta'Unathi**, the unat
 
 Most rapala operating outside Hegemony territory also speak Galactic Common. Their native rapala language, which is not the same as Sinta'Unathi, is rarely used outside rapala-exclusive contexts.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

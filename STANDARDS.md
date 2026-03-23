@@ -1,12 +1,10 @@
 # Documentation Standards
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="assets/raptor_idle_south.png" width="96" align="right">
 
 Standards and practices for new entries in this database. All entries are expected to conform to these conventions so the database reads consistently and remains useful as a reference.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -21,7 +19,7 @@ Standards and practices for new entries in this database. All entries are expect
 | [Cross-references](#cross-references) | Related sections and other articles linked by anchor or path |
 | [README registration](#readme-registration) | Every new file added to the index in `README.md` |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Page Structure
 
@@ -51,7 +49,7 @@ A summary table of every major item or concept in the article, with jump links t
 **6. Sections**
 `##` headings for each major topic. `###` subheadings for subdivisions within a topic. Each section separated by `---`.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Jump Marks
 
@@ -81,7 +79,7 @@ Multiple items that share a section all link to the same anchor:
 
 The Quick Reference table columns are: **Item**, **Function**, **Notable**. Function is a brief verb phrase. Notable is one key constraint, capacity, or caveat.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Images
 
@@ -129,13 +127,13 @@ Use a consistent naming scheme:
 | Organization logos | `logo_` | `logo_nt.png`, `logo_sg.png` |
 | Character sprite | `raptor_` | `raptor_idle_south.png` |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Vocabulary
 
 Entries describe objects and systems in terms of physical properties and observable behavior. Contact with objects is described as pressing, applying, or placing. Locations on a person are described by position (side, holster, belt). System outputs are described as produced, generated, or printed. Lists of selectable items are described as readouts or lists. Appearances are described as appearances, images, or visuals.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Prose Style
 
@@ -153,7 +151,7 @@ Entries describe objects and systems in terms of physical properties and observa
 
 **No editorializing:** Do not note whether something is useful, recommended, interesting, or unusual unless that observation is itself factual and directly relevant. Describe what things do, not what should be done with them.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Cross-References
 
@@ -181,7 +179,7 @@ See [Chain of Command](../Personnel/ChainOfCommand.md) for succession procedures
 
 Every item in the Quick Reference table links to the section where it is documented. If an item is documented in a different article entirely, link to that article instead.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## README Registration
 

@@ -2,13 +2,11 @@
 
 # Alsvartr
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Hybridized xenomorph descendants organized under the United Hives, the Alsvartr combine xenomorph biological traits with sapient individuality, governed by the Hivesong and the religion of Continuity and Rebirth across four Hiveworlds.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -21,7 +19,7 @@ Hybridized xenomorph descendants organized under the United Hives, the Alsvartr 
 | [Language](#language) | Xenolingua and Hivemind channels |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Damage profile, temperature, vacuum resistance, biology |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -33,7 +31,7 @@ Alsvartr possess a plasma vessel organ that stores and generates plasma at low r
 
 Blood composition means that standard injected and ingested beneficial chemicals are partially neutralized by the acidic circulatory environment. Medical personnel should account for reduced efficacy of pharmaceutical treatments.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## The Hivesong
 
@@ -53,7 +51,7 @@ Alsvartr are organized into three evolutionary castes reflecting different roles
 
 **Queen:** The reproductive and administrative caste. Queens coordinate Hive functions through intensified Hivesong connection and are responsible for maintaining hive coherence and population. The highest-ranked Queen, the Queen Mother, serves as the figurehead and spiritual leader of the United Hives.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## United Hives
 
@@ -63,7 +61,7 @@ Hiveworlds are ecosystems entirely reconstructed by centuries of Alsvartr organi
 
 Due to their xenomorph heritage, Alsvartr face significant social stigma when operating outside United Hives territory. This stigma affects their access to labor markets, their standing in diplomatic contexts, and their treatment in everyday interactions aboard mixed-species installations. NanoTrasen policy formally permits their employment but individual crew reactions vary.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Religion
 
@@ -71,7 +69,7 @@ Continuity and Rebirth holds that consciousness does not end at death but is abs
 
 Religious practice centers on maintaining connection with these ancestral impressions, both as a form of continued relationship with the dead and as a source of guidance and knowledge. Older Alsvartr with extensive Hivesong connectivity are considered closer to the boundaries of this ancestral space and are accorded particular religious respect.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -81,7 +79,7 @@ Religious practice centers on maintaining connection with these ancestral impres
 
 Most Alsvartr encountered on NanoTrasen installations also speak Galactic Common, acquired through prior commercial or diplomatic contact.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

@@ -2,13 +2,11 @@
 
 # Tajaran
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Furred, digitigrade feline-analogue bipeds from the planet Meralar, tajaran are distinguished by diverse ethnic subgroups, multiple distinct languages, strong cold adaptation, and a complex relationship with humanity following their recent uplift into FTL capability.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -21,7 +19,7 @@ Furred, digitigrade feline-analogue bipeds from the planet Meralar, tajaran are 
 | [Interspecies Relations](#interspecies-relations) | Human uplift context, trading relationships |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Temperature profile, claws, sleep cycle, equipment |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -37,7 +35,7 @@ The standard waking period is 30 to 32 hours, followed by 11 to 13 hours of slee
 
 The average lifespan is approximately 70 years, with statistical projections anticipating extension to 90 or 100 years as medical technology improves.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Ethnicities
 
@@ -71,7 +69,7 @@ Generally taller and more heavily built than either Hharar or Njarir'Akhan. Aver
 
 **Shankamyan:** A branch that crossed to the eastern continent of Meralar. Extremely territorial and hostile to outside contact; diplomatic contact has been impossible. Do not venture off-world.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -87,7 +85,7 @@ Generally taller and more heavily built than either Hharar or Njarir'Akhan. Aver
 
 Tajaran speaking Galactic Common typically roll and extend R sounds. This can be consciously suppressed.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Religion
 
@@ -97,7 +95,7 @@ The belief system holds that after death, souls travel to the realm of Mephir (*
 
 Rarkajar is understood as unchanging and fundamentally stronger than Mephir in direct conflict, but unable to adapt to her indirect methods, making the contest ongoing.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Interspecies Relations
 
@@ -105,7 +103,7 @@ Rarkajar is understood as unchanging and fundamentally stronger than Mephir in d
 
 **Other species:** Tajaran maintain generally aloof but cordial trading relationships across known space. Formal relations with most species remain within the diplomatic and commercial sphere.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

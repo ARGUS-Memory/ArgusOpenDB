@@ -2,13 +2,11 @@
 
 # Vasilissans
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Arachnoid bipeds from the mineral-rich jungle world of Varilak, vasilissans are cold-blooded, chitin-armored, and distinguished by four dorsal metalimbs, spinnerette silk production, and a matriarchal culture organized around gem-focused religious practice.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -23,7 +21,7 @@ Arachnoid bipeds from the mineral-rich jungle world of Varilak, vasilissans are 
 | [Interspecies Relations](#interspecies-relations) | Human and skrell contact patterns |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Temperature extremes, cold-blood coma threshold, glass resistance |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -39,7 +37,7 @@ Males average 183 cm in height. Females are larger, averaging 213 cm, with a ran
 
 The species lifespan is 120 to 130 years, with some individuals exceeding 150. Adulthood begins at 18.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Reproduction
 
@@ -47,13 +45,13 @@ Vasilissans reproduce sexually. After mating, partners typically separate. Long-
 
 Female vasilissans possess a spermatheca that stores sperm after mating for later use. Eggs are laid via an ovipositor into a warm-blooded surrogate, which carries and eventually lays them after a gestation period of several weeks. Hatchlings emerge independently after laying. The surrogate role is sometimes filled by a third partner of a warm-blooded species, which in communities with human cultural influence has become a recognized social arrangement.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Diet
 
 Vasilissans are almost entirely carnivorous, though some individuals incorporate small supplemental amounts of plant matter. The digestive system can accommodate large whole meals. Standard food consumption behavior in public settings conforms to expected norms; exceptional intake volume is occasionally observed but not common in professional environments.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Behavior and Psychology
 
@@ -63,7 +61,7 @@ Vasilissans do not apply their personal-space norms consistently across species.
 
 The species reports finding interactions with dionaea and prometheans less difficult than with most others.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Culture and History
 
@@ -73,13 +71,13 @@ Currency was an abstract concept in traditional communities; resource allocation
 
 Gem-religion is the central vasilissan spiritual framework. Gems are understood as conduits between the mortal plane and an energy plane that contains all past life. The size and quality of a gem determines the quality of transit it can provide. Varilak's gems are considered insufficient to carry vasilissan souls; the belief that stars are incomparably large gems of ultimate spiritual power originally motivated the upward architectural ambition of the queen-led cities.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Homeworld
 
 **Varilak** is a temperate jungle world with dense forest cover on most landmass, approximately 60% ocean surface, and an unusually high atmospheric oxygen content that supports large insectoid, reptilian, and amphibian megafauna. The deeper ocean is largely unexplored. The planetary crust contains gem and precious metal deposits at densities substantially above galactic norms, which current theory attributes to an unidentified anomalous event.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Interspecies Relations
 
@@ -91,7 +89,7 @@ Gem-religion is the central vasilissan spiritual framework. Gems are understood 
 
 **Prometheans:** An ongoing debate among vasilissans as to whether prometheans contain usable meat. All parties have confirmed that prometheans taste edible.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

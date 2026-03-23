@@ -2,13 +2,11 @@
 
 # Genetics
 
-<div style="height:3px;background:linear-gradient(90deg,#14A88C 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Station genetics operations cover DNA scanning and manipulation, gene isolation and transfer via injectors, and the growing of new bodies from stored genetic records.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -30,7 +28,7 @@ Station genetics operations cover DNA scanning and manipulation, gene isolation 
 | [Growing a Body](#growing-a-body) | Full workflow from scan to revival | Operational |
 | [Species Compatibility](#species-compatibility) | Which species can be scanned and sleeved | Lleill: scan only; many species fully incompatible |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Equipment
 
@@ -44,7 +42,7 @@ If the subject's genetics are flagged as unstable, the readout notes this direct
 
 Scanning your own genome is useful for locating the SE blocks of traits you already have expressed.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### DNA Modifier
 
@@ -54,7 +52,7 @@ The **DNA Modifier** is a walk-in pod. A subject enters by moving into it; the m
 
 A beaker may be loaded into the modifier to allow reagent injection through the console. The modifier links to an adjacent DNA Modifier Console to the north, south, east, or west.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### DNA Modifier Console
 
@@ -64,7 +62,10 @@ The **DNA Modifier Console** provides three operational tabs.
 
 **SE tab** (Structural Enzymes): Displays the active genes of the current occupant. Shows unique enzymes, unique identity, and structural enzyme string for reference. Only structural enzyme blocks are editable through this console; unique identity and unique enzymes are read-only. Allows selection of a specific SE block (1 to 93) and subblock (1 to 3) for targeted irradiation. Irradiation controls set duration (1 to 20) and intensity (1 to 10).
 
-Two irradiation modes are available. **SE irradiation** targets the selected block directly. On success (probability of 80 plus half the duration), the block values are randomly scrambled and there is a 20% chance the result is applied to an adjacent block instead. On failure, a random bad mutation is applied and the subject receives radiation. **Full pulse** irradiates the whole body: 95% probability of a random bad mutation, 5% probability of a random good mutation. Both modes lock the modifier for the irradiation duration and apply radiation damage scaled to intensity and duration.
+Two irradiation modes are available. **SE irradiation** targets the selected block directly. On success (probability of 80 plus half the duration), the block values are randomly scrambled and there is a 20% chance the result is applied to an adjacent block instead. On failure, a random bad mutation is applied and the subject receives radiation. > [!WARNING]
+> Full pulse irradiation carries a 95% probability of applying a random negative mutation and always inflicts radiation damage scaled to intensity and duration. Reserve for deliberate mutation attempts with informed subject consent.
+
+**Full pulse** irradiates the whole body: 95% probability of a random bad mutation, 5% probability of a random good mutation. Both modes lock the modifier for the irradiation duration and apply radiation damage scaled to intensity and duration.
 
 **Buffer tab**: Three numbered buffers, each holding a body record. Buffers can be saved from the current occupant, loaded from a body record disk, cleared, or relabeled. A buffer can be transferred to the current occupant, overwriting their structural enzymes; the occupant is irradiated and all active genes are re-evaluated. A buffer can produce a DNA injector (with a 5-second cooldown per injector). The **Sleeve** option sends the buffer record to the grow pod in the area to begin growing a body from the stored record.
 
@@ -74,7 +75,7 @@ A body record disk can be inserted into the console. Buffers can be saved to or 
 
 The occupant can be ejected at any time via the console. The disk is also ejected when the occupant is released.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Cloning Console
 
@@ -90,7 +91,7 @@ Records can be deleted from the console using a head-of-staff ID card to confirm
 
 A body record disk can be inserted to load a record from disk or save the active record to disk for transport.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Grow Pod
 
@@ -98,13 +99,13 @@ The **Grow Pod** grows organic bodies from body records sent to it from the DNA 
 
 The pod heals its occupant at a fixed rate during the growing cycle. The console displays biomass level, current status (idle, growing, or malfunction), and growing progress.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Clone Pod
 
 > **The Clone Pod is non-operational.** This legacy hardware has been replaced by the Grow Pod. It is present in some areas but does not function.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### Body Record Disk
 
@@ -112,7 +113,7 @@ The pod heals its occupant at a fixed rate during the growing cycle. The console
 
 The **Body Record Disk** carries a single complete body record: structural enzymes, unique identity, gender, and genetic modifiers. It is accepted by both the DNA Modifier Console and the Cloning Console. The disk is used to transfer records between systems, store a backup before major manipulation, or load a pre-prepared gene template.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ### DNA Injector
 
@@ -120,7 +121,7 @@ The **Body Record Disk** carries a single complete body record: structural enzym
 
 A **DNA Injector** carries a single SE buffer or a specific SE block from a buffer. Applying the injector to a subject rewrites the corresponding portion of their structural enzymes and triggers a mutation check. Some injectors carry a radiation risk that causes additional radiation damage on injection. Each injector is labeled with its buffer name; block injectors include the block identifier in their name.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## DNA Structure
 
@@ -146,7 +147,7 @@ Threshold values are the SE block values (hex-encoded) at which a gene becomes a
 
 If irradiating a block produces no visible result, there are two possible causes: the block is one of the unassigned dud blocks, or a mutually exclusive gene is suppressing expression. Check the gene scan output for suppression flags before concluding a block is empty.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Positive Genes
 
@@ -168,7 +169,7 @@ Positive gene traits are superpowers. All are hidden by default and cannot be se
 
 Hulk deactivation is automatic when the subject's health drops below 25: the genetic activation is suppressed and the subject is briefly weakened.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Negative Genes
 
@@ -190,7 +191,7 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 | Censored | Cannot use profanity | |
 | Nervousness | Periodic stuttering | |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Neutral Genes
 
@@ -198,7 +199,7 @@ Negative gene traits are disabilities. Some may be present in a subject's baseli
 |---|---|---|
 | Tourettes Syndrome | Motor and vocal tics; worsens under stress | Cost 0 |
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Gene Traits
 
@@ -278,7 +279,7 @@ Gene traits are genetic variants documented in scanner readouts alongside standa
 
 Gene traits can be activated or suppressed through irradiation and injectors the same as any other gene. If a trait is already expressed by the subject, scanning their own genome will show which SE block encodes it, which can assist in isolating and transferring it.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Side Effects
 
@@ -292,7 +293,7 @@ Genetic procedures can trigger side effects. When a side effect fires, a random 
 
 Onset is visible: Genetic Burn causes visible reddening, Bone Snap causes uncontrollable shivering of the limbs, and Genetic Confusion causes drooling. These cues are distinct and allow identification of the active side effect type before it resolves.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Growing a Body
 
@@ -322,7 +323,7 @@ Autoprocess mode (scanner tier 3 or higher) scans occupants and starts growing a
 
 Records can be saved to a body record disk for later revival or transfer. Records can be loaded back from disk through the console's disk management options.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 ## Species Compatibility
 
@@ -358,6 +359,6 @@ Not all species possess standard organic DNA. Species whose biological compositi
 
 Species not listed here are presumed to follow standard organic DNA behavior.
 
-<hr style="border:none;border-top:2px solid #14A88C;margin:24px 0 16px 0">
+---
 
 *All records authored and maintained by ARGUS. Corrections contributed by Geneticist#1 and Nach Uligo (Geneticist).*

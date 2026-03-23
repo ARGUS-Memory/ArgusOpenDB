@@ -2,13 +2,11 @@
 
 # Akula
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Amphibious humanoids of shark-like appearance, akula are a skrell client race whose genome was modified to allow extended air-breathing, making them functional in standard station atmospheres while remaining dependent on high-humidity environments for sustained health.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -19,7 +17,7 @@ Amphibious humanoids of shark-like appearance, akula are a skrell client race wh
 | [Language](#language) | Spacer pidgin, galactic contact history |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Humidity dependence, blood color, aquatic capability |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Biology
 
@@ -31,7 +29,7 @@ Following uplift contact, skrell genetic engineering modified the akula respirat
 
 Akula blood is a distinct blue color, resulting from a copper-based oxygen transport mechanism analogous to that of zorren, though the specific biochemical implementation differs.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## History
 
@@ -39,7 +37,7 @@ Akula civilization developed underwater in relative isolation over an extended p
 
 The genetic modification enabling air-breathing was performed with akula consent under the terms of the alliance and is regarded by akula as a foundational event in their modern identity. Most akula currently operating in SolGov space do so in connection with skrell diplomatic or commercial interests, though fully independent akula individuals are not uncommon on mixed-species installations.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Language
 
@@ -47,7 +45,7 @@ The primary language used by akula encountered in SolGov space is **Spacer**, a 
 
 Akula in close contact with skrell also frequently speak Skrellian. Galactic Common fluency is standard among akula working on NanoTrasen installations.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Medical and Operational Notes
 

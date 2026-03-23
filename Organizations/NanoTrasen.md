@@ -2,13 +2,11 @@
 
 # NanoTrasen
 
-<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
-
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 The corporation operating this station: a trans-stellar enterprise with primary holdings in phoron extraction, biomedical research, genetics, and bluespace science.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Quick Reference
 
@@ -18,7 +16,7 @@ The corporation operating this station: a trans-stellar enterprise with primary 
 | [Holdings](#holdings) | Asset classification system and known installations |
 | [Structure](#structure) | Organizational hierarchy and Central Command departments |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Overview
 
@@ -30,7 +28,7 @@ The discovery of [phoron](../History/PhoronAndBluespace.md) in the Gliese 229 sy
 
 NanoTrasen employs personnel across science, medicine, engineering, security, logistics, and administration. Assignment to specific roles is determined by commanding officers according to operational requirements at the installation. The corporation accepts qualified applicants across most departments and provides placement for specialists in supporting roles including logistics, culinary services, and sanitation.
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Holdings
 
@@ -95,7 +93,7 @@ NanoTrasen uses a two-part prefix system to classify its assets. The first lette
 | NIB Prometheus | Phoron refinery, Tal, Vilous system; produces interstellar drive fuel |
 | NIB Poseidon | Water purification plant, Alpha Centauri |
 
-<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
+---
 
 ## Structure
 
