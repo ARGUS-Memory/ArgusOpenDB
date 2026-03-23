@@ -115,6 +115,15 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 
 </details>
 
+<details>
+<summary>Service</summary>
+
+| Document | Summary |
+|---|---|
+| [Food and Drink](Systems/Service/FoodAndDrink.md) | Hunger system, all cooking appliances and recipes, drink production, condiments, and vending machines |
+
+</details>
+
 ---
 
 ## Personnel Guides
