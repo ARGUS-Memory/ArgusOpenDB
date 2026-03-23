@@ -2,7 +2,7 @@
 
 # Triage and Patient Assessment
 
-This document covers rapid patient assessment using medical equipment, triage priority under multi-casualty conditions, and species-specific treatment deviations. For damage type treatments see [Damage Types and Treatment](DamageTypes.md). For surgical procedures see [Surgery](Surgery.md).
+This document covers rapid patient assessment using medical equipment, triage priority under multi-casualty conditions, and species-specific treatment deviations. For damage type treatments see [Injuries](Injuries.md). For surgical procedures see [Surgery](Surgery.md).
 
 ---
 
@@ -65,4 +65,4 @@ The following species have medical properties that deviate significantly from th
 
 ---
 
-*See also: [Damage Types and Treatment](DamageTypes.md), [Resleeving](Resleeving.md), [Surgery](Surgery.md), [Medical Sleeper Pod](Sleepers.md)*
+*See also: [Injuries](Injuries.md), [Resleeving](Resleeving.md), [Surgery](Surgery.md), [Medical Sleeper Pod](Sleepers.md)*

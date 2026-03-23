@@ -1,8 +1,8 @@
-[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Medical](README.md) > Damage Types and Treatment
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Medical](README.md) > Injuries
 
-# Damage Types and Treatment
+# Injuries
 
-This document covers all damage categories a patient may present with, their treatment options, and related complications including blood loss, infections, fractures, and cryogenic stabilization. For patient assessment and triage priority see [Triage and Patient Assessment](Triage.md). For surgical interventions see [Surgery](Surgery.md).
+This document covers all injury categories a patient may present with, their treatment options, and related complications including blood loss, infections, fractures, and cryogenic stabilization. For patient assessment and triage priority see [Triage and Patient Assessment](Triage.md). For surgical interventions see [Surgery](Surgery.md).
 
 ---
 

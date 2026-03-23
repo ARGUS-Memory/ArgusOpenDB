@@ -9,7 +9,7 @@
 | [Chemical Synthesizer Operations](Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
 | [Genetics](Genetics.md) | DNA modifier operation, gene catalogue, side effects, and cloning procedure |
 | [Triage and Patient Assessment](Triage.md) | Diagnostic equipment, triage priority protocol, and species treatment deviations |
-| [Damage Types and Treatment](DamageTypes.md) | All damage categories, blood loss, infections, fractures, and cryogenics setup |
+| [Injuries](Injuries.md) | Damage types, blood loss, infections, fractures, and cryogenics setup |
 | [Resleeving](Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 
 ---

@@ -60,4 +60,4 @@ Research can upgrade growing pod components. Upgraded pods eject bodies with les
 
 ---
 
-*See also: [Triage and Patient Assessment](Triage.md), [Damage Types and Treatment](DamageTypes.md), [Surgery](Surgery.md)*
+*See also: [Triage and Patient Assessment](Triage.md), [Injuries](Injuries.md), [Surgery](Surgery.md)*
