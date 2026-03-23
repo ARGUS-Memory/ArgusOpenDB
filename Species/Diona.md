@@ -2,11 +2,13 @@
 
 # Diona
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Cluster organisms composed of individual components that merge into increasingly complex forms, dionaea progress through nymph and adult stages, sustaining themselves through photosynthesis and radiation absorption, and eventually merge into vast stellar-orbit gestalts in the final stage of their life cycle.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -20,7 +22,7 @@ Cluster organisms composed of individual components that merge into increasingly
 | [Interspecies Relations](#interspecies-relations) | Vox, NT, skrell, unathi, tajaran |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Light dependency, radiation tolerance, pain unreliability |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -34,7 +36,7 @@ Internal flora consist of virus-like symbiotic organisms that break complex mole
 
 A mature gestalt is organized in several structural layers: an outer ridged and finned layer for heat dissipation and Rootsong signal emission; a flesh-and-cavity layer containing nymphs, gas storage, and nutrient capillaries; radiation-harvesting blisters made of layered crystalline material; and a dense insulating layer of dead flesh, harvested rock, and synthesized filler holding the gestalt together.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Life Cycle
 
@@ -46,7 +48,7 @@ Adult dionaea are slow in both movement and cognition due to the decentralized n
 
 In the final stage, dionaea travel to a communally-determined celestial body, link their bodies, and enter orbital fusion. The resulting gestalt grows to station-scale, sustaining itself on stellar or gas giant emissions. The process is irreversible. Station-grown nymphs are conditioned not to form single-nymph gestalts; they prefer merging with masses from other sites to maintain genetic viability.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Behavior and Psychology
 
@@ -60,7 +62,7 @@ Dionaea have no concept of personal or mental privacy. Those new to standard cre
 
 They have no government or governance structure. Social organization is described in terms of group harmony or "song" rather than leadership.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -68,7 +70,7 @@ They have no government or governance structure. Social organization is describe
 
 Diona nymphs can absorb the rudiments of other species' languages from blood samples. Adult dionaea are capable of vocalizing most species' languages despite their unusual physiology, typically in a monotone or with deep bass qualities. Siik'tajr is difficult for dionaea due to its pitch requirements; Sinta'unathi is managed well. Skrellian is not producible by dionaea at all. Station communications systems include Rootsong signal support accessible by prefixing speech with `#q`.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Contact History
 
@@ -78,7 +80,7 @@ Preliminary analysis suggested the stars themselves were sentient. Further inves
 
 An agreement was reached between the skrell survey teams and the gestalts: the skrell would distribute diona seeds and nymphs to systems the gestalts could not reach directly; the gestalts would permit establishment of habitation modules on their bodies for mining and refinement of rare gasses and elements accessible only through stellar proximity.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -92,7 +94,7 @@ An agreement was reached between the skrell survey teams and the gestalts: the s
 
 **Tajaran:** No documented contact.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

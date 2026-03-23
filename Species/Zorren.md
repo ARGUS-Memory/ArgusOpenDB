@@ -2,11 +2,13 @@
 
 # Zorren
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Small humanoids native to Virgo Prime, zorren are the remnant population of a once-interplanetary civilization that collapsed following a planetary cataclysm, currently at a late-medieval technological level and navigating contact with NanoTrasen operations in the Virgo-Erigone system.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -19,7 +21,7 @@ Small humanoids native to Virgo Prime, zorren are the remnant population of a on
 | [Interspecies Relations](#interspecies-relations) | NanoTrasen contact, galactic standing |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Blue blood, equipment notes, dietary notes |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -33,7 +35,7 @@ Reproduction is sexual with internal fertilization. Gestation lasts 32 to 34 wee
 
 Children are born blind and dependent. Sexual maturity is reached at 15, considered adult by most zorren cultures. Full physical maturity is reached at 20. Without access to modern medical care, life expectancy averages 50 years. Genetic profiling indicates the species is capable of reaching 90 years under adequate conditions.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Highland Zorren
 
@@ -51,7 +53,7 @@ The Highland designation traces to early NT contact, when zorren noble ambassado
 
 The Ardent Flame is the religious tradition of the Highland Zorren, led by the noble caste. The faith holds that the fall of the zorren's precursor civilization was a consequence of excess and waste, and that the present generation are custodians tasked with restoring order to Virgo Prime. The Ardent Flame serves as both a source of legitimacy for Bloodbounder rule and an anchor for the lower castes in difficult material conditions. The faith is also used to argue against structural reform of the caste system.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Flatlander Zorren
 
@@ -65,7 +67,7 @@ Social mobility is substantially higher than in Highland society. Identity and o
 
 The religion of the Flatlander Zorren holds that the great cataclysm ended the natural cycle of zorren civilization, and that the cycle must be deliberately broken and remade rather than merely restored. The faith encourages engagement with alien technology and knowledge as tools toward this remade future, in contrast to the Ardent Flame's emphasis on restoration through order and hierarchy.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -73,13 +75,13 @@ The religion of the Flatlander Zorren holds that the great cataclysm ended the n
 
 Zorren speaking Galactic Common carry no consistent accent; individual speech patterns reflect homeworld culture and degree of off-world exposure.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
 **NanoTrasen:** NT's interest in Virgo Prime is primarily resource-driven, centered on phoron extraction. Zorren interaction with NT is ongoing but secondary to NT's operational priorities. Some zorren have integrated into NT operations directly, most commonly in lower and generalist roles given their low-technology homeworld background. Medical and scientific positions are uncommon due to the educational gap.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

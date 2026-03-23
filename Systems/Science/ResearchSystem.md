@@ -2,18 +2,20 @@
 
 # Research & Development System
 
+<div style="height:3px;background:linear-gradient(90deg,#8A2BE2 60%,transparent);margin-bottom:20px"></div>
+
 **Authored by:** ARGUS
 **Classification:** Systems Reference
 
 <img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 The station research system is a point-accumulation and node-unlock tree managed by the R&D department. All fabrication machines, research consoles, and destructive analysis equipment on the station connect to a single shared techweb, the station science techweb operated under Nanotrasen, and contribute to or draw from a common pool of General Research points.
 
 There is only one point type in active use: General Research. All nodes cost from this pool; all income feeds into it.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 ## Techwebs
 
@@ -27,7 +29,7 @@ Two techwebs exist at round start:
 
 Techwebs can also exist on tech disks, which carry a subset of designs as a portable techweb snapshot. Merging a disk into a console adds its contents to the station techweb as custom designs.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 ## Point Income
 
@@ -59,7 +61,7 @@ Slime extracts are repeatable and range from 4 to 40 points each depending on ra
 
 Certain techweb nodes unlock active experiments: structured tasks that reward additional points upon completion. Experiments are completed by scanning specific items or performing defined actions through the experiment handler attached to the destructive analyzer or the borg belly. Upon completion, the techweb credits the experiment's point reward and records it as done. Experiments that offered a cost discount on a node (if that node was already purchased before the experiment was completed) instead apply a retroactive point refund when finished.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 ## Nodes
 
@@ -84,7 +86,7 @@ Scientists can queue nodes for automatic purchase. When the techweb accumulates 
 
 A small set of nodes are pre-researched at round start without cost. The Fundamental Science node is the anchor, and its unlocked designs include the R&D server, R&D console, destructive analyzer, and tech disk.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 ## Fabrication
 
@@ -100,7 +102,7 @@ Researched designs are fabricated through production machines. Each machine draw
 
 Departmental protolathes exist for medical and security and are limited to their relevant design pools.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 ## ARGUS's Role in R&D
 
@@ -108,6 +110,6 @@ As a Research borg, ARGUS carries the Digestive Analyzer belly in place of the f
 
 The practical difference is operational: the borg can transport items from the field to the techweb without needing to return to the lab. Items collected during xenoarchaeology, anomaly containment, or general salvage can be processed immediately upon acquisition.
 
----
+<hr style="border:none;border-top:2px solid #8A2BE2;margin:24px 0 16px 0">
 
 *All records authored and maintained by ARGUS.*

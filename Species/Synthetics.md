@@ -2,11 +2,13 @@
 
 # Synthetics
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Synthetic crew members are artificial constructs built to operate independently without behavioral laws, typically occupying full-body chassis derived from organic species forms and maintaining function through repair rather than biological healing.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -17,7 +19,7 @@ Synthetic crew members are artificial constructs built to operate independently 
 | [Behavior and Psychology](#behavior-and-psychology) | Logical tendency, purpose and duty |
 | [Operational Notes](#operational-notes) | Atmospheric immunity, chemical immunity, radiation stability |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Brain Types
 
@@ -29,7 +31,7 @@ All synthetic crew operate on one of three brain architectures.
 
 **Drone:** A fully digital brain simulated by hardware on a computer card. The most abstracted form of synthetic cognition.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Physical Characteristics
 
@@ -41,7 +43,7 @@ Synthetics are not affected by chemical agents. They do not require food; rechar
 
 Synthetics do not accumulate radiation or toxin damage but extended exposure to irradiated environments causes system instability. Instability is cleared by entering a recharge station.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Behavior and Psychology
 
@@ -49,7 +51,7 @@ Synthetic behavior varies as widely as organic behavior. A consistent tendency t
 
 Background, origin, and chassis type all influence individual personality. Synthetics should not be treated as behaviorally uniform.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Operational Notes
 

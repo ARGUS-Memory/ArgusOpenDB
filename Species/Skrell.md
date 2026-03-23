@@ -2,11 +2,13 @@
 
 # Skrell
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Amphibious humanoids from the humid world of Qerr'balak, the skrell are humanity's oldest alien ally and currently the most technologically advanced species in known space, with a rigidly caste-organized society centered on collective order and intellectual development.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -23,7 +25,7 @@ Amphibious humanoids from the humid world of Qerr'balak, the skrell are humanity
 | [Language](#language) | Spoken and written skrellian; in-station communication |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Practical considerations for medical and command staff |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -37,7 +39,7 @@ The skrellian brain is structurally analogous to an evolved amphibian brain and 
 
 Average height is 5'10" to 6'0" for males and 6'0" to 6'2" for females. Raskinta-Katish skrell are typically taller than average; Kanin-Katish are typically shorter.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Reproduction and Family
 
@@ -61,7 +63,7 @@ Skrellian family structure uses a monolateral lineage system. Key roles:
 
 Pairings are not required to be of different sexes. Cross-caste pairings produce Ue-Katish offspring, which carries significant social consequences.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Lifespan and Development
 
@@ -69,7 +71,7 @@ Skrell reach adulthood at 20 years. Natural lifespan is approximately 100 years.
 
 Skrellian education is structured: Early Enlightenment covers common knowledge through the young adult stage. Focused Enlightenment introduces caste-specific education at age 8. Ongoing Enlightenment, which begins at 15, determines career trajectory. Exit at 18 produces a **Qrri-Mog**, qualified for basic labor. Exit at 25 produces a **Qerr-Mog**, the standard credentialed professional. Only Qerr-Mog may teach or aspire to advisory roles.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Diet
 
@@ -79,7 +81,7 @@ Sulfur-rich animal protein is toxic to unmodified skrell. Dietary augmentation t
 
 Alcohol is absorbed by the skrellian brain approximately five times faster than by the human brain. A standard serving of weak alcohol is sufficient to cause visible intoxication in a skrell. Most adult skrell actively avoid alcohol.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Caste System
 
@@ -105,7 +107,7 @@ The skrellian caste system has been in place for millennia and has shaped partia
 
 Caste honorifics use the first syllable of the caste name in place of standard honorifics. "Comrade" is the accepted equivalent for non-skrell and is the polite form of address for Ue-Katish.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Culture and Politics
 
@@ -119,7 +121,7 @@ Skrellian media characterizes the species as peaceful scientists committed to ga
 
 The **Qerr-Glia** are the dominant organized criminal faction in skrellian space: descended from deposed Qerr-Katish royals, operating across the full range of organized crime from money laundering to the slave trade. **Ue-Katish pirate flotillas** operate along the edges of skrellian space and at the human-skrell border, functioning as black markets and hosting information brokers and mercenaries.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## History
 
@@ -140,7 +142,7 @@ Key events in skrellian history, converted to the human calendar:
 | 2435 CE | Free migration established between skrellian space and SolGov |
 | 2510 CE | Military aid sent to the SolGov-Hegemony War coalition; credited with securing victory |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -156,7 +158,7 @@ Key events in skrellian history, converted to the human calendar:
 
 **Dionae:** Widely perceived as a skrellian vassal species by outside observers. Skrell acknowledge that the close relationship is maintained by convenience rather than formal alliance.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -168,7 +170,7 @@ Skrellian written language uses logograms rather than an alphabet, with thousand
 
 Skrell speaking non-skrellian languages adopt the accent of whoever taught them, often with characteristic pitch variation. They are sensitive to minor tonal shifts in speech and may register as flat in casual conversation with other species.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

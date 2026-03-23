@@ -2,11 +2,13 @@
 
 # Xenochimera
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Extraterrestrial colony organisms composed of microscopic hive organisms capable of consuming and mimicking the cellular structure of other life forms, xenochimera attain sapience by assimilating sufficiently complex nervous systems and are prone to feral behavioral regression under stress.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -19,7 +21,7 @@ Extraterrestrial colony organisms composed of microscopic hive organisms capable
 | [Interspecies Relations](#interspecies-relations) | General galactic standing, NT status |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Treatment protocols, revival procedures, cloning incompatibility |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -33,7 +35,7 @@ Xenochimera do not reproduce sexually. Reproductive organs serve no functional p
 
 Body reconstruction is a natural process that occurs during rest. The colony cannibalizes unnecessary structure and grows replacements. Drastic reconstruction or repair from severe damage requires hibernation, during which the body reverts to base cellular state while the outer skin remains in place as a shell. Reconstruction from severe damage takes days to weeks. Rapid reconstruction under pressure is possible in minutes but produces flawed bodies with structural errors that accumulate unless properly rebuilt during a later full reconstruction cycle.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Origins
 
@@ -47,7 +49,7 @@ In 2542, the first confirmed sapient xenochimera was identified. Others were sub
 
 The origin point of xenochimera biomass is unknown. The most widely accepted theory involves a catastrophic impact that shattered a home planet and scattered biosphere material into interstellar space. The high Alden-Sarapova particle count found in a 2542 Virgo-Erigone asteroid of geologically young age suggests some dispersal events involve bluespace exposure rather than only conventional ballistic dispersal.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Feral State
 
@@ -57,7 +59,7 @@ A feral xenochimera regresses to animal cognition. Behavior is that of a frighte
 
 The most effective calming measures are feeding meat (the closer to fresh, the more effective), removing sources of stimulation, and providing a dark, quiet space. A nervous system depressant combined with meat, colloquially called a Monster Tamer in service settings, has demonstrated accelerated calming compared to feeding alone.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Life Cycle
 
@@ -65,7 +67,7 @@ Young chimera colonies grow from whatever biomass is available: cast-off materia
 
 Body modification occurs naturally during rest. Major changes require hibernation in a base cellular state, lasting days to weeks. The chimera is vulnerable during hibernation and typically seeks concealment before beginning the process.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -73,7 +75,7 @@ Xenochimera face widespread suspicion across most of known space. The fact that 
 
 NanoTrasen permits xenochimera crew on stations where crew acceptance is sufficient. A Protean Access Network permit is not required for xenochimera, distinguishing them from protean synthetics despite superficial behavioral similarities.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

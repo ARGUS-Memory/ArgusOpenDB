@@ -2,11 +2,13 @@
 
 # Phoron and Bluespace
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Phoron is the substance underlying faster-than-light travel, high-yield power generation, and advanced pharmaceutical synthesis; bluespace is the dimensional phenomenon phoron mediates and which FTL drives exploit.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -17,7 +19,7 @@ Phoron is the substance underlying faster-than-light travel, high-yield power ge
 | [Bluespace](#bluespace) | Theoretical models for the FTL medium |
 | [Redspace](#redspace) | Informal term for poorly understood bluespace phenomena |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Phoron
 
@@ -29,7 +31,7 @@ Confirmed properties include: combustibility, function as a powerful reducing ag
 
 Phoron's three primary applications are **FTL travel** (powering on-ship FTL drives), **fuel** (combustion releases Alden-Sarapova energy at yields far above conventional fuels), and **chemistry** (liquid phoron functions as a potent catalyst and reagent in pharmaceutical synthesis). Phoron is one of the highest-value substances in known space and is the foundational resource of the interstellar economy. NanoTrasen holds primary phoron extraction rights above the phoron giant Erebus in the Gliese 229 system.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Supermatter
 
@@ -37,7 +39,7 @@ Phoron's three primary applications are **FTL travel** (powering on-ship FTL dri
 
 Despite the risks, supermatter is used extensively in thermoelectric power generation. A supermatter crystal in a properly managed cooling loop provides a near-limitless energy output. See [Supermatter Engine](../Systems/Engineering/SupermatterEngine.md) for operational procedures.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Bluespace
 
@@ -51,7 +53,7 @@ Despite the risks, supermatter is used extensively in thermoelectric power gener
 
 **Entanglement theory** proposes that bluespace does not exist as a separate domain. Under this model, Alden-Sarapova particles are virtual exotic matter capable of instant information transfer. A bluespace particle can adopt the properties, including the "realness" variable, of a classical particle, effectively replacing it. FTL under this model is information transfer rather than physical transit.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Redspace
 

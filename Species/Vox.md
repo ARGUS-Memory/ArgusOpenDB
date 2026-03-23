@@ -2,11 +2,13 @@
 
 # Vox
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Nomadic digitigrade reptilian bipeds from colossal arkships in the outer reaches of known space, vox are characterized by nitrogen-based respiration, non-conductive scales, a complex caste system including the near-mythical Auralis, and a culture shaped by millennia of accumulated loss and suspicion toward other species.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -20,7 +22,7 @@ Nomadic digitigrade reptilian bipeds from colossal arkships in the outer reaches
 | [NanoTrasen Relations](#nanotrasen-relations) | Official vs. de facto employment policy |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Nitrogen requirement, oxygen toxicity, scale conductivity |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -42,13 +44,13 @@ Apex vox are approximately double the height of standard vox. The tail is hollow
 
 Auralis are known only to vox and are not discussed with outsiders. They exist as massive structures of organic material integrated with arkship machinery and vegetation, the original individual body largely subsumed. A large torso and head protrude from the central mass. Auralis interface with the bluespace network, a vox-developed system that stores their cognitive contents in bluespace and enables continuous awareness across thousands of kilometers and instantaneous communication with other Auralis regardless of distance. This awareness allows silent emergency arkship jumps when outsiders approach. Loss of the technology that facilitated communication between Auralis and standard vox has left the Auralis largely detached from the rest of vox society; they seem erratic when accessed, as their cognition now operates beyond what lesser vox can parse.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Reproduction
 
 Vox do not reproduce sexually. Reproduction involves pod trees: large organic structures with root-connected fleshy pods containing vox developed to an incomplete state. Pods remain dormant until an Apex inserts genetic material, triggering the final growth phase. Multiple Apex may contribute material to maximize genetic diversity; more typically a single Apex provides material calibrated to produce a specific body type suited to current arkship needs. Development after insemination takes approximately one month. Vox emerge fully mature.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Culture and Society
 
@@ -58,13 +60,13 @@ Vox understand value in terms of direct utility rather than abstract monetary wo
 
 The divide between **Enlightened** and **Stackless** vox follows from a major historical event: the destruction of an arkship and at least one Auralis caused a catastrophic data loss. The technology to create new neural-lace memory stacks was among the lost knowledge. Stacks allowed new vox to access the accumulated memories and skills of all past vox, integrating them instantly into the collective history. Vox with stacks retain this access and are called Enlightened. Vox without stacks must build knowledge from scratch. The remaining stacks are managed carefully; most are kept in storage as data preservation insurance.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Technology
 
 Vox technology is ancient, advanced, and built for extreme longevity. Most vox cannot replicate what their technology does; they can operate and maintain it but have lost the ability to produce new examples. FTL systems are especially advanced, capable of near-instantaneous engagement with low fuel consumption. Only Auralis can operate the FTL systems. Vox guard their technology jealously and take significant effort to prevent any piece of it from reaching non-vox.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -72,7 +74,7 @@ Vox-pidgin is the primary vox language, heavy on glottal, velar, and plosive sou
 
 Vox working on NT stations must acquire Galactic Common. Speaking Common is uncomfortable on vox vocal anatomy; vox minimize word count and sentence length when doing so. This habitually makes them appear less intelligent than they are; most vox find this useful.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## NanoTrasen Relations
 
@@ -80,7 +82,7 @@ SolGov maintains an official policy of preemptive response to vox raiding. NanoT
 
 Vox crew positions are predominantly lower-level. Command and senior medical positions are not accessible to vox. Security roles require an extended demonstrated trust period before consideration. Vox employment in practice means NT receives cheap labor in exchange for basic survival support, with limited protection from crew mistreatment. Vox who work station jobs typically calculate that maintaining a neutral facade improves their material situation more than conflict does.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

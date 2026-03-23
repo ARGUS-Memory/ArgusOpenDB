@@ -2,11 +2,13 @@
 
 # Vir
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 The Vir system is the frontier star system where the NLS Southern Cross and NCS Northern Star operate, notable for its [phoron](PhoronAndBluespace.md) deposits, its absence of a stable warpgate, and the resulting dominance of [NanoTrasen](../Organizations/NanoTrasen.md) over local industry.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -19,7 +21,7 @@ The Vir system is the frontier star system where the NLS Southern Cross and NCS 
 | [Notable Locations](#notable-locations) | Key installations, planets, and stations in the system |
 | [Threats and Tensions](#threats-and-tensions) | Piracy, Syndicate activity, and ongoing conflicts |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## System Overview
 
@@ -27,7 +29,7 @@ Vir is an A-type main sequence star with approximately 80% more mass than Sol an
 
 The system lacks a stable warpgate. FTL-capable vessels are required for access. This isolation substantially limits Sol Central's practical administrative presence in the system and removes the enforcement reach of most core-world governance.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## History
 
@@ -43,7 +45,7 @@ In 2264, the Sivians formed the **Sif Planetary Government (SifGov)**, capitaliz
 
 VGA's anti-corporate policies initially isolated it economically. The situation reversed during the Sol-Hegemony War, when a shortage of secure frontier colonies for corporate investment pushed NanoTrasen toward a negotiated arrangement with VGA. In 2414, a cooperation agreement established NanoTrasen's operating rights in the Kara subsystem, beginning the corporation's current dominant role in the system.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Government
 
@@ -51,7 +53,7 @@ The **Vir Government Authority (VGA)** governs the Vir system as a unitary democ
 
 The Kara subsystem operates under significant NanoTrasen autonomy under the terms of the 2414 cooperation agreement, though formal sovereignty remains with VGA.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## NanoTrasen Presence
 
@@ -59,7 +61,7 @@ NanoTrasen is the dominant trans-stellar presence in Vir. The corporation suppli
 
 The corporation's primary interests in Vir are phoron extraction from the Kara region and research operations conducted across its station network. The NCS Northern Star in Kara orbit is NanoTrasen's largest installation in the system. The NLS Southern Cross in Sif orbit serves as the logistical relay and secondary research platform.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Notable Locations
 
@@ -73,7 +75,7 @@ The corporation's primary interests in Vir are phoron extraction from the Kara r
 
 **Vir Interstellar Spaceport** provides transit links between the Vir system and the broader network of FTL-capable vessels. It serves as the primary entry and exit point for travelers arriving from outside the system.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Threats and Tensions
 

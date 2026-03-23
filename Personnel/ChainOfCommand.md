@@ -2,11 +2,13 @@
 
 # Chain of Command
 
+<div style="height:3px;background:linear-gradient(90deg,#2A5AA8 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 *Colony Director, Captain, and Station Administrator are interchangeable terms depending on installation.*
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Corporate Executives
 
@@ -20,7 +22,7 @@
 | **Chief of Defense** | Commands NanoTrasen's private military and security forces. Reports to COO. Commands the NanoTrasen Defense Navy and the NanoTrasen Civil Defense Forces. Has no command authority over other corporate ranks except during a declared crisis. |
 | **Chief Financial Officer** | Manages finances for the organization. Reports to CEO. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Central Command
 
@@ -39,7 +41,7 @@ The administration branch of NanoTrasen that runs the station. CentCom installat
 | **Emergency Response Team** | Dispatched during emergencies that cannot be handled by station crew. All ERT members override all station crew. The ERT team leader reports to the Chief of Security. Interfering with an ERT mission is a criminal offense. |
 | **CentCom Officer** | Observer sent to the station to assess crew performance. Non-interference policy: may not order station crew, and station crew may not order them. Takes precedence over direct contact with CentCom Chief Officers when on-station. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Heads of Staff
 
@@ -54,7 +56,7 @@ Each Head of Staff has access to the Bridge, the command radio channel, and may 
 | **Research Director** | Equal with other Heads of Staff excluding the Colony Director. Authority over the Science department. Supervises Exploration and reports progress to Command. |
 | **Chief Medical Officer** | Equal with other Heads of Staff excluding the Colony Director. May disable and treat any Head of Staff deemed medically unfit for duty. Authority over Virologists, Psychologists, Medical Doctors, and Chemists. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Other Management Roles
 
@@ -65,7 +67,7 @@ Not Heads of Staff. Cannot substitute for their respective superiors in the even
 | **Quartermaster** | Equal authority with the Head of Personnel over the supply sector. Manages Cargo Technicians and Shaft Miners. Colony Director resolves disputes between QM and HoP. |
 | **Warden** | Subordinate to the Head of Security. Controls weapons distribution and inventory. Authority over Security Officers within the brig and prisoner holding areas. Responsible for prisoner welfare. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Chain of Succession
 
@@ -77,7 +79,7 @@ The Head of Personnel may assume the role of Acting Colony Director at any time 
 
 The Head of Personnel may temporarily fill in for any absent Head of Staff, excluding the Head of Security, until a replacement is appointed.
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Acting Colony Director
 
@@ -90,7 +92,7 @@ An Acting Colony Director does not hold full Colony Director authority. The foll
 - Issuing death warrants
 - Promoting other staff to full Colony Director (the Acting role may be transferred but not the full rank)
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Promoting and Demoting Heads of Staff
 
@@ -102,7 +104,7 @@ A Head of Staff proven to have committed a crime may be arrested but not demoted
 
 If a new head of staff arrives after someone was promoted to fill the same vacancy, the Colony Director decides who retains the role. Unless the promotion was recent, CentCom recommends the promoted crew member keep the position, with the new arrival reassigned within the same department.
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Summary
 

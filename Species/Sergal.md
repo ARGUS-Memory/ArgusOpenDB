@@ -2,11 +2,13 @@
 
 # Sergal
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Canine-adjacent sapients from the Vilous system, sergals are divided into two subspecies with substantially different physical profiles and temperaments: aggressive Northern sergals adapted to tundra and plains, and more docile Southern sergals concentrated in urban environments.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -19,7 +21,7 @@ Canine-adjacent sapients from the Vilous system, sergals are divided into two su
 | [Language](#language) | Sagaru; station communications |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Standard damage profile, longevity, canine sounds |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -27,7 +29,7 @@ Sergals are large bipedal carnivores with elongated facial structures, fur cover
 
 Sergal lifespan is exceptionally long by galactic standards, though the species' documented tendency toward violence means that most individuals do not survive to natural old age. The theoretical lifespan ceiling is poorly established due to the scarcity of individuals who die of natural causes rather than violence. Historical records mention General Rain Silves, a legendary Northern sergal military figure credited with a claimed lifespan of approximately 5,000 years, which most researchers classify as legend rather than documented fact.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Northern Sergals
 
@@ -35,7 +37,7 @@ Northern sergals occupy plains and tundra environments and evolved in those cond
 
 Northern sergals operating on NanoTrasen installations may be functional crew members but present elevated risk of aggressive incident compared to other species. Their behavior is not irrational; Northern sergals respond to clear and enforced social hierarchies and are capable of professional conduct in structured environments.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Southern Sergals
 
@@ -43,19 +45,19 @@ Southern sergals are associated with the Gold Ring City environment and scattere
 
 Southern sergals are considerably easier to integrate into mixed-species crew environments. They have historically participated in trade, craft, and diplomatic contact with other Vilous system species.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## History and Tensions
 
 Northern and Southern sergal cultures have been in conflict throughout recorded sergal history. The tensions between the two populations have escalated to formal warfare on multiple occasions and have included documented attempts by each group to commit genocide against the other. Neither attempt succeeded. Current relations within the Vilous system are characterized by uneasy coexistence. Individual sergals from either subspecies traveling in galactic space typically have learned to operate outside the conflict context, but awareness of the underlying tension is appropriate when managing mixed sergal crews.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
 **Sagaru** is the dominant language of the sergal homeworld, consisting of aggressive low-pitched hissing and throaty growling. It is the native language of both North and Southern sergals, though accent and emotional register differ significantly between subspecies. Station communications systems include Sagaru language support accessible by prefixing speech with `#T`.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

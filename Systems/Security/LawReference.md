@@ -2,11 +2,13 @@
 
 # Law Reference
 
+<div style="height:3px;background:linear-gradient(90deg,#BC0000 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Full per-offense descriptions for all Corporate Regulations offense codes. Covers enforcement criteria, enforcement notes, suggested sentences, additional penalties, fines, and the sentence modifier table. Intended as a companion reference to [Corporate Regulations](CorporateRegulations.md).
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -18,16 +20,16 @@ Full per-offense descriptions for all Corporate Regulations offense codes. Cover
 | [Special Infractions](#special-infractions-401402) | §401-§402: variable sentence, case-by-case |
 | [Sentence Modifiers](#sentence-modifiers) | Cooperation, self-defense, repeat offense, entrapment, and others |
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Low Level Infractions (§101-§125)
 
 Suggested sentences up to approximately 10 minutes, set at officer discretion. Fines may be paid in lieu of brig time; if paid, no detention is required. Community service may be offered at officer discretion for low-level offenses. Additional penalties require authorization from the Colony Director, Head of Security, or equivalent.
 
 <details>
-<summary>Full descriptions: §101-§125</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Full descriptions: §101-§125</summary>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §101 Trespassing
 
@@ -39,7 +41,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 200 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §102 Petty Theft
 
@@ -51,7 +53,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 150 credits. Confiscation and return of stolen items. Immediate search.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §103 Minor Assault
 
@@ -63,7 +65,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 400 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §104 Battery
 
@@ -75,7 +77,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 8 minutes. Demotion.
 **Fine:** 200 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §105 Disturbing the Peace
 
@@ -87,7 +89,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 8 minutes. Demotion.
 **Fine:** 250 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §106 Suspicious Conduct
 
@@ -99,7 +101,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes, or indefinite detainment for the duration of an ongoing investigation. Forced psychiatric examination. Tracking implant.
 **Fine:** 200 credits. Immediate search.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §107 Misuse of Public Radio Channels
 
@@ -111,7 +113,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 5 minutes or fine. Forced psychiatric examination. Injunction banning use of radio equipment.
 **Fine:** 150 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §108 Violation of Injunction
 
@@ -123,7 +125,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes.
 **Fine:** None.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §109 Insulting an Officer on Duty
 
@@ -135,7 +137,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 5 minutes.
 **Fine:** 50 credits per applicable minute.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §110 Slander
 
@@ -147,7 +149,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 5 minutes.
 **Fine:** 50 credits per applicable minute.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §111 Failure to Execute an Order
 
@@ -159,7 +161,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 500 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §112 Sexual Harassment
 
@@ -171,7 +173,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 15 minutes. Demotion.
 **Fine:** None.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §113 Animal Cruelty
 
@@ -183,7 +185,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 15 minutes. Demotion.
 **Fine:** None.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §114 Vandalism
 
@@ -195,7 +197,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 450 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §115 Threat of Murder or Serious Injury
 
@@ -207,7 +209,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Psychiatric evaluation or tracking implant.
 **Fine:** 500 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §116 Disrespect to the Dead
 
@@ -219,7 +221,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes.
 **Fine:** 400 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §117 Excessive Use of Force in Detainment
 
@@ -231,7 +233,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 20 minutes. Demotion.
 **Fine:** 350 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §118 Minor Contraband
 
@@ -243,7 +245,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 200 credits. Immediate search.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §119 Illegal Parking
 
@@ -255,7 +257,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Destruction of vehicle.
 **Fine:** 200 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §120 Obstruction of Duty
 
@@ -267,7 +269,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Detainment without fine payment option until duties are completed. Demotion.
 **Fine:** 500 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §121 Rubbernecking
 
@@ -279,7 +281,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Detainment until crisis resolved. Demotion.
 **Fine:** None.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §122 Operating Under the Influence
 
@@ -291,7 +293,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Demotion.
 **Fine:** None.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §123 Violation of Employee Rights
 
@@ -303,7 +305,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Demotion.
 **Fine:** 1,000 credits.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §124 Minor Negligence
 
@@ -315,7 +317,7 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 **Additional penalties:** Up to 10 minutes. Demotion.
 **Fine:** 100 credits if a warning was already issued.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §125 Forgery
 
@@ -329,16 +331,16 @@ Suggested sentences up to approximately 10 minutes, set at officer discretion. F
 
 </details>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Medium Level Infractions (§201-§221)
 
 Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set at officer discretion. Additional penalties require authorization from the Head of Security, Colony Director, or equivalent.
 
 <details>
-<summary>Full descriptions: §201-§221</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Full descriptions: §201-§221</summary>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §201 Failure to Execute an Order with Serious Consequences
 
@@ -349,7 +351,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Demotion. Holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §202 Resisting Arrest or Sparking a Manhunt
 
@@ -360,7 +362,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Up to 20 minutes.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §203 Suicide Attempt
 
@@ -371,7 +373,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** Compulsory psychiatric examination. Holding until examined on repeat attempt.
 **Additional penalties:** Demotion. Isolation in holding facility. Holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §204 Abuse of Confiscated Equipment
 
@@ -382,7 +384,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes and re-confiscation of equipment.
 **Additional penalties:** Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §205 Illegal Detention, Arrest, or Holding
 
@@ -393,7 +395,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §206 Negligence
 
@@ -404,7 +406,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §207 Infiltration
 
@@ -415,7 +417,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Up to 30 minutes, or holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §208 Assault
 
@@ -426,7 +428,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 20 minutes.
 **Additional penalties:** Up to 40 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §209 Escaping From Confinement
 
@@ -437,7 +439,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 20 minutes added to original sentence, with original sentence reset. If this accumulates past 90 minutes total, convert to Holding Until Judgment.
 **Additional penalties:** Up to 30 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §210 Unlawful Modification of AI/Cyborg Laws
 
@@ -448,7 +450,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 20 minutes.
 **Additional penalties:** Demotion. Holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §211 Sedition
 
@@ -459,7 +461,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Demotion. Holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §212 Major Contraband
 
@@ -470,7 +472,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes. Confiscation of contraband items.
 **Additional penalties:** Up to 20 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §213 Sabotage
 
@@ -481,7 +483,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 20 minutes.
 **Additional penalties:** Up to 40 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §214 Exceeding Official Powers
 
@@ -492,7 +494,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Up to 30 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §215 Grand Theft
 
@@ -503,7 +505,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes. Confiscation of stolen items.
 **Additional penalties:** Demotion. Holding until transfer.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §216 Organizing a Breakout
 
@@ -514,7 +516,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 15 minutes.
 **Additional penalties:** Up to 30 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §217 Illegal Blocking of Areas
 
@@ -525,7 +527,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Up to 25 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §218 Failure to Obey Safety Protocol
 
@@ -536,7 +538,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Detainment until crisis resolved. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §219 Severe Use of Excessive Force
 
@@ -547,7 +549,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Up to 30 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §220 Mistreatment of Prisoners
 
@@ -558,7 +560,7 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 **Suggested sentence:** 10 minutes.
 **Additional penalties:** Up to 30 minutes. Demotion.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §221 Violating Employee Privacy
 
@@ -571,16 +573,16 @@ Suggested sentences up to approximately 30 minutes, typically 10-15 minutes, set
 
 </details>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## High Severity Infractions (§301-§309)
 
 These infractions generally require tribunal ruling. Accused individuals are held pending judgment. In severe cases, permanent removal from the station is applicable.
 
 <details>
-<summary>Full descriptions: §301-§309</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Full descriptions: §301-§309</summary>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §301 Murder
 
@@ -591,7 +593,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** Holding Until Judgment.
 **Judgments:** Holding Until Transfer. Execution (requires formal head of staff tribunal). Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §302 Manslaughter
 
@@ -602,7 +604,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** 20 minutes.
 **Additional penalties:** 40 minutes. Dismissal.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §303 Mutiny
 
@@ -613,7 +615,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** Holding Until Judgment.
 **Judgments:** Holding Until Transfer. Execution (requires formal head of staff tribunal). Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §304 Terrorism
 
@@ -624,7 +626,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** Holding Until Judgment.
 **Judgments:** Holding Until Transfer. Execution (requires formal head of staff tribunal). Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §305 Assaulting a Head of Staff
 
@@ -635,7 +637,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** 30 minutes. Tracking implant.
 **Additional penalties:** Holding Until Transfer. Execution (requires formal head of staff tribunal).
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §306 Escaping From HuT Sentence
 
@@ -646,7 +648,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** Return to brig. Transfer to solitary confinement.
 **Judgments:** Execution. No tribunal required. Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §307 Terrorist Collaboration
 
@@ -657,7 +659,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** Holding Until Judgment.
 **Judgments:** Holding Until Transfer. Execution (requires formal head of staff tribunal). Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §308 Sexual Assault
 
@@ -668,7 +670,7 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 **Sentence:** 30 minutes. Tracking implant.
 **Additional penalties:** Holding Until Transfer. Execution (requires formal head of staff tribunal). Possible permanent removal from the station.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §309 Wrongful Execution
 
@@ -681,16 +683,16 @@ These infractions generally require tribunal ruling. Accused individuals are hel
 
 </details>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Special Infractions (§401-§402)
 
 These infractions do not fit standard sentencing tiers. Sentences are determined case-by-case.
 
 <details>
-<summary>Full descriptions: §401-§402</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Full descriptions: §401-§402</summary>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §401 Inducement
 
@@ -700,7 +702,7 @@ These infractions do not fit standard sentencing tiers. Sentences are determined
 
 **Sentence:** Up to equal punishment with what the induced crime would have carried.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ### §402 Piracy
 
@@ -712,14 +714,14 @@ These infractions do not fit standard sentencing tiers. Sentences are determined
 
 </details>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Sentence Modifiers
 
 The following circumstances may reduce or increase a sentence. Multiple modifiers may apply to a single case.
 
 <details>
-<summary>Modifier table</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Modifier table</summary>
 
 | Modifier | Description | Effect |
 |---|---|---|

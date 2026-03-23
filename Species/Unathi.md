@@ -2,11 +2,13 @@
 
 # Unathi
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Large, cold-blooded reptilian bipeds from the planet Moghes, unathi are characterized by extreme physical durability, a continuous growth pattern throughout life, and a deeply clan-organized religious society currently navigating the aftermath of armed conflict with SolGov.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -19,7 +21,7 @@ Large, cold-blooded reptilian bipeds from the planet Moghes, unathi are characte
 | [Interspecies Relations](#interspecies-relations) | SolGov tensions, Moghes Hegemony standing |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Ribcage surgery, organ differences, temperature, equipment |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -35,7 +37,7 @@ As a cold-blooded species, unathi are vulnerable to extreme cold, which can indu
 
 Unathi have an ellipsoid skull, forward-facing slit-pupil eyes, two rows of regrowable serrated teeth, and a long forked tongue used for air-sampling. Some individuals develop head spines, frills, or horns based on ancestry. A line of dorsal spines may run from the base of the skull to the tail; these raise when the individual is agitated.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Life Cycle
 
@@ -47,7 +49,7 @@ Unathi have an ellipsoid skull, forward-facing slit-pupil eyes, two rows of regr
 
 **Adulthood:** Physical maturity occurs around age 32. Formal adult induction into the clan occurs at age 40, or as early as 30 for exceptional individuals at clan elder discretion. Pair-bonding typically does not occur until after age 80. By approximately age 200 the individual reaches master-craft status in their chosen field.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Cultural Backgrounds
 
@@ -59,7 +61,7 @@ Unathi have an ellipsoid skull, forward-facing slit-pupil eyes, two rows of regr
 
 **Redeemers:** A large organization drawing almost exclusively from Unbound who seek renewed purpose. Initiates begin stripped of all names, undertake years or centuries of ascetic labor and religious study, and may eventually be renamed as Redeemed by their sponsor. Full Redeemers who have themselves brought five Initiates to completion may be elevated to Redeemer status and a leadership role. During the Human-Unathi Conflict, Redeemer-led formations in breacher suits were among the most effective and feared unathi combat forces.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -69,7 +71,7 @@ Unathi address outsiders by clan or family name rather than personal name. Addre
 
 Unathi speaking Galactic Common carry a hissing, guttural accent.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -77,7 +79,7 @@ Unathi speaking Galactic Common carry a hissing, guttural accent.
 
 **NanoTrasen:** Anti-unathi employment discrimination is common within NT and affiliated organizations, particularly for supervisory, command, and security-adjacent roles. Unathi are more likely to find employment on border and outskirts installations where scrutiny is lower.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

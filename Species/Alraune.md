@@ -2,11 +2,13 @@
 
 # Alraune
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Plant-derived omnivorous humanoids native to the high-pressure tropical world of Roanoke, the alraune are patient ambush predators and capable linguistic adapters who integrated gradually into galactic society following prolonged first-contact conflict with human settlers.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -22,7 +24,7 @@ Plant-derived omnivorous humanoids native to the high-pressure tropical world of
 | [Culture](#culture) | Naming conventions, garlands, property relations |
 | [Medical and Operational Notes](#medical-and-operational-notes) | CO2 requirements, water needs, anatomy considerations |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -34,7 +36,7 @@ Alraune possess two or more sensory organs capable of standard humanoid-range vi
 
 Internal organs are few and relatively simple. The digestive system is a series of leaf-lined chambers that break down ingested material through pitcher-plant-type chemistry, storing processed energy as glucose and starch. Peripheral storage structures can take the form of berries, cereals, or other plant-adjacent edible matter. Removal of these peripheral structures is nearly painless; alraune occasionally harvest and consume them to recover stored nutrients.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Body Variation
 
@@ -44,7 +46,7 @@ Upper body morphology above the waist has converged toward human-like forms foll
 
 The distributed neural network that runs through the body makes alraune somewhat slower and less balanced on their feet than humans.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Diet
 
@@ -58,7 +60,7 @@ Some alraune grow storage sections with hallucinogenic properties as a prey-luri
 
 Alraune evolved on a planet with approximately 2.7 atmospheres pressure and elevated CO2. The reduced atmospheric pressure and lower CO2 levels on standard space stations require dietary supplementation. Carbonated beverages are a common practical source of supplemental CO2. High-concentration CO2 exposure remains dangerous and can cause carbonic acid buildup.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Reproduction
 
@@ -70,7 +72,7 @@ Early development requires external energy: parasitization of nearby plant root 
 
 Stationary older alraune occasionally produce clones from removed branches. These clones do not retain the original's memories but typically share personality traits and disposition.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Behavior and Psychology
 
@@ -82,7 +84,7 @@ Alraune recognize themselves as individuals, unlike dionae, enabling more straig
 
 Alraune lifespan reaches up to 800 years. In later life they gradually transition toward semi-dormancy, eventually becoming stationary. Stationary alraune continue to communicate with other alraune via extended branch and vine structures and historically served as communication relays between communities.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## History
 
@@ -94,7 +96,7 @@ Alraune adapted rapidly during the conflict, using captured equipment and knowle
 
 Following the ceasefire, some colonies established mutualistic relationships with nearby alraune communities. Roanoke itself continues to maintain only limited contact with galactic society. Spacefaring alraune have become increasingly present on frontier stations and are generally accepted as workers, though they carry a reputation for pragmatic and occasionally deceptive conduct.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Homeworld
 
@@ -102,7 +104,7 @@ Following the ceasefire, some colonies established mutualistic relationships wit
 
 Standard station atmosphere is not survivable on Roanoke's surface without voidsuits or internals due to pressure and CO2 concentration. Animal life on Roanoke includes megafauna, large insect species, and small lizard and mammal populations.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Culture
 
@@ -112,7 +114,7 @@ Alraune social philosophy varies between individuals. A significant portion of s
 
 Alraune understanding of property is grounded in the ability to exert force over an object or individual. Human legal frameworks for ownership are not intuitively understood by all alraune. Some alraune extend this framework to other beings, regarding those who accept their resources or direction as belonging to them.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

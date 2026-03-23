@@ -2,11 +2,13 @@
 
 # Security Operations
 
+<div style="height:3px;background:linear-gradient(90deg,#BC0000 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Operational reference for NanoTrasen Security personnel. Covers departmental hierarchy, standard procedures, evidence handling, arrest and criminal processing, prisoner rights, and facility layout.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -23,7 +25,7 @@ Operational reference for NanoTrasen Security personnel. Covers departmental hie
 | [Secure Areas](#secure-areas) | Rules of engagement by location |
 | [Executions](#executions) | Conditions and procedure |
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Hierarchy
 
@@ -39,7 +41,7 @@ The Colony Director does not have authority to issue orders directly to Security
 
 Security has no authority over civilian crew beyond [Corporate Regulations](CorporateRegulations.md). [Standard Operating Procedure](../Command/StandardOperatingProcedure.md) cannot be enforced on crew by Security; that responsibility belongs to heads of staff and Internal Affairs.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Responding to Calls
 
@@ -49,7 +51,7 @@ When a call for Security is received, an officer responds as quickly as possible
 
 **If the scene is not clear**: Identify the nature of the threat. If the threat can be handled by present officers, proceed to mediation or detainment. If the threat exceeds current capacity, request immediate assistance and hold position until backup arrives. Confirm personal safety before addressing the safety of others on scene.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Evidence
 
@@ -63,7 +65,7 @@ Investigative staff (Detective) should be requested. Officers on scene ensure sc
 
 Suit sensor tracking and medical records require a warrant under Code Green. Under Code Blue, Security may access these records directly unless the CMO objects. Under Code Red and above, Security may freely access medical records and suit sensors.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Arrest Procedure
 
@@ -79,7 +81,7 @@ Verbal disagreement or profanity does not constitute resisting arrest. Actual th
 
 Upon or after arrest, the suspect is informed of their right to pay a fine (if applicable) and their right to an Internal Affairs Agent or Lawyer for appeal.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Criminal Processing
 
@@ -107,13 +109,13 @@ If an IAA or HoS is requested for appeal and none are available, the prisoner st
 
 If a prisoner's sentence accumulates to more than 90 minutes in a single holding, hold pending tribunal judgment.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Permanent Holding
 
 Bring the prisoner to Security Processing as normal. Have the prisoner remove all items except no-access identification cards, PDAs, and radio headsets (with all cartridges and chips removed). Transfer the prisoner to permanent holding. The prisoner's head of staff is notified of their status. Prisoners in permanent holding are checked on regularly.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Prisoner Rights
 
@@ -133,14 +135,14 @@ Clothing; the standard orange prisoner jumpsuit and shoes are provided if needed
 
 Safe and reasonable cell conditions including functional lighting, sleeping accommodation, and access to the Brig's communal area if the sentence exceeds 20 minutes.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Standard Equipment
 
 Equipment listed below is standard under Code Green. Weapons of all types are kept holstered and concealed during Code Green; openly carried weapons make crew unnecessarily nervous and hostile.
 
 <details>
-<summary>Security Cadet and Security Conscript</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Security Cadet and Security Conscript</summary>
 
 Cadets are assistants pursuing a Security career and are educated by Security personnel on regulations and procedure. Conscripts are crew temporarily recruited by the HoS during emergencies.
 
@@ -152,7 +154,7 @@ Cadets are assistants pursuing a Security career and are educated by Security pe
 </details>
 
 <details>
-<summary>Security Officer</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Security Officer</summary>
 
 - Security uniform or red jumpsuit equivalent
 - Security softcap (optional)
@@ -178,7 +180,7 @@ Each Security locker also contains one lethal firearm under the Frontier Readine
 </details>
 
 <details>
-<summary>Detective</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Detective</summary>
 
 In addition to standard Security Officer equipment:
 
@@ -195,7 +197,7 @@ If two Detectives are present, investigative equipment is shared between them.
 </details>
 
 <details>
-<summary>Warden</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Warden</summary>
 
 - Warden attire
 - Warden armored jacket (standard Security armored vest is acceptable)
@@ -206,7 +208,7 @@ If two Detectives are present, investigative equipment is shared between them.
 </details>
 
 <details>
-<summary>Head of Security</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Head of Security</summary>
 
 - Head of Security attire
 - Head of Security armored coat and hat (dermal patch acceptable substitute for hat)
@@ -217,14 +219,14 @@ If two Detectives are present, investigative equipment is shared between them.
 </details>
 
 <details>
-<summary>Head of Personnel</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Head of Personnel</summary>
 
 The Head of Personnel is not a Security officer. Standard equipment is limited to the energy pistol, baton, and flash supplied for personal defense. Carrying any additional weapons constitutes a violation of [Corporate Regulations](CorporateRegulations.md) §212. As Acting Colony Director, the Head of Personnel may carry a wider variety of firearms, though this is discouraged.
 
 </details>
 
 <details>
-<summary>Colony Director</summary>
+<summary style="background-color:#1a2535;border-left:4px solid #BC0000;padding:6px 12px;cursor:pointer;font-weight:bold">Colony Director</summary>
 
 - No more than one non-explosive lethal weapon for personal defense; possession of additional weapons (excluding a standard-issue energy pistol) violates Corporate Regulations §212
 - A collapsible or stun baton is also permitted (one type recommended)
@@ -232,7 +234,7 @@ The Head of Personnel is not a Security officer. Standard equipment is limited t
 
 </details>
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Secure Areas
 
@@ -250,7 +252,7 @@ The Brig is a high-security area. Unauthorized personnel attempting to break in 
 
 The Telecommunications Satellite provides critical communications infrastructure. Unauthorized personnel who have bypassed or destroyed the laser turrets and accessed the control room are shoot-to-kill.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Executions
 
@@ -264,7 +266,7 @@ The prisoner is escorted to the execution location under heavily armed guard, bo
 
 Permanent death from an execution (overriding planetside cloning) requires Central Command authorization and is extremely rare. Central Command may commute, exonerate, or pardon at their discretion; on-station Security must comply immediately with any such order.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Security Facilities
 

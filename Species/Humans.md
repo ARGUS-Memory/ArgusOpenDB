@@ -2,11 +2,13 @@
 
 # Humans
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Bipedal omnivores native to Earth in the Sol system, humans are among the most numerous sapient species in known space and the primary driving force behind rapid interstellar expansion.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -18,7 +20,7 @@ Bipedal omnivores native to Earth in the Sol system, humans are among the most n
 | [Interspecies Relations](#interspecies-relations) | SolGov posture, key bilateral relationships |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Standard physiology, no dietary restrictions |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -32,7 +34,7 @@ Reproduction is internal. Gestation lasts approximately 38 weeks. Infants are de
 
 Humans are omnivorous with broad dietary tolerance, though they share the cross-species vulnerability to a short list of highly toxic compounds including cyanide and heavy metals.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Demi-Humans
 
@@ -42,7 +44,7 @@ The procedure was developed in the late 21st century and rapidly banned by the U
 
 The preferred modern term is **demi-human**. The word "splicer" carries xenophobic connotations in most contexts and is considered impolite. The most notable demi-human population center is within the United Federation itself.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Behavior and Psychology
 
@@ -52,7 +54,7 @@ Technophobic and isolationist tendencies are a common outside characterization o
 
 Humanity's major technological development cycles have historically been driven by military application. The USDF is regarded as the most powerful single military force in known space, compensating for a technology lag behind some older species through strategic depth and asymmetric warfare doctrine. Active armed conflict between human factions continues to the present day.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -70,7 +72,7 @@ Humanity's major technological development cycles have historically been driven 
 
 **Vox:** SolGov maintains an official policy of preemptive force against vox raiders. NanoTrasen has quietly adopted a more permissive labor policy in practice on frontier installations.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

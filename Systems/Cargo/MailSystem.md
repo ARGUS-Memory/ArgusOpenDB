@@ -2,11 +2,13 @@
 
 # Mail System
 
+<div style="height:3px;background:linear-gradient(90deg,#A05C28 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" alt="ARGUS" width="80" align="right"/>
 
 The station mail system handles the receipt, sorting, and delivery of personal parcels dispatched from Central Command. Mail arrives aboard the supply shuttle at regular intervals and must be manually sorted and hand-delivered to crew members by cargo personnel. Successful deliveries generate supply budget for the cargo department. This article covers how mail is generated, how it reaches crew, how to sort and deliver it, and how crew members can send their own packages.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## How Mail Arrives
 
@@ -16,7 +18,7 @@ Not all crew are eligible to receive mail. Central Command only dispatches mail 
 
 The ratio of standard letters to envelopes in each delivery is roughly 70 to 30. Junk mail, unsolicited correspondence from various external parties, makes up a portion of the total volume whenever the eligible recipient pool is small.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Mail Types
 
@@ -28,7 +30,7 @@ The ratio of standard letters to envelopes in each delivery is roughly 70 to 30.
 
 **Blank Mail** is station-created mail. Any crew member can obtain a blank envelope, place an item inside, and address it to another crew member on shift. See the section below on sending mail.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Mail Contents
 
@@ -38,7 +40,7 @@ In addition to job-specific items, all crew have a chance of receiving general g
 
 The envelope bears the recipient's department color, a postmark, and one or two decorative stamps. These are cosmetic.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Sorting and Delivery
 
@@ -56,7 +58,7 @@ The disposal network connects most departments to the central cargo sorting area
 
 Once sorted, mail must be physically carried to the recipient. Cargo personnel typically use a mail bag for this purpose. The mail bag holds a large volume of letters and small parcels and is standard issue for the mailman role.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Mail Scanner and Delivery Verification
 
@@ -69,13 +71,13 @@ The scanner checks that the person being scanned matches the addressee on the en
 
 Scanning the same mail twice does not award additional credit.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Opening Mail
 
 Only the addressed recipient can open their own mail. Attempting to open mail addressed to someone else will be refused. Opening takes a brief moment and cannot be interrupted once started without cancelling the attempt. The contents drop into the recipient's hands or onto the floor if their hands are full.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Sending Mail
 
@@ -88,7 +90,7 @@ Any crew member can send a personal package to another crew member currently on 
 
 The envelope can be retrieved and reopened before sealing if the contents need to change. Once sealed and addressed it is treated as standard mail and can be delivered through the normal sorting and delivery process. The item inside is initialized for the recipient's job, meaning job-appropriate bonuses may apply when it is opened.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Parcels
 
@@ -100,7 +102,7 @@ In addition to mail envelopes, cargo handles two types of wrapped parcels for la
 
 Both types are unwrapped by the recipient to retrieve the contents.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Cargo Roles and Mail
 
@@ -110,7 +112,7 @@ Both types are unwrapped by the recipient to retrieve the contents.
 
 **Quartermaster** oversees the cargo department and the shuttle cycle that brings mail to the station. Manages the supply budget that delivery credits accumulate toward.
 
----
+<hr style="border:none;border-top:2px solid #A05C28;margin:24px 0 16px 0">
 
 ## Supply Budget
 

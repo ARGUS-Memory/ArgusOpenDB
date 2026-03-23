@@ -2,11 +2,13 @@
 
 # Teshari
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Small, cold-adapted omnivores uplifted by the skrell, teshari are a pack-organized species with exceptionally acute hearing, a highly communal social structure, and an increasingly independent presence on the galactic stage.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -18,7 +20,7 @@ Small, cold-adapted omnivores uplifted by the skrell, teshari are a pack-organiz
 | [Interspecies Relations](#interspecies-relations) | Skrell, humanity, galactic standing |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Temperature limits, sonic vulnerability, dietary notes |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -32,7 +34,7 @@ Teshari are omnivorous with a preference for meat where available.
 
 Reproduction involves egg-laying. A breeding pair, typically supported by their pack, tends a clutch until hatching. Pack members share collective responsibility for offspring, with biological parentage carrying less formal weight than the pack relationship as a whole.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Culture and Society
 
@@ -46,7 +48,7 @@ The teshari military is minimal. The Teshari Auxiliary Spacefleet handles logist
 
 Teshari technology derives primarily from skrellian knowledge bases, though indigenous teshari production is increasing.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Known Packs
 
@@ -60,7 +62,7 @@ Teshari technology derives primarily from skrellian knowledge bases, though indi
 
 **Resca:** A pack that exchanged its native territory for access to spacecraft. Strong musical tradition. Tends toward medical professions.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Interspecies Relations
 
@@ -68,7 +70,7 @@ Teshari technology derives primarily from skrellian knowledge bases, though indi
 
 **Humanity:** Functional. Teshari hold a negligible position in human astropolitical calculations; most humans adopt the skrellian framing of the teshari relationship without significant independent assessment.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

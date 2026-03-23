@@ -2,11 +2,13 @@
 
 # Admiralty Law
 
+<div style="height:3px;background:linear-gradient(90deg,#BC0000 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Galaxy-wide legal framework governing conduct in interstellar space regardless of local jurisdiction, enforced by the USDF and other recognized Security forces. Violations require trial by peers, convened either by a Sol Central member state or by a signatory nation of the Joint Security Convention on the Law of Space.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -16,7 +18,7 @@ Galaxy-wide legal framework governing conduct in interstellar space regardless o
 | [Space Law Treaty](#space-law-treaty) | Signatory parties and protected rights |
 | [Enforcement](#enforcement) | USDF procedure, prisoner holding, trial logistics |
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Origin and Scope
 
@@ -24,7 +26,7 @@ Admiralty law derives from maritime law, originally governing navigation, shippi
 
 Admiralty law applies across all sectors of interstellar space, known and uncharted, superseding local corporate or national regulations for covered offenses. [NanoTrasen](../../Organizations/NanoTrasen.md)'s internal [Corporate Regulations](CorporateRegulations.md) exist in part because NanoTrasen does not wish USDF involvement in its own affairs; most conduct on NanoTrasen installations is addressed through Corporate Regulations before admiralty charges become relevant.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Space Law Treaty
 
@@ -32,7 +34,7 @@ The Joint Security Convention on the Law of Space (colloquially, the Space Law T
 
 The treaty prohibits a specific set of acts intended to preserve the wellbeing of all sentient life forms in all sectors of interstellar space. Accusations under the treaty require trial by a voting Galactic Senate member state or by a nation that has joined the SLT.
 
----
+<hr style="border:none;border-top:2px solid #BC0000;margin:24px 0 16px 0">
 
 ## Enforcement
 

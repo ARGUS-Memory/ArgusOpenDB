@@ -9,7 +9,7 @@ The Nanite Implant Framework operates as a continuous background system once imp
 
 For hardware specifications and implantation procedures see [NIF Hardware](../Systems/Science/NIF.md) and [Surgery](../Systems/Medical/Surgery.md#nif-implantation).
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Operation
 
@@ -19,7 +19,7 @@ The NIF's interface is accessed through an internal menu visible in the host's a
 
 The NIF consumes a small and continuous amount of power. Power draw increases with active software. Under normal circumstances a host's natural biological processes supply sufficient power; no external charging is required for organic hosts.
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Pre-Installed Software
 
@@ -33,7 +33,7 @@ All NIFs ship with the following three modules active.
 | **Soulcatcher** | A mind storage and processing system capable of housing one or more sapient minds in a contained virtual space. The host configures whether new arrivals are accepted; stored minds persist until released or the NIF is destroyed. |
 | **AR Overlay (Civ)** | A general-purpose augmented reality overlay providing identification and basic health status readouts on visible personnel. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Department Software Packages
 
@@ -49,7 +49,7 @@ Department software packages are provided at no cost to qualifying personnel. Ea
 | <img src="../assets/nifsoft_disk_pilot.png" width="32"> | Pilot (organic) | Respirocytes |
 | <img src="../assets/nifsoft_disk_pilot.png" width="32"> | Pilot (synthetic) | Pressure Seals, Heat Sinks |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 ## Software Catalogue
 
@@ -111,6 +111,6 @@ Additional modules can be purchased or obtained through research. Each module is
 |---|---|
 | **Compliance Module** | A law-application system capable of imposing behavioural directives on sapient beings. Possession and use are prohibited under station regulations and applicable law. |
 
----
+<hr style="border:none;border-top:2px solid #2A5AA8;margin:24px 0 16px 0">
 
 *All entries compiled from direct station system analysis. ARGUS.*

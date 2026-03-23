@@ -2,11 +2,13 @@
 
 # Altevian
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Nomadic rodent-featured humanoids with no homeworld, altevians live permanently aboard massive colony-class vessels they call their home fleet, sustaining a spacefaring civilization that has adapted entirely to long-duration transit as a way of life.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -18,7 +20,7 @@ Nomadic rodent-featured humanoids with no homeworld, altevians live permanently 
 | [Language](#language) | Tavan; station communications |
 | [Medical and Operational Notes](#medical-and-operational-notes) | Burn vulnerability, reduced hunger, zero-G mobility |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Biology
 
@@ -28,7 +30,7 @@ Altevians have a notably low caloric intake requirement relative to their body m
 
 Altevians are naturally capable of controlled movement in zero-gravity environments without external assistance, a trait that developed through generations of life aboard ships with imperfect or absent gravity plating. Their zero-G mobility is not exceptional, but it is reliable where other species would flounder.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## The Fleet
 
@@ -36,7 +38,7 @@ The altevian fleet consists of massive super-capital class colony ships organize
 
 The fleet's structure is hierarchical, with the flagship holding the highest status and ship captains holding significant social authority over their populations. Movement between ships is permitted but involves formal social protocols. Individuals who leave the fleet for NanoTrasen or other external employment are not unusual; they maintain fleet affiliation as a cultural identity regardless of current location.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Culture
 
@@ -46,7 +48,7 @@ Practical competence is respected and rewarded. Altevians who demonstrate genuin
 
 Altevians operating on NanoTrasen installations typically adapt well to the structured hierarchy of a station environment, finding parallels with fleet command structure familiar. Individual altevians may maintain a pragmatic and transactional orientation toward employment, viewing their station posting as an extension of the fleet's economic activity rather than a long-term commitment.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Language
 
@@ -54,7 +56,7 @@ Altevians operating on NanoTrasen installations typically adapt well to the stru
 
 Galactic Common is widely spoken by altevians who have had off-fleet commercial contact. Accent in Galactic Common reflects the altevian vocal structure, with characteristic rodent-like tonal qualities.
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 ## Medical and Operational Notes
 

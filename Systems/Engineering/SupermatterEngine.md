@@ -2,11 +2,13 @@
 
 # Supermatter Engine
 
+<div style="height:3px;background:linear-gradient(90deg,#EA9E00 60%,transparent);margin-bottom:20px"></div>
+
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 The station's primary power source: a supermatter crystal energized by an emitter and kept stable by a circulating [phoron](../../History/PhoronAndBluespace.md) coolant loop.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Quick Reference
 
@@ -37,7 +39,7 @@ The station's primary power source: a supermatter crystal energized by an emitte
 | [Emergency Loop Equalization](#emergency-loop-equalization) | Equalizes both loops; kills all power production | Recoverable: close valves to restore power |
 | [Emergency Crystal Ejection](#emergency-crystal-ejection) | Removes crystal from station interior | Last resort; doors must open before ejection |
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## The Crystal
 
@@ -68,7 +70,7 @@ The supermatter crystal will instantly and fatally destroy any living creature t
 
 **Crystal from Cargo:** A supermatter crystal requisitioned through Cargo arrives in a sealed container that any engineer can open. The container cannot be resealed once opened, which means the crystal will be fully exposed at whatever location it was unpacked. Choose the unpacking location carefully.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 **EER (Emission Energy Ratio)** measures the molar concentration of gases immediately surrounding the crystal, displayed in MeV/cm³:
 
@@ -80,7 +82,7 @@ The supermatter crystal will instantly and fatally destroy any living creature t
 
 High EER indicates gas is building up faster than the cooling loop can remove it. This raises temperature and accelerates damage.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Cooling Loop
 
@@ -107,7 +109,7 @@ On **Cetus**, each loop connector takes two phoron canisters. Four canisters tot
 
 **Heat exchangers** transfer thermal energy from the hot loop to the cold loop without mixing gases. They require no configuration; connecting them to both loops is sufficient.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Emitter
 
@@ -129,7 +131,7 @@ Each shot produces a small spark discharge at the emitter. This is normal behavi
 
 The emitter draws substantial power from the grid while active. Confirm the SMES banks are charged before firing.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Gas Filtration
 
@@ -153,7 +155,7 @@ On **Cetus**, the omnifilters are pre-configured correctly for phoron filtration
 
 On **Southern Cross**, the omnifilters default to filtering nitrogen rather than phoron. Before activating them, change the filter target on each unit to phoron. Turning them on with the nitrogen setting active will pull nitrogen from the coolant loop instead of clearing the phoron byproduct, degrading cooling performance over time.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Waste Gas Handling
 
@@ -176,7 +178,7 @@ The regulator will now function correctly for the remainder of the session.
 
 **Waste gas cooling loop:** Take one full CO₂ canister and pump its entire contents into the waste gas cooling loop connector. CO₂ serves as the thermal medium in the waste handling loop; the loop requires it to function.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Radiation Safety
 
@@ -218,7 +220,7 @@ Radiation collectors are not stocked in engineering storage on this station. The
 
 When the crystal delaminates, it releases a 40 Sv radiation burst that propagates through every pressurized section of the station simultaneously. No location is shielded. Crew in the engine room at the moment of delamination receive a lethal dose regardless of what protection they are wearing; the blast renders all equipment in the immediate area inoperable. Crew elsewhere on the station will receive a dose proportional to distance and shielding, but the burst is sufficient to cause acute radiation injury across most of the station. Evacuation of the engine room at the first emergency alert is the only reliable means of avoiding the worst of this exposure.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Setup Procedure
 
@@ -247,7 +249,7 @@ The following procedure covers a cold startup using phoron coolant, which is sta
 
 The crystal stabilizes at a moderate power level within a few minutes of the final emitter discharge. If integrity begins falling before the temperature stabilizes, verify the pumps are running at maximum pressure and that both canisters are wrenched to their connector ports.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ### Advanced: Always-On Configuration (Cetus)
 
@@ -264,7 +266,7 @@ This configuration applies to **Cetus only.** It replaces the standard "fire ~20
 
 **Monitoring:** With the emitter running indefinitely, keep a closer eye on the integrity and temperature readouts than in a standard setup. The higher energy input is sustained by the improved cooling throughput; if the pipes are not configured correctly the temperature will climb faster than in a standard run.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Monitoring
 
@@ -297,7 +299,7 @@ When the engine is underperforming or showing alerts, the console readouts are r
 
 If the above checks do not stabilize integrity, proceed to [Emergency Loop Equalization](#emergency-loop-equalization) before considering ejection.
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Emergency Loop Equalization
 
@@ -318,7 +320,7 @@ Two digital valves are installed in the engine room, identifiable by the white i
 
 This is an intermediate emergency measure, more drastic than pump and filter adjustments but recoverable. If equalization does not bring the crystal back under control, proceed to [Emergency Crystal Ejection](#emergency-crystal-ejection).
 
----
+<hr style="border:none;border-top:2px solid #EA9E00;margin:24px 0 16px 0">
 
 ## Emergency Crystal Ejection
 

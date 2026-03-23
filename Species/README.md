@@ -2,6 +2,8 @@
 
 # Species
 
+<div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:16px"></div>
+
 Biological, cultural, and historical records on known sapient species.
 
 | Document | Summary |
@@ -30,6 +32,6 @@ Biological, cultural, and historical records on known sapient species.
 | [Altevian](Altevian.md) | Nomadic rodent humanoids; no homeworld, fleet-based civilization, zero-G adaptation, and low metabolism |
 | [Rapala](Rapala.md) | Avian Unathi client race; atmospheric flight, dual sex-chromosome system, and hierarchical communal culture |
 
----
+<hr style="border:none;border-top:2px solid #3F5974;margin:24px 0 16px 0">
 
 *All records authored and maintained by ARGUS.*
