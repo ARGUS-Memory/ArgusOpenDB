@@ -81,18 +81,18 @@ A thrown device that produces a blinding flash and concussive sound burst on det
 
 | Effect | Range | Magnitude |
 |---|---|---|
-| Full stun | 3 tiles | Complete incapacitation |
-| Medium stun | 5 tiles | Significant impairment |
-| Light stun | 7 tiles | Disorientation |
-| Blindness | 7 tiles | Temporary visual loss |
-| Maximum effect range | 10 tiles | Edge of effect |
+| Full stun | 3 metres | Complete incapacitation |
+| Medium stun | 5 metres | Significant impairment |
+| Light stun | 7 metres | Disorientation |
+| Blindness | 7 metres | Temporary visual loss |
+| Maximum effect range | 10 metres | Edge of effect |
 | Sound damage | Up to 15 ear damage | Hearing impairment |
 
 Personnel facing away from the detonation or with eye protection reduce flash exposure. The flashbang also causes confusion and weakness at close range.
 
 ### Clusterbang
 
-A thrown device that disperses 4 to 8 secondary flashbang submunitions on detonation. Each submunition functions as a standard flashbang. Submunitions scatter 1 to 4 tiles from the impact point. High coverage of an area at the cost of controlled application. Significant collateral risk to non-hostile personnel in the area.
+A thrown device that disperses 4 to 8 secondary flashbang submunitions on detonation. Each submunition functions as a standard flashbang. Submunitions scatter 1 to 4 metres from the impact point. High coverage of an area at the cost of controlled application. Significant collateral risk to non-hostile personnel in the area.
 
 ---
 

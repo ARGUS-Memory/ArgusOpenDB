@@ -29,9 +29,9 @@ Pressure outside the normal range causes physical damage to unprotected personne
 | Threshold | Value | Effect |
 |---|---|---|
 | Low pressure warning | 50 kPa | Environmental warning; suits recommended |
-| Low pressure hazard | 20 kPa | Active damage; unprotected personnel take 2 brute per tick |
+| Low pressure hazard | 20 kPa | Active damage; unprotected personnel take 2 brute damage per second |
 | High pressure warning | 325 kPa | Environmental warning |
-| High pressure hazard | 550 kPa | Active damage; damage scales with pressure: (pressure / 550) × 4, maximum 4 per tick |
+| High pressure hazard | 550 kPa | Active damage; damage scales with pressure: (pressure / 550) × 4, maximum 4 per second |
 
 Standard space suits and hardsuits provide full protection against vacuum and high-pressure environments.
 
@@ -49,7 +49,7 @@ The optimal body temperature is 310.15 K (37°C). Deviations from this cause pro
 | Heat damage begins | 360.15 K (87°C) | Crew take thermal damage from heat exposure |
 | Fire resistance limit (carbon) | 473.15 K (200°C) | Above this, standard fire protection gear loses effectiveness |
 
-Thermal damage coefficient is 1.5 per tick. The body self-regulates toward optimal temperature at approximately 8 K per tick when environmental temperature is within a safe range. Extreme cold or hot environments drive temperature change at a rate six times faster than normal recovery.
+Thermal damage coefficient is 1.5 per second of exposure. The body self-regulates toward optimal temperature at approximately 8 K per second when environmental temperature is within a safe range. Extreme cold or hot environments drive temperature change at a rate six times faster than normal recovery.
 
 Firesuits and hardsuits provide substantial thermal protection. Fire stacks accumulate separately; above 25 stacks even fire protection degrades.
 
@@ -65,7 +65,7 @@ Fire on the station requires three conditions simultaneously: an oxidizer (oxyge
 
 **Combustion ratio:** Phoron fires consume approximately 3 moles of oxidizer per 2 moles of fuel. Fires sustain until one reactant is exhausted or temperature drops below ignition threshold.
 
-**Fire stacks:** Burning personnel accumulate fire stacks (minimum -20, maximum 25). Personnel take 4 brute damage per tick while burning. Rolling in the floor or using fire extinguishers reduces stacks. Above 20 stacks, standard fire suits begin losing effectiveness.
+**Fire stacks:** Burning personnel accumulate fire stacks (minimum -20, maximum 25). Personnel take 4 brute damage per second while burning. Rolling on the floor or using fire extinguishers reduces stacks. Above 20 stacks, standard fire suits begin losing effectiveness.
 
 **Suppression:** Carbon dioxide does not support combustion and displaces oxygen when released in quantity. CO2 flooding from fire suppression systems is the primary approach for containing compartment fires. Phoron fires produce extreme heat rapidly; immediate compartment isolation is preferable to attempting manual suppression.
 
@@ -79,8 +79,8 @@ Portable gas canisters are standard pressurized containers used throughout the s
 |---|---|---|
 | Leak threshold | 30 atm (3,040 kPa) | Canister begins leaking gas |
 | Rupture threshold | 40 atm (4,053 kPa) | Canister empties entirely |
-| Fragment threshold | 50 atm (5,066 kPa) | Canister explodes, 3×3 tile blast |
-| Fragment scaling | +10 atm above fragment threshold | Blast radius increases by 1 tile per 10 atm |
+| Fragment threshold | 50 atm (5,066 kPa) | Canister explodes, approximately 4.5-metre blast radius |
+| Fragment scaling | +10 atm above fragment threshold | Blast radius scales with excess overpressure |
 
 Standard supply storage pressures: nitrogen 90,000 kPa, oxygen 40,000 kPa, CO2 25,000 kPa, phoron 25,000 kPa, N2O 10,000 kPa, methane 5,000 kPa.
 
@@ -88,7 +88,7 @@ Standard supply storage pressures: nitrogen 90,000 kPa, oxygen 40,000 kPa, CO2 2
 
 ## Heat Transfer
 
-Gas temperature equalizes between tiles based on surface conductivity coefficients. Open floors transfer heat efficiently (0.4). Walls and closed doors conduct negligibly (0.0). Windows conduct at 0.1. Space tiles radiate heat at 0.2. In practice, a sealed room retains heat far longer than an open area, which is relevant both for fire containment and for emergency heating scenarios.
+Gas temperature equalizes between adjacent compartments based on surface conductivity coefficients. Open floors transfer heat efficiently (0.4). Walls and closed doors conduct negligibly (0.0). Windows conduct at 0.1. Space-exposed sections radiate heat at 0.2. In practice, a sealed room retains heat far longer than an open area, which is relevant both for fire containment and for emergency heating scenarios.
 
 ---
 

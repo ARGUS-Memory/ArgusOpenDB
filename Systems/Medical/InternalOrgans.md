@@ -29,7 +29,7 @@ Organ damage is not automatically healed by standard brute or burn treatments. B
 
 Located in the head. The brain governs consciousness and controls neural function including respiration. At 80% control efficiency or lower (damage 24+), the lungs begin to malfunction independently, compounding respiratory failure.
 
-Death occurs immediately on removal from a living patient. A recently deceased patient can be resuscitated with a defibrillator within a limited window; this window decreases each tick the patient remains dead. The brain retains identity and mind data; it can be transplanted into a compatible body or mechanized housing.
+Death occurs immediately on removal from a living patient. A recently deceased patient can be resuscitated with a defibrillator within a limited window; this window narrows each second the patient remains dead. The brain retains identity and mind data; it can be transplanted into a compatible body or mechanized housing.
 
 Broken brain symptoms include severe cognitive impairment. Infection at level 2 causes neck stiffness, dizziness, and confusion.
 
@@ -41,9 +41,9 @@ Infection at level 2 causes endocarditis with stabbing chest pain. Death occurs 
 
 ### Lungs
 
-Located in the torso. Govern gas exchange and respiration. Bruised lungs cause occasional blood coughing (2% chance per tick) and gradual breath loss. Broken lungs cause frequent blood coughing (4%), severe gasping (8%), and rapid breath loss (15 units per event). Compound effects with brain damage accelerate respiratory failure.
+Located in the torso. Govern gas exchange and respiration. Bruised lungs cause occasional blood coughing and gradual breath loss. Broken lungs cause frequent blood coughing, severe gasping, and rapid breath loss (15 units per event). Compound effects with brain damage accelerate respiratory failure.
 
-Infection at level 2 causes bacterial pneumonia with sharp breathing pain and 30 units of oxygen loss per tick.
+Infection at level 2 causes bacterial pneumonia with sharp breathing pain and significant continuous oxygen loss.
 
 ---
 
@@ -57,19 +57,19 @@ Alcohol metabolization damages the liver proportionally to intake. The liver tak
 
 ### Kidneys
 
-Located in the groin. Process waste reagents including coffee metabolites. Bruised kidneys produce 0.1 toxins per tick from coffee exposure; broken kidneys produce 0.3 per tick. When toxin levels fall below 10% of maximum, healthy kidneys can purge 1 to 3 toxin units passively.
+Located in the groin. Process waste reagents including coffee metabolites. Bruised kidneys produce 0.1 toxin units per second from coffee exposure; broken kidneys produce 0.3 per second. When toxin levels fall below 10% of maximum, healthy kidneys can purge 1 to 3 toxin units passively.
 
 Infection at level 2 causes stabbing lower back pain and forces the patient into walking pace.
 
 ### Spleen
 
-Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by 3 to 10 germ units per tick.
+Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by 3 to 10 germ units per second.
 
 High ambient toxins (30+ units) damage the spleen. Infection at level 2 produces haemophilia and either toxin accumulation or a secondary brain infection.
 
 ### Stomach
 
-Located in the groin. Produces stomach acid (up to 30 units, 40 for Unathi). Broken stomach symptoms include twisting abdominal pain and vomiting (1% chance per tick). Infection at level 2 causes gastroenteritis with agony and vomiting.
+Located in the groin. Produces stomach acid (up to 30 units, 40 for Unathi). Broken stomach symptoms include twisting abdominal pain and intermittent vomiting. Infection at level 2 causes gastroenteritis with agony and vomiting.
 
 ### Appendix
 
@@ -119,12 +119,12 @@ Transplanted organs check blood type and species compatibility against the recip
 
 **Rejection progression:**
 
-| Ticks elapsed | Germ gain per 10 ticks | Additional effects |
+| Rejection stage | Germ gain rate | Additional effects |
 |---|---|---|
-| 1 to 50 | +1 germ | None |
-| 51 to 200 | +1 to 2 germs | None |
-| 201 to 500 | +2 to 3 germs | None |
-| 501+ | +3 to 5 germs | 1 to 2 toxin damage per 10 ticks |
+| Initial | +1 germ per interval | None |
+| Early | +1 to 2 germs per interval | None |
+| Progressing | +2 to 3 germs per interval | None |
+| Critical | +3 to 5 germs per interval | 1 to 2 toxin damage per interval |
 
 Rejection proceeds identically to infection and ultimately kills the organ if untreated. Compatible transplants from blood- and species-matched donors do not trigger rejection. See [External Organs](ExternalOrgans.md) for surgical procedure details.
 
@@ -134,7 +134,7 @@ Rejection proceeds identically to infection and ultimately kills the organ if un
 
 ### Promethean (Slime Core)
 
-The slime core replaces all standard organs. Located in the torso, it is an open reagent container with 50-unit capacity colored to match the individual's hue. It does not decay. A bruised slime core heals 1 damage per tick passively.
+The slime core replaces all standard organs. Located in the torso, it is an open reagent container with 50-unit capacity colored to match the individual's hue. It does not decay. A bruised slime core heals 1 damage per second passively.
 
 Reviving a dead Promethean requires injecting the slime core with 40 units of phoron, which triggers body regeneration from stored DNA.
 
@@ -144,13 +144,13 @@ The Vox cardiovascular and filtration system uses entirely non-standard anatomy.
 
 ### Unathi
 
-The Unathi filtration organ replaces both liver and kidneys in a single structure. It takes damage from coffee and sugar exposure (bruised: 0.1 toxins per tick per substance, broken: 0.3 per tick). The stomach holds 40 units of acid instead of the standard 30. Unathi lack kidneys and an appendix entirely.
+The Unathi filtration organ replaces both liver and kidneys in a single structure. It takes damage from coffee and sugar exposure (bruised: 0.1 toxin units per second per substance, broken: 0.3 per second). The stomach holds 40 units of acid instead of the standard 30. Unathi lack kidneys and an appendix entirely.
 
 Unathi are shielded by ribplates in both the chest (upper ribplates) and groin (lower ribplates). These must be incised before internal surgery in those body regions. See [Triage and Patient Assessment](Triage.md) for surgical considerations.
 
 ### Horror-Infused Organs
 
-Cult-corrupted organs cannot decay, cannot be rejected, self-heal when bruised (1 damage per tick), and produce aberrant physiological effects. The corrupted voicebox forces walking pace when used and cannot produce standard language output. Other corrupted organs generate unusual metabolites, spawn organisms, or produce light sensitivity. These organs should be removed surgically and incinerated.
+Cult-corrupted organs cannot decay, cannot be rejected, self-heal when bruised (1 damage per second), and produce aberrant physiological effects. The corrupted voicebox forces walking pace when used and cannot produce standard language output. Other corrupted organs generate unusual metabolites, spawn organisms, or produce light sensitivity. These organs should be removed surgically and incinerated.
 
 ---
 

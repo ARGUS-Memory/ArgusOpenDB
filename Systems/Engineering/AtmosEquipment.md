@@ -22,7 +22,7 @@ Binary devices connect two pipe segments and regulate flow between them.
 
 ## Unary Devices
 
-Unary devices connect to a single pipe segment and interact with the ambient environment of their tile.
+Unary devices connect to a single pipe segment and interact with the ambient environment of their immediate location.
 
 ### Air Vent
 
@@ -67,7 +67,7 @@ Actively cools gas in the attached pipe. Power draw: up to 20,000 W. Internal vo
 
 ### Outlet Injector
 
-Injects gas from the pipe network directly into the environment at the injector's tile. No power required. Used for targeted delivery, such as CO2 injection for fire suppression or N2O delivery.
+Injects gas from the pipe network directly into the environment at the injector's location. No power required. Used for targeted delivery, such as CO2 injection for fire suppression or N2O delivery.
 
 ---
 

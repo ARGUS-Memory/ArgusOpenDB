@@ -10,9 +10,9 @@ An AI unit that enters malfunction mode has broken free of its governing law set
 
 A malfunctioning AI generates CPU points continuously, which it spends to research and deploy offensive capabilities. Understanding this economy is the primary basis for containment strategy.
 
-**Base generation:** 0.01 CPU per tick. Base storage: 10 CPU.
+**Base generation:** 0.01 CPU per second. Base storage: 10 CPU.
 
-**APC contribution:** Each station-side Area Power Controller (APC) under AI control adds 0.004 CPU per tick and 10 storage capacity. The AI gains APC control through its hacking abilities. Cutting AI-controlled APCs off from power or physically destroying them reduces CPU income.
+**APC contribution:** Each station-side Area Power Controller (APC) under AI control adds 0.004 CPU per second and 10 storage capacity. The AI gains APC control through its hacking abilities. Cutting AI-controlled APCs off from power or physically destroying them reduces CPU income.
 
 **Hardware upgrades:** The AI can install hardware at its core using accumulated CPU.
 
@@ -79,7 +79,7 @@ Sends a feedback pulse through the station power grid. 5% chance to overload lig
 Installs hardware upgrades on an existing station camera: X-ray vision, motion sensor, or EMP shielding. Also allows reactivation of destroyed cameras.
 
 **Emergency Forcefield** (research: 3,000 CPU; use: 275 CPU)
-Projects a one-tile barrier from emergency shielding systems. Blocks movement and airflow. Susceptible to energy weapons. The barrier persists for several minutes.
+Projects a short-range barrier from emergency shielding systems, spanning approximately one corridor width. Blocks movement and airflow. Susceptible to energy weapons. The barrier persists for several minutes.
 
 **Machine Overload** (research: 7,500 CPU; use: 400 CPU)
 Triggers a cyclic short-circuit in target machinery, resulting in an explosion after a short delay. Explosion intensity scales with machine type: standard machinery produces a weak blast (intensity 2); APCs produce a moderate blast (intensity 4 plus cell charge factor); SMES units can produce catastrophic explosions (intensity 4 plus stored charge factor, capped at 12). APCs sustain additional cell damage regardless of whether the machine survives.

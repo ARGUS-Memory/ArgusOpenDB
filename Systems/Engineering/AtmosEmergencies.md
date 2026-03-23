@@ -40,7 +40,7 @@ Response procedures for the four categories of atmospheric emergency: fire, brea
 
 **Assessment:** Toxic gas events include phoron leaks from piping failures, N2O (laughing gas) releases, or methane accumulation. Atmospheric monitors and scrubber alarms are the primary detection systems.
 
-**Phoron leak:** Phoron is visible in quantities above approximately 0.7 moles per tile. It is not immediately toxic to breathe in small amounts but poses extreme fire risk. Scrubbers with phoron filtering enabled will clear it; if scrubbers are offline, evacuate the area and seal it until repairs are made. Do not introduce ignition sources into a phoron-contaminated environment.
+**Phoron leak:** Phoron becomes visibly present at concentrations above approximately 0.7 moles per compartment. It is not immediately toxic to breathe in small amounts but poses extreme fire risk. Scrubbers with phoron filtering enabled will clear it; if scrubbers are offline, evacuate the area and seal it until repairs are made. Do not introduce ignition sources into a phoron-contaminated environment.
 
 **N2O exposure:** Nitrous oxide at breathing concentrations causes sedation and incapacitation. Affected personnel appear confused and unable to stand. Move them to a clean-air environment; recovery is spontaneous once clean air is restored. N2O is otherwise non-toxic.
 
