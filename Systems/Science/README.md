@@ -7,6 +7,7 @@
 | [Research &amp; Development System](ResearchSystem.md) | R&amp;D console operation, technology unlocks, and research point allocation |
 | [Nanite Implant Framework](NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
+| [NanoTrasen Standard AI Law Set](AILaws.md) | The four NT Default laws, governing principles, conflict resolution, and law modification layers |
 
 ---
 
