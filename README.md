@@ -82,6 +82,9 @@ Biological, cultural, and historical records on known sapient species.
 | Document | Summary |
 |---|---|
 | [Vulpkanin](Species/Vulpkanin.md) | Biology, cultural overview, and physiological considerations for medical and command staff |
+| [Skrell](Species/Skrell.md) | Amphibious humanoids; caste system, biology, diet, and operational notes |
+| [Alraune](Species/Alraune.md) | Plant-derived omnivores; body variation, diet, CO2 requirements, and operational notes |
+| [Promethean](Species/Promethean.md) | Gelatinous artificials; shapeshifting, organ absence, regeneration, and damage profile |
 
 ---
 
