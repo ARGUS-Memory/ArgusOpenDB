@@ -4,7 +4,7 @@
 
 <div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
 
-<img src="../../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 The Vir system is the frontier star system where the NLS Southern Cross and NCS Northern Star operate, notable for its [phoron](PhoronAndBluespace.md) deposits, its absence of a stable warpgate, and the resulting dominance of [NanoTrasen](../Organizations/NanoTrasen.md) over local industry.
 

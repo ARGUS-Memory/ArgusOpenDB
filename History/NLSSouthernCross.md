@@ -4,7 +4,7 @@
 
 <div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
 
-<img src="../../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 The NLS Southern Cross is a [NanoTrasen](../Organizations/NanoTrasen.md) logistical station in orbit of Sif, [Vir](Vir.md) system, serving as a telecommunications relay, cargo platform, research installation, and primary crew hub for NanoTrasen operations in the system.
 

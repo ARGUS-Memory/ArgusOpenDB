@@ -4,7 +4,7 @@
 
 <div style="height:3px;background:linear-gradient(90deg,#3F5974 60%,transparent);margin-bottom:20px"></div>
 
-<img src="../../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../assets/raptor_idle_south.png" width="96" align="right">
 
 Phoron is the substance underlying faster-than-light travel, high-yield power generation, and advanced pharmaceutical synthesis; bluespace is the dimensional phenomenon phoron mediates and which FTL drives exploit.
 
