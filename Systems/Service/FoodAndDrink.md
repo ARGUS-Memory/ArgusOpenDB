@@ -4,7 +4,7 @@
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-Station food service covers cooking, bartending, and vending operations. This article documents the hunger and fullness system, all cooking appliances and their recipes, drink production, condiment synthesis, and vending machine contents.
+Station food service covers cooking, bartending, and vending operations. Coverage includes the nutrition system, all cooking appliances and their recipes, drink production, condiment synthesis, and vending machine stock.
 
 ---
 
@@ -29,26 +29,26 @@ Station food service covers cooking, bartending, and vending operations. This ar
 
 ## Hunger and Fullness
 
-Every crew member maintains a nutrition bar that depletes over time through activity. The bar has four visible states:
+Crew members require regular meals to maintain physical performance. Nutritional reserves deplete gradually through normal activity and decline more rapidly under stress. Four recognizable states describe a crew member's nutritional condition:
 
-| State | Effect |
+| State | Signs |
 |---|---|
-| Green (fed) | No penalties |
-| Yellow (hungry) | Mild discomfort; no mechanical penalty |
-| Dark red (starving) | Significant movement speed reduction; malnourished appearance |
-| Black (overfed) | Movement penalty; description notes the crew member appears chubby |
+| Adequately fed | Normal appearance and performance |
+| Hungry | Mild discomfort; no physical impairment |
+| Starving | Marked slowness of movement; visibly malnourished appearance |
+| Overfed | Sluggish movement; visibly overindulged |
 
-Nutrition is released slowly after eating. A meal that does not immediately register fullness will continue providing nutrition over the following minutes.
+Nutrition from a meal takes effect gradually rather than immediately. A large meal will continue providing benefit over the minutes following consumption.
 
-The primary nutrition reagent is **nutriment**, present in most cooked food. Secondary contributors include animal protein, corn oil, ketchup, sugar, and some alcoholic drinks. Eating past the full threshold does not provide additional benefit and will push the meter toward overfed.
+The primary nutritional compound in most cooked food is nutriment. Secondary contributors include animal protein, corn oil, ketchup, sugar, and some alcoholic beverages. Consuming beyond satiation provides no additional benefit and leads to the overfed state.
 
-Starvation accelerates under several conditions: vomiting, exposure to cold environments, cryo recovery, blood loss recovery, and Lipozine intake. Some diseases also increase hunger drain rate.
+Nutritional drain accelerates under several conditions: vomiting, exposure to cold environments, recovery from cryogenic suspension, blood loss recovery, and Lipozine intake. Some diseases also increase the rate of hunger.
 
 ---
 
 ## Intermediate Ingredients
 
-Most recipes require pre-prepared ingredients that are not available off the shelf and must be synthesized from reagents. These reactions occur automatically when the required reagents are combined in a container or on a surface.
+Most recipes require pre-prepared ingredients not available off the shelf. These compounds form naturally when the required reagents are combined in a container.
 
 | Ingredient | Required Reagents | Catalysts | Notes |
 |---|---|---|---|
@@ -495,7 +495,7 @@ A **grinder** (blender) in the kitchen processes produce and food items into liq
 
 ## Condiments
 
-Condiments are reagents applied directly to finished food. They can increase nutrition value, add flavor effects, or introduce additional chemical properties to food. A piece of food holds a maximum of 50 units of reagents total.
+Condiments are reagents applied directly to finished food. They can increase nutritional value, add flavor effects, or introduce additional chemical properties.
 
 Condiments are produced in two ways. The **grinder** (blender) processes fresh produce into liquid form -- juicing tomatoes produces tomato juice, grinding plump helmets produces nutriment and protein. The resulting liquid is then transferred to the **CondiMaster** in the kitchen storage room, which bottles it into a condiment container. The blender also has a separate juicing mode for extracting juice from fruit.
 
@@ -573,7 +573,7 @@ Some spirits can be synthesized from produce rather than ordered:
 
 ### Hot Drinks
 
-Hot drinks require water heated above 100°C combined with the appropriate reagent. A coffee machine or heated beaker produces the reaction.
+Hot drinks require boiling water combined with the appropriate base. The kitchen coffee machine handles this automatically; alternatively, water can be heated in a beaker before mixing.
 
 | Drink | Recipe |
 |---|---|
@@ -649,7 +649,7 @@ Hot drinks require water heated above 100°C combined with the appropriate reage
 
 ### Mixed Drinks -- Alcoholic
 
-Alcohol strength values determine intoxication rate. Lower numbers produce faster intoxication. Skrell are subject to a universal strength penalty and reach intoxication states faster than other species regardless of the listed value.
+Potency ratings indicate relative intoxicating effect; lower values represent faster-acting beverages. Skrell physiology amplifies alcohol sensitivity regardless of a drink's rated potency.
 
 <details>
 <summary>Light Drinks (Strength 5--12)</summary>
