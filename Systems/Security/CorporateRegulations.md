@@ -4,7 +4,7 @@
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-The binding legal code governing conduct aboard NanoTrasen installations. Defines offenses, sentencing guidelines, and tribunal procedure. Applies to all employees and visitors on station grounds.
+The binding legal code governing conduct aboard NanoTrasen installations. Defines offenses, sentencing guidelines, and tribunal procedure. Applies to all employees and visitors on station grounds. Full per-offense descriptions, enforcement notes, and sentence modifier details are in the companion [Law Reference](LawReference.md).
 
 ---
 
