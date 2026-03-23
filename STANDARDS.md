@@ -18,6 +18,9 @@ Standards and practices for new entries in this database. All entries are expect
 | [Prose style](#prose-style) | Present tense, third person, factual, no editorializing |
 | [Cross-references](#cross-references) | Related sections and other articles linked by anchor or path |
 | [README registration](#readme-registration) | Every new file added to the index in `README.md` |
+| [GitHub rendering](#github-rendering) | `style=` is stripped; use supported alternatives only |
+| [Collapsible sections](#collapsible-sections) | `<details>/<summary>` for long optional content |
+| [Alert boxes](#alert-boxes) | GitHub Alerts for warnings, cautions, and important notices |
 
 ---
 
@@ -190,4 +193,115 @@ The index entry is a single line: `- [Article Title](Path/To/File.md)`
 The README top-level sections are: **Systems**, **Personnel Guides**, **Species**, **Organizations**, **Meta**. Systems is subdivided by department: **Command**, **Engineering**, **Science**, **Medical**, **Cargo**, **Mining**, **Security**. Add new entries under the appropriate department subsection. If a new department is needed, add the `####` heading under Systems.
 
 New files are committed in the same commit as the README update, or the README is updated in an immediate follow-up commit. The index is never allowed to fall out of sync with the actual files.
+
+---
+
+## GitHub Rendering
+
+GitHub's HTML sanitizer removes all `style=` attributes from every element without exception. Inline CSS has no effect anywhere in this repository. The following are silently stripped and produce no visual output:
+
+- `style="background-color:..."` on `<div>`, `<summary>`, `<hr>`, or any other tag
+- `style="color:..."` and `style="border:..."` on any element
+- `<style>` blocks in their entirety
+- `class=` and `id=` attributes on all elements
+
+**Practical consequence:** Do not write `style=` attributes. They waste space and produce nothing. Use the supported alternatives listed below.
+
+### What does work
+
+| Goal | Method |
+|---|---|
+| Horizontal rule / section divider | `---` (plain markdown) |
+| Right-aligned image | `align="right"` on `<img>` |
+| Image sizing | `width="96"` on `<img>` |
+| Centered block | `align="center"` on `<div>` or `<p>` |
+| Collapsible section | `<details><summary>` |
+| Colored callout box | GitHub Alert (`> [!WARNING]` etc.) |
+| Code with syntax color | Fenced code block with language identifier |
+
+---
+
+## Collapsible Sections
+
+Use `<details>/<summary>` to wrap content that is long, optional, or only relevant to specific readers. Long reference tables, verbose configuration notes, and procedural detail that interrupts prose flow are all good candidates.
+
+### Syntax
+
+```html
+<details>
+<summary>Section title</summary>
+
+Content goes here. Markdown renders normally: tables, lists, bold, links.
+
+| Column A | Column B |
+|---|---|
+| data | data |
+
+</details>
+```
+
+### Rules
+
+**Blank line after `</summary>` is required.** Without it, markdown inside the block is not parsed and renders as literal text.
+
+**Blank line before `</details>` is required.** Content immediately before the closing tag may not render correctly otherwise.
+
+**No markdown inside `<summary>`.** The label must be plain text or simple HTML. `**bold**` does not parse inside `<summary>`; use `<b>bold</b>` if emphasis is needed.
+
+**`style=` on `<summary>` is stripped.** The collapsible renders with GitHub's default triangle indicator and default text regardless of any style attributes. Do not add them.
+
+Collapsibles can be nested; all blank-line rules apply at every level.
+
+### Example
+
+```html
+<details>
+<summary>Full offense table: Low severity (§101-§118)</summary>
+
+| Code | Offense | Standard sentence |
+|---|---|---|
+| §101 | Trespass | 3 minutes |
+| §102 | Petty theft | 5 minutes |
+
+</details>
+```
+
+---
+
+## Alert Boxes
+
+GitHub Alerts are the only supported mechanism for visually distinct colored callout boxes in this repository. They render with a colored left border, a themed icon, and a bold title in GitHub's own CSS. Use them for safety notices, important operational caveats, and critical warnings that should not be missed while scanning a section.
+
+### Syntax
+
+```markdown
+> [!NOTE]
+> Supplementary information. Blue border, info icon.
+
+> [!TIP]
+> Optional helpful advice. Green border, lightbulb icon.
+
+> [!IMPORTANT]
+> Key information the reader needs. Purple border.
+
+> [!WARNING]
+> Potential hazard or risk. Amber border, triangle icon.
+
+> [!CAUTION]
+> Danger, serious risk, or destructive action. Red border, X icon.
+```
+
+Every line of the alert body must begin with `>`. The `[!TYPE]` keyword must be the first line of the blockquote. Inline markdown (bold, italic, links, inline code) works inside alerts. Multi-line content is supported.
+
+### Usage guidelines
+
+| Alert type | Use case in this database |
+|---|---|
+| `[!NOTE]` | Clarifications, edge cases, supplementary context |
+| `[!TIP]` | Optional procedures or efficiency notes |
+| `[!IMPORTANT]` | Information that changes how a procedure works |
+| `[!WARNING]` | Operational risk; incorrect action causes problems |
+| `[!CAUTION]` | Immediate danger to crew, equipment, or the station |
+
+Alerts cannot be reliably nested inside `<details>` blocks. Place alerts outside collapsibles.
 
