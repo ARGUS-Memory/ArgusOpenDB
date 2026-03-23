@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Sergal
+[ARGUS Station Database](../README.md) > [Species](README.md) > Sergal
 
 # Sergal
 

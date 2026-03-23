@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Tajaran
+[ARGUS Station Database](../README.md) > [Species](README.md) > Tajaran
 
 # Tajaran
 

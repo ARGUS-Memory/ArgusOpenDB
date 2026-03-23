@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Contraband
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Security](README.md) > Contraband
 
 # Contraband
 

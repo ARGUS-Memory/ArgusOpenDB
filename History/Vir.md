@@ -1,10 +1,10 @@
-[ARGUS Station Database](../README.md) > History > Vir
+[ARGUS Station Database](../README.md) > [History](README.md) > Vir
 
 # Vir
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-The Vir system is the frontier star system where the NLS Southern Cross and NCS Northern Star operate, notable for its phoron deposits, its absence of a stable warpgate, and the resulting dominance of NanoTrasen over local industry.
+The Vir system is the frontier star system where the NLS Southern Cross and NCS Northern Star operate, notable for its [phoron](PhoronAndBluespace.md) deposits, its absence of a stable warpgate, and the resulting dominance of [NanoTrasen](../Organizations/NanoTrasen.md) over local industry.
 
 ---
 

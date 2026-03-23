@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Security Operations
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Security](README.md) > Security Operations
 
 # Security Operations
 
@@ -37,7 +37,7 @@ The Warden does not replace the Head of Security in the HoS's absence. If no Hea
 
 The Colony Director does not have authority to issue orders directly to Security in the presence of an active Head of Security; orders flow through the HoS by default.
 
-Security has no authority over civilian crew beyond Corporate Regulations. Standard Operating Procedure cannot be enforced on crew by Security; that responsibility belongs to heads of staff and Internal Affairs.
+Security has no authority over civilian crew beyond [Corporate Regulations](CorporateRegulations.md). [Standard Operating Procedure](../Command/StandardOperatingProcedure.md) cannot be enforced on crew by Security; that responsibility belongs to heads of staff and Internal Affairs.
 
 ---
 
@@ -73,7 +73,7 @@ When arresting a suspect for any level 1 offense, an opportunity to pay a fine i
 
 For offenses above level 1, backup is requested for anything beyond a minor crime before engagement. One officer is sufficient for minor situations.
 
-Upon contact with the suspect, surrender is requested. If the suspect complies, they are escorted to the Brig; handcuffs are not required for minor offenses. If the suspect refuses handcuffing but is otherwise cooperative, they are escorted by no fewer than two armed officers. If the suspect flees or resists physically, force sufficient to neutralize and detain is applied; a resisting arrest charge under Corporate Regulations §202 is added.
+Upon contact with the suspect, surrender is requested. If the suspect complies, they are escorted to the Brig; handcuffs are not required for minor offenses. If the suspect refuses handcuffing but is otherwise cooperative, they are escorted by no fewer than two armed officers. If the suspect flees or resists physically, force sufficient to neutralize and detain is applied; a resisting arrest charge under [Corporate Regulations](CorporateRegulations.md) §202 is added.
 
 Verbal disagreement or profanity does not constitute resisting arrest. Actual threats are covered under separate regulations.
 
@@ -89,7 +89,7 @@ Steps upon bringing a suspect to the Brig:
 
 1. State the reason for arrest.
 2. Bring the suspect to Security Processing. If a fine may replace jail time, offer payment now. If paid, proceed to release.
-3. Read out each applicable charge from Corporate Regulations and update the security record accordingly.
+3. Read out each applicable charge from [Corporate Regulations](CorporateRegulations.md) and update the security record accordingly.
 4. Inform the suspect of their right to appeal through an Internal Affairs Agent. Provide the standard notification: *"According to NanoTrasen Criminal Processing Policy, you are entitled to appeal your case to an Internal Affairs Agent at this time, if such is available. Should you accept this offer, be advised your criminal processing may be delayed until your agent is satisfied with the case. If they rule in favor, they will contact the Head of Security on your behalf."*
 5. Search the suspect for contraband: empty pockets, remove webbing and accessories, check PDA for stolen or illegal cartridges, check headset for unauthorized encryption keys, check footwear. Anything that could compromise cell security (kitchen knives, engineer tools) is confiscated temporarily and returned after sentencing.
 6. Calculate the total sentence. Do not charge more than the minimum unless it is not the suspect's first offense this shift. Multiple instances of the same offense may justify the maximum sentence for that charge but cannot be stacked as separate counts.
@@ -219,7 +219,7 @@ If two Detectives are present, investigative equipment is shared between them.
 <details>
 <summary>Head of Personnel</summary>
 
-The Head of Personnel is not a Security officer. Standard equipment is limited to the energy pistol, baton, and flash supplied for personal defense. Carrying any additional weapons constitutes a violation of Corporate Regulations §212. As Acting Colony Director, the Head of Personnel may carry a wider variety of firearms, though this is discouraged.
+The Head of Personnel is not a Security officer. Standard equipment is limited to the energy pistol, baton, and flash supplied for personal defense. Carrying any additional weapons constitutes a violation of [Corporate Regulations](CorporateRegulations.md) §212. As Acting Colony Director, the Head of Personnel may carry a wider variety of firearms, though this is discouraged.
 
 </details>
 

@@ -1,10 +1,10 @@
-[ARGUS Station Database](../../README.md) > Systems > Command > Standard Operating Procedure
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Command](README.md) > Standard Operating Procedure
 
 # Standard Operating Procedure
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-Station-wide operating policy governing crew rights, departmental conduct, alert procedures, and crisis response. Applies to all personnel aboard NanoTrasen installations. Violations of SOP are not criminal offenses but may result in administrative action; accidents or fatalities caused by SOP violations may fall under Corporate Regulations §206 (Negligence).
+Station-wide operating policy governing crew rights, departmental conduct, alert procedures, and crisis response. Applies to all personnel aboard NanoTrasen installations. Violations of SOP are not criminal offenses but may result in administrative action; accidents or fatalities caused by SOP violations may fall under [Corporate Regulations](../Security/CorporateRegulations.md) §206 (Negligence).
 
 ---
 
@@ -37,7 +37,7 @@ Employees may join trade unions.
 
 Employees are entitled to rest periods, limited working hours, and paid holidays as defined in the employee handbook. Employees are not required to work continuously during non-emergency periods.
 
-Violation of employee labor rights is subject to Corporate Regulations §123.
+Violation of employee labor rights is subject to [Corporate Regulations](../Security/CorporateRegulations.md) §123.
 
 ### Privacy Policy
 
@@ -45,7 +45,7 @@ Under normal station operation, entry into private areas including locked dormit
 
 This policy may be suspended during elevated alert levels as required for station security. Abuse of the heightened alert provision, including failure to lower alert levels after an incident resolves, is grounds for complaint to the NanoTrasen Representative.
 
-Violation of employee privacy is subject to Corporate Regulations §221. Evidence obtained through illegal privacy violation may be voided by order of a Sol Central court, and the affected crew member may be eligible for wrongful arrest compensation.
+Violation of employee privacy is subject to [Corporate Regulations](../Security/CorporateRegulations.md) §221. Evidence obtained through illegal privacy violation may be voided by order of a Sol Central court, and the affected crew member may be eligible for wrongful arrest compensation.
 
 ### Disability Policy
 
@@ -59,7 +59,7 @@ Prosthetic limbs that meet the functional requirements of the position are consi
 
 The Colony Director retains final authority to permit or deny persons not sent directly from NanoTrasen, subject to the restrictions of this policy.
 
-Outsiders present on station grounds without invitation are present illegally and must be expelled by Security. Outsiders invited by crew are expected to comply with NanoTrasen Standard Operating Procedure and Corporate Regulations. Acceptance of an invitation constitutes consent to NanoTrasen jurisdiction for the duration of the visit and waives the right to litigation against NanoTrasen for events occurring during the visit.
+Outsiders present on station grounds without invitation are present illegally and must be expelled by Security. Outsiders invited by crew are expected to comply with NanoTrasen Standard Operating Procedure and [Corporate Regulations](../Security/CorporateRegulations.md). Acceptance of an invitation constitutes consent to NanoTrasen jurisdiction for the duration of the visit and waives the right to litigation against NanoTrasen for events occurring during the visit.
 
 Outsiders may declare ownership of contraband items upon entry and surrender those items to Security for holding during their visit. Items stored outside station grounds are outside NanoTrasen jurisdiction and may not be seized. Late declaration of contraband is treated as evidence of smuggling; repeated late declarations forfeit all contraband as NanoTrasen property and are grounds for expulsion. Outsiders found guilty of high severity infractions are HuT and transferred to SolGov custody at shift end. Lower severity violations are met with expulsion; three or more subsequent trespasses after expulsion may result in HuT.
 
@@ -84,7 +84,7 @@ Dress codes are classified as Enforced, Recommended, or Suggested.
 - Cargo and Mining staff are suggested to wear durable cloth uniforms.
 - Colony Director and Head of Personnel are suggested to wear issued uniforms or at minimum their department hats while on duty.
 
-Other staff and visitors are not bound by specific dress requirements and may dress within reason provided their attire does not violate Corporate Regulations.
+Other staff and visitors are not bound by specific dress requirements and may dress within reason provided their attire does not violate [Corporate Regulations](../Security/CorporateRegulations.md).
 
 ---
 
@@ -310,7 +310,7 @@ Supermatter meltdown in progress: Engineering is evacuated and the CMO is inform
 <details>
 <summary>Science</summary>
 
-All items handled within the Research Department, including normally illegal weapons, are legal within the confines of the department. Items exit the department as contraband and are subject to Corporate Regulations §212. This includes combat mechs regardless of weapon loadout.
+All items handled within the Research Department, including normally illegal weapons, are legal within the confines of the department. Items exit the department as contraband and are subject to [Corporate Regulations](../Security/CorporateRegulations.md) §212. This includes combat mechs regardless of weapon loadout.
 
 The outdoor surface area is within the department's weapon allowance zone. If weapons handled within the department are used in a crime inside the department, the weapons policy is null and the items are treated as contraband on arrest.
 

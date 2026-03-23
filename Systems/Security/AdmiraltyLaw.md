@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Admiralty Law
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Security](README.md) > Admiralty Law
 
 # Admiralty Law
 
@@ -20,15 +20,15 @@ Galaxy-wide legal framework governing conduct in interstellar space regardless o
 
 ## Origin and Scope
 
-Admiralty law derives from maritime law, originally governing navigation, shipping, commerce, and piracy on Earth's domestic and international waters. Following the unification of Earth, it was modified to govern interstellar space under the United Nations Convention on the Law of Space. The framework was subsequently extended to incorporate the skrell following first contact, and to most unathi governments after the conclusion of the Hegemony War.
+Admiralty law derives from maritime law, originally governing navigation, shipping, commerce, and piracy on Earth's domestic and international waters. Following the unification of Earth, it was modified to govern interstellar space under the United Nations Convention on the Law of Space. The framework was subsequently extended to incorporate the [skrell](../../Species/Skrell.md) following first contact, and to most [unathi](../../Species/Unathi.md) governments after the conclusion of the Hegemony War.
 
-Admiralty law applies across all sectors of interstellar space, known and uncharted, superseding local corporate or national regulations for covered offenses. NanoTrasen's internal Corporate Regulations exist in part because NanoTrasen does not wish USDF involvement in its own affairs; most conduct on NanoTrasen installations is addressed through Corporate Regulations before admiralty charges become relevant.
+Admiralty law applies across all sectors of interstellar space, known and uncharted, superseding local corporate or national regulations for covered offenses. [NanoTrasen](../../Organizations/NanoTrasen.md)'s internal [Corporate Regulations](CorporateRegulations.md) exist in part because NanoTrasen does not wish USDF involvement in its own affairs; most conduct on NanoTrasen installations is addressed through Corporate Regulations before admiralty charges become relevant.
 
 ---
 
 ## Space Law Treaty
 
-The Joint Security Convention on the Law of Space (colloquially, the Space Law Treaty or SLT) was established by the United Systems of Sol Central. Current compliant signatories include the United Federation, most skrell space, and the unathi Hegemony. Non-compliant entities include NanoTrasen, the Ares Confederation, and neutral parties such as the Auream Imperium.
+The Joint Security Convention on the Law of Space (colloquially, the Space Law Treaty or SLT) was established by the United Systems of Sol Central. Current compliant signatories include the United Federation, most [skrell](../../Species/Skrell.md) space, and the [unathi](../../Species/Unathi.md) Hegemony. Non-compliant entities include NanoTrasen, the Ares Confederation, and neutral parties such as the Auream Imperium.
 
 The treaty prohibits a specific set of acts intended to preserve the wellbeing of all sentient life forms in all sectors of interstellar space. Accusations under the treaty require trial by a voting Galactic Senate member state or by a nation that has joined the SLT.
 

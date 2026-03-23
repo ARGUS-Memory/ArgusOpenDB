@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Synthetics
+[ARGUS Station Database](../README.md) > [Species](README.md) > Synthetics
 
 # Synthetics
 

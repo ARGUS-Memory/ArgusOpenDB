@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Akula
+[ARGUS Station Database](../README.md) > [Species](README.md) > Akula
 
 # Akula
 

@@ -147,7 +147,7 @@ Single-step reactions achievable without intermediate compounds.
 
 Inaprovaline is a front-line stabilization agent. Its primary function is to slow the physiological deterioration of critically injured patients, buying time for proper treatment. It also suppresses pain signaling and clears the biochemical cascade triggered by allergic reactions. A patient on Inaprovaline will not deteriorate faster, even if untreated. Inaprovaline does not heal damage; it only holds the line.
 
-Diona patients do not respond. All other species process it normally.
+[Diona](../../Species/Diona.md) patients do not respond. All other species process it normally.
 
 | Output | String |
 |--------|--------|
@@ -170,7 +170,7 @@ Diona patients do not respond. All other species process it normally.
 
 Dylovene is the station's primary counter to Toxic damage. It clears accumulated toxins from the bloodstream, reduces drowsiness and hallucination effects caused by poisoning, and has a small chance per dose of fully purging an active poison modifier. Effective against most environmental and biological toxins.
 
-Diona patients do not respond. Promethean patients at doses above 15u will experience mild disorientation; dose carefully in conscious subjects.
+Diona patients do not respond. [Promethean](../../Species/Promethean.md) patients at doses above 15u will experience mild disorientation; dose carefully in conscious subjects.
 
 | Output | String |
 |--------|--------|
@@ -243,7 +243,7 @@ Hyperzine is a powerful long-acting muscle stimulant that increases movement spe
 
 **Overdose hazard:** Overdose causes intermittent cardiac stress, with a non-zero chance of direct heart organ damage per metabolization cycle. A 30u bottle is sufficient for most standard deployments.
 
-Tajara metabolize Hyperzine at 1.25× potency; reduce dosing accordingly. Promethean patients experience skeletal instability rather than clean speed enhancement, and at dose ≥5u nutrition is burned at an accelerated rate. Diona patients do not respond.
+[Tajaran](../../Species/Tajaran.md) metabolize Hyperzine at 1.25× potency; reduce dosing accordingly. Promethean patients experience skeletal instability rather than clean speed enhancement, and at dose ≥5u nutrition is burned at an accelerated rate. Diona patients do not respond.
 
 | Output | String |
 |--------|--------|

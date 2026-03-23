@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Shadekin
+[ARGUS Station Database](../README.md) > [Species](README.md) > Shadekin
 
 # Shadekin
 

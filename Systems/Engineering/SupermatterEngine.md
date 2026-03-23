@@ -4,7 +4,7 @@
 
 <img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-The station's primary power source: a supermatter crystal energized by an emitter and kept stable by a circulating phoron coolant loop.
+The station's primary power source: a supermatter crystal energized by an emitter and kept stable by a circulating [phoron](../../History/PhoronAndBluespace.md) coolant loop.
 
 ---
 

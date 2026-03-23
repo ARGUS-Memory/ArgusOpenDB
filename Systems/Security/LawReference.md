@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Law Reference
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Security](README.md) > Law Reference
 
 # Law Reference
 

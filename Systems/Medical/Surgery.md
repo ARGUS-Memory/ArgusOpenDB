@@ -270,7 +270,7 @@ Apply a plasma cutter to the torso. A welder may substitute; weld fuel is requir
 
 <img src="../../assets/nif_item.png" width="48" align="right">
 
-Standard NIF implantation seats the device in the cranial cavity. General anaesthesia is recommended. Compatible with all organic species carrying viable genetic material; Promethean patients require the separate procedure below.
+Standard NIF implantation seats the device in the cranial cavity. General anaesthesia is recommended. Compatible with all organic species carrying viable genetic material; [Promethean](../../Species/Promethean.md) patients require the separate procedure below.
 
 **Required tools:** Scalpel, hemostat, retractor, surgical drill, cautery.
 
@@ -290,7 +290,7 @@ The NIF is now active. Confirm integration with the patient before discharge.
 
 <img src="../../assets/nif_item_full.png" width="48" align="right">
 
-Promethean physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
+[Promethean](../../Species/Promethean.md) physiology is incompatible with standard NIF hardware. Only bioadaptive variants can interface with Promethean biology. No surgical tools or operating table are required.
 
 **Compatible hardware:** Bioadaptive NIF, Bioadaptive Authentic NIF. Any other NIF type will be silently rejected without initiating an integration channel.
 

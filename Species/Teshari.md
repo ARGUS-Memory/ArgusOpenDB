@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Teshari
+[ARGUS Station Database](../README.md) > [Species](README.md) > Teshari
 
 # Teshari
 

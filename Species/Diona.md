@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Diona
+[ARGUS Station Database](../README.md) > [Species](README.md) > Diona
 
 # Diona
 

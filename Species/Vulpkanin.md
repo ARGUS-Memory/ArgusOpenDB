@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Vulpkanin
+[ARGUS Station Database](../README.md) > [Species](README.md) > Vulpkanin
 
 # Vulpkanin
 

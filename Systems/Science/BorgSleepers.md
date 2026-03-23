@@ -19,7 +19,7 @@ Ingestion is initiated by the borg directly: the intake mechanism extends to acc
 
 The standard medical belly. Stabilizes patients and injects reagents from the borg's reserve supply. Injects up to 10 units per dose across a broad spectrum of trauma chemicals. Passive oxygen loss correction runs while a patient is present.
 
-**Injection chems:** Inaprovaline, Bicaridine, Kelotane, Anti-toxin, Dexalin, Tricordrazine, Spaceacillin, Tramadol
+**Injection chems:** Inaprovaline, Bicaridine, Kelotane, Anti-toxin, Dexalin, Tricordrazine, Spaceacillin, Tramadol (see [Chemistry](../Medical/Chemistry.md) for compound properties)
 **Max occupants:** 1 (human)
 **Stabilizer:** Yes
 **Med sensor:** Yes

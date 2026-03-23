@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Rapala
+[ARGUS Station Database](../README.md) > [Species](README.md) > Rapala
 
 # Rapala
 

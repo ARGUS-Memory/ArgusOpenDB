@@ -329,9 +329,9 @@ Not all species possess standard organic DNA. Species whose biological compositi
 | Species | Scan | Sleeve | Notes |
 |---|:---:|:---:|---|
 | Human | Yes | Yes | |
-| Unathi | Yes | Yes | |
-| Tajaran | Yes | Yes | |
-| Skrell | Yes | Yes | |
+| [Unathi](../../Species/Unathi.md) | Yes | Yes | |
+| [Tajaran](../../Species/Tajaran.md) | Yes | Yes | |
+| [Skrell](../../Species/Skrell.md) | Yes | Yes | |
 | Zaddat | Yes | Yes | |
 | Sergal | Yes | Yes | |
 | Akula | Yes | Yes | |
@@ -341,14 +341,14 @@ Not all species possess standard organic DNA. Species whose biological compositi
 | Harpy | Yes | Yes | |
 | Lleill | Yes | No | Carries readable genetic material; biology does not support body growing |
 | Skeleton | No | No | Biological composition incompatible with scanning equipment |
-| Vox | No | No | Biological composition incompatible with scanning equipment |
+| [Vox](../../Species/Vox.md) | No | No | Biological composition incompatible with scanning equipment |
 | Golem | No | No | Synthetic/mineral composition; incompatible |
-| Promethean | No | No | Fluid biological composition; incompatible |
+| [Promethean](../../Species/Promethean.md) | No | No | Fluid biological composition; incompatible |
 | Protean | No | No | Fluid biological composition; incompatible |
 | Alraune | No | No | Plant-based biology; incompatible |
-| Shadekin | No | No | Biological composition incompatible; applies to both base and crew variants |
-| Diona | No | No | Plant-based biology; incompatible |
-| Xenochimera | No | No | Biological composition incompatible with scanning equipment |
+| [Shadekin](../../Species/Shadekin.md) | No | No | Biological composition incompatible; applies to both base and crew variants |
+| [Diona](../../Species/Diona.md) | No | No | Plant-based biology; incompatible |
+| [Xenochimera](../../Species/Xenochimera.md) | No | No | Biological composition incompatible with scanning equipment |
 | Shadow | No | No | Non-corporeal composition; incompatible |
 | Xenomorph | No | No | Biological composition incompatible with scanning equipment |
 | Synthetic | No | No | Synthetic biology is incompatible with organic DNA scanning equipment |

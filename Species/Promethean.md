@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Promethean
+[ARGUS Station Database](../README.md) > [Species](README.md) > Promethean
 
 # Promethean
 

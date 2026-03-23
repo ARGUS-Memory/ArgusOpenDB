@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Alraune
+[ARGUS Station Database](../README.md) > [Species](README.md) > Alraune
 
 # Alraune
 

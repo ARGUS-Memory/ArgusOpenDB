@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > History > Known Space
+[ARGUS Station Database](../README.md) > [History](README.md) > Known Space
 
 # Known Space
 

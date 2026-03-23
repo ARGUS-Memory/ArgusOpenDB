@@ -26,10 +26,10 @@ Operational reference for the station medical sleeper pod: interface controls, c
 
 | Compound | Use | OD Threshold | Species Notes |
 |---|---|---|---|
-| [Inaprovaline](#inaprovaline) | Stabilization; pain suppression | 60u | Diona: no effect |
-| [Paracetamol](#paracetamol) | Mild painkiller | 60u | Promethean: reduced effect |
+| [Inaprovaline](#inaprovaline) | Stabilization; pain suppression | 60u | [Diona](../../Species/Diona.md): no effect |
+| [Paracetamol](#paracetamol) | Mild painkiller | 60u | [Promethean](../../Species/Promethean.md): reduced effect |
 | [Anti-toxin (Dylovene)](#anti-toxin-dylovene) | Toxin clearance | 30u | Diona: no effect |
-| [Dexalin](#dexalin) | Oxygen deprivation treatment | 30u | Vox: causes Toxic damage instead; Diona: no effect |
+| [Dexalin](#dexalin) | Oxygen deprivation treatment | 30u | [Vox](../../Species/Vox.md): causes Toxic damage instead; Diona: no effect |
 
 #### Upgraded Supply (Requires Better Parts)
 
@@ -130,7 +130,7 @@ OD threshold: 30u. Diona patients do not respond.
 
 Primary treatment for Oxygen damage and respiratory failure.
 
-**Vox warning:** Dexalin causes Toxic damage in Vox patients rather than providing oxygen recovery. Do not administer to Vox. Obtain an alternative oxygen supplement.
+**[Vox](../../Species/Vox.md) warning:** Dexalin causes Toxic damage in Vox patients rather than providing oxygen recovery. Do not administer to Vox. Obtain an alternative oxygen supplement.
 
 Diona patients do not respond. Promethean patients at dose ≥15u experience a brief painkiller effect and a chance of minor brain damage recovery, but are also Weakened for a short period.
 
@@ -168,7 +168,7 @@ Prevents transplanted organ rejection. At dose ≥15u, progressively resets the 
 
 **Spaceacillin / Corophizine interaction:** If either antibiotic is present simultaneously, Immunosuprizine's suppression may be partially reversed, causing additional organ damage and Toxic damage. Do not co-administer.
 
-Diona patients experience four times the effect and do not take the associated Toxic damage. Promethean: enhanced effect (1.3x). Unathi: reduced effect (0.6x). Tajara: further reduced effect (0.5x).
+Diona patients experience four times the effect and do not take the associated Toxic damage. Promethean: enhanced effect (1.3x). [Unathi](../../Species/Unathi.md): reduced effect (0.6x). [Tajaran](../../Species/Tajaran.md): further reduced effect (0.5x).
 
 OD threshold: 20u (lower than standard).
 

@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Xenochimera
+[ARGUS Station Database](../README.md) > [Species](README.md) > Xenochimera
 
 # Xenochimera
 

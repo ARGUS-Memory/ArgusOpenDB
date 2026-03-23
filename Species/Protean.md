@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Protean
+[ARGUS Station Database](../README.md) > [Species](README.md) > Protean
 
 # Protean
 

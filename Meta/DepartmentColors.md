@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Meta > Department Colors
+[ARGUS Station Database](../README.md) > [Meta](README.md) > Department Colors
 
 # Department Colors
 

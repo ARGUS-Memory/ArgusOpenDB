@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Vox
+[ARGUS Station Database](../README.md) > [Species](README.md) > Vox
 
 # Vox
 

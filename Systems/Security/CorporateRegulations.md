@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Corporate Regulations
+[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Security](README.md) > Corporate Regulations
 
 # Corporate Regulations
 
@@ -22,7 +22,7 @@ The binding legal code governing conduct aboard NanoTrasen installations. Define
 
 ## Interpretation
 
-Corporate Regulations governs conduct aboard all registered NanoTrasen ships and stations. Regulations carry sentencing weight only against employees and registered visitors; unauthorized personnel are handled under the Unauthorized Personnel Policy in Standard Operating Procedure.
+Corporate Regulations governs conduct aboard all registered NanoTrasen ships and stations. Regulations carry sentencing weight only against employees and registered visitors; unauthorized personnel are handled under the Unauthorized Personnel Policy in [Standard Operating Procedure](../Command/StandardOperatingProcedure.md).
 
 For violent crimes (assault, manslaughter, attempted murder, murder) and theft (petty, pickpocketing, high value), only the most severe applicable charge applies. A single incident generates a single sentence. Multiple stolen items from one encounter constitute a single count of pickpocketing, not multiple separate charges. Where total accumulated sentence from a single holding exceeds 90 minutes, the prisoner is held pending tribunal judgment rather than served a fixed sentence.
 
@@ -194,4 +194,4 @@ Unauthorized personnel (outsiders, non-crew) present on station grounds without 
 
 Outsiders found guilty of medium or low level infractions are expelled from station grounds. Outsiders found guilty of high severity infractions are HuT and transferred to SolGov custody at shift end. Vessels docked at station and land beyond outpost perimeter are outside NanoTrasen jurisdiction and are not subject to this policy.
 
-See also Standard Operating Procedure: NanoTrasen Unauthorized Personnel Policy.
+See also [Standard Operating Procedure](../Command/StandardOperatingProcedure.md): NanoTrasen Unauthorized Personnel Policy.

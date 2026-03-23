@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Skrell
+[ARGUS Station Database](../README.md) > [Species](README.md) > Skrell
 
 # Skrell
 

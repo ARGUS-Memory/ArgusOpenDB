@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > Species > Altevian
+[ARGUS Station Database](../README.md) > [Species](README.md) > Altevian
 
 # Altevian
 
