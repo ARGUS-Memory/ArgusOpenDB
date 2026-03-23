@@ -56,83 +56,83 @@ Multiple sapient species are present across known space. The following represent
 
 **Origin:** Earth, Sol system.
 
-Humanity is the primary driver of rapid space expansion and represents one of the largest populations among known sapient species. Trans-stellar corporations are predominantly human-owned. The United Sol Defense Forces provide military presence in human-majority systems. Human individuals vary widely in disposition; no generalization holds reliably across the species.
+Omnivorous bipeds and the primary driver of rapid interstellar expansion; one of the most numerous sapient species in known space. See [Humans](../Species/Humans.md) for a full species profile.
 
 ### Skrell
 
 **Origin:** Qerr'balak, Qerr'Vallis system.
 
-Amphibious humanoids and humanity's oldest alien ally; currently the most technologically advanced species in known space. Organized around a rigid caste system with a cultural emphasis on collective order and intellectual development. See [Skrell](../Species/Skrell.md) for a full species profile.
+Amphibious humanoids and humanity's oldest alien ally; the most technologically advanced species in known space. See [Skrell](../Species/Skrell.md) for a full species profile.
 
 ### Teshari
 
-**Origin:** Qerr'balak, Qerr'Vallis system.
+**Origin:** Sirisai, Qerr'Vallis system.
 
-Reptilian pack predators native to the skrell homeworld. Teshari evolved alongside the skrell but maintained separate territories in polar and tundra regions. The skrell provided technological uplift enabling teshari to become a space-faring species.
+Small cold-adapted pack predators uplifted by the skrell; organized around communal pack structures with an increasingly independent galactic presence. See [Teshari](../Species/Teshari.md) for a full species profile.
 
 ### Unathi
 
 **Origin:** Moghes, Uueoa-Esa system.
 
-Tall reptilian humanoids with crocodilian and serpentine features. Unathi society is deeply religious, organized around the belief system known as the Unity, which emphasizes honorable conduct and mastery of craft. Humanity's second contact species; the subsequent Sol-Hegemony Conflict shaped lasting interspecies tensions. Unathi in frontier systems experience fewer social restrictions than those in core SolGov space.
+Large cold-blooded reptilian bipeds organized around deeply religious clan structures; humanity's second contact species and the subject of an armed conflict that continues to shape interspecies relations. See [Unathi](../Species/Unathi.md) for a full species profile.
 
 ### Tajaran
 
 **Origin:** Meralar, Rarkajar system.
 
-Humanoid with feline features, dense insulating fur, and felinoid reflexes. Native environment is cold tundra and arctic zones. Tajaran society historically operated under a ruling class that was recently overthrown; ongoing cultural adaptation reflects this transition. The alliance with humanity is broadly accepted, though structural inequalities persist in less frontier-oriented regions.
+Furred digitigrade feline-analogue bipeds uplifted into FTL capability by humanity, with a complex multi-ethnic society and an ongoing structural relationship with human employers. See [Tajaran](../Species/Tajaran.md) for a full species profile.
 
 ### Promethean
 
 **Origin:** Aetolus, Kataigal system.
 
-Artificially created gelatinous humanoids derived from the Aetolian giant slime. Capable of body shape and color change; lack conventional internal organs. USDF regulation requires all prometheans to maintain a qualified guardian. See [Promethean](../Species/Promethean.md) for a full species profile.
+Artificially created gelatinous humanoids derived from the Aetolian giant slime; capable of shapeshifting and rapid regeneration, and required by USDF regulation to maintain a legal guardian. See [Promethean](../Species/Promethean.md) for a full species profile.
 
 ### Zorren
 
-**Origin:** Virgo-Prime, Virgo-Erigone system.
+**Origin:** Virgo Prime, Virgo-Erigone system.
 
-Bipedal fox-like species with two distinct populations: Flatland zorren, characterized by large ears and shorter fur, and Highland zorren, with longer fur and a more feudal social structure. Both populations have recently begun employment with trans-stellar corporations.
+Small humanoids native to the Vir system, survivors of an ancient cataclysm that collapsed their interplanetary civilization to a late-medieval state. See [Zorren](../Species/Zorren.md) for a full species profile.
 
 ### Vulpkanin
 
 **Origin:** Altam, Vazzend binary system.
 
-Canid bipeds with a decentralized society and scientific focus; notable for EM-hardened technology developed in response to Vazzend's recurring electromagnetic flares. Commonly employed in engineering, science, and security roles. See [Vulpkanin](../Species/Vulpkanin.md) for a full species profile.
+Canid bipeds with a decentralized society; notable for EM-hardened technology developed in response to Vazzend's electromagnetic flares. See [Vulpkanin](../Species/Vulpkanin.md) for a full species profile.
 
 ### Vasilissans
 
 **Origin:** Varilak, Antares system.
 
-Large spider-like bipeds with four additional limbs and chitin plating. Originally solitary and territorial, uplift by NanoTrasen followed discovery of Varilak's mineral wealth. Vasilissan silk construction techniques are recognized as technically exceptional.
+Arachnoid bipeds with four dorsal metalimbs, chitin plating, and silk production capability; native to a mineral-rich jungle world and organized under a matriarchal gem-focused religion. See [Vasilissans](../Species/Vasilissans.md) for a full species profile.
 
 ### Diona
 
-**Origin:** Epsilon Ursae Majoris system. *(Whitelist required)*
+**Origin:** Epsilon Ursae Minoris system.
 
-Plantlike cluster organisms capable of existing as small nymphs or merging into larger gestalt forms. Discovered by the skrell in open space in 2294 CE. Asexual; no gender. Slow-moving and generally peaceful. Established good relations with humanity through skrell introduction.
+Cluster organisms that grow from nymphs into adult forms and eventually merge into vast stellar-orbit gestalts; sustained by light and radiation, slow-moving, and broadly peaceful. See [Diona](../Species/Diona.md) for a full species profile.
 
 ### Xenochimera
 
-**Origin:** Unknown. *(Whitelist required)*
+**Origin:** Unknown; biomass first encountered 2382 CE in the Scutum-Centaurus arm.
 
-A colony organism with no fixed physiology. Xenochimera absorb consumed creatures and incorporate their biological features, resulting in individuals with wildly divergent appearances. No two xenochimera are alike.
+Colony organisms composed of microscopic hive cells that consume and mimic other life forms; sapience requires successful replication of a complex nervous system, and individuals are prone to feral regression under stress. See [Xenochimera](../Species/Xenochimera.md) for a full species profile.
 
 ### Vox
 
-**Origin:** Unknown. *(Whitelist required)*
+**Origin:** Unknown; resident in outer-system arkships throughout known space.
 
-A nomadic species living in the outer reaches of known space aboard colossal arkships. Closed culture and a history of piracy have given the species a broadly negative reputation among other spacefaring groups. Vox rarely venture into populated systems.
+Nomadic nitrogen-breathing reptilian bipeds living aboard ancient colossal vessels; a closed culture with a history of piracy and deeply limited contact with other spacefaring species. See [Vox](../Species/Vox.md) for a full species profile.
 
 ### Protean
 
-**Origin:** Unknown. *(Whitelist required)*
+**Origin:** Unknown.
 
-Nanite-based shapeshifters capable of adopting any form. When among other sapient species, proteans typically present as a familiar humanoid or species shape. Their origins predate Sol Central.
+Nanoswarm-based synthetics capable of shapeshifting and self-regeneration; rare, tightly regulated, and under institutional scrutiny due to the instability of nanoswarm technology. See [Protean](../Species/Protean.md) for a full species profile.
 
 ### Synthetics
 
-Synthetic intelligences span a range of types. **Drones** use expert-system artificial intelligence and are not sapient. **Cyborgs** use organic brains interfaced via MMI hardware. **Positronic brains** are general artificial intelligences equivalent to or exceeding organic sapience in capability. All three types are found throughout known space in roles from industrial labor to advanced research.
+Artificial constructs operating independently without behavioral laws, distinguished by three brain types: Cybernetic (organic brain in MMI hardware), Positronic (fully synthetic brain cube), and Drone (digital brain on computer card). See [Synthetics](../Species/Synthetics.md) for a full species profile.
 
 ---
 

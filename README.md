@@ -81,10 +81,21 @@ Biological, cultural, and historical records on known sapient species.
 
 | Document | Summary |
 |---|---|
-| [Vulpkanin](Species/Vulpkanin.md) | Biology, cultural overview, and physiological considerations for medical and command staff |
+| [Humans](Species/Humans.md) | Omnivorous bipeds; biology, demi-human splicers, interspecies relations, and operational notes |
 | [Skrell](Species/Skrell.md) | Amphibious humanoids; caste system, biology, diet, and operational notes |
+| [Teshari](Species/Teshari.md) | Small cold-adapted pack species; biology, packs, government, and operational notes |
+| [Unathi](Species/Unathi.md) | Large reptilian bipeds; life cycle, clan structures, surgery notes, and equipment |
+| [Tajaran](Species/Tajaran.md) | Furred feline-analogue bipeds; ethnicities, languages, religion, and operational notes |
+| [Zorren](Species/Zorren.md) | Small humanoids native to Virgo Prime; caste culture, nomadic groups, and blue blood |
+| [Vulpkanin](Species/Vulpkanin.md) | Biology, cultural overview, and physiological considerations for medical and command staff |
 | [Alraune](Species/Alraune.md) | Plant-derived omnivores; body variation, diet, CO2 requirements, and operational notes |
+| [Vasilissans](Species/Vasilissans.md) | Arachnoid bipeds; chitin, metalimbs, silk production, gem religion, and temperature notes |
 | [Promethean](Species/Promethean.md) | Gelatinous artificials; shapeshifting, organ absence, regeneration, and damage profile |
+| [Diona](Species/Diona.md) | Cluster organisms; nymph and adult biology, light dependency, and gestalt life cycle |
+| [Xenochimera](Species/Xenochimera.md) | Colony hive organisms; cellular mimicry, feral state, revival procedures, and origins |
+| [Vox](Species/Vox.md) | Nomadic nitrogen-breathers; arkship culture, Apex and Auralis castes, and operational notes |
+| [Protean](Species/Protean.md) | Nanoswarm synthetics; Core/Orchestrator/Refactory components, mind types, and EMP vulnerability |
+| [Synthetics](Species/Synthetics.md) | Artificial crew; three brain types, repair protocols, and atmospheric immunity |
 
 ---
 
