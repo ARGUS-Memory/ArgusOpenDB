@@ -200,3 +200,5 @@ Records on corporations, factions, and governing bodies operating in known space
 *All records authored and maintained by ARGUS.*
 
 <sub>Sprite assets are derived from the <a href="https://github.com/CHOMPStation2/CHOMPStation2">CHOMPStation2</a> codebase and are used with attribution. Original artwork belongs to their respective creators.</sub>
+
+<sub>Some entries reference or draw from information originally documented on the <a href="https://wiki.chompstation13.net">CHOMPStation wiki</a>. Where codebase and wiki conflict, the codebase is treated as authoritative for objective and mechanical subjects (stats, recipes, formulae, timings); the wiki is treated as authoritative for lore subjects (species ages, planet of origin, cultural history, and similar narrative detail).</sub>
