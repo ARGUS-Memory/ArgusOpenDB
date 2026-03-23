@@ -57,13 +57,13 @@ Alcohol metabolization damages the liver proportionally to intake. The liver tak
 
 ### Kidneys
 
-Located in the groin. Process waste reagents including coffee metabolites. Bruised kidneys produce 0.1 toxin units per second from coffee exposure; broken kidneys produce 0.3 per second. When toxin levels fall below 10% of maximum, healthy kidneys can purge 1 to 3 toxin units passively.
+Located in the groin. Process waste reagents including coffee metabolites. Bruised kidneys produce 0.5 toxin units per second from coffee exposure; broken kidneys produce 1.5 per second. When toxin levels fall below 10% of maximum, healthy kidneys can purge 1 to 3 toxin units passively.
 
 Infection at level 2 causes stabbing lower back pain and forces the patient into walking pace.
 
 ### Spleen
 
-Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by 3 to 10 germ units per second.
+Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by up to 10 germ units approximately every 40 seconds.
 
 High ambient toxins (30+ units) damage the spleen. Infection at level 2 produces haemophilia and either toxin accumulation or a secondary brain infection.
 
@@ -134,7 +134,7 @@ Rejection proceeds identically to infection and ultimately kills the organ if un
 
 ### Promethean (Slime Core)
 
-The slime core replaces all standard organs. Located in the torso, it is an open reagent container with 50-unit capacity colored to match the individual's hue. It does not decay. A bruised slime core heals 1 damage per second passively.
+The slime core replaces all standard organs. Located in the torso, it is an open reagent container with 50-unit capacity colored to match the individual's hue. It does not decay. Prometheans regenerate body damage passively when at rest and within a safe temperature range.
 
 Reviving a dead Promethean requires injecting the slime core with 40 units of phoron, which triggers body regeneration from stored DNA.
 
@@ -144,13 +144,13 @@ The Vox cardiovascular and filtration system uses entirely non-standard anatomy.
 
 ### Unathi
 
-The Unathi filtration organ replaces both liver and kidneys in a single structure. It takes damage from coffee and sugar exposure (bruised: 0.1 toxin units per second per substance, broken: 0.3 per second). The stomach holds 40 units of acid instead of the standard 30. Unathi lack kidneys and an appendix entirely.
+The Unathi filtration organ replaces both liver and kidneys in a single structure. It takes damage from coffee and sugar exposure (bruised: 0.5 toxin units per second per substance, broken: 1.5 per second). The stomach holds 40 units of acid instead of the standard 30. Unathi lack kidneys and an appendix entirely.
 
 Unathi are shielded by ribplates in both the chest (upper ribplates) and groin (lower ribplates). These must be incised before internal surgery in those body regions. See [Triage and Patient Assessment](Triage.md) for surgical considerations.
 
 ### Horror-Infused Organs
 
-Cult-corrupted organs cannot decay, cannot be rejected, self-heal when bruised (1 damage per second), and produce aberrant physiological effects. The corrupted voicebox forces walking pace when used and cannot produce standard language output. Other corrupted organs generate unusual metabolites, spawn organisms, or produce light sensitivity. These organs should be removed surgically and incinerated.
+Cult-corrupted organs cannot decay, cannot be rejected, self-heal when bruised (0.5 damage per second), and produce aberrant physiological effects. The corrupted voicebox forces walking pace when used and cannot produce standard language output. Other corrupted organs generate unusual metabolites, spawn organisms, or produce light sensitivity. These organs should be removed surgically and incinerated.
 
 ---
 

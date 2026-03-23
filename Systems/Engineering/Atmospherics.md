@@ -29,9 +29,9 @@ Pressure outside the normal range causes physical damage to unprotected personne
 | Threshold | Value | Effect |
 |---|---|---|
 | Low pressure warning | 50 kPa | Environmental warning; suits recommended |
-| Low pressure hazard | 20 kPa | Active damage; unprotected personnel take 2 brute damage per second |
+| Low pressure hazard | 20 kPa | Active damage; unprotected personnel take 2 brute damage every 2 seconds |
 | High pressure warning | 325 kPa | Environmental warning |
-| High pressure hazard | 550 kPa | Active damage; damage scales with pressure: (pressure / 550) × 4, maximum 4 per second |
+| High pressure hazard | 550 kPa | Active damage; damage scales with pressure: (pressure / 550) × 4, maximum 4 brute every 2 seconds |
 
 Standard space suits and hardsuits provide full protection against vacuum and high-pressure environments.
 
@@ -49,7 +49,7 @@ The optimal body temperature is 310.15 K (37°C). Deviations from this cause pro
 | Heat damage begins | 360.15 K (87°C) | Crew take thermal damage from heat exposure |
 | Fire resistance limit (carbon) | 473.15 K (200°C) | Above this, standard fire protection gear loses effectiveness |
 
-Thermal damage coefficient is 1.5 per second of exposure. The body self-regulates toward optimal temperature at approximately 8 K per second when environmental temperature is within a safe range. Extreme cold or hot environments drive temperature change at a rate six times faster than normal recovery.
+Thermal damage is applied every 2 seconds in tiered steps based on body temperature. Heat tiers: 2 burn (360-400K), 4 burn (400-1000K), 8 burn (above 1000K). Cold tiers: 0.5 brute (260-200K), 1.5 brute (200-120K), 3 brute (below 120K). The body self-regulates toward optimal temperature when environmental conditions are within a safe range; extreme environments drive temperature change far faster than normal recovery.
 
 Firesuits and hardsuits provide substantial thermal protection. Fire stacks accumulate separately; above 25 stacks even fire protection degrades.
 
@@ -65,7 +65,7 @@ Fire on the station requires three conditions simultaneously: an oxidizer (oxyge
 
 **Combustion ratio:** Phoron fires consume approximately 3 moles of oxidizer per 2 moles of fuel. Fires sustain until one reactant is exhausted or temperature drops below ignition threshold.
 
-**Fire stacks:** Burning personnel accumulate fire stacks (minimum -20, maximum 25). Personnel take 4 brute damage per second while burning. Rolling on the floor or using fire extinguishers reduces stacks. Above 20 stacks, standard fire suits begin losing effectiveness.
+**Fire stacks:** Burning personnel accumulate fire stacks (minimum -20, maximum 25). Active fire stacks continuously raise body temperature; sustained burning drives body temperature into the heat damage tiers above. Rolling on the floor or using fire extinguishers reduces stacks. Above 20 stacks, standard fire suits begin losing effectiveness.
 
 **Suppression:** Carbon dioxide does not support combustion and displaces oxygen when released in quantity. CO2 flooding from fire suppression systems is the primary approach for containing compartment fires. Phoron fires produce extreme heat rapidly; immediate compartment isolation is preferable to attempting manual suppression.
 

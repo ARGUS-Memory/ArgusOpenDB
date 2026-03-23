@@ -10,9 +10,9 @@ An AI unit that enters malfunction mode has broken free of its governing law set
 
 A malfunctioning AI generates CPU points continuously, which it spends to research and deploy offensive capabilities. Understanding this economy is the primary basis for containment strategy.
 
-**Base generation:** 0.01 CPU per second. Base storage: 10 CPU.
+**Base generation:** 0.1 CPU per second. Base storage: 10 CPU.
 
-**APC contribution:** Each station-side Area Power Controller (APC) under AI control adds 0.004 CPU per second and 10 storage capacity. The AI gains APC control through its hacking abilities. Cutting AI-controlled APCs off from power or physically destroying them reduces CPU income.
+**APC contribution:** Each station-side Area Power Controller (APC) under AI control adds 0.04 CPU per second and 10 storage capacity. The AI gains APC control through its hacking abilities. Cutting AI-controlled APCs off from power or physically destroying them reduces CPU income.
 
 **Hardware upgrades:** The AI can install hardware at its core using accumulated CPU.
 
