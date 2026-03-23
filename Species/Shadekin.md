@@ -102,7 +102,7 @@ Research division directives for shadekin contact include establishing communica
 
 ## Medical and Operational Notes
 
-Shadekin are physically resilient against blunt and penetrating trauma (brute_mod=0.7) but more vulnerable to heat and fire (burn_mod=1.2). Their fur creates elevated combustion risk in fire environments.
+Shadekin demonstrate above-average resilience against blunt and penetrating trauma but elevated vulnerability to heat and fire. Their fur creates an elevated combustion risk in fire environments.
 
 Shadekin are entirely immune to cold-related injury regardless of ambient temperature. Heat exposure produces injury beginning at approximately 850K, with severe damage above 1000K.
 
