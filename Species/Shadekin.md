@@ -4,6 +4,13 @@
 
 <img src="../assets/raptor_idle_south.png" width="96" align="right">
 
+No observational record on file. Classification: Unresolved.
+
+---
+
+<details>
+<summary>Add species information</summary>
+
 Poorly understood interdimensional beings of apparent mammalian body plan, shadekin travel between physical space and a higher-energy plane they call The Dark, appearing throughout the Virgo-Erigone system with increasing frequency following the bombardment of Virgo 3.
 
 ---
@@ -110,3 +117,5 @@ Shadekin possess no recoverable DNA and cannot be cloned via standard sleeper pr
 Eye color determines baseline health capacity. Blue-eyed individuals have a lower health ceiling; red-eyed individuals have a higher ceiling; yellow-eyed individuals have the lowest; others fall at intermediate levels. Individuals in active phase-shift cannot be targeted by most conventional medical interventions.
 
 If a shadekin collapses on-station and vanishes, they have activated their emergency retreat to The Dark. They will not be recoverable on-station and should be expected to re-emerge independently after approximately fifteen to twenty minutes.
+
+</details>

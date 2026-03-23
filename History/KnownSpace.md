@@ -134,11 +134,22 @@ Nanoswarm-based synthetics capable of shapeshifting and self-regeneration; rare,
 
 Artificial constructs operating independently without behavioral laws, distinguished by three brain types: Cybernetic (organic brain in MMI hardware), Positronic (fully synthetic brain cube), and Drone (digital brain on computer card). See [Synthetics](../Species/Synthetics.md) for a full species profile.
 
+<details>
+<summary>
+
 ### Shadekin
+
+**Origin:** Unclassified.
+
+No observational record on file.
+
+</summary>
 
 **Origin:** The Dark; documented in the Virgo-Erigone system.
 
 Interdimensional beings of mammalian body plan capable of phase-shifting between physical space and a higher-energy plane; nearly immortal, empathic communicators, drawn to dimensional anomalies. See [Shadekin](../Species/Shadekin.md) for a full species profile.
+
+</details>
 
 ### Zaddat
 
