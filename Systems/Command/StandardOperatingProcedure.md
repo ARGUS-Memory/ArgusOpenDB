@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > Systems > Security > Standard Operating Procedure
+[ARGUS Station Database](../../README.md) > Systems > Command > Standard Operating Procedure
 
 # Standard Operating Procedure
 

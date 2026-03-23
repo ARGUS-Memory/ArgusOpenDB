@@ -33,6 +33,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Paperwork System](Systems/Command/Paperwork.md) | Form types, routing procedures, and official record standards |
+| [Standard Operating Procedure](Systems/Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
 
 </details>
 
@@ -51,7 +52,6 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Corporate Regulations](Systems/Security/CorporateRegulations.md) | Legal code, offense tiers, sentencing guidelines, tribunal procedure |
-| [Standard Operating Procedure](Systems/Security/StandardOperatingProcedure.md) | Employee rights, alert levels, crisis management, and departmental protocols |
 | [Admiralty Law](Systems/Security/AdmiraltyLaw.md) | Galaxy-wide space law, Space Law Treaty, and USDF enforcement |
 | [Security Operations](Systems/Security/SecurityOperations.md) | Departmental hierarchy, arrest procedure, criminal processing, and prisoner rights |
 | [Contraband](Systems/Security/Contraband.md) | Contraband classification framework and hardsuit access policy |

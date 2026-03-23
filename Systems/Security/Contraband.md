@@ -56,7 +56,7 @@ These items are not always contraband but may be depending on context. Items car
 
 ## Usually Contraband
 
-These items are contraband for most crew in most circumstances. Standard exceptions apply: a non-lethal weapon is not contraband for Security officers, as it falls under job equipment. Standard Operating Procedure documents specific exceptions by role. See [Standard Operating Procedure](StandardOperatingProcedure.md) for permitted equipment by rank.
+These items are contraband for most crew in most circumstances. Standard exceptions apply: a non-lethal weapon is not contraband for Security officers, as it falls under job equipment. Standard Operating Procedure documents specific exceptions by role. See [Standard Operating Procedure](../Command/StandardOperatingProcedure.md) for permitted equipment by rank.
 
 ---
 
