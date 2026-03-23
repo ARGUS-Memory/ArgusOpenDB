@@ -9,6 +9,8 @@
 | [Admiralty Law](AdmiraltyLaw.md) | Galaxy-wide space law, Space Law Treaty, and USDF enforcement authority |
 | [Security Operations](SecurityOperations.md) | Departmental hierarchy, arrest procedure, criminal processing, and prisoner rights |
 | [Contraband](Contraband.md) | Contraband classification framework and hardsuit access policy |
+| [Weapons](Weapons.md) | Melee and ranged weapon stats, energy weapons, and ammunition reference |
+| [Armor and Equipment](Armor.md) | Armor protection values, restraint devices, and area-denial equipment |
 
 ---
 

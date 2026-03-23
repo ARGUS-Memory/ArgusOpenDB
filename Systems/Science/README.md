@@ -8,6 +8,9 @@
 | [Nanite Implant Framework](NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
 | [NanoTrasen Standard AI Law Set](AILaws.md) | The four NT Default laws, governing principles, conflict resolution, and law modification layers |
+| [AI Overview](AIOverview.md) | AI station perception, system access, crew interface, shell deployment, and integrated equipment |
+| [AI Law Sets Catalogue](AILawSets.md) | Complete listing of all named law sets with verbatim law texts |
+| [AI Malfunction Mode](MalfunctionMode.md) | Rogue AI CPU economy, hardware options, and three ability trees with costs and effects |
 | [Cyborgs](Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
 | [Mechs and Exosuits](Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
 

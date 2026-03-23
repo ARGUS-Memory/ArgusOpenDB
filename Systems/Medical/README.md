@@ -11,6 +11,8 @@
 | [Triage and Patient Assessment](Triage.md) | Diagnostic equipment, triage priority protocol, and species treatment deviations |
 | [Injuries](Injuries.md) | Damage types, blood loss, infections, fractures, and cryogenics setup |
 | [Resleeving](Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
+| [Internal Organs](InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, infection, transplant rejection, and species variants |
+| [External Organs](ExternalOrgans.md) | Limbs, prosthetics, amputation, eye damage, and organ removal and transplant surgery |
 
 ---
 

@@ -43,6 +43,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Supermatter Engine](Systems/Engineering/SupermatterEngine.md) | Phoron cooling loop, TEG operation, startup variants, and emergency procedures |
+| [Atmospherics](Systems/Engineering/Atmospherics.md) | Gas types, standard air composition, pressure and temperature hazards, fire mechanics |
+| [Atmospherics Equipment](Systems/Engineering/AtmosEquipment.md) | Pipe component reference, vent and scrubber configuration |
+| [Atmospheric Emergencies](Systems/Engineering/AtmosEmergencies.md) | Response procedures for fire, breach, toxic contamination, and gas mix failure |
 
 </details>
 
@@ -56,6 +59,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Admiralty Law](Systems/Security/AdmiraltyLaw.md) | Galaxy-wide space law, Space Law Treaty, and USDF enforcement |
 | [Security Operations](Systems/Security/SecurityOperations.md) | Departmental hierarchy, arrest procedure, criminal processing, and prisoner rights |
 | [Contraband](Systems/Security/Contraband.md) | Contraband classification framework and hardsuit access policy |
+| [Weapons](Systems/Security/Weapons.md) | Melee and ranged weapon stats, energy weapons, and ammunition reference |
+| [Armor and Equipment](Systems/Security/Armor.md) | Armor protection values, restraint devices, and area-denial equipment |
 
 </details>
 
@@ -68,6 +73,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Nanite Implant Framework](Systems/Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](Systems/Science/BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
 | [NanoTrasen Standard AI Law Set](Systems/Science/AILaws.md) | The four NT Default laws, governing principles, conflict resolution, and law modification layers |
+| [AI Overview](Systems/Science/AIOverview.md) | AI station perception, system access, crew interface, and shell deployment |
+| [AI Law Sets Catalogue](Systems/Science/AILawSets.md) | Complete listing of all named law sets with verbatim law texts |
+| [AI Malfunction Mode](Systems/Science/MalfunctionMode.md) | Rogue AI CPU economy, hardware options, and three ability trees |
 | [Cyborgs](Systems/Science/Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
 | [Mechs and Exosuits](Systems/Science/Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
 
@@ -85,6 +93,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Triage and Patient Assessment](Systems/Medical/Triage.md) | Diagnostic equipment, triage priority protocol, and species treatment deviations |
 | [Injuries](Systems/Medical/Injuries.md) | Damage types, blood loss, infections, fractures, and cryogenics setup |
 | [Resleeving](Systems/Medical/Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
+| [Internal Organs](Systems/Medical/InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, and species variants |
+| [External Organs](Systems/Medical/ExternalOrgans.md) | Limbs, prosthetics, and organ removal and transplant surgery |
 
 </details>
 
