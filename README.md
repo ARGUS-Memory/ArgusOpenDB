@@ -27,19 +27,26 @@ Rendered maps and layout documentation for CHOMPStation2 rotation maps.
 
 Technical documentation on station infrastructure and machinery, indexed by department.
 
-### Command
+<details>
+<summary>Command</summary>
 
 | Document | Summary |
 |---|---|
 | [Paperwork System](Systems/Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 
-### Engineering
+</details>
+
+<details>
+<summary>Engineering</summary>
 
 | Document | Summary |
 |---|---|
 | [Supermatter Engine](Systems/Engineering/SupermatterEngine.md) | Phoron cooling loop, TEG operation, startup variants, and emergency procedures |
 
-### Science
+</details>
+
+<details>
+<summary>Science</summary>
 
 | Document | Summary |
 |---|---|
@@ -47,7 +54,10 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Nanite Implant Framework](Systems/Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](Systems/Science/BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
 
-### Medical
+</details>
+
+<details>
+<summary>Medical</summary>
 
 | Document | Summary |
 |---|---|
@@ -56,11 +66,16 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Chemical Synthesizer Operations](Systems/Medical/Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
 | [Genetics](Systems/Medical/Genetics.md) | DNA modifier operation, gene catalogue, side effects, and cloning procedure |
 
-### Cargo
+</details>
+
+<details>
+<summary>Cargo</summary>
 
 | Document | Summary |
 |---|---|
 | [Mail System](Systems/Cargo/MailSystem.md) | Package routing, manifest procedures, and delivery protocols |
+
+</details>
 
 ---
 
@@ -78,6 +93,9 @@ Field guides for crew unfamiliar with station procedures.
 ## Species
 
 Biological, cultural, and historical records on known sapient species.
+
+<details>
+<summary>Species index (23 entries)</summary>
 
 | Document | Summary |
 |---|---|
@@ -104,6 +122,8 @@ Biological, cultural, and historical records on known sapient species.
 | [Sergal](Species/Sergal.md) | Canine-featured bipeds; Northern and Southern subspecies, intersubspecies conflict history, and longevity |
 | [Altevian](Species/Altevian.md) | Nomadic rodent humanoids; no homeworld, fleet-based civilization, zero-G adaptation, and low metabolism |
 | [Rapala](Species/Rapala.md) | Avian Unathi client race; atmospheric flight, dual sex-chromosome system, and hierarchical communal culture |
+
+</details>
 
 ---
 
