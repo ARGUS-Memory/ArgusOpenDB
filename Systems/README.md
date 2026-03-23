@@ -44,6 +44,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Research &amp; Development System](Science/ResearchSystem.md) | R&amp;D console operation, technology unlocks, and research point allocation |
 | [Nanite Implant Framework](Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](Science/BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
+| [NanoTrasen Standard AI Law Set](Science/AILaws.md) | The four NT Default laws, governing principles, conflict resolution, and law modification layers |
+| [Cyborgs](Science/Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
+| [Mechs and Exosuits](Science/Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
 
 </details>
 
@@ -56,6 +59,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Medical Sleeper Pod](Medical/Sleepers.md) | Stasis operation, chemical inventory, dialysis, and treatment procedures |
 | [Chemical Synthesizer Operations](Medical/Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
 | [Genetics](Medical/Genetics.md) | DNA modifier operation, gene catalogue, side effects, and cloning procedure |
+| [Triage and Patient Assessment](Medical/Triage.md) | Diagnostic equipment, triage priority protocol, and species treatment deviations |
+| [Injuries](Medical/Injuries.md) | Damage types, blood loss, infections, fractures, and cryogenics setup |
+| [Resleeving](Medical/Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 
 </details>
 
@@ -65,6 +71,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Mail System](Cargo/MailSystem.md) | Package routing, manifest procedures, and delivery protocols |
+| [Supply Procedures](Cargo/SupplyProcedures.md) | Point generation, ordering workflow, shuttle cycle, MULEbot, and disposals mailing |
+| [Supply Manifest](Cargo/SupplyManifest.md) | Complete orderable pack catalogue across all supply categories |
 
 </details>
 
