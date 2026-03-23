@@ -127,7 +127,7 @@ Wounds that are not disinfected in time become infected. Infections produce a fe
 
 | Level | Signs |
 |---|---|
-| L1 (Mild) | Localized pain messages, onset of fever |
+| L1 (Mild) | Localized pain complaints, onset of fever |
 | L2 (Acute) | Increased pain, visible infection, organ-specific symptoms |
 | L3 (Gangrene) | Lethal toxin buildup, organ death, necrosis |
 
@@ -156,7 +156,7 @@ Fractures are flagged by the health analyzer and located by the body scanner. Th
 - Surgery (bone setter and bone gel, or boneclamp): fully repairs the fracture. See [Surgery](Surgery.md).
 - Osteodaxon: heals fractures without surgery if limb damage is not above the fracture threshold. Causes significant pain; administer Tramadol alongside. Overdose threshold 15u.
 
-**Dislocations** do not require surgery. Stand adjacent to the patient and use the Undislocate Joint action. Select the affected limb if multiple joints are dislocated.
+**Dislocations** do not require surgery. Stand adjacent to the patient and manually relocate the joint. If multiple joints are dislocated, select which limb to address first.
 
 ---
 

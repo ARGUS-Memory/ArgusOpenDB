@@ -50,7 +50,7 @@ If no body record exists and the original body is absent or not intact, the pati
 
 ## Body Design
 
-The body design console in reception allows crew to design a custom sleeve when no body record is on file. The console functions similarly to character creation. Once a body is designed, save the configuration to a disk from the supply on the adjacent table, then insert the disk into the resleeving console to grow from it.
+The body design console in reception allows crew to configure physical characteristics for a custom sleeve when no body record is on file. Once a body is designed, save the configuration to a disk from the supply on the adjacent table, then insert the disk into the resleeving console to grow from it.
 
 ---
 
