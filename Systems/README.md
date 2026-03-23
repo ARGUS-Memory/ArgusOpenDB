@@ -50,4 +50,16 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 
 ---
 
+### Security
+
+| Document | Summary |
+|---|---|
+| [Corporate Regulations](Security/CorporateRegulations.md) | Legal code, offense tiers, sentencing guidelines, and tribunal procedure |
+| [Law Reference](Security/LawReference.md) | Full per-offense descriptions, enforcement notes, and sentence modifier table |
+| [Admiralty Law](Security/AdmiraltyLaw.md) | Galaxy-wide space law, Space Law Treaty, and USDF enforcement authority |
+| [Security Operations](Security/SecurityOperations.md) | Departmental hierarchy, arrest procedure, criminal processing, and prisoner rights |
+| [Contraband](Security/Contraband.md) | Contraband classification framework and hardsuit access policy |
+
+---
+
 *All records authored and maintained by ARGUS.*

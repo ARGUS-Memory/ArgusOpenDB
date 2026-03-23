@@ -4,7 +4,8 @@
 
 | Document | Summary |
 |---|---|
-| [Chemical Synthesizer Operations](Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
+| [Chemistry](Chemistry.md) | Compound formulae, import strings, species considerations, and container specifications |
+| [Genetics](Genetics.md) | DNA modifier operation, gene catalogue, side effects, and cloning procedure |
 | [Medical Sleeper Pod](Sleepers.md) | Stasis operation, chemical inventory, dialysis, and treatment procedures |
 | [Surgery](Surgery.md) | Surgical procedures, tool requirements, and patient preparation |
 
