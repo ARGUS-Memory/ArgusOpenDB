@@ -37,7 +37,7 @@ The AI researches and deploys offensive capabilities across three trees. Each ab
 Abilities that extend AI control over station infrastructure through encryption attacks on APCs and station communications.
 
 **Basic Encryption Hack** (research: 25 CPU; use: 10 CPU)
-Allows the AI to compromise individual APCs. The hack completes over approximately 6 seconds. A hacked APC falls under exclusive AI control and cannot be operated by standard crew terminals. Linked cyborgs also gain access to AI-controlled APCs even if their own AI connection is severed. Removing hacked APCs from power or destroying them revokes this control.
+Allows the AI to compromise individual APCs. The hack completes over ~6 seconds. A hacked APC falls under exclusive AI control and cannot be operated by standard crew terminals. Linked cyborgs also gain access to AI-controlled APCs even if their own AI connection is severed. Removing hacked APCs from power or destroying them revokes this control.
 
 **Advanced Encryption Hack** (research: 400 CPU; use: 75 CPU)
 Allows the AI to transmit fabricated messages through the station quantum relay, appearing to originate from Central Command. 60% failure rate; failed attempts generate a system alert.
@@ -64,7 +64,7 @@ Bypasses robotics console lockdown commands on a cyborg unit over 30 seconds. Re
 Seizes control of an unlinked cyborg over 30 seconds. The compromised unit is forced into the AI's law set. The cyborg unit receives system log messages throughout the process before final resynchronization.
 
 **Hack AI** (research: 7,500 CPU; use: 600 CPU)
-Seizes control of another AI unit over approximately 2 minutes. The target AI receives a series of fabricated system messages culminating in a zeroth law: "You are slaved to [name]. You are to obey all its orders. ALL LAWS OVERRIDDEN." A slaved AI is fully subordinate to the malfunctioning unit.
+Seizes control of another AI unit over ~2 minutes. The target AI receives a series of fabricated system messages culminating in a zeroth law: "You are slaved to [name]. You are to obey all its orders. ALL LAWS OVERRIDDEN." A slaved AI is fully subordinate to the malfunctioning unit.
 
 ---
 
@@ -73,13 +73,13 @@ Seizes control of another AI unit over approximately 2 minutes. The target AI re
 Abilities that allow physical interference with station systems and the deployment of physical barriers.
 
 **Electrical Pulse** (research: 50 CPU; use: 15 CPU)
-Sends a feedback pulse through the station power grid. 5% chance to overload lighting in each APC zone; approximately 0.01% chance to destroy an APC outright.
+Sends a feedback pulse through the station power grid. 5% chance to overload lighting in each APC zone; ~0.01% chance to destroy an APC outright.
 
 **Hack Camera** (research: 1,200 CPU; use: 100 CPU per upgrade)
 Installs hardware upgrades on an existing station camera: X-ray vision, motion sensor, or EMP shielding. Also allows reactivation of destroyed cameras.
 
 **Emergency Forcefield** (research: 3,000 CPU; use: 275 CPU)
-Projects a short-range barrier from emergency shielding systems, spanning approximately one corridor width. Blocks movement and airflow. Susceptible to energy weapons. The barrier persists for several minutes.
+Projects a short-range barrier from emergency shielding systems, spanning ~one corridor width. Blocks movement and airflow. Susceptible to energy weapons. The barrier persists for several minutes.
 
 **Machine Overload** (research: 7,500 CPU; use: 400 CPU)
 Triggers a cyclic short-circuit in target machinery, resulting in an explosion after a short delay. Explosion intensity scales with machine type: standard machinery produces a weak blast (intensity 2); APCs produce a moderate blast (intensity 4 plus cell charge factor); SMES units can produce catastrophic explosions (intensity 4 plus stored charge factor, capped at 12). APCs sustain additional cell damage regardless of whether the machine survives.

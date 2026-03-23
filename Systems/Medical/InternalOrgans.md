@@ -63,7 +63,7 @@ Infection at level 2 causes stabbing lower back pain and forces the patient into
 
 ### Spleen
 
-Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by up to 10 germ units approximately every 40 seconds.
+Located in the torso. Filters blood and supports infection resistance. A dead spleen causes haemophilia (elevated bleeding), triggers an internal bleeding wound, and releases 15 units of toxins. Healthy unbruised spleens reduce active organ infections by up to 10 germ units every ~40 seconds.
 
 High ambient toxins (30+ units) damage the spleen. Infection at level 2 produces haemophilia and either toxin accumulation or a secondary brain infection.
 
@@ -105,8 +105,8 @@ Antibiotic treatment reduces germ levels at rates that depend on infection sever
 | Infection stage | Reduction rate |
 |---|---|
 | Below level 1 | Instant clearance |
-| Level 1 to 2 | Fast reduction (approximately 1 minute at standard dosing) |
-| Level 2 to 3 | Moderate reduction (approximately 5 minutes) |
+| Level 1 to 2 | Fast reduction (~1 minute at standard dosing) |
+| Level 2 to 3 | Moderate reduction (~5 minutes) |
 | Level 3 and above | Slow reduction (10+ minutes) |
 
 Overdosing on antibiotics prevents additional damage but does not accelerate clearance beyond normal rates.
