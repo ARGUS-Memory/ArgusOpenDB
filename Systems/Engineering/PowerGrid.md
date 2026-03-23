@@ -23,8 +23,8 @@ Station Mechanical Energy Storage (SMES) units are the primary buffer between ge
 | Parameter | Default | Maximum |
 |---|---|---|
 | Capacity | 5,000,000 | 5,000,000 |
-| Input rate | 50,000/tick | 200,000/tick |
-| Output rate | 50,000/tick | 200,000/tick |
+| Input rate | 50,000/cycle | 200,000/cycle |
+| Output rate | 50,000/cycle | 200,000/cycle |
 
 The input and output rates are configured separately. A correctly tuned SMES will output at a rate matching consumption while storing any surplus from generation. If generation drops below consumption, the SMES draws down its stored charge to cover the shortfall until either generation recovers or the unit is depleted.
 
@@ -71,7 +71,7 @@ Replacing an APC cell requires opening the APC panel with a screwdriver. Cells c
 
 When powernet supply is available, the APC draws from the grid first and directs surplus to the internal cell. When grid supply drops below demand, the APC draws from the internal cell to compensate. If both grid and cell are depleted, the APC deactivates all channels until power is restored.
 
-The APC charges its cell at a capped rate per processing tick. This means a fully depleted hyper-capacity cell takes longer to bring back to operational charge than a standard cell, even with the same grid input rate.
+The APC charges its cell at a capped rate per processing cycle. This means a fully depleted hyper-capacity cell takes longer to bring back to operational charge than a standard cell, even with the same grid input rate.
 
 ---
 

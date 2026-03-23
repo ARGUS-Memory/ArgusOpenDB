@@ -92,7 +92,7 @@ Handheld radios cannot be worn; they must be held in hand or placed on a surface
 
 Wall-mounted intercom units are installed throughout the station at key locations. An intercom broadcasts to all crew within the local area and can also be set to transmit on the common frequency or any tuned frequency. Intercoms cannot be encrypted; anyone in range can hear and respond.
 
-Intercoms are activated by clicking them. Volume and frequency can be adjusted with a screwdriver on the back panel. Intercoms can be used to communicate between areas without a headset, make local announcements, or broadcast emergency warnings.
+Intercoms are activated by using the controls on the unit. Volume and frequency can be adjusted with a screwdriver on the back panel. Intercoms can be used to communicate between areas without a headset, make local announcements, or broadcast emergency warnings.
 
 ---
 

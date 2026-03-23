@@ -54,7 +54,7 @@ A non-lethal disorientation device producing a bright flash and loud concussive 
 - **Mid sound radius:** ~5 metres
 - **Far sound radius:** ~7 metres
 
-Within the flash radius, affected individuals experience temporary blindness and screen whiteout. Sound effects scale with distance: within ~3 metres, the concussion causes additional ear damage. Photosensitive species and those without eye protection are more severely affected.
+Within the flash radius, affected individuals experience temporary loss of vision. Sound effects scale with distance: within ~3 metres, the concussion causes additional ear damage. Photosensitive species and those without eye protection are more severely affected.
 
 Flashbangs have no shrapnel and do not damage structures. They are the standard less-lethal option for room breaching and crowd control.
 

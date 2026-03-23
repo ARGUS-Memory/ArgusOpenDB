@@ -2,7 +2,7 @@
 
 # Drones
 
-Drones are small autonomous or player-piloted silicon units built for maintenance, construction, and resource extraction tasks. Unlike cyborgs, drones have no department assignment and no formal command chain. Their behavior is governed by a fixed law set that restricts them to passive station upkeep and prohibits them from taking orders from crew or AI.
+Drones are small autonomous or operator-controlled silicon units built for maintenance, construction, and resource extraction tasks. Unlike cyborgs, drones have no department assignment and no formal command chain. Their behavior is governed by a fixed law set that restricts them to passive station upkeep and prohibits them from taking orders from crew or AI.
 
 ---
 
@@ -28,16 +28,19 @@ Maintenance drones operate under the Drone Law Set, which contains three princip
 
 These laws explicitly prohibit the drone from taking orders from the station AI or from crew members. A drone that receives instructions from a person or AI is not obligated to follow them and should continue its autonomous repair work.
 
-### Shells
+<details>
+<summary>Shells and Activation Configuration</summary>
 
-Maintenance drones can select from two visual shell configurations at activation.
+Maintenance drones initialize in one of two visual shell configurations.
 
 | Shell | Appearance |
 |---|---|
 | Classic | Repairbot-style chassis; compact rounded form |
 | Eris | Maintbot-style chassis; slightly different proportions |
 
-Shell selection is cosmetic only. Both shells have identical capabilities. Eye color and armor tint can be customized at activation.
+Shell selection is cosmetic only. Both shells have identical capabilities. Eye color and armor tint can be configured at initialization.
+
+</details>
 
 ### Tools and Capabilities
 
@@ -47,15 +50,18 @@ Drones can use the station disposals system for self-transport. A drone can set 
 
 Maintenance drones can wear hats. This has no functional effect.
 
-### Reboot
+<details>
+<summary>Reboot Procedure</summary>
 
-A powered-down maintenance drone can be rebooted by swiping an ID card across its body. This sends a wake request to the drone's player. If the player accepts, the drone reactivates. If no player is associated with the drone, the reboot attempt fails.
+A powered-down maintenance drone can be rebooted by swiping an ID card across its body. This transmits a reactivation signal to the unit. If a controlling intelligence is available and responds, the drone reactivates. If no response is received, the reboot attempt fails.
+
+</details>
 
 ---
 
 ## Construction Drone
 
-Construction drones are a specialized variant issued by Sol Central contractors for large-scale construction projects. They are visually distinct from maintenance drones and use a different shell with no player-selectable alternative.
+Construction drones are a specialized variant issued by Sol Central contractors for large-scale construction projects. They are visually distinct from maintenance drones and use a fixed shell with no alternate configuration.
 
 Construction drones operate under a Sol Central-specific law set focused on building and structural modification rather than maintenance. Their construction capabilities are broader than maintenance drones but they do not perform the same upkeep tasks.
 
@@ -65,7 +71,7 @@ Construction drones are not standard station equipment; they appear primarily in
 
 ## Mining Drone
 
-Mining drones are deployed by Grayson Manufactories for ore extraction and tunnel operations. They use a dedicated mining shell with no player-selectable variant and carry integrated drilling and ore-handling equipment.
+Mining drones are deployed by Grayson Manufactories for ore extraction and tunnel operations. They use a dedicated mining shell with no alternate configuration and carry integrated drilling and ore-handling equipment.
 
 Mining drones operate under a mining-specific law set. Like other drone types, they do not accept orders from station crew or AI. Mining drones encountered in the mine network are operating autonomously under their programmed extraction parameters.
 

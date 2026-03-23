@@ -22,7 +22,7 @@ Every disease has one or more spread modes that determine how it passes between 
 
 ### Stages
 
-Diseases advance through numbered stages as infection progresses. Each stage has a probability of advancing to the next on each processing tick. Stage advancement is not guaranteed and can be slowed by treatment, species resistance, or a strong immune response. Devolving is also possible for some diseases if conditions change.
+Diseases advance through numbered stages as infection progresses. Each stage has a probability of advancing to the next every ~2 seconds. Stage advancement is not guaranteed and can be slowed by treatment, species resistance, or a strong immune response. Devolving is also possible for some diseases if conditions change.
 
 At each stage the disease applies its symptoms and checks for cure eligibility. A cure applied before reaching a late stage may halt progression and begin recovery; some diseases require specific interventions at specific stages.
 
@@ -141,8 +141,8 @@ A metallic-resonance pathogen spread through the air. Causes the patient's body 
 | Stage | Effect radius | Symptoms |
 |---|---|---|
 | 1 | ~2 metres | Metal objects nearby drift toward the patient |
-| 2 | ~4 metres | Larger metal objects attracted; silicon mobs may be pulled toward patient |
-| 3 | ~4 metres | Continued metal attraction, increased silicon mob pull |
+| 2 | ~4 metres | Larger metal objects attracted; silicon-based creatures may be pulled toward patient |
+| 3 | ~4 metres | Continued metal attraction, increased pull on silicon-based creatures |
 | 4 | ~6 metres | Severe metal attraction; risk of injury from flying objects |
 
 **Cure:** Iron injection. The additional iron saturates the magnetic resonance mechanism and neutralizes the infection.

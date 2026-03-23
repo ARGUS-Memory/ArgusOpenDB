@@ -184,7 +184,7 @@ Chassis are organized into three physical categories based on body plan:
 
 **Standard chassis** are the baseline bipedal or compact forms native to each department. They use 32x32 tile footprints and are the most common chassis type in service.
 
-**Dogborg (wide) chassis** are quadruped or broad-form designs that occupy a wider physical footprint. They use a separate sprite sheet and have a larger visible presence on station. Dogborg chassis are common among crew who prefer a non-standard body plan.
+**Dogborg (wide) chassis** are quadruped or broad-form designs that occupy a wider physical footprint. They have a larger visible presence on station. Dogborg chassis are common among crew who prefer a non-standard body plan.
 
 **Tall (wideborg) chassis** are upright bipedal forms with a larger vertical profile, typically 64x64 in native tile resolution. These are the most visually imposing chassis type and are associated with high-visibility unit roles.
 
@@ -194,16 +194,16 @@ Each department module has its own set of available chassis in each category. A 
 
 After selecting a chassis, a cyborg can apply the following customizations where the chassis supports them:
 
-- **Color recolor:** A full color matrix adjustment applied to the chassis sprite. Available when server configuration permits recoloring. Accessed through the chassis appearance menu.
-- **Decals:** Some chassis support optional decal overlays (such as breastplates, loincloths, or eye covers) that can be toggled on or off through the chassis interface.
-- **Rest pose:** Chassis with rest sprite support can select from available rest styles (Default, Sit, Bellyup, where available for that chassis type).
-- **Eye color:** Available on chassis with separate eye overlay sprites.
+- **Color tint:** A full tint adjustment applied to the chassis appearance. Available when permitted by Central Command. Accessed through the chassis appearance menu.
+- **Decals:** Some chassis support optional decorative overlays (such as breastplates, loincloths, or eye covers) that can be toggled on or off through the chassis interface.
+- **Rest pose:** Some chassis support alternate rest poses (Default, Sit, Bellyup); available options vary by chassis.
+- **Eye color:** Available on supported chassis types.
 
-Not all chassis support all customization options. Chassis without rest sprites cannot change rest pose; chassis without eye sprites cannot change eye color independently of the main recolor.
+Not all chassis support all customization options; available choices vary by chassis type.
 
-### Whitelisted Chassis
+### Reserved Chassis
 
-Some chassis are designated as whitelisted and are only available to specific players by ckey assignment. Whitelisted chassis do not appear in the general chassis browser; they are visible only to the player they are assigned to. Whitelisted chassis assignment is handled by server administration and is not modifiable through standard in-game tools.
+Some chassis are reserved for specific individuals by prior arrangement with NanoTrasen. Reserved chassis do not appear in the standard selection interface; they are accessible only to the assigned individual. Assignments are managed through NanoTrasen records. No standard tools exist on station to modify these assignments.
 
 ---
 
