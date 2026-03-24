@@ -18,17 +18,9 @@ A break or overload at any stage of this chain cuts power to everything downstre
 
 ## SMES Units
 
-Station Mechanical Energy Storage (SMES) units are the primary buffer between generation and distribution. Each unit holds a maximum charge of 5,000,000 units and regulates both intake and output independently.
+Station Mechanical Energy Storage (SMES) units are the primary buffer between generation and distribution. Each unit accepts power from upstream generators, accumulates it, and delivers regulated output to the APC network downstream. A depleted SMES with no active generation source causes a complete power failure for all APCs downstream of it.
 
-| Parameter | Default | Maximum |
-|---|---|---|
-| Capacity | 5,000,000 | 5,000,000 |
-| Input rate | 50,000/cycle | 200,000/cycle |
-| Output rate | 50,000/cycle | 200,000/cycle |
-
-The input and output rates are configured separately. A correctly tuned SMES will output at a rate matching consumption while storing any surplus from generation. If generation drops below consumption, the SMES draws down its stored charge to cover the shortfall until either generation recovers or the unit is depleted.
-
-A depleted SMES with no generation source causes a full grid failure for all APCs downstream of it.
+For configuration, specifications, construction, upgrading, wiring, and failure mode reference, see [SMES](SMES.md).
 
 ---
 
@@ -98,4 +90,4 @@ APC terminals are the wall-mounted connection point between the powernet cable a
 
 ---
 
-*See also: [Supermatter Engine](SupermatterEngine.md), [Atmospherics](Atmospherics.md)*
+*See also: [SMES](SMES.md), [Supermatter Engine](SupermatterEngine.md), [Atmospherics](Atmospherics.md)*

@@ -10,6 +10,16 @@ A Superconducting Magnetic Energy Storage unit (SMES) is a power storage and con
 
 The SMES interface opens by pressing the unit with an empty hand. The same controls are accessible remotely through an RCON console if the unit has been assigned an RCON tag.
 
+### Specifications
+
+| Parameter | Default | Maximum |
+|---|---|---|
+| Maximum stored energy | 5,000,000 | 5,000,000 |
+| Input rate | 50,000 per cycle | 200,000 per cycle |
+| Output rate | 50,000 per cycle | 200,000 per cycle |
+
+Maximum input and output rates increase when higher-grade coils are installed. See [Upgrading](#upgrading).
+
 ### Input
 
 The input setting governs how much power the unit draws from the upstream network. The maximum allowable input rate is set by the coil configuration and can be raised by adding higher-grade coils. Two modes are available:
@@ -33,6 +43,10 @@ The output setting governs how much power the unit delivers to the downstream ne
 ### RCON Tagging
 
 Assigning an RCON tag allows the unit to be operated from a Remote Control console. Tags must be unique across all SMES units on the network. Applying the multitool to the unit opens the tag entry interface. Setting the tag to `NO_TAG` disables RCON operation.
+
+### Grid Failure
+
+A correctly tuned SMES outputs at a rate matching consumption while accumulating any surplus from generation. If generation falls below consumption, the unit draws down its stored charge to cover the shortfall until either generation recovers or the unit is fully depleted. A depleted SMES with no active generation source causes a complete power failure for all APCs on its downstream network.
 
 ---
 
