@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Xohox
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Xohox
 
 # Xohox
 
@@ -44,5 +44,5 @@ The dominant political stance among spacefaring zaddat is that Xohox cannot be r
 
 ## See Also
 
-- [Zaddat](../Species/Zaddat.md) -- full species profile, physiology, Colonies, and cultural context
+- [Zaddat](../../Species/Zaddat.md) -- full species profile, physiology, Colonies, and cultural context
 - [Moghes](Moghes.md) -- Unathi homeworld; Hegemony center of power

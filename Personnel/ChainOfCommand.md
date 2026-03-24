@@ -10,7 +10,7 @@
 
 ## Corporate Executives
 
-[NanoTrasen](../Organizations/NanoTrasen.md) Systems is the largest manufacturer and employer in known space. Their company laws are the standard by benefit of inter-corporate agreements. In 2543, a NanoTrasen mining company, Silar Group, discovered [Phoron](../History/PhoronAndBluespace.md) in a sunless system. NanoTrasen became the largest seller and researcher of the substance and holds this position as of 2550.
+[NanoTrasen](../Organizations/NanoTrasen.md) Systems is the largest manufacturer and employer in known space. Their company laws are the standard by benefit of inter-corporate agreements. In 2543, a NanoTrasen mining company, Silar Group, discovered [Phoron](../History/Setting/PhoronAndBluespace.md) in a sunless system. NanoTrasen became the largest seller and researcher of the substance and holds this position as of 2550.
 
 | Role | Authority |
 |------|-----------|

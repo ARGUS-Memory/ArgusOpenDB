@@ -30,4 +30,4 @@ Cargo departments occasionally interact with FTU-registered merchants when proce
 
 ---
 
-*See also: [Trans-Stellar Corporations](ListOfTSCs.md), [Known Space](../History/KnownSpace.md)*
+*See also: [Trans-Stellar Corporations](ListOfTSCs.md), [Known Space](../History/Setting/KnownSpace.md)*

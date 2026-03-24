@@ -1,8 +1,8 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Phoron and Bluespace
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Setting](README.md) > Phoron and Bluespace
 
 # Phoron and Bluespace
 
-<img src="../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
 Phoron is the substance underlying faster-than-light travel, high-yield power generation, and advanced pharmaceutical synthesis; bluespace is the dimensional phenomenon phoron mediates and which FTL drives exploit.
 
@@ -35,7 +35,7 @@ Phoron's three primary applications are **FTL travel** (powering on-ship FTL dri
 
 **Supermatter** is a poorly understood exotic phase of phoron: a condensed crystalline form believed to possess a hyperdimensional structure existing largely in bluespace. Reliable study is difficult due to its properties. Supermatter emits heavy radiation, phoron gas, and oxygen when stimulated by a phoron laser or direct energy input. Overheating or exposure to vacuum causes catastrophic collapse, typically an implosion followed by a detonation. Direct contact with organic matter reduces the subject to ash rapidly. Energetic probing destroys the probing instrument.
 
-Despite the risks, supermatter is used extensively in thermoelectric power generation. A supermatter crystal in a properly managed cooling loop provides a near-limitless energy output. See [Supermatter Engine](../Systems/Engineering/SupermatterEngine.md) for operational procedures.
+Despite the risks, supermatter is used extensively in thermoelectric power generation. A supermatter crystal in a properly managed cooling loop provides a near-limitless energy output. See [Supermatter Engine](../../Systems/Engineering/SupermatterEngine.md) for operational procedures.
 
 ---
 

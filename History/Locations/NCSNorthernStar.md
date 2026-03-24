@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > NCS Northern Star
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > NCS Northern Star
 
 # NCS Northern Star
 

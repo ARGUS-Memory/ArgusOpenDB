@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Roanoke
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Roanoke
 
 # Roanoke
 
@@ -50,4 +50,4 @@ Spacefaring alraune are present across frontier stations including those in the 
 
 ## See Also
 
-- [Alraune](../Species/Alraune.md) -- full species profile, biology, and cultural detail
+- [Alraune](../../Species/Alraune.md) -- full species profile, biology, and cultural detail

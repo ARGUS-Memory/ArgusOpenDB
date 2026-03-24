@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Vir Interstellar Spaceport
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Vir Interstellar Spaceport
 
 # Vir Interstellar Spaceport
 
@@ -26,4 +26,4 @@ The Vir Interstellar Spaceport is the primary interface between in-system and in
 
 ---
 
-*See also: [Vir](Vir.md), [Sif](Sif.md), [NCS Northern Star](NCSNorthernStar.md), [FTL Travel](FTLTravel.md)*
+*See also: [Vir](Vir.md), [Sif](Sif.md), [NCS Northern Star](NCSNorthernStar.md), [FTL Travel](../Setting/FTLTravel.md)*

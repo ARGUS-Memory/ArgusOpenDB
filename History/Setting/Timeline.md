@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Timeline
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Setting](README.md) > Timeline
 
 # Timeline
 
@@ -68,4 +68,4 @@ The Vir system, discovered rich in phoron deposits in nearby asteroid fields, re
 
 ---
 
-*See also: [Known Space](KnownSpace.md), [Phoron and Bluespace](PhoronAndBluespace.md), [NanoTrasen](../Organizations/NanoTrasen.md), [USDF](../Organizations/USDF.md), [Syndicate](../Organizations/Syndicate.md)*
+*See also: [Known Space](KnownSpace.md), [Phoron and Bluespace](PhoronAndBluespace.md), [NanoTrasen](../../Organizations/NanoTrasen.md), [USDF](../../Organizations/USDF.md), [Syndicate](../../Organizations/Syndicate.md)*

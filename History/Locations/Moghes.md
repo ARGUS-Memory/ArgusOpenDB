@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Moghes
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Moghes
 
 # Moghes
 
@@ -48,4 +48,4 @@ The Moghes Duneworm is a critically endangered delicacy. Completely blind and om
 
 ---
 
-*See also: [Known Space](KnownSpace.md), [Timeline](Timeline.md)*
+*See also: [Known Space](../Setting/KnownSpace.md), [Timeline](../Setting/Timeline.md)*

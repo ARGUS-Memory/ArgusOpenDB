@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Vilous System
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Vilous System
 
 # Vilous System
 
@@ -46,5 +46,5 @@ Nevrean-sergal tensions aboard mixed installations are generally managed profess
 
 ## See Also
 
-- [Sergal](../Species/Sergal.md) -- full species profile, Northern and Southern subspecies, language, and medical notes
-- [Nevrean](../Species/Nevrean.md) -- full species profile, flight capability, language, and medical notes
+- [Sergal](../../Species/Sergal.md) -- full species profile, Northern and Southern subspecies, language, and medical notes
+- [Nevrean](../../Species/Nevrean.md) -- full species profile, flight capability, language, and medical notes

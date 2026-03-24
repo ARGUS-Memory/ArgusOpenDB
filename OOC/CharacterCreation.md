@@ -17,7 +17,7 @@ CHOMPstation is a roleplay-focused server. Your character should be a believable
 - What is their personality, and how do they behave under stress?
 - What is their backstory, and does it fit the setting?
 
-Limit your backstory to things that are plausible within a large interstellar corporation. Review the [Lore](../History/KnownSpace.md) and setting history before inventing significant events.
+Limit your backstory to things that are plausible within a large interstellar corporation. Review the [Lore](../History/Setting/KnownSpace.md) and setting history before inventing significant events.
 
 ---
 

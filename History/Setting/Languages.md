@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Languages
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Setting](README.md) > Languages
 
 # Languages
 

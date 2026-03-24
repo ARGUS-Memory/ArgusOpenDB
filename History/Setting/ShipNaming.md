@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Ship Naming
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Setting](README.md) > Ship Naming
 
 # Ship Naming
 
@@ -50,4 +50,4 @@ From the prefix NLS alone, a reader can determine that the Southern Cross is a l
 
 ---
 
-*See also: [FTL Travel](FTLTravel.md), [NLS Southern Cross](NLSSouthernCross.md)*
+*See also: [FTL Travel](FTLTravel.md), [NLS Southern Cross](../Locations/NLSSouthernCross.md)*

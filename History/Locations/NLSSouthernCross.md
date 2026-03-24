@@ -1,10 +1,10 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > NLS Southern Cross
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > NLS Southern Cross
 
 # NLS Southern Cross
 
-<img src="../assets/raptor_idle_south.png" width="96" align="right">
+<img src="../../assets/raptor_idle_south.png" width="96" align="right">
 
-The NLS Southern Cross is a [NanoTrasen](../Organizations/NanoTrasen.md) logistical station in orbit of Sif, [Vir](Vir.md) system, serving as a telecommunications relay, cargo platform, research installation, and primary crew hub for NanoTrasen operations in the system.
+The NLS Southern Cross is a [NanoTrasen](../../Organizations/NanoTrasen.md) logistical station in orbit of Sif, [Vir](Vir.md) system, serving as a telecommunications relay, cargo platform, research installation, and primary crew hub for NanoTrasen operations in the system.
 
 ---
 

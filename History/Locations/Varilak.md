@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > Varilak
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Locations](README.md) > Varilak
 
 # Varilak
 
@@ -44,4 +44,4 @@ The relationship between vasilissan society and NanoTrasen remains primarily tra
 
 ## See Also
 
-- [Vasilissans](../Species/Vasilissans.md) -- full species profile, biology, culture, and operational notes
+- [Vasilissans](../../Species/Vasilissans.md) -- full species profile, biology, culture, and operational notes

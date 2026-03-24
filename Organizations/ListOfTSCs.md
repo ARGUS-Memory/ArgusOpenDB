@@ -34,4 +34,4 @@ Trans-stellar corporations are multi-billion-Thaler entities with assets and inf
 
 ---
 
-*See also: [NanoTrasen](NanoTrasen.md), [Known Space](../History/KnownSpace.md)*
+*See also: [NanoTrasen](NanoTrasen.md), [Known Space](../History/Setting/KnownSpace.md)*

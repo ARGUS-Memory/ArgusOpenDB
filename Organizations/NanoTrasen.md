@@ -24,7 +24,7 @@ The corporation operating this station: a trans-stellar enterprise with primary 
 
 **NanoTrasen Systems Incorporated** is the corporation responsible for operating this station. The company was founded on Mars as a biomedical research and gene-therapy firm. Through sustained expansion and acquisition across human space, it reached trans-stellar status before the turn of the century.
 
-The discovery of [phoron](../History/PhoronAndBluespace.md) in the Gliese 229 system transformed the corporation's scale and scope. NanoTrasen holds primary extraction rights above the phoron giant Erebus and operates a broad network of research stations, industrial facilities, and support vessels across multiple systems. Current research priorities include phoron applications, genetics, bluespace phenomena, and hydroponics.
+The discovery of [phoron](../History/Setting/PhoronAndBluespace.md) in the Gliese 229 system transformed the corporation's scale and scope. NanoTrasen holds primary extraction rights above the phoron giant Erebus and operates a broad network of research stations, industrial facilities, and support vessels across multiple systems. Current research priorities include phoron applications, genetics, bluespace phenomena, and hydroponics.
 
 NanoTrasen employs personnel across science, medicine, engineering, security, logistics, and administration. Assignment to specific roles is determined by commanding officers according to operational requirements at the installation. The corporation accepts qualified applicants across most departments and provides placement for specialists in supporting roles including logistics, culinary services, and sanitation.
 

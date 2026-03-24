@@ -312,22 +312,22 @@ Background records on the setting, relevant history, and key locations in the op
 
 | Document | Summary |
 |---|---|
-| [Known Space](History/KnownSpace.md) | Era, species, trans-stellar corporations, and governing bodies across known space |
-| [Timeline](History/Timeline.md) | Key events from early spaceflight through the current operational era |
-| [FTL Travel](History/FTLTravel.md) | Bluespace drive types, routing logistics, hazards, and vessel registration |
-| [Ship Naming](History/ShipNaming.md) | SolGov prefix conventions, vessel naming rules, and registration numbers |
-| [Languages](History/Languages.md) | Reference for human, species, and synthetic languages encountered in known space |
-| [Vir](History/Vir.md) | System history, government, NanoTrasen presence, and notable locations |
-| [Sif](History/Sif.md) | Capital planet of Vir; demographics, geography, and VGA governance |
-| [Vir Interstellar Spaceport](History/VirSpaceport.md) | VGA-owned orbital transit hub in Sif orbit; NT holdings and evacuation routing |
-| [NCS Northern Star](History/NCSNorthernStar.md) | NanoTrasen asteroid colony in the Kara belt; history, structure, and operations |
-| [Moghes](History/Moghes.md) | Unathi homeworld; Uueoa-Esa system, geography, flora, and fauna |
-| [NLS Southern Cross](History/NLSSouthernCross.md) | Station structure, departmental layout, and operational overview |
-| [Phoron and Bluespace](History/PhoronAndBluespace.md) | Phoron properties, supermatter, and theoretical frameworks for bluespace |
-| [Xohox](History/Xohox.md) | Zaddat origin world; industrial collapse, the Darkening, and current uninhabitable status |
-| [Roanoke](History/Roanoke.md) | Alraune homeworld; high-pressure tropical environment, first contact conflict, and ceasefire |
-| [Varilak](History/Varilak.md) | Vasilissan homeworld; temperate jungle world, exceptional mineral wealth, and gem-religion culture |
-| [Vilous System](History/VilouSystem.md) | Sergal and nevrean home system; Tal, Gold Ring City, and the Eltus group cohabitation history |
+| [Known Space](History/Setting/KnownSpace.md) | Era, species, trans-stellar corporations, and governing bodies across known space |
+| [Timeline](History/Setting/Timeline.md) | Key events from early spaceflight through the current operational era |
+| [FTL Travel](History/Setting/FTLTravel.md) | Bluespace drive types, routing logistics, hazards, and vessel registration |
+| [Ship Naming](History/Setting/ShipNaming.md) | SolGov prefix conventions, vessel naming rules, and registration numbers |
+| [Languages](History/Setting/Languages.md) | Reference for human, species, and synthetic languages encountered in known space |
+| [Vir](History/Locations/Vir.md) | System history, government, NanoTrasen presence, and notable locations |
+| [Sif](History/Locations/Sif.md) | Capital planet of Vir; demographics, geography, and VGA governance |
+| [Vir Interstellar Spaceport](History/Locations/VirSpaceport.md) | VGA-owned orbital transit hub in Sif orbit; NT holdings and evacuation routing |
+| [NCS Northern Star](History/Locations/NCSNorthernStar.md) | NanoTrasen asteroid colony in the Kara belt; history, structure, and operations |
+| [Moghes](History/Locations/Moghes.md) | Unathi homeworld; Uueoa-Esa system, geography, flora, and fauna |
+| [NLS Southern Cross](History/Locations/NLSSouthernCross.md) | Station structure, departmental layout, and operational overview |
+| [Phoron and Bluespace](History/Setting/PhoronAndBluespace.md) | Phoron properties, supermatter, and theoretical frameworks for bluespace |
+| [Xohox](History/Locations/Xohox.md) | Zaddat origin world; industrial collapse, the Darkening, and current uninhabitable status |
+| [Roanoke](History/Locations/Roanoke.md) | Alraune homeworld; high-pressure tropical environment, first contact conflict, and ceasefire |
+| [Varilak](History/Locations/Varilak.md) | Vasilissan homeworld; temperate jungle world, exceptional mineral wealth, and gem-religion culture |
+| [Vilous System](History/Locations/VilouSystem.md) | Sergal and nevrean home system; Tal, Gold Ring City, and the Eltus group cohabitation history |
 
 ---
 

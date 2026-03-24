@@ -1,4 +1,4 @@
-[ARGUS Station Database](../README.md) > [History](README.md) > FTL Travel
+[ARGUS Station Database](../../README.md) > [History](../README.md) > [Setting](README.md) > FTL Travel
 
 # FTL Travel
 
@@ -60,4 +60,4 @@ SolGov's approach to licensing has alternated between restrictive and permissive
 
 ---
 
-*See also: [Timeline](Timeline.md), [Phoron and Bluespace](PhoronAndBluespace.md), [Ship Naming](ShipNaming.md), [Vir](Vir.md)*
+*See also: [Timeline](Timeline.md), [Phoron and Bluespace](PhoronAndBluespace.md), [Ship Naming](ShipNaming.md), [Vir](../Locations/Vir.md)*
