@@ -165,13 +165,13 @@ Cadets are assistants pursuing a Security career and are educated by Security pe
 - R.O.B.U.S.T. PDA cartridge
 - Security belt
 - Security caution tape
-- Flasher
-- Pepper spray
-- Stun baton
-- Taser (a stun revolver is an acceptable substitute)
-- Flashbang
+- <img src="../../assets/icons/security/flash.png" width="32"> Flasher
+- <img src="../../assets/icons/security/pepper_spray.png" width="32"> Pepper spray
+- <img src="../../assets/icons/security/stun_baton.png" width="32"> Stun baton
+- <img src="../../assets/icons/security/taser.png" width="32"> Taser (a stun revolver is an acceptable substitute)
+- <img src="../../assets/icons/security/flashbang.png" width="32"> Flashbang
 - Hailer
-- Minimum one pair of handcuffs
+- <img src="../../assets/icons/security/handcuffs.png" width="32"> Minimum one pair of handcuffs
 - Universal recorder (optional)
 - Basic first aid supplies (optional)
 - Emergency light source (flare or flashlight)
@@ -202,7 +202,7 @@ If two Detectives are present, investigative equipment is shared between them.
 
 - Warden attire
 - Warden armored jacket (standard Security armored vest is acceptable)
-- Box of handcuffs
+- <img src="../../assets/icons/security/handcuffs.png" width="32"> Box of handcuffs
 - Within the Security wing: authorized to carry any available weapon except semi/fully automatic rifle-caliber ballistics, explosives, and pulse rifles
 - Outside the Security wing: non-lethal weapons and munitions only, carried within a backpack
 

@@ -12,14 +12,14 @@ Operational reference for the Chemical Synthesizer: compound formulae, import st
 
 ### Equipment
 
-| Item | Capacity | Notable |
-|---|---|---|
-| [Chemical Synthesizer](#chemical-synthesizer) | 24 base cartridges | Catalysts loaded separately; 5u recharge per cycle |
-| [Beaker](#beaker) | 50u | Standard vessel; reagents react on contact |
-| [Large Beaker](#large-beaker) | 100u | High-volume runs |
-| [Bluespace Beaker](#bluespace-beaker) | 300u | Full-capacity runs; not in base storage |
-| [Cryostasis Beaker](#cryostasis-beaker) | 50u | Suppresses reactions; no capacity increase |
-| [Vial](#vial) | 30u | Precision dosing; accepts labels |
+| Icon | Item | Capacity | Notable |
+|---|---|---|---|
+| | [Chemical Synthesizer](#chemical-synthesizer) | 24 base cartridges | Catalysts loaded separately; 5u recharge per cycle |
+| <img src="../../assets/icons/medical/beaker.png" width="32"> | [Beaker](#beaker) | 50u | Standard vessel; reagents react on contact |
+| <img src="../../assets/icons/medical/beaker_large.png" width="32"> | [Large Beaker](#large-beaker) | 100u | High-volume runs |
+| <img src="../../assets/icons/medical/beaker_bluespace.png" width="32"> | [Bluespace Beaker](#bluespace-beaker) | 300u | Full-capacity runs; not in base storage |
+| <img src="../../assets/icons/medical/beaker_cryostasis.png" width="32"> | [Cryostasis Beaker](#cryostasis-beaker) | 50u | Suppresses reactions; no capacity increase |
+| <img src="../../assets/icons/medical/vial.png" width="32"> | [Vial](#vial) | 30u | Precision dosing; accepts labels |
 
 ### Medical Compounds
 
@@ -93,7 +93,7 @@ Containers receive output from the synthesizer and carry reagents for administra
 
 ### Beaker
 
-<img src="../../assets/chem_beaker.png" width="48" align="right">
+<img src="../../assets/icons/medical/beaker.png" width="32" align="right">
 
 The **beaker** is the standard reaction and transfer vessel. It holds up to 50u of reagent. Reagents placed in the same beaker react automatically if a valid reaction exists; this makes it useful for chaining synthesis outside the machine, but also a contamination risk if multiple reagents are present unexpectedly.
 
@@ -101,7 +101,7 @@ The **beaker** is the standard reaction and transfer vessel. It holds up to 50u 
 
 ### Large Beaker
 
-<img src="../../assets/chem_beaker_large.png" width="48" align="right">
+<img src="../../assets/icons/medical/beaker_large.png" width="32" align="right">
 
 The **large beaker** holds up to 100u. Used for high-volume production runs where the standard beaker capacity is insufficient. Reaction behavior is identical to the standard beaker.
 
@@ -109,7 +109,7 @@ The **large beaker** holds up to 100u. Used for high-volume production runs wher
 
 ### Bluespace Beaker
 
-<img src="../../assets/chem_beaker_bluespace.png" width="48" align="right">
+<img src="../../assets/icons/medical/beaker_bluespace.png" width="32" align="right">
 
 The **bluespace beaker** holds up to 300u. Suitable for full-capacity synthesizer runs and bulk transfer operations. Available through requisition or research supply; not stocked in base chemistry storage.
 
@@ -117,7 +117,7 @@ The **bluespace beaker** holds up to 300u. Suitable for full-capacity synthesize
 
 ### Cryostasis Beaker
 
-<img src="../../assets/chem_beaker_noreact.png" width="48" align="right">
+<img src="../../assets/icons/medical/beaker_cryostasis.png" width="32" align="right">
 
 The **cryostasis beaker** suppresses chemical reactions between its contents. Reagents placed inside do not react with each other regardless of concentration. This makes it the correct storage vessel when carrying multiple reactive compounds simultaneously, or when preserving an intermediate reagent for use in a later step. Capacity is 50u. The cryostasis effect is purely contained; reagents behave normally once transferred to a standard vessel.
 
@@ -125,7 +125,7 @@ The **cryostasis beaker** suppresses chemical reactions between its contents. Re
 
 ### Vial
 
-<img src="../../assets/chem_vial.png" width="48" align="right">
+<img src="../../assets/icons/medical/vial.png" width="32" align="right">
 
 The **vial** holds up to 30u. Used for precise small-volume doses and individual patient dispensing. Vials accept labels for identification.
 

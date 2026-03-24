@@ -1,0 +1,69 @@
+Item Name,DMI File,Icon State,Complexity,Subdirectory,Output Path
+Standard Pickaxe,icons/obj/items.dmi,pickaxe,simple,cargo/,standard_pickaxe.png
+Silver Pickaxe,icons/obj/items.dmi,spickaxe,simple,cargo/,silver_pickaxe.png
+Gold Pickaxe,icons/obj/items.dmi,gpickaxe,simple,cargo/,gold_pickaxe.png
+Diamond Pickaxe,icons/obj/items.dmi,dpickaxe,simple,cargo/,diamond_pickaxe.png
+Mining Drill,icons/obj/items.dmi,drill,simple,cargo/,mining_drill.png
+Advanced Drill,icons/obj/items.dmi,advdrill,simple,cargo/,advanced_drill.png
+Diamond Drill,icons/obj/items.dmi,diamonddrill,simple,cargo/,diamond_drill.png
+Shovel,icons/obj/items.dmi,shovel,simple,cargo/,shovel.png
+Spade,icons/obj/items.dmi,spade,simple,cargo/,spade.png
+Hematite Ore,icons/obj/mining_ore.dmi,ore_iron,simple,cargo/,hematite_ore.png
+Copper Ore,icons/obj/mining_ore.dmi,ore_copper,simple,cargo/,copper_ore.png
+Tin Ore,icons/obj/mining_ore.dmi,ore_tin,simple,cargo/,tin_ore.png
+Bauxite Ore,icons/obj/mining_ore.dmi,ore_bauxite,simple,cargo/,bauxite_ore.png
+Quartz Ore,icons/obj/mining_ore.dmi,ore_quartz,simple,cargo/,quartz_ore.png
+Diamond Ore,icons/obj/mining_ore.dmi,ore_diamond,simple,cargo/,diamond_ore.png
+Gold Ore,icons/obj/mining_ore.dmi,ore_gold,simple,cargo/,gold_ore.png
+Silver Ore,icons/obj/mining_ore.dmi,ore_silver,simple,cargo/,silver_ore.png
+Uranium Ore,icons/obj/mining_ore.dmi,ore_uranium,simple,cargo/,uranium_ore.png
+Phoron Ore,icons/obj/mining_ore.dmi,ore_phoron,simple,cargo/,phoron_ore.png
+Coal Ore,icons/obj/mining_ore.dmi,ore_coal,simple,cargo/,coal_ore.png
+Lead Ore,icons/obj/mining_ore.dmi,ore_lead,simple,cargo/,lead_ore.png
+Platinum Ore,icons/obj/mining_ore.dmi,ore_platinum,simple,cargo/,platinum_ore.png
+Rutile Ore,icons/obj/mining_ore.dmi,ore_rutile,simple,cargo/,rutile_ore.png
+Void Opal Ore,icons/obj/mining_ore.dmi,ore_void_opal,simple,cargo/,void_opal_ore.png
+Painite Ore,icons/obj/mining_ore.dmi,ore_painite,simple,cargo/,painite_ore.png
+Marble Ore,icons/obj/mining_ore.dmi,ore_marble,simple,cargo/,marble_ore.png
+Verdantium Ore,icons/obj/mining_ore.dmi,ore_verdantium,simple,cargo/,verdantium_ore.png
+Bread,icons/obj/food.dmi,bread,simple,service/,bread.png
+Meat Pizza,icons/obj/food.dmi,meatpizza,simple,service/,meat_pizza.png
+Margherita Pizza,icons/obj/food.dmi,pizzamargherita,simple,service/,margherita_pizza.png
+Cheeseburger,icons/obj/food.dmi,cheeseburger,simple,service/,cheeseburger.png
+Burger,icons/obj/food.dmi,hburger,simple,service/,burger.png
+Sandwich,icons/obj/food.dmi,sandwich,simple,service/,sandwich.png
+Fries,icons/obj/food.dmi,fries,simple,service/,fries.png
+Cheesy Fries,icons/obj/food.dmi,cheesyfries,simple,service/,cheesy_fries.png
+Cake,icons/obj/food.dmi,plaincake,simple,service/,cake.png
+Chocolate Cake,icons/obj/food.dmi,chocolatecake,simple,service/,chocolate_cake.png
+Cheesecake,icons/obj/food.dmi,cheesecake,simple,service/,cheesecake.png
+Pie,icons/obj/food.dmi,pie,simple,service/,pie.png
+Pumpkin Pie,icons/obj/food.dmi,pumpkinpie,simple,service/,pumpkin_pie.png
+Waffles,icons/obj/food.dmi,waffles,simple,service/,waffles.png
+Brownies,icons/obj/food.dmi,brownies,simple,service/,brownies.png
+Donut,icons/obj/food_donuts.dmi,donut,simple,service/,donut.png
+Chocolate Donut,icons/obj/food_donuts.dmi,donut_choc,simple,service/,chocolate_donut.png
+Pink Frosted Donut,icons/obj/food_donuts.dmi,donut_pink,simple,service/,pink_frosted_donut.png
+Bacon,icons/obj/food_snacks.dmi,tastybread,simple,service/,bacon.png
+Nuts,icons/obj/food_snacks.dmi,pistachios,simple,service/,nuts.png
+Beer,icons/obj/drinks.dmi,bigbeerglass,simple,service/,beer.png
+Coffee,icons/obj/drinks.dmi,carafe,simple,service/,coffee.png
+Wine,icons/obj/drinks.dmi,holywineglass,simple,service/,wine.png
+Cocktail,icons/obj/drinks.dmi,irishcarbomb,simple,service/,cocktail.png
+Tomato,icons/obj/hydroponics_products.dmi,tomato,simple,service/,tomato.png
+Carrot,icons/obj/hydroponics_products.dmi,carrot,simple,service/,carrot.png
+Banana,icons/obj/hydroponics_products.dmi,bananas,simple,service/,banana.png
+Grapes,icons/obj/hydroponics_products.dmi,grapes,simple,service/,grapes.png
+Corn,icons/obj/hydroponics_products.dmi,corn,simple,service/,corn.png
+Apple,icons/obj/hydroponics_products.dmi,apple,simple,service/,apple.png
+Wheat,icons/obj/hydroponics_products.dmi,wheat,simple,service/,wheat.png
+Potato,icons/obj/hydroponics_products.dmi,potato,simple,service/,potato.png
+Chili Pepper,icons/obj/hydroponics_products.dmi,chili,simple,service/,chili_pepper.png
+Cabbage,icons/obj/hydroponics_products.dmi,cabbage,simple,service/,cabbage.png
+Lettuce,icons/obj/hydroponics_products.dmi,lettuce,simple,service/,lettuce.png
+Hydroponics Tray,icons/obj/hydroponics_machines.dmi,hydrotray3,simple,service/,hydroponics_tray.png
+Plant Bag,icons/obj/hydroponics_machines.dmi,plantbag,simple,service/,plant_bag.png
+Seed Bag,icons/obj/hydroponics_machines.dmi,seedbag,simple,service/,seed_bag.png
+Weed Spray,icons/obj/hydroponics_machines.dmi,weedspray,simple,service/,weed_spray.png
+Pest Spray,icons/obj/hydroponics_machines.dmi,pestspray,simple,service/,pest_spray.png
+Plant-B-Gone,icons/obj/hydroponics_machines.dmi,plantbgone,simple,service/,plantbgone.png

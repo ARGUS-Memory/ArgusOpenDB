@@ -37,21 +37,21 @@ When transmitting on a departmental channel, the radio system prefixes the messa
 
 Encryption keys slot into headsets to grant access to departmental channels. A standard headset has two key slots. Keys can be inserted and removed by hand.
 
-| Key | Channels unlocked |
-|---|---|
-| Command | Command, Supply, Service, Security, Medical, Engineering, Science, Exploration |
-| Captain | All departmental channels + AI Private |
-| Security | Security |
-| Engineering | Engineering |
-| Medical | Medical |
-| Science | Science |
-| Service | Service |
-| Supply | Supply, Service |
-| Exploration | Exploration |
-| Head of Personnel | Supply, Service, Command, Security, Exploration |
-| Pathfinder | Exploration, Command |
-| Pilot | Exploration, Engineering |
-| Search and Rescue | Exploration, Medical |
+| Icon | Key | Channels unlocked |
+|---|---|---|
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Command | Command, Supply, Service, Security, Medical, Engineering, Science, Exploration |
+| <img src="../../assets/icons/command/cap_cypherkey.png" width="32"> | Captain | All departmental channels + AI Private |
+| <img src="../../assets/icons/command/sec_cypherkey.png" width="32"> | Security | Security |
+| <img src="../../assets/icons/command/eng_cypherkey.png" width="32"> | Engineering | Engineering |
+| <img src="../../assets/icons/command/med_cypherkey.png" width="32"> | Medical | Medical |
+| <img src="../../assets/icons/command/sci_cypherkey.png" width="32"> | Science | Science |
+| <img src="../../assets/icons/command/srv_cypherkey.png" width="32"> | Service | Service |
+| <img src="../../assets/icons/command/cargo_cypherkey.png" width="32"> | Supply | Supply, Service |
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Exploration | Exploration |
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Head of Personnel | Supply, Service, Command, Security, Exploration |
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Pathfinder | Exploration, Command |
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Pilot | Exploration, Engineering |
+| <img src="../../assets/icons/command/cypherkey.png" width="32"> | Search and Rescue | Exploration, Medical |
 
 Heads of staff carry multi-channel command keys that cover all relevant departments in their chain of command. The Captain and AI integrated headsets cover all channels simultaneously.
 
@@ -64,17 +64,17 @@ Heads of staff carry multi-channel command keys that cover all relevant departme
 
 Each department issues three physical headset form factors: a standard over-ear headset, a bowman headset (worn as a collar or jaw mount), and an earbud. All three forms function identically. The encryption key preinstalled determines the default departmental channel; keys can be swapped if the wearer has physical access to the appropriate key.
 
-| Department | Standard | Bowman | Earbud |
-|---|---|---|---|
-| General issue | Headset | Bowman headset | Earbud |
-| Security | Security headset | Security bowman | Security earbud |
-| Engineering | Engineering headset | Engineering bowman | Engineering earbud |
-| Medical | Medical headset | Medical bowman | Medical earbud |
-| Science | Science headset | Science bowman | Science earbud |
-| Service | Service headset | Service bowman | Service earbud |
-| Supply | Supply headset | Supply bowman | Supply earbud |
-| Exploration | Exploration headset | Exploration bowman | Exploration earbud |
-| Mining | Mining headset | -- | -- |
+| Icon | Department | Standard | Bowman | Earbud |
+|---|---|---|---|---|
+| <img src="../../assets/icons/command/headset.png" width="32"> | General issue | Headset | Bowman headset | Earbud |
+| <img src="../../assets/icons/command/sec_headset.png" width="32"> | Security | Security headset | Security bowman | Security earbud |
+| <img src="../../assets/icons/command/eng_headset.png" width="32"> | Engineering | Engineering headset | Engineering bowman | Engineering earbud |
+| <img src="../../assets/icons/command/med_headset.png" width="32"> | Medical | Medical headset | Medical bowman | Medical earbud |
+| | Science | Science headset | Science bowman | Science earbud |
+| <img src="../../assets/icons/command/srv_headset.png" width="32"> | Service | Service headset | Service bowman | Service earbud |
+| <img src="../../assets/icons/command/cargo_headset.png" width="32"> | Supply | Supply headset | Supply bowman | Supply earbud |
+| <img src="../../assets/icons/command/exp_headset.png" width="32"> | Exploration | Exploration headset | Exploration bowman | Exploration earbud |
+| | Mining | Mining headset | -- | -- |
 
 Mining headsets and exploration variants carry an **ad-hoc fallback** mode: when the primary station antenna is out of range or offline, these headsets fall back to short-range direct-band transmission between nearby units. This allows minimal communication within a working party even if station comms are down.
 

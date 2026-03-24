@@ -1,0 +1,26 @@
+Item Name,DMI Path,Icon State,Complexity,Output File,Source Article,Notes
+Ripley,mecha/mecha.dmi,ripley,COMPLEX,ripley.png,Mechs.md,APLU Ripley - mining exosuit
+Gygax,mecha/mecha.dmi,gygax,COMPLEX,gygax.png,Mechs.md,Gygax - security exosuit
+Durand,mecha/mecha.dmi,durand,COMPLEX,durand.png,Mechs.md,Durand - combat exosuit
+Marauder,mecha/mecha.dmi,marauder,COMPLEX,marauder.png,Mechs.md,Marauder - heavy combat exosuit
+Odysseus,mecha/mecha.dmi,odysseus,COMPLEX,odysseus.png,Mechs.md,Odysseus - medical exosuit
+Standard Cyborg,mob/robot/default.dmi,default,COMPLEX,standard_cyborg.png,Cyborgs.md,Base cyborg chassis
+Engineering Cyborg,mob/robot/engineering.dmi,default,COMPLEX,engineering_cyborg.png,Cyborgs.md,Engineering module cyborg
+Security Cyborg,mob/robot/combat.dmi,default,COMPLEX,security_cyborg.png,Cyborgs.md,Security module cyborg
+Medical Cyborg,mob/robot/medical.dmi,default,COMPLEX,medical_cyborg.png,Cyborgs.md,Medical module cyborg
+Janitor Cyborg,mob/robot/janitor.dmi,default,COMPLEX,janitor_cyborg.png,Cyborgs.md,Service module cyborg variant
+Maintenance Drone,mob/robots.dmi,maintbot,COMPLEX,maintenance_drone.png,Drones.md,Maintenance drone unit
+AI Core,mob/ai.dmi,ai,COMPLEX,ai_core.png,AIOverview.md / AILaws.md,Station AI core structure
+pAI Card,obj/paicard.dmi,pai,SIMPLE,pai_card.png,PAI.md,Personal AI card housing
+Grey Slime Extract,mob/slimes.dmi,grey slime extract,SIMPLE,grey_slime_extract.png,Xenobiology.md,Grey slime breeding extract
+Gold Slime Extract,mob/slimes.dmi,gold slime extract,SIMPLE,gold_slime_extract.png,Xenobiology.md,Gold slime breeding extract
+Silver Slime Extract,mob/slimes.dmi,silver slime extract,SIMPLE,silver_slime_extract.png,Xenobiology.md,Silver slime breeding extract
+Red Slime Extract,mob/slimes.dmi,red slime extract,SIMPLE,red_slime_extract.png,Xenobiology.md,Red slime breeding extract
+Blue Slime Extract,mob/slimes.dmi,blue slime extract,SIMPLE,blue_slime_extract.png,Xenobiology.md,Blue slime breeding extract
+Green Slime Extract,mob/slimes.dmi,green slime extract,SIMPLE,green_slime_extract.png,Xenobiology.md,Green slime breeding extract
+Purple Slime Extract,mob/slimes.dmi,purple slime extract,SIMPLE,purple_slime_extract.png,Xenobiology.md,Purple slime breeding extract
+Yellow Slime Extract,mob/slimes.dmi,yellow slime extract,SIMPLE,yellow_slime_extract.png,Xenobiology.md,Yellow slime breeding extract
+Orange Slime Extract,mob/slimes.dmi,orange slime extract,SIMPLE,orange_slime_extract.png,Xenobiology.md,Orange slime breeding extract
+Beaker,obj/reagentfillings.dmi,beaker-100,SIMPLE,beaker.png,Toxins.md / ResearchSystem.md,Standard 100 unit beaker
+Large Beaker,obj/reagentfillings.dmi,beakerlarge-100,SIMPLE,large_beaker.png,Toxins.md / ResearchSystem.md,Large 200 unit beaker
+Vial,obj/reagentfillings.dmi,vial-100,SIMPLE,vial.png,ResearchSystem.md,Small 50 unit vial

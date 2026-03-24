@@ -10,6 +10,14 @@ See also: [EVA](../Systems/Engineering/EVA.md) for softsuit and voidsuit operati
 
 ## Suit Catalogue
 
+| Icon | Suit | Designation | Primary Role |
+|---|---|---|---|
+| <img src="../assets/icons/personnel/eva_rig.png" width="32"> | EVA RIG | Standard EVA Hardsuit | Exterior hull maintenance and vacuum construction |
+| <img src="../assets/icons/personnel/medical_rig.png" width="32"> | Rescue Hardsuit | Medical Emergency Hardsuit | Emergency extraction and medical support |
+| <img src="../assets/icons/personnel/science_rig.png" width="32"> | AMI Hardsuit | Anomalous Material Interaction | Anomalous and exotic energy research |
+| <img src="../assets/icons/personnel/ce_rig.png" width="32"> | Advanced Voidsuit | Chief Engineer's Hardsuit | Enhanced engineering operations and construction |
+| <img src="../assets/icons/personnel/engineering_rig.png" width="32"> | Industrial Hardsuit | Heavy Mining Hardsuit | Asteroid operations and heavy construction |
+
 ### EVA RIG
 
 Standard engineering hardsuit stored in EVA Equipment. Designed for exterior hull maintenance and construction in vacuum.

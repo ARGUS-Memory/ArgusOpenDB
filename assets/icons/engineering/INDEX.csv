@@ -1,0 +1,31 @@
+ITEM_NAME,DMI_FILE,ICON_STATE,COMPLEXITY,OUTPUT_FILE,ARTICLE_REFERENCE
+Wrench,icons/obj/tools.dmi,wrench,Simple,wrench.png,Construction.md
+Screwdriver,icons/obj/tools.dmi,screwdriver,Simple,screwdriver.png,Construction.md
+Welder,icons/obj/tools.dmi,welder,Simple,welder.png,Construction.md
+Crowbar,icons/obj/tools.dmi,crowbar,Simple,crowbar.png,Construction.md
+Wirecutters,icons/obj/tools.dmi,cutters,Simple,wirecutters.png,Construction.md
+APC,icons/obj/power.dmi,apc0,Simple,apc_off.png,PowerGrid.md
+SMES Unit,icons/obj/power.dmi,smes,Simple,smes_off.png,SMES.md
+SMES Unit (Generic),icons/obj/power.dmi,gsmes,Simple,smes_generic.png,SMES.md
+Solar Panel,icons/obj/power.dmi,solar_panel,Simple,solar_panel.png,Solars.md
+Power Cell,icons/obj/power_cells.dmi,b_st,Simple,power_cell_standard.png,PowerGrid.md
+Gas Pump (Off),icons/atmos/pump.dmi,pump-off,Simple,gas_pump_off.png,AtmosEquipment.md
+Gas Pump (On),icons/atmos/pump.dmi,pump-on,Simple,gas_pump_on.png,AtmosEquipment.md
+Air Vent (Off),icons/atmos/vent_pump.dmi,off,Simple,air_vent_off.png,AtmosEquipment.md
+Air Vent (Release),icons/atmos/vent_pump.dmi,out,Simple,air_vent_out.png,AtmosEquipment.md
+Air Vent (Siphon),icons/atmos/vent_pump.dmi,in,Simple,air_vent_in.png,AtmosEquipment.md
+Gas Filter (Off),icons/atmos/filter.dmi,off,Simple,gas_filter_off.png,AtmosEquipment.md
+Gas Filter (On),icons/atmos/filter.dmi,on,Simple,gas_filter_on.png,AtmosEquipment.md
+Pressure Regulator,icons/atmos/passive_gate.dmi,off,Simple,pressure_regulator.png,AtmosEquipment.md
+Pipes,icons/atmos/pipes.dmi,intact,COMPLEX,pipes_directional.png,AtmosEquipment.md
+Digital Valve,icons/atmos/digital_valve.dmi,map_valve0,Simple,valve_digital.png,AtmosEquipment.md
+Gas Canister,icons/obj/tank.dmi,canister,Simple,gas_canister.png,AtmosEmergencies.md
+Oxygen Tank,icons/obj/tank.dmi,emergency,Simple,oxygen_tank.png,EVA.md
+Tesla Coil (Off),icons/obj/tesla_engine/tesla_coil.dmi,coil0,Simple,tesla_coil_off.png,TeslaEngine.md
+Tesla Coil (On),icons/obj/tesla_engine/tesla_coil.dmi,coil1,Simple,tesla_coil_on.png,TeslaEngine.md
+Grounding Rod,icons/obj/tesla_engine/tesla_coil.dmi,grounding_rod0,Simple,grounding_rod.png,TeslaEngine.md
+Supermatter Crystal,icons/obj/supermatter.dmi,darkmatter,COMPLEX_ANIMATED,supermatter_crystal.png,SupermatterEngine.md
+Voidsuit,icons/obj/clothing/spacesuit.dmi,void,Simple,voidsuit.png,EVA.md
+Softsuit,icons/obj/suitdispenser.dmi,fullsuit,Simple,softsuit.png,EVA.md
+Fire Extinguisher,icons/obj/items.dmi,fire_extinguisher0,Simple,fire_extinguisher.png,AtmosEmergencies.md
+Multitool,icons/obj/hacktool.dmi,hacktool,Simple,multitool.png,Hacking.md

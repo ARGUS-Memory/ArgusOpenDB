@@ -80,12 +80,12 @@ An electromagnetic pulse device designed to disable electronics and silicon enti
 
 ### Standard EMP
 
-| Zone | Radius |
-|---|---|
-| Heavy EMP | ~2 metres |
-| Medium EMP | ~4 metres |
-| Light EMP | ~7 metres |
-| Long-range EMP | ~10 metres |
+| Icon | Zone | Radius |
+|---|---|---|
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Heavy EMP | ~2 metres |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Medium EMP | ~4 metres |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Light EMP | ~7 metres |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Long-range EMP | ~10 metres |
 
 Each zone triggers a different level of disruption. Heavy EMP at close range can immediately disable or damage cyborg components and APCs. Medium EMP disrupts powered equipment and causes cell drain. Light and long-range EMP cause temporary interference and minor cell loss.
 
@@ -95,12 +95,12 @@ Effects on biological targets are minimal. The EMP grenade is the primary tool f
 
 A reduced-power variant with halved radii across all zones.
 
-| Zone | Radius |
-|---|---|
-| Heavy EMP | ~1 metre |
-| Medium EMP | ~2 metres |
-| Light EMP | ~3 metres |
-| Long-range EMP | ~4 metres |
+| Icon | Zone | Radius |
+|---|---|---|
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Heavy EMP | ~1 metre |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Medium EMP | ~2 metres |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Light EMP | ~3 metres |
+| <img src="../../assets/icons/security/emp_grenade.png" width="32"> | Long-range EMP | ~4 metres |
 
 Used when a full EMP pulse would cause collateral damage to nearby station equipment or allied cyborgs.
 

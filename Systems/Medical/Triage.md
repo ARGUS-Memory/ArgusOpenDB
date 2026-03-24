@@ -24,6 +24,8 @@ Medical HUDs and AR-M glasses display a floating health bar above crew members. 
 
 ### Health Analyzer
 
+<img src="../../assets/icons/medical/health_analyzer.png" width="32" align="right">
+
 The health analyzer provides exact brute, burn, toxin, and suffocation (oxy) values, and flags genetic damage, radiation, fractures, and internal bleeding when present. It does not quantify genetic damage, radiation, or brain damage; a body scanner is required for precise readings on these.
 
 ### Body Scanner

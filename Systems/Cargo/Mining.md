@@ -12,22 +12,22 @@ The mining department extracts raw ore from asteroid and cave formations accessi
 
 Pickaxes are the standard handheld digging tool. Different grades trade raw durability for dig speed.
 
-| Pickaxe | Dig Time | Notes |
-|---|---|---|
-| Standard Pickaxe | ~3.5 seconds | Basic issue |
-| Silver Pickaxe | ~2.5 seconds | Faster than standard |
-| Gold Pickaxe | ~2 seconds | Faster than silver |
-| Diamond Pickaxe | ~1 second | Fastest available |
+| Icon | Pickaxe | Dig Time | Notes |
+|---|---|---|---|
+| <img src="../../assets/icons/cargo/standard_pickaxe.png" width="32"> | Standard Pickaxe | ~3.5 seconds | Basic issue |
+| <img src="../../assets/icons/cargo/silver_pickaxe.png" width="32"> | Silver Pickaxe | ~2.5 seconds | Faster than standard |
+| <img src="../../assets/icons/cargo/gold_pickaxe.png" width="32"> | Gold Pickaxe | ~2 seconds | Faster than silver |
+| <img src="../../assets/icons/cargo/diamond_pickaxe.png" width="32"> | Diamond Pickaxe | ~1 second | Fastest available |
 
 ### Drills
 
 Drills dig at a moderate speed but can also excavate sand, which pickaxes cannot.
 
-| Drill | Dig Time | Notes |
-|---|---|---|
-| Mining Drill | ~3 seconds | Can dig sand |
-| Advanced Drill | ~2.5 seconds | Improved version |
-| Diamond Drill | under 0.5 seconds | Fastest drill available; excavates all material |
+| Icon | Drill | Dig Time | Notes |
+|---|---|---|---|
+| <img src="../../assets/icons/cargo/mining_drill.png" width="32"> | Mining Drill | ~3 seconds | Can dig sand |
+| <img src="../../assets/icons/cargo/advanced_drill.png" width="32"> | Advanced Drill | ~2.5 seconds | Improved version |
+| <img src="../../assets/icons/cargo/diamond_drill.png" width="32"> | Diamond Drill | under 0.5 seconds | Fastest drill available; excavates all material |
 
 ### Kinetic Accelerator
 
@@ -63,28 +63,28 @@ Shovels provide general-purpose digging at the cost of force. They are not recom
 
 All ore is measured in units of five per rock formation. The mining value listed is the point yield per unit when submitted to the ore redemption machine.
 
-| Ore | Display Name | Mining Points | Processed Into |
-|---|---|---|---|
-| Sand | Sand | 1 | Glass (smelt) / Sandstone (compress) |
-| Hematite | Hematite | 1 | Iron (smelt) |
-| Carbon | Raw Carbon | 1 | Plastic (smelt) / Graphite (compress) |
-| Copper | Copper | 1 | Copper sheet (smelt) |
-| Tin | Tin | 1 | Tin sheet (smelt) |
-| Quartz | Unrefined Quartz | 3 | Quartz (compress) |
-| Bauxite | Bauxite | 5 | Aluminium (smelt) |
-| Rutile | Rutile | 40 | Titanium (smelt) |
-| Void Opal | Rough Void Opal | 3 | Void opal gem (compress) |
-| Painite | Rough Painite | 3 | Painite gem (compress) |
-| Phoron | Phoron Crystals | 15 | Phoron sheet (compress) |
-| Silver | Native Silver | 16 | Silver sheet (smelt) |
-| Gold | Native Gold | 18 | Gold sheet (smelt) |
-| Marble | Recrystallized Carbonate | 20 | Marble slab (compress) |
-| Uranium | Pitchblende | 30 | Uranium sheet (smelt) |
-| Diamond | Diamond | 50 | Diamond sheet (compress) |
-| Platinum | Raw Platinum | 40 | Platinum sheet (smelt) / Osmium (compress) |
-| Lead | Lead Glance | 40 | Lead sheet (smelt) |
-| Metallic Hydrogen | Metallic Hydrogen | 40 | Tritium (smelt) / Metallic hydrogen sheet (compress) |
-| Verdantium | Crystalline Verdantite | 60 | Verdantium sheet (compress) |
+| Icon | Ore | Display Name | Mining Points | Processed Into |
+|---|---|---|---|---|
+| | Sand | Sand | 1 | Glass (smelt) / Sandstone (compress) |
+| <img src="../../assets/icons/cargo/hematite_ore.png" width="32"> | Hematite | Hematite | 1 | Iron (smelt) |
+| | Carbon | Raw Carbon | 1 | Plastic (smelt) / Graphite (compress) |
+| <img src="../../assets/icons/cargo/copper_ore.png" width="32"> | Copper | Copper | 1 | Copper sheet (smelt) |
+| <img src="../../assets/icons/cargo/tin_ore.png" width="32"> | Tin | Tin | 1 | Tin sheet (smelt) |
+| <img src="../../assets/icons/cargo/quartz_ore.png" width="32"> | Quartz | Unrefined Quartz | 3 | Quartz (compress) |
+| <img src="../../assets/icons/cargo/bauxite_ore.png" width="32"> | Bauxite | Bauxite | 5 | Aluminium (smelt) |
+| <img src="../../assets/icons/cargo/rutile_ore.png" width="32"> | Rutile | Rutile | 40 | Titanium (smelt) |
+| <img src="../../assets/icons/cargo/void_opal_ore.png" width="32"> | Void Opal | Rough Void Opal | 3 | Void opal gem (compress) |
+| <img src="../../assets/icons/cargo/painite_ore.png" width="32"> | Painite | Rough Painite | 3 | Painite gem (compress) |
+| <img src="../../assets/icons/cargo/phoron_ore.png" width="32"> | Phoron | Phoron Crystals | 15 | Phoron sheet (compress) |
+| <img src="../../assets/icons/cargo/silver_ore.png" width="32"> | Silver | Native Silver | 16 | Silver sheet (smelt) |
+| <img src="../../assets/icons/cargo/gold_ore.png" width="32"> | Gold | Native Gold | 18 | Gold sheet (smelt) |
+| <img src="../../assets/icons/cargo/marble_ore.png" width="32"> | Marble | Recrystallized Carbonate | 20 | Marble slab (compress) |
+| <img src="../../assets/icons/cargo/uranium_ore.png" width="32"> | Uranium | Pitchblende | 30 | Uranium sheet (smelt) |
+| <img src="../../assets/icons/cargo/diamond_ore.png" width="32"> | Diamond | Diamond | 50 | Diamond sheet (compress) |
+| <img src="../../assets/icons/cargo/platinum_ore.png" width="32"> | Platinum | Raw Platinum | 40 | Platinum sheet (smelt) / Osmium (compress) |
+| <img src="../../assets/icons/cargo/lead_ore.png" width="32"> | Lead | Lead Glance | 40 | Lead sheet (smelt) |
+| | Metallic Hydrogen | Metallic Hydrogen | 40 | Tritium (smelt) / Metallic hydrogen sheet (compress) |
+| <img src="../../assets/icons/cargo/verdantium_ore.png" width="32"> | Verdantium | Crystalline Verdantite | 60 | Verdantium sheet (compress) |
 
 Formation density varies by ore type. Common ores (hematite, carbon, bauxite) spread across larger areas; rare ores (diamond, verdantium, void opal) appear in smaller, isolated deposits.
 

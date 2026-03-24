@@ -10,20 +10,20 @@ Reference for melee and ranged weapons available to security personnel and the g
 
 ### Stun and Impact Weapons
 
-| Weapon | Force | Special |
-|---|---|---|
-| Stun Baton | 15 brute | Requires power cell; 240 charge per hit; delivers 60 agony on contact; incapacitates |
-| Telebaton (extended) | 15 brute | Collapses for concealment (force 3 when collapsed); same stun as standard baton |
-| Police Baton | 10 brute | Non-powered; blunt impact only; no stun |
-| Null Rod | 15 brute | Chaplain-issued; removes cult and unholy properties on strike |
+| Icon | Weapon | Force | Special |
+|---|---|---|---|
+| <img src="../../assets/icons/security/stun_baton.png" width="32"> | Stun Baton | 15 brute | Requires power cell; 240 charge per hit; delivers 60 agony on contact; incapacitates |
+| <img src="../../assets/icons/security/baton.png" width="32"> | Telebaton (extended) | 15 brute | Collapses for concealment (force 3 when collapsed); same stun as standard baton |
+| <img src="../../assets/icons/security/baton.png" width="32"> | Police Baton | 10 brute | Non-powered; blunt impact only; no stun |
+| <img src="../../assets/icons/security/null_rod.png" width="32"> | Null Rod | 15 brute | Chaplain-issued; removes cult and unholy properties on strike |
 
 ### Energy Melee Weapons
 
-| Weapon | Force (inactive) | Force (active) | Armor Pen | Special |
-|---|---|---|---|---|
-| Energy Sword | 3 | 30 | 50% | Requires 120 charge per hit; 65% chance to parry incoming projectiles when active |
-| Energy Axe | 20 | 60 | 65% | Cleaving capability; deals searing damage type |
-| Ionic Rapier | -- | 5 | 80% | EMP on strike; extra burn damage against synthetics; minor debuff to AI units |
+| Icon | Weapon | Force (inactive) | Force (active) | Armor Pen | Special |
+|---|---|---|---|---|---|
+| <img src="../../assets/icons/security/energy_sword.png" width="32"> | Energy Sword | 3 | 30 | 50% | Requires 120 charge per hit; 65% chance to parry incoming projectiles when active |
+| <img src="../../assets/icons/security/energy_axe.png" width="32"> | Energy Axe | 20 | 60 | 65% | Cleaving capability; deals searing damage type |
+| <img src="../../assets/icons/security/ion_rapier.png" width="32"> | Ionic Rapier | -- | 5 | 80% | EMP on strike; extra burn damage against synthetics; minor debuff to AI units |
 
 ---
 
@@ -31,13 +31,13 @@ Reference for melee and ranged weapons available to security personnel and the g
 
 ### Pistols
 
-| Weapon | Caliber | Damage | Notes |
-|---|---|---|---|
-| Security Pistol | .45 | 25 brute | Standard security sidearm; accepts both lethal and rubber .45 magazines |
-| M1911 / Colt | .45 | 25 brute | Magazine-fed; lethal only |
-| P92X Pistol | 9mm | 20 brute | Standard sidearm; 9mm magazines |
-| Hand Cannon | .44 | High | High-caliber revolver; significant stopping power |
-| Snubnose Revolver | .38 | Variable | Semi-automatic and 2-round burst modes; fire delay 1.2s semi / 0.2s burst |
+| Icon | Weapon | Caliber | Damage | Notes |
+|---|---|---|---|---|
+| <img src="../../assets/icons/security/sec_pistol.png" width="32"> | Security Pistol | .45 | 25 brute | Standard security sidearm; accepts both lethal and rubber .45 magazines |
+| | M1911 / Colt | .45 | 25 brute | Magazine-fed; lethal only |
+| <img src="../../assets/icons/security/p92x.png" width="32"> | P92X Pistol | 9mm | 20 brute | Standard sidearm; 9mm magazines |
+| | Hand Cannon | .44 | High | High-caliber revolver; significant stopping power |
+| <img src="../../assets/icons/security/detective_revolver.png" width="32"> | Snubnose Revolver | .38 | Variable | Semi-automatic and 2-round burst modes; fire delay 1.2s semi / 0.2s burst |
 
 ### Shotguns
 
@@ -60,14 +60,14 @@ Reference for melee and ranged weapons available to security personnel and the g
 
 ## Ranged Weapons: Energy
 
-| Weapon | Charge per Shot | Fire Delay | Notes |
-|---|---|---|---|
-| Taser | 160 | 4 | Standard non-lethal stun; electrical arc |
-| Disabler | 480 | Variable | Nervous system disruption; non-lethal |
-| Stun Revolver (LAEP20) | 400 | -- | High-powered stun; strong electrode rounds |
-| Laser Rifle (G40E) | 240 normal / 60 suppressive | 8 | Two fire modes; midlaser class projectile |
-| Plasma Stun Projector | 600 | 20 | Area ionization; delayed stun effect |
-| Energy Crossbow (Mini) | 480 | -- | Silenced; compact (belt-slot); energy bolt projectile |
+| Icon | Weapon | Charge per Shot | Fire Delay | Notes |
+|---|---|---|---|---|
+| <img src="../../assets/icons/security/taser.png" width="32"> | Taser | 160 | 4 | Standard non-lethal stun; electrical arc |
+| <img src="../../assets/icons/security/energy_gun.png" width="32"> | Disabler | 480 | Variable | Nervous system disruption; non-lethal |
+| <img src="../../assets/icons/security/stun_revolver.png" width="32"> | Stun Revolver (LAEP20) | 400 | -- | High-powered stun; strong electrode rounds |
+| <img src="../../assets/icons/security/laser_gun.png" width="32"> | Laser Rifle (G40E) | 240 normal / 60 suppressive | 8 | Two fire modes; midlaser class projectile |
+| | Plasma Stun Projector | 600 | 20 | Area ionization; delayed stun effect |
+| | Energy Crossbow (Mini) | 480 | -- | Silenced; compact (belt-slot); energy bolt projectile |
 
 ---
 

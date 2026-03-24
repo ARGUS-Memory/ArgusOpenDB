@@ -10,13 +10,13 @@ Station construction covers the assembly and deconstruction of walls, floor sect
 
 The following tools are used across all construction procedures. Each tool has a defined interaction time; higher-quality tools reduce the time taken.
 
-| Tool | Primary Use |
-|---|---|
-| Wrench | Anchoring structures to the floor; dismantling unanchored frames |
-| Screwdriver | Fastening components; completing assemblies |
-| Welder | Cutting and welding; repairing damage; deconstructing anchored structures |
-| Crowbar | Prying components free; reversing construction steps |
-| Wirecutters | Removing cable; reversing wired stages |
+| Icon | Tool | Primary Use |
+|---|---|---|
+| <img src="../../assets/icons/engineering/wrench.png" width="32"> | Wrench | Anchoring structures to the floor; dismantling unanchored frames |
+| <img src="../../assets/icons/engineering/screwdriver.png" width="32"> | Screwdriver | Fastening components; completing assemblies |
+| <img src="../../assets/icons/engineering/welder.png" width="32"> | Welder | Cutting and welding; repairing damage; deconstructing anchored structures |
+| <img src="../../assets/icons/engineering/crowbar.png" width="32"> | Crowbar | Prying components free; reversing construction steps |
+| <img src="../../assets/icons/engineering/wirecutters.png" width="32"> | Wirecutters | Removing cable; reversing wired stages |
 
 ---
 

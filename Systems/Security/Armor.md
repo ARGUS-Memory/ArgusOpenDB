@@ -12,17 +12,17 @@ All values are expressed as percentage damage reduction per category. Higher is 
 
 ### Body Armor
 
-| Armor | Melee | Bullet | Laser | Energy | Bomb | Bio | Rad | Slowdown |
-|---|---|---|---|---|---|---|---|---|
-| Standard Vest | 40% | 30% | 30% | 10% | 10% | 0% | 0% | 0 |
-| Security Vest | 40% | 30% | 30% | 10% | 10% | 0% | 0% | 0 |
-| Riot Vest | 80% | 10% | 10% | 10% | 0% | 0% | 0% | 0.5 |
-| Bullet-Resistant Vest | 10% | 80% | 10% | 10% | 0% | 0% | 0% | 0.5 |
-| Ablative Vest | 10% | 10% | 80% | 50% | 0% | 0% | 0% | 0.5 |
-| Combat Vest | 50% | 50% | 50% | 30% | 30% | 0% | 0% | 0.5 |
-| Tactical Armor | 60% | 60% | 60% | 40% | 40% | 0% | 0% | 1.0 |
-| SWAT Suit | 80% | 60% | 50% | 25% | 50% | 100% | 100% | 1.0 |
-| Officer Jacket | 60% | 60% | 60% | 40% | 40% | 0% | 0% | 0 |
+| Icon | Armor | Melee | Bullet | Laser | Energy | Bomb | Bio | Rad | Slowdown |
+|---|---|---|---|---|---|---|---|---|---|
+| <img src="../../assets/icons/security/armor_standard.png" width="32"> | Standard Vest | 40% | 30% | 30% | 10% | 10% | 0% | 0% | 0 |
+| <img src="../../assets/icons/security/armor_security.png" width="32"> | Security Vest | 40% | 30% | 30% | 10% | 10% | 0% | 0% | 0 |
+| <img src="../../assets/icons/security/armor_riot.png" width="32"> | Riot Vest | 80% | 10% | 10% | 10% | 0% | 0% | 0% | 0.5 |
+| <img src="../../assets/icons/security/armor_bulletproof.png" width="32"> | Bullet-Resistant Vest | 10% | 80% | 10% | 10% | 0% | 0% | 0% | 0.5 |
+| <img src="../../assets/icons/security/armor_ablative.png" width="32"> | Ablative Vest | 10% | 10% | 80% | 50% | 0% | 0% | 0% | 0.5 |
+| | Combat Vest | 50% | 50% | 50% | 30% | 30% | 0% | 0% | 0.5 |
+| | Tactical Armor | 60% | 60% | 60% | 40% | 40% | 0% | 0% | 1.0 |
+| <img src="../../assets/icons/security/armor_swat.png" width="32"> | SWAT Suit | 80% | 60% | 50% | 25% | 50% | 100% | 100% | 1.0 |
+| | Officer Jacket | 60% | 60% | 60% | 40% | 40% | 0% | 0% | 0 |
 
 Coverage notes: The Tactical Armor covers chest, legs, and arms. The SWAT Suit covers chest, legs, feet, and arms. The Officer Jacket covers upper torso and arms only. Standard and security vests cover chest only.
 
@@ -30,16 +30,16 @@ The Ablative Vest reflects energy projectiles with a 40% base chance; reflected 
 
 ### Helmets
 
-| Helmet | Melee | Bullet | Laser | Energy | Bomb | Bio | Rad |
-|---|---|---|---|---|---|---|---|
-| Standard Helmet | 40% | 30% | 30% | 10% | 10% | 0% | 0% |
-| Riot Helmet | 80% | 10% | 10% | 10% | 0% | 0% | 0% |
-| Tactical Helmet | 50% | 60% | 60% | 45% | 30% | 0% | 0% |
-| Combat Helmet | 50% | 50% | 50% | 30% | 30% | 0% | 0% |
-| Mercenary Helmet | 70% | 70% | 70% | 35% | 30% | 0% | 0% |
-| SWAT Helmet | 80% | 60% | 50% | 25% | 50% | 10% | 0% |
-| Ablative Helmet | 10% | 10% | 80% | 50% | 0% | 0% | 0% |
-| Bullet-Resistant Helmet | 10% | 80% | 10% | 10% | 0% | 0% | 0% |
+| Icon | Helmet | Melee | Bullet | Laser | Energy | Bomb | Bio | Rad |
+|---|---|---|---|---|---|---|---|---|
+| <img src="../../assets/icons/security/helmet_standard.png" width="32"> | Standard Helmet | 40% | 30% | 30% | 10% | 10% | 0% | 0% |
+| | Riot Helmet | 80% | 10% | 10% | 10% | 0% | 0% | 0% |
+| | Tactical Helmet | 50% | 60% | 60% | 45% | 30% | 0% | 0% |
+| | Combat Helmet | 50% | 50% | 50% | 30% | 30% | 0% | 0% |
+| | Mercenary Helmet | 70% | 70% | 70% | 35% | 30% | 0% | 0% |
+| <img src="../../assets/icons/security/helmet_security.png" width="32"> | SWAT Helmet | 80% | 60% | 50% | 25% | 50% | 10% | 0% |
+| | Ablative Helmet | 10% | 10% | 80% | 50% | 0% | 0% | 0% |
+| | Bullet-Resistant Helmet | 10% | 80% | 10% | 10% | 0% | 0% | 0% |
 
 The Riot Helmet includes a visor that can be toggled. The SWAT Helmet covers eyes and ears. The Ablative Helmet reflects energy projectiles.
 
@@ -61,13 +61,13 @@ The Riot Helmet includes a visor that can be toggled. The SWAT Helmet covers eye
 
 ## Restraint Devices
 
-| Device | Escape Time | Notes |
-|---|---|---|
-| Handcuffs | 120 seconds | Applied in 3 seconds; requires aggressive grab; metal; most secure |
-| Cable Restraints | 30 seconds | Flexible plastic; faster escape |
-| Tape Restraints | 20 seconds | Improvised; weakest |
-| Legcuffs | 30 seconds | Restricts movement to walking pace; does not prevent arm use |
-| Bola | 3 seconds | Thrown projectile legcuff; very short hold; disintegrates if dropped |
+| Icon | Device | Escape Time | Notes |
+|---|---|---|---|
+| <img src="../../assets/icons/security/handcuffs.png" width="32"> | Handcuffs | 120 seconds | Applied in 3 seconds; requires aggressive grab; metal; most secure |
+| <img src="../../assets/icons/security/zip_ties.png" width="32"> | Cable Restraints | 30 seconds | Flexible plastic; faster escape |
+| | Tape Restraints | 20 seconds | Improvised; weakest |
+| <img src="../../assets/icons/security/legcuffs.png" width="32"> | Legcuffs | 30 seconds | Restricts movement to walking pace; does not prevent arm use |
+| | Bola | 3 seconds | Thrown projectile legcuff; very short hold; disintegrates if dropped |
 
 Handcuffs are the standard security restraint for arrested personnel. Cable restraints are available as an improvised alternative but are significantly easier to escape from. Legcuffs restrict movement without binding the hands, suitable for compliant prisoners in transit.
 
