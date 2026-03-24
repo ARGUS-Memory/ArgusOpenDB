@@ -20,6 +20,7 @@ This section covers game mechanics and player guidance that exist outside the in
 | [A Crash Course in Roleplaying](CrashCourseRP.md) | IC/OOC discipline, metagaming, getting in character, and antagonist guidance |
 | [Commands and Shortcuts](Commands.md) | Full verb reference, radio channels, and keyboard shortcut tables |
 | [Terminology](Terminology.md) | Glossary of SS13 and CHOMPstation-specific terms |
+| [Random Events](RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 ---
 

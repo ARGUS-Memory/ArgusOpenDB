@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Command](README.md) > Random Events
+[OOC Reference](README.md) > Random Events
 
 # Random Events
 
@@ -62,7 +62,7 @@ More significant events requiring a departmental response.
 
 **Spider Infestation** -- Spiderlings from an earlier infestation have matured and are attacking crew. Security is required.
 
-**Ion Storm** -- An ion storm alters the AI's law interpretation for the duration. Command should monitor AI behaviour closely. See [Standard Operating Procedure](StandardOperatingProcedure.md) for alert-level guidance.
+**Ion Storm** -- An ion storm alters the AI's law interpretation for the duration. Command should monitor AI behaviour closely. See [Standard Operating Procedure](../Systems/Command/StandardOperatingProcedure.md) for alert-level guidance.
 
 **Space Dust (Severe)** -- A denser dust cloud causes significant hull damage to exterior surfaces.
 
@@ -86,4 +86,4 @@ Station-wide emergencies requiring coordinated response.
 
 ## See Also
 
-- [Standard Operating Procedure](StandardOperatingProcedure.md) -- alert levels and command escalation procedures
+- [Standard Operating Procedure](../Systems/Command/StandardOperatingProcedure.md) -- alert levels and command escalation procedures

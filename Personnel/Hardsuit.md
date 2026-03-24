@@ -1,4 +1,4 @@
-[ARGUS Station Database](../../README.md) > [Systems](../README.md) > [Engineering](README.md) > Hardsuits
+[ARGUS Station Database](../README.md) > [Personnel](README.md) > Hardsuits
 
 # Hardsuits
 

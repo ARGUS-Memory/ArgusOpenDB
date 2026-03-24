@@ -36,7 +36,6 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Standard Operating Procedure](Systems/Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
 | [Radio System](Systems/Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
 | [Telecommunications](Systems/Command/Telecommunications.md) | Server room machines, signal chain, maintenance, and emergency linking procedures |
-| [Random Events](Systems/Command/RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 </details>
 
@@ -57,7 +56,6 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Tesla Engine](Systems/Engineering/TeslaEngine.md) | Energy ball mechanics, tesla coils and grounding rods, setup steps, and TESLOOSE response |
 | [R-UST Fusion Reactor](Systems/Engineering/FusionReactor.md) | Fusion core parameters, gyrotron operation, fuel injectors, startup and shutdown procedures, and reaction chemistry |
 | [Wiring Reference](Systems/Engineering/Hacking.md) | Airlock, APC, atmospheric alarm, camera, PA, SMES, and minor hackable wire functions |
-| [Hardsuits](Systems/Engineering/Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 </details>
 
@@ -157,6 +155,7 @@ Role references and crew guides organized by department.
 | [Chain of Command](Personnel/ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 | [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
 | [Intern](Personnel/Intern.md) | Unassigned crew member available to assist any department |
+| [Hardsuits](Personnel/Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 </details>
 
@@ -366,6 +365,7 @@ Records on corporations, factions, and governing bodies operating in known space
 | [A Crash Course in Roleplaying](OOC/CrashCourseRP.md) | IC/OOC discipline, metagaming, getting in character, and antagonist guidance |
 | [Commands and Shortcuts](OOC/Commands.md) | Full verb reference, radio channels, and keyboard shortcut tables |
 | [Terminology](OOC/Terminology.md) | Glossary of SS13 and CHOMPstation-specific terms |
+| [Random Events](OOC/RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 ---
 

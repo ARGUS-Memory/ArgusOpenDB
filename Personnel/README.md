@@ -13,6 +13,7 @@ Role references and crew guides organized by department.
 | [Chain of Command](ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 | [NIF Operation and Software](NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
 | [Intern](Intern.md) | Unassigned crew member available to assist any department |
+| [Hardsuits](Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 ---
 
