@@ -137,7 +137,8 @@ Single-step reactions achievable without intermediate compounds.
 
 ---
 
-## Inaprovaline
+<details>
+<summary><strong>Inaprovaline</strong> — Synaptic Stimulant / Cardiostimulant</summary>
 
 **Classification:** Synaptic Stimulant / Cardiostimulant
 **Reaction:** `Oxygen,1 + Carbon,1 + Sugar,1 → 3u` · Scale 1:1:1
@@ -159,9 +160,12 @@ Inaprovaline is a front-line stabilization agent. Its primary function is to slo
 
 > Minimum clean batch: 3u (1+1+1). 5u requires fractional volumes. Use 6u instead.
 
+</details>
+
 ---
 
-## Antitoxin (Dylovene)
+<details>
+<summary><strong>Antitoxin (Dylovene)</strong> — Broad-Spectrum Antitoxin</summary>
 
 **Classification:** Broad-Spectrum Antitoxin
 **Reaction:** `Silicon,1 + Potassium,1 + Nitrogen,1 → 3u` · Scale 1:1:1
@@ -180,9 +184,12 @@ Diona patients do not respond. [Promethean](../../Species/Promethean.md) patient
 | 60u | `Silicon,20,Potassium,20,Nitrogen,20` |
 | 120u | `Silicon,40,Potassium,40,Nitrogen,40` |
 
+</details>
+
 ---
 
-## Kelotane
+<details>
+<summary><strong>Kelotane</strong> — Burn Damage Treatment</summary>
 
 **Classification:** Burn Damage Treatment
 **Reaction:** `Silicon,1 + Carbon,1 → 2u` · Scale 1:1
@@ -206,9 +213,12 @@ Diona patients do not respond.
 
 > Decimal volumes are valid in production mode. Minimum clean integer batch: 2u (1+1).
 
+</details>
+
 ---
 
-## Synaptizine
+<details>
+<summary><strong>Synaptizine</strong> — Neurostimulant / Anti-Stun Agent</summary>
 
 **Classification:** Neurostimulant / Anti-Stun Agent
 **Reaction:** `Sugar,1 + Lithium,1 + Water,1 → 3u` · Scale 1:1:1
@@ -230,9 +240,12 @@ Water is a required ingredient, not an inhibitor. Ensure no excess Water is alre
 | 60u | `Sugar,20,Lithium,20,Water,20` |
 | 120u | `Sugar,40,Lithium,40,Water,40` |
 
+</details>
+
 ---
 
-## Hyperzine
+<details>
+<summary><strong>Hyperzine</strong> — Muscle Stimulant / Movement Enhancer</summary>
 
 **Classification:** Muscle Stimulant / Movement Enhancer
 **Reaction:** `Sugar,1 + Phosphorus,1 + Sulfur,1 → 3u` · Scale 1:1:1
@@ -253,9 +266,12 @@ Hyperzine is a powerful long-acting muscle stimulant that increases movement spe
 | 60u | `Sugar,20,Phosphorus,20,Sulfur,20` |
 | 120u | `Sugar,40,Phosphorus,40,Sulfur,40` |
 
+</details>
+
 ---
 
-## Impedrezene
+<details>
+<summary><strong>Impedrezene</strong> — Neurological Depressant / Incapacitant</summary>
 
 **Classification:** Neurological Depressant / Incapacitant
 **Reaction:** `Mercury,1 + Oxygen,1 + Sugar,1 → 2u` · Scale 1:1:1 at 66% yield
@@ -278,9 +294,12 @@ Diona patients do not respond.
 | 60u | `Mercury,30,Oxygen,30,Sugar,30` |
 | 120u | `Mercury,60,Oxygen,60,Sugar,60` |
 
+</details>
+
 ---
 
-## Mutagen
+<details>
+<summary><strong>Mutagen</strong> — Genetic Mutagen / Synthesis Precursor</summary>
 
 **Classification:** Genetic Mutagen / Synthesis Precursor
 **Reaction:** `Radium,1 + Phosphorus,1 + Chlorine,1 → 3u` · Scale 1:1:1
@@ -297,9 +316,12 @@ Mutation outcomes are entirely unpredictable and range from cosmetic to debilita
 | 60u | `Radium,20,Phosphorus,20,Chlorine,20` |
 | 120u | `Radium,40,Phosphorus,40,Chlorine,40` |
 
+</details>
+
 ---
 
-## Claridyl
+<details>
+<summary><strong>Claridyl</strong> — Analgesic / Stabilizer (Advanced)</summary>
 
 **Classification:** Analgesic / Stabilizer (Advanced)
 **Reaction:** `Lithium,1 + Radium,1 + Sugar,1 → 1u` · Scale 1:1:1 at 33% yield
@@ -327,9 +349,12 @@ Minor behavioral side effects (irritability, cognitive lapses, dry mouth, mild d
 
 > 120u batch consumes 360u total feedstock. Allow time for Lithium, Radium, and Sugar cartridge recharge.
 
+</details>
+
 ---
 
-## Bliss
+<details>
+<summary><strong>Bliss</strong> — Psychoactive / Controlled Substance</summary>
 
 **Classification:** Psychoactive / Controlled Substance
 **Reaction:** `Mercury,1 + Sugar,1 + Lithium,1 → 3u` · Scale 1:1:1
@@ -347,9 +372,12 @@ Prometheans experience significantly reduced effect due to biochemical resistanc
 | 60u | `Mercury,20,Sugar,20,Lithium,20` |
 | 120u | `Mercury,40,Sugar,40,Lithium,40` |
 
+</details>
+
 ---
 
-## Aphrodisiac
+<details>
+<summary><strong>Aphrodisiac</strong> — Pheromone Agent</summary>
 
 **Classification:** Pheromone Agent
 **Reaction:** `Carbon,2 + Hydrogen,2 + Oxygen,2 + Water,1 → 6u` · Scale 2:2:2:1 at 86% yield
@@ -368,9 +396,12 @@ Aphrodisiac produces mild behavioral and pheromone effects in subjects. Physical
 
 > 15u is not achievable in clean integers. Nearest batches: 12u (`Carbon,4,Hydrogen,4,Oxygen,4,Water,2`) or 18u.
 
+</details>
+
 ---
 
-## Cryptobiolin
+<details>
+<summary><strong>Cryptobiolin</strong> — Vestibular Disruptor / Incapacitant</summary>
 
 **Classification:** Vestibular Disruptor / Incapacitant
 **Reaction:** `Potassium,1 + Oxygen,1 + Sugar,1 → 3u` · Scale 1:1:1
@@ -387,6 +418,8 @@ Cryptobiolin is a vestibular disruption agent. It induces dizziness and cognitiv
 | 60u | `Potassium,20,Oxygen,20,Sugar,20` |
 | 120u | `Potassium,40,Oxygen,40,Sugar,40` |
 
+</details>
+
 ---
 
 ## Section II: Chained Synthesis
@@ -397,7 +430,8 @@ The reactions below require intermediates that can be generated within the same 
 
 ---
 
-## Ammonia
+<details>
+<summary><strong>Ammonia</strong> — Industrial Precursor / Fertilizer Base</summary>
 
 **Classification:** Industrial Precursor / Fertilizer Base
 **Reaction:** `Hydrogen,3 + Nitrogen,1 → 3u` · Scale 3:1
@@ -410,9 +444,12 @@ Not directly useful for most personnel. Produced as an intermediate in Space Cle
 | 30u | `Hydrogen,30,Nitrogen,10` |
 | 60u | `Hydrogen,60,Nitrogen,20` |
 
+</details>
+
 ---
 
-## Space Cleaner
+<details>
+<summary><strong>Space Cleaner</strong> — Industrial Cleaning Agent</summary>
 
 **Classification:** Industrial Cleaning Agent
 **Chain:** `3H + 1N → Ammonia` → `Ammonia + Water → 2u Space Cleaner`
@@ -429,9 +466,12 @@ Adding Hydrogen, Nitrogen, and Water together in one recipe causes them to chain
 | 60u | `Hydrogen,30,Nitrogen,10,Water,30` |
 | 120u | `Hydrogen,60,Nitrogen,20,Water,60` |
 
+</details>
+
 ---
 
-## Diethylamine
+<details>
+<summary><strong>Diethylamine</strong> — Synthesis Precursor</summary>
 
 **Classification:** Synthesis Precursor
 **Chain:** `3H + 1N → Ammonia` → `Ammonia + Ethanol → 2u Diethylamine`
@@ -446,9 +486,12 @@ Diethylamine is a secondary amine with mild corrosive properties and no direct t
 | 60u | `Hydrogen,30,Nitrogen,10,Ethanol,30` |
 | 120u | `Hydrogen,60,Nitrogen,20,Ethanol,60` |
 
+</details>
+
 ---
 
-## Left4Zed
+<details>
+<summary><strong>Left4Zed</strong> — Hydroponics Fertilizer</summary>
 
 **Classification:** Hydroponics Fertilizer
 **Chain:** `3H + 1N → Ammonia` → `Ammonia + Ethanol → Diethylamine` → `2 Diethylamine + Mutagen → 3u Left4Zed`
@@ -468,13 +511,16 @@ Left4Zed is a hydroponics plant fertilizer that accelerates plant growth cycles 
 
 > Nearest to 30u is 27u. Nearest to 60u is 63u. Nearest to 120u is 126u.
 
+</details>
+
 ---
 
 ## Section III: Engineering / Industrial
 
 ---
 
-## Silicate
+<details>
+<summary><strong>Silicate</strong> — Glass Reinforcement Agent</summary>
 
 **Classification:** Glass Reinforcement Agent
 **Reaction:** `Aluminium,1 + Silicon,1 + Oxygen,1 → 3u` · Scale 1:1:1
@@ -487,6 +533,8 @@ Silicate is applied topically to window structures to reinforce them against imp
 | 30u | `Aluminium,10,Silicon,10,Oxygen,10` |
 | 60u | `Aluminium,20,Silicon,20,Oxygen,20` |
 | 120u | `Aluminium,40,Silicon,40,Oxygen,40` |
+
+</details>
 
 ---
 

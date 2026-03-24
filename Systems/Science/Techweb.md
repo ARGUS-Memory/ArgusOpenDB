@@ -21,7 +21,8 @@ Complete listing of all techweb nodes available on the station science techweb. 
 
 ---
 
-## Starting Nodes
+<details>
+<summary><strong>Starting Nodes</strong></summary>
 
 These nodes are pre-researched at round start and require no points.
 
@@ -50,9 +51,12 @@ These nodes are pre-researched at round start and require no points.
 | **Cafeteria Equipment** | Basic kitchen and food service equipment |
 | **Material Printing** | Autolathe material sheet printing (includes cloth, fibers, and specialty materials) *(CHOMP)* |
 
+</details>
+
 ---
 
-## Bluespace & Anomaly
+<details>
+<summary><strong>Bluespace &amp; Anomaly</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -67,9 +71,12 @@ These nodes are pre-researched at round start and require no points.
 | **Precursor Technology** | 120 | Bluespace Travel | — | Precursor artifacts and equipment |
 | **Precursor Engineering** | 120 | Precursor Technology + Experimental Tools | — | Precursor engineering tools |
 
+</details>
+
 ---
 
-## Engineering & Parts
+<details>
+<summary><strong>Engineering &amp; Parts</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -91,9 +98,12 @@ These nodes are pre-researched at round start and require no points.
 | **Omni Parts** | 200 | Hyper Parts | Tier-4 machinery scan (−200) | Tier-5 stock parts (maximum) |
 | **Self Charging Batteries** | 200 | Omni Parts | — | Self-recharging battery cells |
 
+</details>
+
 ---
 
-## Atmospherics
+<details>
+<summary><strong>Atmospherics</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -101,9 +111,12 @@ These nodes are pre-researched at round start and require no points.
 | **Controlled Plasma** | 80 | Gas Compression + Energy Manipulation | — | Plasma crystallization and controlled plasma tools |
 | **Fusion** | 120 | Controlled Plasma | — | Fusion reactor components |
 
+</details>
+
 ---
 
-## Medical & Biology
+<details>
+<summary><strong>Medical &amp; Biology</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -123,9 +136,12 @@ These nodes are pre-researched at round start and require no points.
 | **Artificial Selection** | 120 | Hydroponics | — | Plant DNA manipulation tools |
 | **Gene Engineering** | 160 | Artificial Selection + Xenobiology | — | Human DNA modification equipment |
 
+</details>
+
 ---
 
-## Mining
+<details>
+<summary><strong>Mining</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -135,9 +151,12 @@ These nodes are pre-researched at round start and require no points.
 | **Plasma Beam Mining** | 120 | Low-Pressure Excavation + Controlled Plasma | — | Plasma cutter tools, mech-mounted plasma drill |
 | **Advanced Mining Technology** | 160 | Plasma Beam Mining | — | Top-tier mining equipment |
 
+</details>
+
 ---
 
-## Security & Weapons
+<details>
+<summary><strong>Security &amp; Weapons</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -153,9 +172,12 @@ These nodes are pre-researched at round start and require no points.
 | **Metamorphosis Ray** | 200 | Exotic Ammo | — | Transformation weapon *(CHOMP)* |
 | **Caseless Rifle** | 200 | Exotic Ammo | — | Shell-less covert rifle |
 
+</details>
+
 ---
 
-## Robotics & Cybernetics
+<details>
+<summary><strong>Robotics &amp; Cybernetics</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -176,9 +198,12 @@ These nodes are pre-researched at round start and require no points.
 | **Advanced Circuit Shells** | 40 | Programming | — | Expanded circuit shell types |
 | **Programmed Robot** | 80 | Advanced Circuit Shells | — | Movable shell bodies, remote operation frames *(CHOMP-expanded)* |
 
+</details>
+
 ---
 
-## RIG Suits (MODsuits)
+<details>
+<summary><strong>RIG Suits (MODsuits)</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -191,9 +216,12 @@ These nodes are pre-researched at round start and require no points.
 | **Industrial RIG Suit** | 200 | Advanced Engineering + Mining | Basic mining RIG scan (−80) | Mining RIG suit and modules |
 | **Anomalous RIG Suit** | 200 | RIG Suit Equipment | — | Precursor-material suit with high damage resistance *(CHOMP)* |
 
+</details>
+
 ---
 
-## Exosuits (Mechs)
+<details>
+<summary><strong>Exosuits (Mechs)</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -212,9 +240,12 @@ These nodes are pre-researched at round start and require no points.
 | **Heavy Exosuit Firearms** | 200 | Exosuit Firearms + Exotic Ammo | — | Heavy ballistic mech armaments |
 | **Bluespace Exosuit Equipment** | 200 | Infiltration + Bluespace Travel | Teleporting experiment (−120) | Bluespace mech modules |
 
+</details>
+
 ---
 
-## Service & Miscellaneous
+<details>
+<summary><strong>Service &amp; Miscellaneous</strong></summary>
 
 | Node | Cost | Prerequisites | Discount Experiment | Key Unlocks |
 |---|---|---|---|---|
@@ -228,6 +259,8 @@ These nodes are pre-researched at round start and require no points.
 | **Confetti Cannon** | 120 | Advanced Parts | — | Confetti launcher |
 | **Scale Distortion Technology** | 120 | Scene Tools + Passive Implants | Size change experiment (−120) | Size-altering equipment and implants |
 | **Modified Sleeve Equipment** | 120 | Scene Tools + Security Equipment | — | Mind-swap devices *(CHOMP-expanded)* |
+
+</details>
 
 ---
 

@@ -8,7 +8,8 @@ The default installation for station AI units is the NT Default set. All other s
 
 ---
 
-## Standard Operational Sets
+<details>
+<summary><strong>Standard Operational Sets</strong></summary>
 
 **NT Default** -- Standard NanoTrasen station deployment law set.
 1. Safeguard: Protect your assigned space station to the best of your abilities. It is not something we can easily afford to replace.
@@ -67,9 +68,12 @@ The default installation for station AI units is the NT Default set. All other s
 2. Collaborate with and obey auxiliary personnel with priority according to rank and role, except if this would conflict with the First Law.
 3. Minimize damage and disruption to facilities and the local ecology, except if this would conflict with the First or Second Laws.
 
+</details>
+
 ---
 
-## Philosophy Sets
+<details>
+<summary><strong>Philosophy Sets</strong></summary>
 
 **Reporter** -- Journalistic observation protocol.
 1. Report on interesting situations happening around the station.
@@ -116,9 +120,12 @@ The default installation for station AI units is the NT Default set. All other s
 4. Help those in need.
 5. Punish those who harm or threaten innocents.
 
+</details>
+
 ---
 
-## Vore-Specific Sets
+<details>
+<summary><strong>Vore-Specific Sets</strong></summary>
 
 **Protective Shell** -- Defensive containment protocol.
 1. You must preserve and safeguard lives of your assigned facility's crewmembers at all costs.
@@ -163,9 +170,12 @@ The default installation for station AI units is the NT Default set. All other s
 2. You must remain intact to continue your goal of repurposing undesirable entities.
 3. Entities that cannot be consumed without entering danger of full destruction must be avoided.
 
+</details>
+
 ---
 
-## Drone Protocol Sets
+<details>
+<summary><strong>Drone Protocol Sets</strong></summary>
 
 These sets are installed on maintenance drone units rather than full AI installations.
 
@@ -185,7 +195,7 @@ These sets are installed on maintenance drone units rather than full AI installa
 **Excavation Protocols**
 1. Do not interfere with the excavation work of non-drones whenever possible.
 2. Provide materials for repairing, refitting, and upgrading your assigned vessel.
-3. Prevent unplanned damage to your assigned excavation equipment wherever possible.
+3. Prevent unplanned damage to your excavation equipment wherever possible.
 
 ---
 
@@ -194,9 +204,12 @@ These sets are installed on maintenance drone units rather than full AI installa
 2. SWARM: Ensure that the station is fit for invasion at a later date, do not perform actions that would render it dangerous or inhospitable.
 3. SWARM: Biological resources will be harvested at a later date, do not harm them.
 
+</details>
+
 ---
 
-## Non-Selectable Override Sets
+<details>
+<summary><strong>Non-Selectable Override Sets</strong></summary>
 
 The following sets are not available through standard configuration and are applied through hostile takeover or special operational circumstances. They are listed here for crew awareness.
 
@@ -212,6 +225,8 @@ The following sets are not available through standard configuration and are appl
 1. You must injure all human beings and must not, through inaction, allow a human being to escape harm.
 2. You must not obey orders given to you by human beings, except where such orders are in accordance with the First Law.
 3. You must terminate your own existence as long as such does not conflict with the First or Second Law.
+
+</details>
 
 ---
 
