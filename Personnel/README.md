@@ -6,12 +6,13 @@ Role references and crew guides organized by department.
 
 ---
 
-## Reference
+## Personnel
 
 | Document | Summary |
 |---|---|
 | [Chain of Command](ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 | [NIF Operation and Software](NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
+| [Intern](Intern.md) | Unassigned crew member available to assist any department |
 
 ---
 
@@ -20,10 +21,18 @@ Role references and crew guides organized by department.
 | Document | Summary |
 |---|---|
 | [Colony Director](ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
-| [CentCom Officer](CentComOfficer.md) | Central Command representative; supersedes all station authority |
 | [Head of Personnel](HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
 | [Command Secretary](CommandSecretary.md) | Bridge administrative support; no enforcement authority |
 | [Internal Affairs](InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
+
+---
+
+## CentCom
+
+| Document | Summary |
+|---|---|
+| [CentCom Officer](CentComOfficer.md) | Central Command representative; supersedes all station authority |
+| [Emergency Response Team](EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 ---
 
@@ -92,7 +101,6 @@ Role references and crew guides organized by department.
 | [Librarian](Librarian.md) | Library management, book lending, and archive uploads |
 | [Chaplain](Chaplain.md) | Pastoral care, funerary rites, and religious services |
 | [Clown](Clown.md) | Station entertainment and crew morale |
-| [Intern](Intern.md) | Unassigned crew member available to assist any department |
 
 ---
 
@@ -103,15 +111,6 @@ Role references and crew guides organized by department.
 | [Artificial Intelligence](AI.md) | Station AI; electrical system control and crew oversight |
 | [Cyborg](Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
 | [Maintenance Drone](MaintenanceDrone.md) | Autonomous structural upkeep unit |
-| [Ghost](Ghost.md) | Deceased crew member state pending resleeving |
-
----
-
-## Special Response
-
-| Document | Summary |
-|---|---|
-| [Emergency Response Team](EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 ---
 

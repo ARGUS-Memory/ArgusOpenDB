@@ -147,12 +147,13 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 Role references and crew guides organized by department.
 
 <details>
-<summary>Reference</summary>
+<summary>Personnel</summary>
 
 | Document | Summary |
 |---|---|
 | [Chain of Command](Personnel/ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
 | [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
+| [Intern](Personnel/Intern.md) | Unassigned crew member available to assist any department |
 
 </details>
 
@@ -162,10 +163,19 @@ Role references and crew guides organized by department.
 | Document | Summary |
 |---|---|
 | [Colony Director](Personnel/ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
-| [CentCom Officer](Personnel/CentComOfficer.md) | Central Command representative; supersedes all station authority |
 | [Head of Personnel](Personnel/HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
 | [Command Secretary](Personnel/CommandSecretary.md) | Bridge administrative support; no enforcement authority |
 | [Internal Affairs](Personnel/InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
+
+</details>
+
+<details>
+<summary>CentCom</summary>
+
+| Document | Summary |
+|---|---|
+| [CentCom Officer](Personnel/CentComOfficer.md) | Central Command representative; supersedes all station authority |
+| [Emergency Response Team](Personnel/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 </details>
 
@@ -240,7 +250,6 @@ Role references and crew guides organized by department.
 | [Librarian](Personnel/Librarian.md) | Library management, book lending, and archive uploads |
 | [Chaplain](Personnel/Chaplain.md) | Pastoral care, funerary rites, and religious services |
 | [Clown](Personnel/Clown.md) | Station entertainment and crew morale |
-| [Intern](Personnel/Intern.md) | Unassigned crew member available to assist any department |
 
 </details>
 
@@ -252,16 +261,6 @@ Role references and crew guides organized by department.
 | [Artificial Intelligence](Personnel/AI.md) | Station AI; electrical system control and crew oversight |
 | [Cyborg](Personnel/Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
 | [Maintenance Drone](Personnel/MaintenanceDrone.md) | Autonomous structural upkeep unit |
-| [Ghost](Personnel/Ghost.md) | Deceased crew member state pending resleeving |
-
-</details>
-
-<details>
-<summary>Special Response</summary>
-
-| Document | Summary |
-|---|---|
-| [Emergency Response Team](Personnel/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 </details>
 
@@ -331,7 +330,31 @@ Records on corporations, factions, and governing bodies operating in known space
 
 | Document | Summary |
 |---|---|
+| [Trans-Stellar Corporations](Organizations/ListOfTSCs.md) | Overview index of the Big 7 and other major organizations |
 | [NanoTrasen](Organizations/NanoTrasen.md) | Corporate structure, operational mandate, and known station presence |
+| [Hephaestus Industries](Organizations/HephaestusIndustries.md) | Arms manufacturer; largest military hardware producer in human space |
+| [Zeng-Hu Pharmaceuticals](Organizations/ZengHuPharmaceuticals.md) | Pharmaceutical and cybernetics conglomerate; rival to NanoTrasen in phoron medicine |
+| [Ward-Takahashi GMB](Organizations/WardTakahashiGMB.md) | Consumer electronics, firearms, and manufactured goods |
+| [Vey-Med](Organizations/VeyMed.md) | Medical hardware, biosynthetics, organ printing, and human cloning |
+| [Aether Atmospherics and Recycling](Organizations/AetherAtmospherics.md) | Life support infrastructure, gas distribution, and recycling across human space |
+| [Free Trade Union](Organizations/FreeTradeUnion.md) | Merchant coalition; independent trade network and Tradeband originator |
+| [Grayson Manufactories Ltd.](Organizations/GraysonManufactories.md) | Raw material extraction and construction material distribution |
+| [Gilthari Exports](Organizations/GilthariExports.md) | Luxury goods, alcohol, and alien artefact exploitation |
+| [Bishop Cybernetics](Organizations/BishopCybernetics.md) | Boutique high-end cybernetics and human augmentation hardware |
+| [Morpheus Cyberkinetics](Organizations/MorpheusCyberkinetics.md) | Positronic-run cybernetics company; positronic rights advocacy |
+| [Asset Protection](Organizations/AssetProtection.md) | NanoTrasen high-threat response division; CentCom-level deployment |
+| [Syndicate](Organizations/Syndicate.md) | Anti-NanoTrasen paramilitary coalition; agents and operatives threat profile |
+| [USDF](Organizations/USDF.md) | United Solar Defense Force; SolGov federal military branches and doctrine |
+
+---
+
+## OOC
+
+> **Out-of-character notice:** All documents in this section describe server mechanics and systems that exist outside the in-world fiction. This information is not available to characters within the setting. Use it as a player resource only.
+
+| Document | Summary |
+|---|---|
+| [Ghost](OOC/Ghost.md) | Deceased crew member observer state; capabilities, return paths, and resleeving |
 
 ---
 

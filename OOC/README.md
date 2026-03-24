@@ -6,6 +6,7 @@ This section covers game mechanics that are server-specific extensions with no i
 
 | Document | Summary |
 |---|---|
+| [Ghost](Ghost.md) | Deceased crew member observer state; capabilities, return paths, and resleeving |
 | [Vore Overview](VoreOverview.md) | Swallowing mechanics, belly types, predator effects, and preference system |
 | [Belly Configuration](BellyConfiguration.md) | Complete reference for belly modes, digestion parameters, escape settings, and behavioral flags |
 | [Prey Experience](PreyExperience.md) | What prey experience inside, struggle and escape mechanics, and message system |
