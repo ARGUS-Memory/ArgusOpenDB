@@ -20,10 +20,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Colony Director](ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
-| [Head of Personnel](HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
-| [Command Secretary](CommandSecretary.md) | Bridge administrative support; no enforcement authority |
-| [Internal Affairs](InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
+| [Colony Director](Command/ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
+| [Head of Personnel](Command/HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
+| [Command Secretary](Command/CommandSecretary.md) | Bridge administrative support; no enforcement authority |
+| [Internal Affairs](Command/InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
 
 ---
 
@@ -31,8 +31,8 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [CentCom Officer](CentComOfficer.md) | Central Command representative; supersedes all station authority |
-| [Emergency Response Team](EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
+| [CentCom Officer](CentCom/CentComOfficer.md) | Central Command representative; supersedes all station authority |
+| [Emergency Response Team](CentCom/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 ---
 
@@ -40,10 +40,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Head of Security](HeadOfSecurity.md) | Security department command; officer oversight, brig and armory coordination |
-| [Warden](Warden.md) | Brig and armory management; prisoner welfare and SolGov notification |
-| [Security Officer](SecurityOfficer.md) | Patrol, arrest, and brig procedure |
-| [Detective](Detective.md) | Forensic investigation, evidence collection, and crime scene analysis |
+| [Head of Security](Security/HeadOfSecurity.md) | Security department command; officer oversight, brig and armory coordination |
+| [Warden](Security/Warden.md) | Brig and armory management; prisoner welfare and SolGov notification |
+| [Security Officer](Security/SecurityOfficer.md) | Patrol, arrest, and brig procedure |
+| [Detective](Security/Detective.md) | Forensic investigation, evidence collection, and crime scene analysis |
 
 ---
 
@@ -51,9 +51,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Chief Engineer](ChiefEngineer.md) | Engineering department head; engine, solar, and atmospheric oversight |
-| [Station Engineer](StationEngineer.md) | Power generation, hull maintenance, construction, and breach response |
-| [Atmospheric Technician](AtmosphericTechnician.md) | Life support maintenance, gas management, and fire and breach response |
+| [Chief Engineer](Engineering/ChiefEngineer.md) | Engineering department head; engine, solar, and atmospheric oversight |
+| [Station Engineer](Engineering/StationEngineer.md) | Power generation, hull maintenance, construction, and breach response |
+| [Atmospheric Technician](Engineering/AtmosphericTechnician.md) | Life support maintenance, gas management, and fire and breach response |
 
 ---
 
@@ -61,11 +61,11 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Chief Medical Officer](ChiefMedicalOfficer.md) | Medical department head; patient care authority and staff oversight |
-| [Medical Doctor](MedicalDoctor.md) | Diagnosis, treatment, surgery, and resleeving |
-| [Paramedic](Paramedic.md) | Field triage and patient extraction to Medbay |
-| [Chemist](Chemist.md) | Pharmaceutical synthesis and medical supply |
-| [Psychologist](Psychologist.md) | Mental health assessment and treatment |
+| [Chief Medical Officer](Medical/ChiefMedicalOfficer.md) | Medical department head; patient care authority and staff oversight |
+| [Medical Doctor](Medical/MedicalDoctor.md) | Diagnosis, treatment, surgery, and resleeving |
+| [Paramedic](Medical/Paramedic.md) | Field triage and patient extraction to Medbay |
+| [Chemist](Medical/Chemist.md) | Pharmaceutical synthesis and medical supply |
+| [Psychologist](Medical/Psychologist.md) | Mental health assessment and treatment |
 
 ---
 
@@ -73,10 +73,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Research Director](ResearchDirector.md) | Science department head; R&D, Toxins, and Xenobiology oversight |
-| [Scientist](Scientist.md) | Research and Development, Toxins, Xenoarcheology, and Xenobiology |
-| [Roboticist](Roboticist.md) | Cyborg construction and maintenance, mech fabrication |
-| [Explorer](Explorer.md) | Off-station field work, fauna cataloguing, and salvage |
+| [Research Director](Science/ResearchDirector.md) | Science department head; R&D, Toxins, and Xenobiology oversight |
+| [Scientist](Science/Scientist.md) | Research and Development, Toxins, Xenoarcheology, and Xenobiology |
+| [Roboticist](Science/Roboticist.md) | Cyborg construction and maintenance, mech fabrication |
+| [Explorer](Science/Explorer.md) | Off-station field work, fauna cataloguing, and salvage |
 
 ---
 
@@ -84,9 +84,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Quartermaster](Quartermaster.md) | Supply chain management, requisition processing, and Cargo oversight |
-| [Cargo Technician](CargoTechnician.md) | Cargo Bay operations, deliveries, and MULE operation |
-| [Shaft Miner](ShaftMiner.md) | Asteroid ore extraction and material distribution |
+| [Quartermaster](Cargo/Quartermaster.md) | Supply chain management, requisition processing, and Cargo oversight |
+| [Cargo Technician](Cargo/CargoTechnician.md) | Cargo Bay operations, deliveries, and MULE operation |
+| [Shaft Miner](Cargo/ShaftMiner.md) | Asteroid ore extraction and material distribution |
 
 ---
 
@@ -94,13 +94,13 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Bartender](Bartender.md) | Bar operations and crew drink service |
-| [Chef](Chef.md) | Food preparation and kitchen management |
-| [Botanist](Botanist.md) | Hydroponics crop cultivation for kitchen and research |
-| [Janitor](Janitor.md) | Station cleaning, light replacement, and waste management |
-| [Librarian](Librarian.md) | Library management, book lending, and archive uploads |
-| [Chaplain](Chaplain.md) | Pastoral care, funerary rites, and religious services |
-| [Clown](Clown.md) | Station entertainment and crew morale |
+| [Bartender](Service/Bartender.md) | Bar operations and crew drink service |
+| [Chef](Service/Chef.md) | Food preparation and kitchen management |
+| [Botanist](Service/Botanist.md) | Hydroponics crop cultivation for kitchen and research |
+| [Janitor](Service/Janitor.md) | Station cleaning, light replacement, and waste management |
+| [Librarian](Service/Librarian.md) | Library management, book lending, and archive uploads |
+| [Chaplain](Service/Chaplain.md) | Pastoral care, funerary rites, and religious services |
+| [Clown](Service/Clown.md) | Station entertainment and crew morale |
 
 ---
 
@@ -108,9 +108,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Artificial Intelligence](AI.md) | Station AI; electrical system control and crew oversight |
-| [Cyborg](Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
-| [Maintenance Drone](MaintenanceDrone.md) | Autonomous structural upkeep unit |
+| [Artificial Intelligence](Silicon/AI.md) | Station AI; electrical system control and crew oversight |
+| [Cyborg](Silicon/Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
+| [Maintenance Drone](Silicon/MaintenanceDrone.md) | Autonomous structural upkeep unit |
 
 ---
 

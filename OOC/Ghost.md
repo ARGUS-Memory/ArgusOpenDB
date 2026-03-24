@@ -22,4 +22,4 @@ The primary recovery path for a deceased crew member is resleeving. When a valid
 
 ---
 
-*See also: [Medical Doctor](../Personnel/MedicalDoctor.md), [Emergency Response Team](../Personnel/EmergencyResponseTeam.md), [Systems/Medical/Cadavers](../Systems/Medical/Cadavers.md), [Systems/Medical/NCMD](../Systems/Medical/NCMD.md)*
+*See also: [Medical Doctor](../Personnel/Medical/MedicalDoctor.md), [Emergency Response Team](../Personnel/CentCom/EmergencyResponseTeam.md), [Systems/Medical/Cadavers](../Systems/Medical/Cadavers.md), [Systems/Medical/NCMD](../Systems/Medical/NCMD.md)*

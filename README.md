@@ -162,10 +162,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Colony Director](Personnel/ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
-| [Head of Personnel](Personnel/HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
-| [Command Secretary](Personnel/CommandSecretary.md) | Bridge administrative support; no enforcement authority |
-| [Internal Affairs](Personnel/InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
+| [Colony Director](Personnel/Command/ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
+| [Head of Personnel](Personnel/Command/HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
+| [Command Secretary](Personnel/Command/CommandSecretary.md) | Bridge administrative support; no enforcement authority |
+| [Internal Affairs](Personnel/Command/InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
 
 </details>
 
@@ -174,8 +174,8 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [CentCom Officer](Personnel/CentComOfficer.md) | Central Command representative; supersedes all station authority |
-| [Emergency Response Team](Personnel/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
+| [CentCom Officer](Personnel/CentCom/CentComOfficer.md) | Central Command representative; supersedes all station authority |
+| [Emergency Response Team](Personnel/CentCom/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
 
 </details>
 
@@ -184,10 +184,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Head of Security](Personnel/HeadOfSecurity.md) | Security department command; officer oversight, brig and armory coordination |
-| [Warden](Personnel/Warden.md) | Brig and armory management; prisoner welfare and SolGov notification |
-| [Security Officer](Personnel/SecurityOfficer.md) | Patrol, arrest, and brig procedure |
-| [Detective](Personnel/Detective.md) | Forensic investigation, evidence collection, and crime scene analysis |
+| [Head of Security](Personnel/Security/HeadOfSecurity.md) | Security department command; officer oversight, brig and armory coordination |
+| [Warden](Personnel/Security/Warden.md) | Brig and armory management; prisoner welfare and SolGov notification |
+| [Security Officer](Personnel/Security/SecurityOfficer.md) | Patrol, arrest, and brig procedure |
+| [Detective](Personnel/Security/Detective.md) | Forensic investigation, evidence collection, and crime scene analysis |
 
 </details>
 
@@ -196,9 +196,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Chief Engineer](Personnel/ChiefEngineer.md) | Engineering department head; engine, solar, and atmospheric oversight |
-| [Station Engineer](Personnel/StationEngineer.md) | Power generation, hull maintenance, construction, and breach response |
-| [Atmospheric Technician](Personnel/AtmosphericTechnician.md) | Life support maintenance, gas management, and fire and breach response |
+| [Chief Engineer](Personnel/Engineering/ChiefEngineer.md) | Engineering department head; engine, solar, and atmospheric oversight |
+| [Station Engineer](Personnel/Engineering/StationEngineer.md) | Power generation, hull maintenance, construction, and breach response |
+| [Atmospheric Technician](Personnel/Engineering/AtmosphericTechnician.md) | Life support maintenance, gas management, and fire and breach response |
 
 </details>
 
@@ -207,11 +207,11 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Chief Medical Officer](Personnel/ChiefMedicalOfficer.md) | Medical department head; patient care authority and staff oversight |
-| [Medical Doctor](Personnel/MedicalDoctor.md) | Diagnosis, treatment, surgery, and resleeving |
-| [Paramedic](Personnel/Paramedic.md) | Field triage and patient extraction to Medbay |
-| [Chemist](Personnel/Chemist.md) | Pharmaceutical synthesis and medical supply |
-| [Psychologist](Personnel/Psychologist.md) | Mental health assessment and treatment |
+| [Chief Medical Officer](Personnel/Medical/ChiefMedicalOfficer.md) | Medical department head; patient care authority and staff oversight |
+| [Medical Doctor](Personnel/Medical/MedicalDoctor.md) | Diagnosis, treatment, surgery, and resleeving |
+| [Paramedic](Personnel/Medical/Paramedic.md) | Field triage and patient extraction to Medbay |
+| [Chemist](Personnel/Medical/Chemist.md) | Pharmaceutical synthesis and medical supply |
+| [Psychologist](Personnel/Medical/Psychologist.md) | Mental health assessment and treatment |
 
 </details>
 
@@ -220,10 +220,10 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Research Director](Personnel/ResearchDirector.md) | Science department head; R&D, Toxins, and Xenobiology oversight |
-| [Scientist](Personnel/Scientist.md) | Research and Development, Toxins, Xenoarcheology, and Xenobiology |
-| [Roboticist](Personnel/Roboticist.md) | Cyborg construction and maintenance, mech fabrication |
-| [Explorer](Personnel/Explorer.md) | Off-station field work, fauna cataloguing, and salvage |
+| [Research Director](Personnel/Science/ResearchDirector.md) | Science department head; R&D, Toxins, and Xenobiology oversight |
+| [Scientist](Personnel/Science/Scientist.md) | Research and Development, Toxins, Xenoarcheology, and Xenobiology |
+| [Roboticist](Personnel/Science/Roboticist.md) | Cyborg construction and maintenance, mech fabrication |
+| [Explorer](Personnel/Science/Explorer.md) | Off-station field work, fauna cataloguing, and salvage |
 
 </details>
 
@@ -232,9 +232,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Quartermaster](Personnel/Quartermaster.md) | Supply chain management, requisition processing, and Cargo oversight |
-| [Cargo Technician](Personnel/CargoTechnician.md) | Cargo Bay operations, deliveries, and MULE operation |
-| [Shaft Miner](Personnel/ShaftMiner.md) | Asteroid ore extraction and material distribution |
+| [Quartermaster](Personnel/Cargo/Quartermaster.md) | Supply chain management, requisition processing, and Cargo oversight |
+| [Cargo Technician](Personnel/Cargo/CargoTechnician.md) | Cargo Bay operations, deliveries, and MULE operation |
+| [Shaft Miner](Personnel/Cargo/ShaftMiner.md) | Asteroid ore extraction and material distribution |
 
 </details>
 
@@ -243,13 +243,13 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Bartender](Personnel/Bartender.md) | Bar operations and crew drink service |
-| [Chef](Personnel/Chef.md) | Food preparation and kitchen management |
-| [Botanist](Personnel/Botanist.md) | Hydroponics crop cultivation for kitchen and research |
-| [Janitor](Personnel/Janitor.md) | Station cleaning, light replacement, and waste management |
-| [Librarian](Personnel/Librarian.md) | Library management, book lending, and archive uploads |
-| [Chaplain](Personnel/Chaplain.md) | Pastoral care, funerary rites, and religious services |
-| [Clown](Personnel/Clown.md) | Station entertainment and crew morale |
+| [Bartender](Personnel/Service/Bartender.md) | Bar operations and crew drink service |
+| [Chef](Personnel/Service/Chef.md) | Food preparation and kitchen management |
+| [Botanist](Personnel/Service/Botanist.md) | Hydroponics crop cultivation for kitchen and research |
+| [Janitor](Personnel/Service/Janitor.md) | Station cleaning, light replacement, and waste management |
+| [Librarian](Personnel/Service/Librarian.md) | Library management, book lending, and archive uploads |
+| [Chaplain](Personnel/Service/Chaplain.md) | Pastoral care, funerary rites, and religious services |
+| [Clown](Personnel/Service/Clown.md) | Station entertainment and crew morale |
 
 </details>
 
@@ -258,9 +258,9 @@ Role references and crew guides organized by department.
 
 | Document | Summary |
 |---|---|
-| [Artificial Intelligence](Personnel/AI.md) | Station AI; electrical system control and crew oversight |
-| [Cyborg](Personnel/Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
-| [Maintenance Drone](Personnel/MaintenanceDrone.md) | Autonomous structural upkeep unit |
+| [Artificial Intelligence](Personnel/Silicon/AI.md) | Station AI; electrical system control and crew oversight |
+| [Cyborg](Personnel/Silicon/Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
+| [Maintenance Drone](Personnel/Silicon/MaintenanceDrone.md) | Autonomous structural upkeep unit |
 
 </details>
 

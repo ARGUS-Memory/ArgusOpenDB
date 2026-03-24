@@ -26,4 +26,4 @@ The Intern reports to the Head of Personnel, who manages crew assignments and ac
 
 ---
 
-*See also: [Head of Personnel](HeadOfPersonnel.md)*
+*See also: [Head of Personnel](Command/HeadOfPersonnel.md)*
