@@ -125,4 +125,4 @@ When standard links cannot be restored, machines can be cross-linked outside the
 
 ---
 
-*See also: [Radio System](RadioSystem.md), [Standard Operating Procedure](StandardOperatingProcedure.md), [Hacking](../../Engineering/Hacking.md)*
+*See also: [Radio System](RadioSystem.md), [Standard Operating Procedure](StandardOperatingProcedure.md), [Hacking](../Engineering/Hacking.md)*

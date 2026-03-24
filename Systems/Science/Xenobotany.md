@@ -4,7 +4,7 @@
 
 The Xenoflora laboratory provides equipment for the study and genetic manipulation of plant species, including exotic off-station specimens. Xenobotanists work to identify the genetic structure of plant varieties, transfer specific traits between species, and produce novel organisms for research or distribution.
 
-Xenobotany shares the fundamental tray mechanics documented in [Hydroponics](../../Service/Hydroponics.md) but adds gene-level manipulation tools not available in the standard botany bay.
+Xenobotany shares the fundamental tray mechanics documented in [Hydroponics](../Service/Hydroponics.md) but adds gene-level manipulation tools not available in the standard botany bay.
 
 ---
 

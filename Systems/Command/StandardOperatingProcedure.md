@@ -342,7 +342,7 @@ Station crew may volunteer to join expeditions and are expected to follow Pathfi
 <details>
 <summary>Security</summary>
 
-See [Security Operations](SecurityOperations.md) for Security department procedures.
+See [Security Operations](../Security/SecurityOperations.md) for Security department procedures.
 
 **Permits**: Permits are valid only with the signatures of both the Head of Security and the Colony Director (or their respective substitutes), each signed by a different individual. No single crew member may approve their own permit. Permits are stamped with the appropriate department head stamps. Central Command signatures may bypass the dual-signature requirement.
 
@@ -352,7 +352,7 @@ Permits may be suspended if the permit holder violates their terms or is involve
 
 **Rules of Engagement**: Suspects are offered the opportunity to pay a fine before arrest for level 1 offenses. Armed suspects require backup to be called before engagement; if a weapon is drawn or has been used, force is authorized without prior verbal warning. Force escalation follows the threat level: improvised and basic melee weapons are met with shoot-to-stun; non-lethal weaponry is met with negotiation first, lethal force authorized if brandished or used; lethal weapons are met with lethal force if brandished or fired. Mechs resisting arrest authorize shoot-to-kill. Hulk-affected individuals outside Medbay or Research without advance CMO notification authorize shoot-to-kill. Hardsuit use to resist arrest authorizes shoot-to-disable. Code Delta non-compliance may be met with lethal force.
 
-**Criminal Processing**: See the full step-by-step arrest and processing procedure in [Security Operations](SecurityOperations.md).
+**Criminal Processing**: See the full step-by-step arrest and processing procedure in [Security Operations](../Security/SecurityOperations.md).
 
 **Prisoner Rights**: All prisoners are entitled to swift processing (no more than one quarter of their sentence used for processing while cooperative); medical examination and aid on request; access to an Internal Affairs Agent for legal defense; access to send a fax to Central Command; food and water; standard clothing; and reasonable cell accommodations.
 

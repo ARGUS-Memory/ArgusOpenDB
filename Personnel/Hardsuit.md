@@ -4,7 +4,7 @@
 
 Hardsuits, also designated Resource Integration Gear (RIG), are modular full-body pressure suits offering environmental protection and integrated tool modules beyond the capability of standard voidsuits. Each hardsuit consists of a control module worn on the back, with the chestpiece, helmet, gauntlets, and boots deploying from it on command.
 
-See also: [EVA](EVA.md) for softsuit and voidsuit operation.
+See also: [EVA](../Systems/Engineering/EVA.md) for softsuit and voidsuit operation.
 
 ---
 

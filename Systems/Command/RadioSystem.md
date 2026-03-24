@@ -102,4 +102,4 @@ The station AI has integrated radio access covering all departmental frequencies
 
 ---
 
-*See also: [Chain of Command](../Command/ChainOfCommand.md), [Standard Operating Procedure](StandardOperatingProcedure.md), [Paperwork System](Paperwork.md)*
+*See also: [Chain of Command](../../Personnel/ChainOfCommand.md), [Standard Operating Procedure](StandardOperatingProcedure.md), [Paperwork System](Paperwork.md)*

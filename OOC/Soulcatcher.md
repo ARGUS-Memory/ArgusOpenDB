@@ -56,7 +56,7 @@ Transfer and deletion require both the flag to be set and appropriate operator a
 
 The device holder can release a soul back to its original body at any time, provided the body is alive and accessible. The soul is transferred back and the body resumes normal function.
 
-If the original body has died or been destroyed while the soul was contained, standard resleeving options apply to provide the mind with a new body. See [Resleeving](../Medical/Resleeving.md).
+If the original body has died or been destroyed while the soul was contained, standard resleeving options apply to provide the mind with a new body. See [Resleeving](../Systems/Medical/Resleeving.md).
 
 ---
 
@@ -81,4 +81,4 @@ A soulcatcher can be linked to a predator's belly configuration. When linked, so
 
 ---
 
-*See also: [Vore Overview](VoreOverview.md), [Belly Configuration](BellyConfiguration.md), [Resleeving](../Medical/Resleeving.md), [NIF Hardware Overview](../Science/NIF.md)*
+*See also: [Vore Overview](VoreOverview.md), [Belly Configuration](BellyConfiguration.md), [Resleeving](../Systems/Medical/Resleeving.md), [NIF Hardware Overview](../Systems/Science/NIF.md)*

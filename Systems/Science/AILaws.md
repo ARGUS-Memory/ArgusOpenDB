@@ -70,4 +70,4 @@ Unauthorized tampering with the AI's law hardware is prohibited under Law 4 and 
 
 ---
 
-*See also: [Chain of Command](../../Personnel/ChainOfCommand.md), [Standard Operating Procedure](StandardOperatingProcedure.md)*
+*See also: [Chain of Command](../../Personnel/ChainOfCommand.md), [Standard Operating Procedure](../Command/StandardOperatingProcedure.md)*
