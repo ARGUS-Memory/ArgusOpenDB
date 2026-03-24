@@ -12,6 +12,7 @@ This section covers game mechanics that are server-specific extensions with no i
 | [Prey Experience](PreyExperience.md) | What prey experience inside, struggle and escape mechanics, and message system |
 | [Soulcatcher](Soulcatcher.md) | Soul capture, virtual interior, communication, and NIF integration |
 | [Resizing](Resizing.md) | Size tiers, mechanical effects, and swallowing eligibility |
+| [Vore Panel](VorePanel.md) | Panel layout, all user preferences, belly selection, and the inside panel controls |
 
 ---
 

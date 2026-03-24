@@ -35,6 +35,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Paperwork System](Systems/Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 | [Standard Operating Procedure](Systems/Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
 | [Radio System](Systems/Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
+| [Telecommunications](Systems/Command/Telecommunications.md) | Server room machines, signal chain, maintenance, and emergency linking procedures |
 
 </details>
 
@@ -355,6 +356,7 @@ Records on corporations, factions, and governing bodies operating in known space
 | Document | Summary |
 |---|---|
 | [Ghost](OOC/Ghost.md) | Deceased crew member observer state; capabilities, return paths, and resleeving |
+| [Vore Panel](OOC/VorePanel.md) | Panel layout, all user preferences, belly selection, and the inside panel controls |
 
 ---
 
