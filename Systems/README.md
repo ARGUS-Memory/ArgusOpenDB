@@ -11,6 +11,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 |---|---|
 | [Paperwork System](Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 | [Standard Operating Procedure](Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
+| [Radio System](Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
 
 </details>
 
@@ -23,6 +24,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Atmospherics](Engineering/Atmospherics.md) | Gas types, standard air composition, pressure and temperature hazards, fire mechanics |
 | [Atmospherics Equipment](Engineering/AtmosEquipment.md) | Pipe component reference, vent and scrubber configuration |
 | [Atmospheric Emergencies](Engineering/AtmosEmergencies.md) | Response procedures for fire, breach, toxic contamination, and gas mix failure |
+| [Power Grid](Engineering/PowerGrid.md) | APC architecture, power channels, SMES operation, and common failure scenarios |
+| [Construction](Engineering/Construction.md) | Machine assembly stages, wall and floor construction, airlock assembly, and window installation |
 
 </details>
 
@@ -55,6 +58,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [AI Malfunction Mode](Science/MalfunctionMode.md) | Rogue AI CPU economy, hardware options, and three ability trees |
 | [Cyborgs](Science/Cyborgs.md) | Module catalogue, standard equipment, wiring panel reference, and maintenance procedures |
 | [Mechs and Exosuits](Science/Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
+| [Personal AI](Science/PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
+| [Drones](Science/Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
+| [Xenobiology](Science/Xenobiology.md) | Slime colours, tiers, extract reactions, mutation system, and xenoarchaeology artefact catalogue |
 
 </details>
 
@@ -72,6 +78,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Resleeving](Medical/Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 | [Internal Organs](Medical/InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, and species variants |
 | [External Organs](Medical/ExternalOrgans.md) | Limbs, prosthetics, and organ removal and transplant surgery |
+| [Diseases](Medical/Diseases.md) | Disease mechanics and preset disease catalogue |
+| [Virology](Medical/Virology.md) | Advanced virus engineering: symptom system, four virus properties, symptom catalogue, and treatment compounds |
 
 </details>
 
@@ -83,6 +91,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Mail System](Cargo/MailSystem.md) | Package routing, manifest procedures, and delivery protocols |
 | [Supply Procedures](Cargo/SupplyProcedures.md) | Point generation, ordering workflow, shuttle cycle, MULEbot, and disposals mailing |
 | [Supply Manifest](Cargo/SupplyManifest.md) | Complete orderable pack catalogue across all supply categories |
+| [Mining](Cargo/Mining.md) | Ore types, mining equipment, alloy recipes, point system, and fulton extraction |
 
 </details>
 
@@ -92,6 +101,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Food and Drink](Service/FoodAndDrink.md) | Hunger system, all cooking appliances and recipes, drink production, condiments, and vending machines |
+| [Hydroponics](Service/Hydroponics.md) | Tray mechanics, seed traits, mutation system, plant catalogue, and beekeeping |
 
 </details>
 

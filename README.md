@@ -48,6 +48,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Atmospherics Equipment](Systems/Engineering/AtmosEquipment.md) | Pipe component reference, vent and scrubber configuration |
 | [Atmospheric Emergencies](Systems/Engineering/AtmosEmergencies.md) | Response procedures for fire, breach, toxic contamination, and gas mix failure |
 | [Power Grid](Systems/Engineering/PowerGrid.md) | APC architecture, power channels, SMES operation, and common failure scenarios |
+| [Construction](Systems/Engineering/Construction.md) | Machine assembly stages, wall and floor construction, airlock assembly, and window installation |
 
 </details>
 
@@ -83,6 +84,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Mechs and Exosuits](Systems/Science/Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
 | [Personal AI](Systems/Science/PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
 | [Drones](Systems/Science/Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
+| [Xenobiology](Systems/Science/Xenobiology.md) | Slime colours, tiers, extract reactions, mutation system, and xenoarchaeology artefact catalogue |
 
 </details>
 
@@ -100,7 +102,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Resleeving](Systems/Medical/Resleeving.md) | Resleeving procedure, post-resleeve protocol, carding, and body design |
 | [Internal Organs](Systems/Medical/InternalOrgans.md) | All internal organs, damage thresholds, failure symptoms, and species variants |
 | [External Organs](Systems/Medical/ExternalOrgans.md) | Limbs, prosthetics, and organ removal and transplant surgery |
-| [Diseases](Systems/Medical/Diseases.md) | Disease mechanics, preset disease catalogue, and the advanced virology system |
+| [Diseases](Systems/Medical/Diseases.md) | Disease mechanics and preset disease catalogue |
+| [Virology](Systems/Medical/Virology.md) | Advanced virus engineering: symptom system, four virus properties, symptom catalogue, and treatment compounds |
 
 </details>
 
@@ -112,6 +115,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Mail System](Systems/Cargo/MailSystem.md) | Package routing, manifest procedures, and delivery protocols |
 | [Supply Procedures](Systems/Cargo/SupplyProcedures.md) | Point generation, ordering workflow, shuttle cycle, MULEbot, and disposals mailing |
 | [Supply Manifest](Systems/Cargo/SupplyManifest.md) | Complete orderable pack catalogue across all supply categories |
+| [Mining](Systems/Cargo/Mining.md) | Ore types, mining equipment, alloy recipes, point system, and fulton extraction |
 
 </details>
 
@@ -121,6 +125,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Food and Drink](Systems/Service/FoodAndDrink.md) | Hunger system, all cooking appliances and recipes, drink production, condiments, and vending machines |
+| [Hydroponics](Systems/Service/Hydroponics.md) | Tray mechanics, seed traits, mutation system, plant catalogue, and beekeeping |
 
 </details>
 
