@@ -323,6 +323,10 @@ Background records on the setting, relevant history, and key locations in the op
 | [Moghes](History/Moghes.md) | Unathi homeworld; Uueoa-Esa system, geography, flora, and fauna |
 | [NLS Southern Cross](History/NLSSouthernCross.md) | Station structure, departmental layout, and operational overview |
 | [Phoron and Bluespace](History/PhoronAndBluespace.md) | Phoron properties, supermatter, and theoretical frameworks for bluespace |
+| [Xohox](History/Xohox.md) | Zaddat origin world; industrial collapse, the Darkening, and current uninhabitable status |
+| [Roanoke](History/Roanoke.md) | Alraune homeworld; high-pressure tropical environment, first contact conflict, and ceasefire |
+| [Varilak](History/Varilak.md) | Vasilissan homeworld; temperate jungle world, exceptional mineral wealth, and gem-religion culture |
+| [Vilous System](History/VilouSystem.md) | Sergal and nevrean home system; Tal, Gold Ring City, and the Eltus group cohabitation history |
 
 ---
 

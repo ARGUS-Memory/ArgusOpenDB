@@ -85,14 +85,79 @@ Proteans are rare across known space and carry an uncanny or dangerous reputatio
 
 ## Medical and Operational Notes
 
-**EMP vulnerability:** Standard EMPs are highly dangerous to proteans. Avoid EMP-based security or incapacitation measures in areas with protean crew. Military-grade EMP can destroy a protean outright.
+**EMP vulnerability:** Proteans take double damage from electromagnetic pulses, which also cause blindness and deafness on impact. EMP-based security measures in areas with protean crew are inadvisable. Avoid EMP grenades or pulse weapons against protean crew even at low settings.
 
-**Regeneration:** Minor damage is handled passively. Significant damage requires rest and resource consumption. Severe damage requires hibernation lasting days to weeks. Rapid reconstruction in minutes is possible under necessity but produces flawed bodies requiring proper reconstruction later.
+**Regeneration:** Passive healing consumes stored steel from the Refactory continuously. Full structural reconstruction requires adequate steel reserves; a complete rebuild costs substantial steel and takes approximately 40 seconds. Proteans that exhaust their steel supply cannot passively regenerate.
+
+**Temperature:** Proteans are not affected by cold environments. Heat, however, causes accelerated harm beginning at lower thresholds than most humanoids. Thermal and energy damage is significantly elevated relative to organic crew.
+
+**Vacuum and pressure:** Protean swarm structure is not disrupted by vacuum or low-pressure environments. Standard EVA hazard protocols do not apply to proteans.
 
 **Refactory protection:** Physical shock damage to the Refactory is possible even in normal station environments. Falls, impacts, and high-energy incidents should be followed by Refactory integrity assessment.
 
 **Cloning incompatibility:** Protean bodies cannot be produced by body-printing technology.
 
-**Standard injury treatment:** Proteans mimicking standard physical forms respond to conventional wound treatment. Structural damage is assessed per the specific body configuration. Toxin effects generally do not apply.
+**Standard injury treatment:** Proteans mimicking standard physical forms respond to conventional wound treatment. Structural damage is assessed per the specific body configuration. Toxin and viral effects do not apply.
 
-**Nutrition and materials:** Proteans consume raw materials for Refactory synthesis. Ensure adequate material access for extended operations.
+**Nutrition and materials:** On this station, proteans consume steel for Refactory synthesis. Ensure adequate steel access for extended operations; a protean without steel cannot regenerate damage.
+
+---
+
+<details>
+<summary><strong>Mechanics Reference (OOC)</strong></summary>
+
+> **Out-of-character notice:** This section describes in-game mechanical properties of the Protean species as implemented on CHOMPStation. It is intended as a player reference and should not inform in-character knowledge.
+
+### Damage Modifiers
+
+| Damage Type | Modifier | Notes |
+|---|---|---|
+| Brute | 0.8x | Reduced physical damage |
+| Burn | 1.5x | Elevated thermal and energy damage |
+| Oxygen | Immune | No oxygen requirement (`oxy_mod = 0`) |
+| Cold | Immune | Cold damage thresholds set to minimum possible |
+| EMP | 2.0x | Siemens coefficient 2; also causes blindness and deafness |
+| Radiation | Standard | No special modifier |
+| Toxin | Immune | No poison type; virus-immune flag |
+| Vacuum | Immune | Low-pressure hazard disabled (`hazard_low_pressure = -1`) |
+
+Proteans cannot enter critical condition (`crit_mod = 4`). They have passive dark vision (range 10).
+
+### Inherent Abilities
+
+| Ability | Function |
+|---|---|
+| **Toggle Blobform** | Switch between humanoid and amorphous blob form. Cannot activate while stunned or paralyzed. In blob form, passive steel consumption provides slow healing. |
+| **Ref - Single Limb** | Rebuild or replace one missing or damaged limb. Costs 2,000 steel per limb. |
+| **Total Reassembly** | Two options: Rebuild repairs all limbs and damage over 40 seconds, costs 10,000 steel. Reassemble restores saved appearance at no cost. |
+| **Ref - Store Metals** | Consume a held stack of steel and transfer it to Refactory storage. |
+| **Copy Form** | While aggressively grabbing a consenting target, copy their species appearance. Does not copy their name. |
+| **Change Species Fit** | Adjust body proportions to fit suits designed for a different species. |
+| **Modify Form - Hardsuit** | Retract mass into the protean RIG control module at will. |
+| **Latch / Unlatch Host** | Forcibly latch onto or detach from a target host. |
+| **Assimilate Host** | Devour a currently latched host. |
+| **Toggle Blobform (blob)** | Return to humanoid form from blob. |
+| **Hide Self** | Disperse blob mass into a thin veil; conceals presence and functions as a prey trap. |
+| **Change Volume** | Adjust body size. |
+| Shapeshifter selectors | Hair, eye color, skin color, gender, wings, tail, ears, secondary ears -- all adjustable in humanoid form. |
+
+### Steel Economy
+
+On CHOMPStation only steel is accepted by the Refactory (`PROTEAN_EDIBLE_MATERIALS = list(MAT_STEEL)`). Other materials present in the base code (uranium, gold, silver, metalhydrogen) and their associated passive bonuses are disabled on this server.
+
+| Operation | Steel Cost |
+|---|---|
+| Single limb regrowth | 2,000 (one sheet) |
+| Total Reassembly (full rebuild) | 10,000 (five sheets) |
+| Total Reassembly (appearance only) | 0 |
+| Passive healing per tick (blob form) | 100 (1/20 sheet) |
+
+### Death Behavior
+
+On death, a protean retreats into its hardsuit RIG control module. The protean is locked to the module and cannot act until revived. Revival requires the **Protean Reconstitutor** machine in the Science department, which requires the protean's positronic brain, Orchestrator, Refactory, and a supply of nanopaste to reconstitute a new body.
+
+### Species Notes
+
+Proteans are a **whitelisted species** and require approval before joining as one. Native language is Extended Algorithmic Language (EAL). Proteans move slower when carrying items (`item_slowdown_mod = 1.5`) and spawn with a P.A.N. card (Permit for Advanced Nanotechnology), 5 steel sheets, and a NIF implant.
+
+</details>
