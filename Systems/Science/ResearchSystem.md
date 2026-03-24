@@ -84,6 +84,8 @@ Scientists can queue nodes for automatic purchase. When the techweb accumulates 
 
 A small set of nodes are pre-researched at round start without cost. The Fundamental Science node is the anchor, and its unlocked designs include the R&D server, R&D console, destructive analyzer, and tech disk.
 
+For the complete node listing — every node with its cost, prerequisites, discount experiments, and key unlocks — see [Techweb Node Reference](Techweb.md).
+
 ---
 
 ## Fabrication

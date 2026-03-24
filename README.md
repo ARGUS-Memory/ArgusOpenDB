@@ -81,6 +81,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | Document | Summary |
 |---|---|
 | [Research &amp; Development System](Systems/Science/ResearchSystem.md) | R&amp;D console operation, technology unlocks, and research point allocation |
+| [Techweb Node Reference](Systems/Science/Techweb.md) | Complete listing of all techweb nodes: costs, prerequisites, discount experiments, and key unlocks |
 | [Nanite Implant Framework](Systems/Science/NIF.md) | Nanite implant types, programming interface, and deployment procedures |
 | [Borg Sleeper Systems](Systems/Science/BorgSleepers.md) | Belly-mounted sleeper and compactor types for compatible wideborg chassis |
 | [NanoTrasen Standard AI Law Set](Systems/Science/AILaws.md) | The four NT Default laws, governing principles, conflict resolution, and law modification layers |
