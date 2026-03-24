@@ -142,7 +142,7 @@ This step is optional; the assembly can proceed directly to completion.
 
 ### Standard Window
 
-Windows are placed as single-tile transparent panels. A placed window starts unanchored.
+Windows are placed as individual transparent panels occupying a single frame section. A placed window starts unanchored.
 
 - Screwdriver: Anchor the window to the floor section.
 - Wrench (unanchored): Dismantle the window, recovering the glass sheet.
@@ -159,9 +159,9 @@ Adding cable to a reinforced window installs electrochromic wiring, enabling opa
 
 A damaged window (health below maximum) can be repaired with a welder. This restores health without requiring deconstruction.
 
-### Full-Tile Windows (Large Panels)
+### Full-Section Windows (Large Panels)
 
-Full-tile window panels follow the same anchoring and reinforcement process but require four sheets of material to deconstruct rather than one.
+Large window panels follow the same anchoring and reinforcement process but require four sheets of material to deconstruct rather than one.
 
 ---
 

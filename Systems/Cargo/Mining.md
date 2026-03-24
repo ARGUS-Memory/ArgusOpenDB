@@ -12,22 +12,22 @@ The mining department extracts raw ore from asteroid and cave formations accessi
 
 Pickaxes are the standard handheld digging tool. Different grades trade raw durability for dig speed.
 
-| Pickaxe | Dig Speed | Notes |
+| Pickaxe | Dig Time | Notes |
 |---|---|---|
-| Standard Pickaxe | 36 deciseconds | Basic issue |
-| Silver Pickaxe | 27 deciseconds | Faster than standard |
-| Gold Pickaxe | 18 deciseconds | Faster than silver |
-| Diamond Pickaxe | 9 deciseconds | Fastest available |
+| Standard Pickaxe | ~3.5 seconds | Basic issue |
+| Silver Pickaxe | ~2.5 seconds | Faster than standard |
+| Gold Pickaxe | ~2 seconds | Faster than silver |
+| Diamond Pickaxe | ~1 second | Fastest available |
 
 ### Drills
 
 Drills dig at a moderate speed but can also excavate sand, which pickaxes cannot.
 
-| Drill | Dig Speed | Notes |
+| Drill | Dig Time | Notes |
 |---|---|---|
-| Mining Drill | 30 deciseconds | Can dig sand |
-| Advanced Drill | 27 deciseconds | Improved version |
-| Diamond Drill | 4 deciseconds | Fastest drill available; excavates all material |
+| Mining Drill | ~3 seconds | Can dig sand |
+| Advanced Drill | ~2.5 seconds | Improved version |
+| Diamond Drill | under 0.5 seconds | Fastest drill available; excavates all material |
 
 ### Kinetic Accelerator
 
@@ -47,7 +47,7 @@ Proto-kinetic weapons combine digging capability with melee combat utility. They
 |---|---|---|---|
 | Proto-Kinetic Crusher | 25 | 50 | Standard all-purpose model |
 | Proto-Kinetic Machete | 24 | 36 | Lighter alternative |
-| Proto-Kinetic Glaive | 20 | -- | Extended reach (2-tile range) |
+| Proto-Kinetic Glaive | 20 | -- | Extended reach across two body-lengths |
 | Proto-Kinetic Gauntlets | 35 | -- | Dual-wield configuration |
 | Proto-Kinetic Dagger | 18 | -- | Throwable; compact |
 

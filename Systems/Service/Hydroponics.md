@@ -12,7 +12,7 @@ Each tray maintains independent values for water level, nutrient level, weed pop
 
 ### Water and Nutrients
 
-Water is consumed each cycle according to the plant's water consumption trait. The default rate is 3 units per cycle; high-consumption plants can deplete a tray quickly. Nutrients are consumed at a lower rate (default 0.25 units per cycle). Both resources must be actively replenished; the tray has no automatic supply.
+Water is consumed each cycle according to the plant's water consumption trait. The standard rate is 3 units per cycle; high-consumption plants can deplete a tray quickly. Nutrients are consumed at a lower rate (0.25 units per cycle). Both resources must be actively replenished; the tray has no automatic supply.
 
 A plant deprived of either water or nutrients loses 1 to 3 health per cycle depending on severity of the deficit.
 
@@ -44,7 +44,7 @@ At harvest, the tray produces a number of units equal to the plant's yield trait
 
 ### Mutation Level
 
-Each tray tracks a mutation level. Mutagenic reagents raise this value; it decreases slightly each cycle on its own. When mutation level reaches 100, the plant may mutate into a related variant. Highly mutable plants (marked immutable = -1 in their genetic profile) have a 5% chance to mutate each cycle regardless of mutation level. Plants marked immutable = 1 will never mutate under any conditions.
+Each tray tracks a mutation level. Mutagenic reagents raise this value; it decreases slightly each cycle on its own. When the mutation level reaches its threshold, the plant may mutate into a related variant. Plants with an inherently unstable genetic profile have a small chance to mutate each cycle regardless of accumulated mutation level. Plants with a fully stabilised genetic structure will not mutate under any conditions.
 
 ---
 

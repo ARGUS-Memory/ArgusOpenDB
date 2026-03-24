@@ -26,7 +26,7 @@ Slimes can be fed monkey cubes, raw meat, or live prey. Grey slime cores injecte
 
 An adult slime with sufficient accumulated feeding will split into five offspring, deleting the parent. If a xenobiologist is controlling a slime at the time of reproduction, their control transfers to one of the offspring.
 
-Each reproduction event rolls against the slime's mutation chance (default 30%). On a successful roll, the offspring may mutate into one of the variants listed in the slime's mutation table. A rare secondary roll (approximately 3% chance at default mutation chance) produces a rainbow slime regardless of the parent's colour. On a failed roll, all offspring inherit the parent's colour.
+Each reproduction event has roughly a one-in-three chance of producing a mutation. On a successful roll, the offspring may mutate into one of the variants listed in the slime's mutation table. Rarely, one in approximately thirty reproduction events produces a rainbow slime regardless of the parent's colour. On a failed roll, all offspring inherit the parent's colour.
 
 Mutation chance is inherited by offspring and can be increased through the Red slime extract mutator compound.
 
@@ -112,7 +112,7 @@ When a slime is killed, its core can be extracted using a core extractor (yieldi
 | Silver | Phoron | Produces 5 units of liquid silver |
 | Dark Purple | Water | Produces 80 units of phoron |
 | Dark Blue | Phoron | Creates a severe area cold event (dangerous to most slimes) |
-| Red | Phoron | Produces mutator agent (+12% mutation chance on offspring) |
+| Red | Phoron | Produces mutator agent (significantly raises offspring mutation rate) |
 | Red | Blood | Enrages all visible slimes for 30 seconds |
 | Green | Phoron | Produces 5 units of liquid uranium |
 | Pink | Blood | Produces 30 units of haemostatic medication |

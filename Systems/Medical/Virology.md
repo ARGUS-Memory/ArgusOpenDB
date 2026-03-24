@@ -15,7 +15,7 @@ Every advanced virus carries four properties that govern its behaviour in a host
 | Property | Effect |
 |---|---|
 | **Stealth** | How detectable the virus is. High stealth hides the virus from medical scanners. Negative stealth produces obvious symptoms that are readily identified. |
-| **Resistance** | How difficult the virus is to treat. Higher resistance requires more specialised treatment compounds and reduces the chance of clearing each stage per cycle. |
+| **Resistance** | How difficult the virus is to treat. Higher resistance requires more specialised treatment compounds and slows the rate at which each stage clears. |
 | **Stage Speed** | How quickly the virus progresses through its stages. High stage speed accelerates symptom onset; negative values cause slow, chronic progression. |
 | **Transmission** | How readily the virus spreads between hosts. Low values limit spread to blood-to-blood contact; higher values add fluid exposure as a vector; very high values extend spread to direct physical contact. |
 
@@ -39,7 +39,7 @@ Symptoms are rated on a severity scale that governs research point value and the
 
 | Symptom | Stealth | Resistance | Stage Speed | Transmission | Primary Effect |
 |---|---|---|---|---|---|
-| Acute Respiratory Distress (Choking) | -2 | 0 | -1 | -2 | Oxygen loss per cycle; doubles at Transmission 8 |
+| Acute Respiratory Distress (Choking) | -2 | 0 | -1 | -2 | Continuous oxygen loss; rate doubles at Transmission 8 |
 | Necrotizing Fasciitis | -3 | -2 | 0 | -1 | Brute damage and bleeding wounds; severe bleeding at Transmission 8 |
 | Spontaneous Combustion | 1 | -1 | -2 | -1 | Ignites host; spreads via shed skin at Transmission 8 |
 | Photosensitivity | -2 | 2 | 1 | -4 | Fire damage scaling with ambient light level |
@@ -155,7 +155,7 @@ The treatment reagents available at each tier are listed below. All are drawn at
 
 ### Cure Rate
 
-The probability of clearing a stage per processing cycle scales inversely with total resistance. A virus at resistance 0 clears a stage at roughly 7.5% per cycle; a virus at resistance 10 clears at approximately 2.5% per cycle. The minimum cure chance is 5% regardless of resistance. The cure compound must be present in the host's bloodstream for each check.
+The probability of clearing a stage per cycle scales inversely with total resistance. A low-resistance virus clears readily when treated; a high-resistance strain clears slowly even with the correct compound present. The cure compound must be present in the host's bloodstream continuously for treatment to progress.
 
 ### Scanning and Identification
 
