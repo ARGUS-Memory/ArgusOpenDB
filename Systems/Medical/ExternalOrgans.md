@@ -2,7 +2,7 @@
 
 # External Organs
 
-Limbs, prosthetics, and external organ surgery. This document covers limb damage states, amputation thresholds, available prosthetic types, the surgical procedure for organ removal and transplant, and notes on non-standard species anatomy.
+Limbs, prosthetics, and species anatomy reference. This document covers limb damage states, amputation thresholds, available prosthetic types, eye damage, and notes on non-standard species anatomy. For organ removal, transplant, and limb reattachment procedures, see [Surgery](Surgery.md).
 
 ---
 
@@ -68,29 +68,9 @@ Standard medical treatment for eye damage is bruise packs applied to the head re
 
 ---
 
-## Organ Removal and Transplant Surgery
+## Organ and Limb Surgery
 
-### Removal Procedure
-
-1. Sedate the patient and apply anesthetic as needed.
-2. Make an incision with a scalpel on the relevant body region (torso, groin, or head depending on organ location).
-3. Retract the incision with a retractor.
-4. Clamp bleeding vessels with a hemostat.
-5. Use a scalpel to detach the organ (60 seconds). If this step fails, arterial bleeding occurs at the cut site.
-6. Remove the organ with a hemostat or fork (60 seconds). The organ is now available for storage or transplant.
-7. Close the incision with cautery.
-
-A kitchen fork can substitute for a hemostat in field conditions, though failure rates increase.
-
-### Transplant Procedure
-
-Follow the same incision and retraction steps on the recipient. Once the cavity is open, the organ is placed inside. The surgical system automatically checks compatibility.
-
-**Compatibility factors:** Blood type and species must both match for rejection-free transplant. An incompatible organ immediately begins accumulating germ levels, progressing through infection stages (see [Internal Organs](InternalOrgans.md) for rejection timetable). If no compatible donor organ is available, synthetic or robotic organ substitutes bypass the rejection system entirely.
-
-### Limb Reattachment
-
-A severed limb recovered in time can be reattached surgically. The limb must be in the patient's inventory or on an adjacent surface. Reattachment follows the same incision procedure; the limb is placed against the stump and sutured into place. Bone damage and any wound damage to the reattached limb persist and require separate treatment.
+Full procedures for organ removal, transplant, and limb reattachment are in [Surgery](Surgery.md). Transplant compatibility — blood type and species — is automatically checked by the surgical system; rejection progression for incompatible organs is covered in [Internal Organs](InternalOrgans.md). Synthetic and robotic organ substitutes bypass compatibility checks entirely.
 
 ---
 
