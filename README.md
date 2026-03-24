@@ -144,12 +144,126 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 
 ## Personnel Guides
 
-Field guides for crew unfamiliar with station procedures.
+Role references and crew guides organized by department.
+
+<details>
+<summary>Reference</summary>
 
 | Document | Summary |
 |---|---|
-| [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
 | [Chain of Command](Personnel/ChainOfCommand.md) | Command authority structure and departmental reporting hierarchy |
+| [NIF Operation and Software](Personnel/NIF_Operation.md) | Crew-facing guide to nanite implant use and software selection |
+
+</details>
+
+<details>
+<summary>Command</summary>
+
+| Document | Summary |
+|---|---|
+| [Colony Director](Personnel/ColonyDirector.md) | Station's highest ranking officer; all-access command authority and nuclear disk custody |
+| [CentCom Officer](Personnel/CentComOfficer.md) | Central Command representative; supersedes all station authority |
+| [Head of Personnel](Personnel/HeadOfPersonnel.md) | Crew assignments, ID access management, and acting Colony Director authority |
+| [Command Secretary](Personnel/CommandSecretary.md) | Bridge administrative support; no enforcement authority |
+| [Internal Affairs](Personnel/InternalAffairs.md) | Independent regulatory oversight; investigates command and crew misconduct |
+
+</details>
+
+<details>
+<summary>Security</summary>
+
+| Document | Summary |
+|---|---|
+| [Head of Security](Personnel/HeadOfSecurity.md) | Security department command; officer oversight, brig and armory coordination |
+| [Warden](Personnel/Warden.md) | Brig and armory management; prisoner welfare and SolGov notification |
+| [Security Officer](Personnel/SecurityOfficer.md) | Patrol, arrest, and brig procedure |
+| [Detective](Personnel/Detective.md) | Forensic investigation, evidence collection, and crime scene analysis |
+
+</details>
+
+<details>
+<summary>Engineering</summary>
+
+| Document | Summary |
+|---|---|
+| [Chief Engineer](Personnel/ChiefEngineer.md) | Engineering department head; engine, solar, and atmospheric oversight |
+| [Station Engineer](Personnel/StationEngineer.md) | Power generation, hull maintenance, construction, and breach response |
+| [Atmospheric Technician](Personnel/AtmosphericTechnician.md) | Life support maintenance, gas management, and fire and breach response |
+
+</details>
+
+<details>
+<summary>Medical</summary>
+
+| Document | Summary |
+|---|---|
+| [Chief Medical Officer](Personnel/ChiefMedicalOfficer.md) | Medical department head; patient care authority and staff oversight |
+| [Medical Doctor](Personnel/MedicalDoctor.md) | Diagnosis, treatment, surgery, and resleeving |
+| [Paramedic](Personnel/Paramedic.md) | Field triage and patient extraction to Medbay |
+| [Chemist](Personnel/Chemist.md) | Pharmaceutical synthesis and medical supply |
+| [Psychologist](Personnel/Psychologist.md) | Mental health assessment and treatment |
+
+</details>
+
+<details>
+<summary>Science</summary>
+
+| Document | Summary |
+|---|---|
+| [Research Director](Personnel/ResearchDirector.md) | Science department head; R&D, Toxins, and Xenobiology oversight |
+| [Scientist](Personnel/Scientist.md) | Research and Development, Toxins, Xenoarcheology, and Xenobiology |
+| [Roboticist](Personnel/Roboticist.md) | Cyborg construction and maintenance, mech fabrication |
+| [Explorer](Personnel/Explorer.md) | Off-station field work, fauna cataloguing, and salvage |
+
+</details>
+
+<details>
+<summary>Cargo</summary>
+
+| Document | Summary |
+|---|---|
+| [Quartermaster](Personnel/Quartermaster.md) | Supply chain management, requisition processing, and Cargo oversight |
+| [Cargo Technician](Personnel/CargoTechnician.md) | Cargo Bay operations, deliveries, and MULE operation |
+| [Shaft Miner](Personnel/ShaftMiner.md) | Asteroid ore extraction and material distribution |
+
+</details>
+
+<details>
+<summary>Service</summary>
+
+| Document | Summary |
+|---|---|
+| [Bartender](Personnel/Bartender.md) | Bar operations and crew drink service |
+| [Chef](Personnel/Chef.md) | Food preparation and kitchen management |
+| [Botanist](Personnel/Botanist.md) | Hydroponics crop cultivation for kitchen and research |
+| [Janitor](Personnel/Janitor.md) | Station cleaning, light replacement, and waste management |
+| [Librarian](Personnel/Librarian.md) | Library management, book lending, and archive uploads |
+| [Chaplain](Personnel/Chaplain.md) | Pastoral care, funerary rites, and religious services |
+| [Clown](Personnel/Clown.md) | Station entertainment and crew morale |
+| [Intern](Personnel/Intern.md) | Unassigned crew member available to assist any department |
+
+</details>
+
+<details>
+<summary>Silicon and Synthetic</summary>
+
+| Document | Summary |
+|---|---|
+| [Artificial Intelligence](Personnel/AI.md) | Station AI; electrical system control and crew oversight |
+| [Cyborg](Personnel/Cyborg.md) | Synthetic crew operating under AI law set; multiple role modules |
+| [Maintenance Drone](Personnel/MaintenanceDrone.md) | Autonomous structural upkeep unit |
+| [Ghost](Personnel/Ghost.md) | Deceased crew member state pending resleeving |
+
+</details>
+
+<details>
+<summary>Special Response</summary>
+
+| Document | Summary |
+|---|---|
+| [Emergency Response Team](Personnel/EmergencyResponseTeam.md) | Central Command rapid-response units; Commander, Security, Engineering, Medical specializations |
+
+</details>
 
 ---
 
@@ -197,7 +311,15 @@ Background records on the setting, relevant history, and key locations in the op
 | Document | Summary |
 |---|---|
 | [Known Space](History/KnownSpace.md) | Era, species, trans-stellar corporations, and governing bodies across known space |
+| [Timeline](History/Timeline.md) | Key events from early spaceflight through the current operational era |
+| [FTL Travel](History/FTLTravel.md) | Bluespace drive types, routing logistics, hazards, and vessel registration |
+| [Ship Naming](History/ShipNaming.md) | SolGov prefix conventions, vessel naming rules, and registration numbers |
+| [Languages](History/Languages.md) | Reference for human, species, and synthetic languages encountered in known space |
 | [Vir](History/Vir.md) | System history, government, NanoTrasen presence, and notable locations |
+| [Sif](History/Sif.md) | Capital planet of Vir; demographics, geography, and VGA governance |
+| [Vir Interstellar Spaceport](History/VirSpaceport.md) | VGA-owned orbital transit hub in Sif orbit; NT holdings and evacuation routing |
+| [NCS Northern Star](History/NCSNorthernStar.md) | NanoTrasen asteroid colony in the Kara belt; history, structure, and operations |
+| [Moghes](History/Moghes.md) | Unathi homeworld; Uueoa-Esa system, geography, flora, and fauna |
 | [NLS Southern Cross](History/NLSSouthernCross.md) | Station structure, departmental layout, and operational overview |
 | [Phoron and Bluespace](History/PhoronAndBluespace.md) | Phoron properties, supermatter, and theoretical frameworks for bluespace |
 
