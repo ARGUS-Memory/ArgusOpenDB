@@ -36,6 +36,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Standard Operating Procedure](Systems/Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
 | [Radio System](Systems/Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
 | [Telecommunications](Systems/Command/Telecommunications.md) | Server room machines, signal chain, maintenance, and emergency linking procedures |
+| [Random Events](Systems/Command/RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 </details>
 
@@ -56,6 +57,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Tesla Engine](Systems/Engineering/TeslaEngine.md) | Energy ball mechanics, tesla coils and grounding rods, setup steps, and TESLOOSE response |
 | [R-UST Fusion Reactor](Systems/Engineering/FusionReactor.md) | Fusion core parameters, gyrotron operation, fuel injectors, startup and shutdown procedures, and reaction chemistry |
 | [Wiring Reference](Systems/Engineering/Hacking.md) | Airlock, APC, atmospheric alarm, camera, PA, SMES, and minor hackable wire functions |
+| [Hardsuits](Systems/Engineering/Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 </details>
 
@@ -357,6 +359,13 @@ Records on corporations, factions, and governing bodies operating in known space
 |---|---|
 | [Ghost](OOC/Ghost.md) | Deceased crew member observer state; capabilities, return paths, and resleeving |
 | [Vore Panel](OOC/VorePanel.md) | Panel layout, all user preferences, belly selection, and the inside panel controls |
+| [Character Creation](OOC/CharacterCreation.md) | Building a character: philosophy, naming, skills system, flavor text, and records |
+| [Scene Roleplay](OOC/SceneRoleplay.md) | Finding and running vore and RP scenes; etiquette and OOC communication |
+| [Permanent Death](OOC/PermanentDeath.md) | When permadeath applies, character bans, and temporary kill rules |
+| [The Basics](OOC/TheBasics.md) | BYOND setup, character creation UI, interface overview, controls, and new-player tips |
+| [A Crash Course in Roleplaying](OOC/CrashCourseRP.md) | IC/OOC discipline, metagaming, getting in character, and antagonist guidance |
+| [Commands and Shortcuts](OOC/Commands.md) | Full verb reference, radio channels, and keyboard shortcut tables |
+| [Terminology](OOC/Terminology.md) | Glossary of SS13 and CHOMPstation-specific terms |
 
 ---
 

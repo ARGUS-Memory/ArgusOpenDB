@@ -124,3 +124,43 @@ Zaddat are also sensitive to nitrogen atmospheric content; unfiltered nitrogen-a
 Zaddat spawn with a pressure-resistant Shroud suit and gas mask veil. Loss or damage to either item is a medical emergency. Spare Shroud components should be stocked in medical facilities serving zaddat crew.
 
 No appendix is present. All other standard internal organs are present.
+
+---
+
+## Roleplay Notes
+
+> **Out-of-character notice:** The following section describes player guidance for portraying zaddat characters. This information is not known to characters in-world.
+
+### Core Personality
+
+Zaddat are vain, composed, and bleakly competitive. They view constant social climbing as natural and correct. Mutualistic cooperation is regarded as naive; working within existing power structures is the proper path to advancement. They are widely perceived as sycophants, because they are.
+
+At the same time, zaddat tend to see people not just as individuals but as extensions of their organizations. A zaddat might genuinely expect to reach a CEO by speaking to a junior employee, because that is how zaddat hierarchies function. Human individualism reads as strange and foreign to most zaddat.
+
+### Speech and Mannerism
+
+Zaddat pride themselves on their command of foreign languages. They speak with precision and affected formality. Their Galactic Common tends toward slightly archaic usage, overcorrected in some individuals into cutting-edge neologisms depending on which learning materials they studied. Either way, there is a self-conscious quality to how zaddat speak -- they are always aware of the impression they are making.
+
+Physical movement is conservative and deliberate. Zaddat seem stiff and slightly uncomfortable at all times. Key gestures: touching a hand to the face is a genuine expression of respect; a slow deliberate pointing-forward is a serious insult. Under stress, zaddat chirp audibly -- a cricket-like sound that they rarely manage to suppress entirely.
+
+### Building a Zaddat
+
+**Aesthetics** -- All zaddat look broadly similar, and the Shroud disguises most of the body. Customization is primarily through accessories. Fashion shifts rapidly; capes are currently in, bumper stickers are considered extremely crude.
+
+**Employment record** -- Most simply reads: "[Apprentice/Journeyman/Master] in [Profession] Guild" with a short zaddat guild name. Some NanoTrasen intake data may be attached.
+
+**Security record** -- Zaddat are poorly vetted and poorly trusted. Prior incidents are common.
+
+**Medical record** -- Many zaddat are not approved for NanoTrasen resleeving due to contractor status. Many specify cyborgification as a backup procedure due to the extreme technical difficulty of resleeving a zaddat body.
+
+### Interspecies Attitudes (Player Notes)
+
+**Unathi** -- Unity-following unathi are social superiors; zaddat defer to them and seek their favor. Heretic unathi are regarded with complicated deference. Unbound unathi are a genuine source of fear.
+
+**Humans** -- Generally viewed as generous to a fault and commercially useful. Zaddat consider humans gullible but valuable economic partners.
+
+**Skrell** -- Kulturally despised for terraforming candidate homeworlds out of zaddat reach. Skrell find this amusing, which makes it worse.
+
+**Positronics / Synthetics** -- Regarded as labor competitors taking contracts that zaddat need. Tension is common and often polite.
+
+The core tensions worth playing: wounded pride over the species' situation, quiet desperation to find a homeworld, the perpetual wearing of social masks both literal and figurative.

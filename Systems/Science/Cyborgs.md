@@ -252,4 +252,30 @@ Security personnel encountering an emagged cyborg should treat it as a potential
 
 ---
 
+---
+
+## NanoTrasen Cyborgification Regulations
+
+The following regulations govern both voluntary and involuntary cyborgification procedures on NanoTrasen stations. The procedure itself (Regulation 658) is identical for both cases.
+
+**Regulation 657 -- Cyborgification of Deceased Crew**
+Any crew member aboard a registered NanoTrasen station may consent in advance to cyborgification upon death. The Roboticist (or a crew member trained in the procedure if no Roboticist is available) records the crew member's signed consent. The Colony Director retains the authority to refuse the procedure for health, security, or operational reasons. If required by the Colony Director, a deceased crew member may be cyborgified without prior signed consent.
+
+**Regulation 1034 -- Cyborgification of Living Crew**
+Crew members may consent to live cyborgification. This requires signed consent from both the recipient and the Colony Director (or highest available authority), plus a stamp from the performing crew member. The Colony Director may refuse for health, security, or operational reasons.
+
+**Regulation 658 -- Cyborgification Procedure**
+The procedure is performed by the Roboticist or a trained substitute. The subject is placed on the surgical table. A scalpel makes the initial incision, followed by a circular saw to fully open the cranium. A further scalpel incision severs the brain from the spinal cord, followed by circular saw removal. The brain is attached immediately to an available Cyborg chassis's synaptic receptors. Gloves are required throughout. Sedatives are required for any living subject.
+
+**Regulation 1176 -- AI Assimilation**
+Crew members may consent to Artificial Intelligence Assimilation (AIA) either while living or posthumously. Procedure and consent requirements are identical to live cyborgification (Regulation 1034). The procedure itself follows Regulation 658.
+
+**Regulation 99719 -- AI Upload Access**
+During Code Blue or higher alert, no Head of Staff may enter the AI Upload or AI Core unless accompanied by at least one other Head of Staff, or at minimum one Security Officer if no other heads are available. The AI Upload and AI Core are off-limits to all other personnel under these conditions. During standard alert, two heads of staff are recommended but not required.
+
+**Regulation 144 -- Power Usage**
+During standard operation, crew are expected to switch off lighting in unoccupied rooms using the room light switch, not the APC. Main corridors, hallways, and secure areas remain lit at all times. During power-limited situations, engineers and the AI may extend these restrictions to unused secondary areas.
+
+---
+
 *See also: [Borg Sleeper Systems](BorgSleepers.md), [NanoTrasen Standard AI Law Set](AILaws.md), [NIF Hardware Overview](NIF.md)*

@@ -8,6 +8,7 @@
 | [Standard Operating Procedure](StandardOperatingProcedure.md) | Employee rights, alert levels, crisis protocols, and departmental SOP |
 | [Radio System](RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
 | [Telecommunications](Telecommunications.md) | Server room machines, signal chain, maintenance, and emergency linking procedures |
+| [Random Events](RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 ---
 

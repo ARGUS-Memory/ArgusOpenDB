@@ -16,6 +16,7 @@
 | [Tesla Engine](TeslaEngine.md) | Energy ball mechanics, tesla coils and grounding rods, setup steps, and TESLOOSE response |
 | [R-UST Fusion Reactor](FusionReactor.md) | Fusion core parameters, gyrotron operation, fuel injectors, startup and shutdown procedures, and reaction chemistry |
 | [Wiring Reference](Hacking.md) | Airlock, APC, atmospheric alarm, camera, PA, SMES, and minor hackable wire functions |
+| [Hardsuits](Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 ---
 

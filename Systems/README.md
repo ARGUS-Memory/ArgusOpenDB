@@ -12,6 +12,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Paperwork System](Command/Paperwork.md) | Form types, routing procedures, and official record standards |
 | [Standard Operating Procedure](Command/StandardOperatingProcedure.md) | Station-wide operating policy: employee rights, alert levels, crisis response, and departmental protocols |
 | [Radio System](Command/RadioSystem.md) | Frequency reference, encryption keys by job, headset types, and intercom operation |
+| [Telecommunications](Command/Telecommunications.md) | Server room machines, signal chain, maintenance, and emergency linking procedures |
+| [Random Events](Command/RandomEvents.md) | Event tiers (Mundane, Moderate, Major) and full event catalogue |
 
 </details>
 
@@ -32,6 +34,7 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Tesla Engine](Engineering/TeslaEngine.md) | Energy ball mechanics, tesla coils and grounding rods, setup steps, and TESLOOSE response |
 | [R-UST Fusion Reactor](Engineering/FusionReactor.md) | Fusion core parameters, gyrotron operation, fuel injectors, startup and shutdown procedures, and reaction chemistry |
 | [Wiring Reference](Engineering/Hacking.md) | Airlock, APC, atmospheric alarm, camera, PA, SMES, and minor hackable wire functions |
+| [Hardsuits](Engineering/Hardsuit.md) | RIG suit catalogue, operation interface, module reference, and maintenance |
 
 </details>
 
