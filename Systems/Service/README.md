@@ -11,3 +11,4 @@ Documentation for station service operations: food production, bartending, and r
 | Document | Summary |
 |---|---|
 | [Food and Drink](FoodAndDrink.md) | Hunger system, all cooking appliances and recipes, drink production, condiments, and vending machines |
+| [Hydroponics](Hydroponics.md) | Tray mechanics, water and nutrient management, seed traits, mutation system, plant catalogue, and beekeeping |

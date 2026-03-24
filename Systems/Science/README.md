@@ -15,6 +15,7 @@
 | [Mechs and Exosuits](Mechs.md) | Chassis catalogue with stats, operation, equipment slots, and construction |
 | [Personal AI](PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
 | [Drones](Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
+| [Xenobiology](Xenobiology.md) | Slime colours, tiers, extract reactions, mutation system, and xenoarchaeology dig sites and artefact catalogue |
 
 ---
 
