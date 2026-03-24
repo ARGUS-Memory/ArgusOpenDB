@@ -97,7 +97,7 @@ Proteans are rare across known space and carry an uncanny or dangerous reputatio
 
 **Cloning incompatibility:** Protean bodies cannot be produced by body-printing technology.
 
-**Standard injury treatment:** Proteans mimicking standard physical forms respond to conventional wound treatment. Structural damage is assessed per the specific body configuration. Toxin and viral effects do not apply.
+**Injury treatment:** Standard medical supplies have no effect on protean physiology. Bandages, bruise packs, burn kits, and similar treatments do not function on nanoswarm tissue. The only effective damage treatment is steel: the Refactory converts stored steel into replacement nanites continuously, and active limb reconstruction is performed by the protean directly. Medical staff responding to a protean injury should ensure the patient has access to steel and, in severe cases, facilitate transport to the Protean Reconstitutor. Toxin and viral treatments are similarly without effect.
 
 **Nutrition and materials:** On this station, proteans consume steel for Refactory synthesis. Ensure adequate steel access for extended operations; a protean without steel cannot regenerate damage.
 
