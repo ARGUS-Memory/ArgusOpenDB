@@ -49,6 +49,12 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Atmospheric Emergencies](Systems/Engineering/AtmosEmergencies.md) | Response procedures for fire, breach, toxic contamination, and gas mix failure |
 | [Power Grid](Systems/Engineering/PowerGrid.md) | APC architecture, power channels, SMES operation, and common failure scenarios |
 | [Construction](Systems/Engineering/Construction.md) | Machine assembly stages, wall and floor construction, airlock assembly, and window installation |
+| [EVA](Systems/Engineering/EVA.md) | Softsuit and voidsuit operation, hardsuit overview, jetpacks, suit cycler, and airlock cycling procedure |
+| [SMES](Systems/Engineering/SMES.md) | Configuration, construction, upgrading, deconstruction, wiring panel reference, and failure modes |
+| [Solar Arrays](Systems/Engineering/Solars.md) | Four array locations, wiring setup, calibration, SMES settings, and maintenance procedures |
+| [Tesla Engine](Systems/Engineering/TeslaEngine.md) | Energy ball mechanics, tesla coils and grounding rods, setup steps, and TESLOOSE response |
+| [R-UST Fusion Reactor](Systems/Engineering/FusionReactor.md) | Fusion core parameters, gyrotron operation, fuel injectors, startup and shutdown procedures, and reaction chemistry |
+| [Wiring Reference](Systems/Engineering/Hacking.md) | Airlock, APC, atmospheric alarm, camera, PA, SMES, and minor hackable wire functions |
 
 </details>
 
@@ -85,6 +91,9 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [Personal AI](Systems/Science/PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
 | [Drones](Systems/Science/Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
 | [Xenobiology](Systems/Science/Xenobiology.md) | Slime colours, tiers, extract reactions, mutation system, and xenoarchaeology artefact catalogue |
+| [Xenobotany](Systems/Science/Xenobotany.md) | Plant gene families, lysis-isolation centrifuge, bioballistic delivery system, gene identification, and dangerous plant management |
+| [Toxins Research](Systems/Science/Toxins.md) | Phoron combustion principle, mixing chamber operation, heated phoron procedure, assembly, and trigger types |
+| [Particle Accelerator](Systems/Science/ParticleAccelerator.md) | Morphium synthesis and supermatter synthesis procedures |
 
 </details>
 
@@ -104,6 +113,8 @@ Technical documentation on station infrastructure and machinery, indexed by depa
 | [External Organs](Systems/Medical/ExternalOrgans.md) | Limbs, prosthetics, and organ removal and transplant surgery |
 | [Diseases](Systems/Medical/Diseases.md) | Disease mechanics and preset disease catalogue |
 | [Virology](Systems/Medical/Virology.md) | Advanced virus engineering: symptom system, four virus properties, symptom catalogue, and treatment compounds |
+| [Cadavers](Systems/Medical/Cadavers.md) | Body handling, autopsy procedure, cause-of-death assessment, and report documentation |
+| [Non-Contiguous Memory Disorder](Systems/Medical/NCMD.md) | NCMD mechanism, symptom catalogue, patient communication guidelines, and legal admissibility of testimony |
 
 </details>
 

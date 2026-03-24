@@ -15,6 +15,8 @@
 | [External Organs](ExternalOrgans.md) | Limbs, prosthetics, amputation, eye damage, and organ removal and transplant surgery |
 | [Diseases](Diseases.md) | Disease mechanics and preset disease catalogue |
 | [Virology](Virology.md) | Advanced virus engineering: symptom system, four virus properties, symptom catalogue, and treatment compounds |
+| [Cadavers](Cadavers.md) | Body handling, autopsy procedure, cause-of-death assessment, and report documentation |
+| [Non-Contiguous Memory Disorder](NCMD.md) | NCMD mechanism, symptom catalogue, patient communication guidelines, and legal admissibility of testimony |
 
 ---
 

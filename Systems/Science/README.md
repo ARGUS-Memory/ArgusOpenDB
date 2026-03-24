@@ -16,6 +16,9 @@
 | [Personal AI](PAI.md) | pAI card components, RAM budget, full software catalogue, and chassis options |
 | [Drones](Drones.md) | Maintenance, construction, and mining drone types, laws, shells, and reboot mechanics |
 | [Xenobiology](Xenobiology.md) | Slime colours, tiers, extract reactions, mutation system, and xenoarchaeology dig sites and artefact catalogue |
+| [Xenobotany](Xenobotany.md) | Plant gene families, lysis-isolation centrifuge, bioballistic delivery system, gene identification, and dangerous plant management |
+| [Toxins Research](Toxins.md) | Phoron combustion principle, mixing chamber operation, heated phoron procedure, assembly, and trigger types |
+| [Particle Accelerator](ParticleAccelerator.md) | Morphium synthesis and supermatter synthesis procedures |
 
 ---
 
